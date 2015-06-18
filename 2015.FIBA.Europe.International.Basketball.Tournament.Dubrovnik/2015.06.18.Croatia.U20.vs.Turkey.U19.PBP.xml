@@ -1,0 +1,345 @@
+<FE>
+  <HEADER competition="International Basketball Tournament Dubrovnik" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/5422498C-C013-4808-BD28-B73AAFD84A79.jpg" duration="46.8157">
+    <TEAM name="Croatia U20" logo="" pts="60" fouls="9" />
+    <TEAM name="Turkey U19" logo="" pts="65" fouls="5" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="20" scoreB="13" />
+      <QUARTER n="2" scoreA="19" scoreB="20" />
+      <QUARTER n="3" scoreA="12" scoreB="16" />
+      <QUARTER n="4" scoreA="9" scoreB="16" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="D. BOŠNJAK [CRO] - 6 turnovers" duration="15.5933">
+    <ITEM text="D. BOŠNJAK [CRO] - 6 turnovers" />
+  </TICKER>
+  <OVERVIEW duration="62.431">
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68536" GameCode="" TeamA="Greece U19" ScoreA="80" TeamB="Australia U19" ScoreB="67" StartTime="17:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68537" GameCode="" TeamA="Croatia U20" ScoreA="60" TeamB="Turkey U19" ScoreB="65" StartTime="19:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68419" GameCode="" TeamA="KK ZAGREB" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ PRIMOŠTEN" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68420" GameCode="" TeamA="KK VUČIĆI WOLFSCLUB" ScoreA="0" TeamB="KK RUDEŠ" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68421" GameCode="" TeamA="KK ZAPAD" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68422" GameCode="" TeamA="ŠK ZADAR" ScoreA="0" TeamB="KK SESVETE" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68423" GameCode="" TeamA="KK VINDIJA" ScoreA="0" TeamB="KK ZAGREB" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68424" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK CEDEVITA II" ScoreB="0" StartTime="10:30:00" LogoB="http://live.fibaeurope.com/www/gallery/DDA37C2A-CCB6-4CB7-A20E-DC44CDDFC40F.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68425" GameCode="" TeamA="KK BOROVO" ScoreA="0" TeamB="ŠK ZADAR" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68426" GameCode="" TeamA="KK ČAKOVEC" ScoreA="0" TeamB="KK CRIKVENICA" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" LogoB="http://live.fibaeurope.com/www/gallery/E589009C-4D20-4EDB-92B0-AA2D1D3ED750.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68427" GameCode="" TeamA="KK SLAVONSKI BROD 1946" ScoreA="0" TeamB="KK VINDIJA" ScoreB="0" StartTime="12:20:00" LogoB="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68428" GameCode="" TeamA="KK RI BASKET" ScoreA="0" TeamB="KK ZAPAD" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9B47AB14-346D-48D1-8BCB-2B38D00952C5.jpg" Quarter="0" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="124.7737">
+    <LINE num="313" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="312" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="311" text="[CRO] K. ŽGANEC - free throw made" team="1" time="00:21" scoreA="60" scoreB="65" />
+    <LINE num="310" text="[TUR] Y. ARSLAN - 3pt jump shot missed. T. GABRIĆ - defensive rebound" team="2" time="00:26" />
+    <LINE num="309" text="[CRO] D. BOŠNJAK - 3pt jump shot missed. T. GECIM - defensive rebound" team="1" time="00:36" />
+    <LINE num="308" text="[TUR] I. UGURLU - 3pt jump shot made (11 Pts)" team="2" time="00:43" scoreA="59" scoreB="65" />
+    <LINE num="307" text="[TUR] Substitution - D. OZDEMIROGLU OUT" team="2" time="00:43" deleted="1" />
+    <LINE num="306" text="[CRO] K. ŽGANEC - free throw made" team="1" time="00:43" scoreA="59" scoreB="62" />
+    <LINE num="305" text="[CRO] D. BOŠNJAK - 3pt jump shot missed. K. ŽGANEC - offensive rebound" team="1" time="00:43" />
+    <LINE num="304" text="[CRO] Timeout" team="1" time="00:59" />
+    <LINE num="303" text="[TUR] D. OZDEMIROGLU - 2pt lay-up made (12 Pts)" team="2" time="01:01" scoreA="58" scoreB="62" />
+    <LINE num="302" text="[TUR] T. GECIM - 3pt jump shot missed. D. OZDEMIROGLU - offensive rebound" team="2" time="01:04" />
+    <LINE num="301" text="[CRO] A. ĆORIĆ - 3pt jump shot missed. Y. ARSLAN - defensive rebound" team="1" time="01:32" />
+    <LINE num="300" text="[CRO] Substitution - J. PERIĆ OUT, A. ĆORIĆ IN" team="1" time="02:00" />
+    <LINE num="299" text="[TUR] Substitution - M. ALEMDAROGLU OUT" team="2" time="02:00" deleted="1" />
+    <LINE num="298" text="[TUR] Y. ARSLAN - free throw made" team="2" time="02:19" scoreA="58" scoreB="60" />
+    <LINE num="297" text="[TUR] Y. ARSLAN - free throw missed" team="2" time="02:19" />
+    <LINE num="296" text="[CRO] J. GULAM - personal shooting foul (3 PF, 9th team foul). 2 free throws awarded" team="1" time="02:19" />
+    <LINE num="295" text="[CRO] J. PERIĆ - 2pt jump shot missed. D. OZDEMIROGLU - defensive rebound" team="1" time="02:22" />
+    <LINE num="294" text="[TUR] Substitution - S. KIRCE OUT" team="2" time="02:35" deleted="1" />
+    <LINE num="293" text="[CRO] T. GABRIĆ - 3pt jump shot made (3 Pts). D. BOŠNJAK - assist (1 AS)" team="1" time="02:37" scoreA="58" scoreB="59" />
+    <LINE num="292" text="[TUR] M. ALEMDAROGLU - free throw made" team="2" time="03:00" scoreA="55" scoreB="59" />
+    <LINE num="291" text="[CRO] J. PERIĆ - personal shooting foul (3 PF, 8th team foul). One free throw awarded" team="1" time="03:00" />
+    <LINE num="290" text="[TUR] M. ALEMDAROGLU - 2pt lay-up made (4 Pts). I. UGURLU - assist" team="2" time="03:00" scoreA="55" scoreB="58" />
+    <LINE num="289" text="[CRO] Substitution - A. ĆORIĆ OUT" team="1" time="03:18" deleted="1" />
+    <LINE num="288" text="[CRO] Timeout" team="1" time="03:18" />
+    <LINE num="287" text="[CRO] D. BOŠNJAK - turnover (out of bounds, 6 TO)" team="1" time="03:24" />
+    <LINE num="286" text="[TUR] Y. ARSLAN - 2pt jump shot made (2 Pts)" team="2" time="03:34" scoreA="55" scoreB="56" />
+    <LINE num="285" text="[TUR] Y. ARSLAN - 2pt jump shot missed. Y. ARSLAN - offensive rebound" team="2" time="03:36" />
+    <LINE num="284" text="[TUR] Substitution - T. GECIM OUT" team="2" time="03:52" deleted="1" />
+    <LINE num="283" text="[CRO] A. ĆORIĆ -  offensive foul (4 PF, 7th team foul). A. ĆORIĆ - turnover (offensive foul, 3 TO)" team="1" time="03:52" />
+    <LINE num="282" text="[TUR] T. GECIM - 2pt jump shot missed. D. BOŠNJAK - defensive rebound (5 REB)" team="2" time="04:07" />
+    <LINE num="281" text="[CRO] A. ĆORIĆ - free throw missed. M. ALEMDAROGLU - defensive rebound" team="1" time="04:17" />
+    <LINE num="280" text="[CRO] A. ĆORIĆ - free throw made (14 Pts)" team="1" time="04:17" scoreA="55" scoreB="54" />
+    <LINE num="279" text="[TUR] D. OZDEMIROGLU - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: A. ĆORIĆ" team="2" time="04:17" />
+    <LINE num="278" text="[CRO] Substitution - M. BAĆAK OUT, J. PERIĆ IN" team="1" time="04:19" deleted="1" />
+    <LINE num="277" text="[TUR] Substitution - K. BAYRAM OUT" team="2" time="04:19" deleted="1" />
+    <LINE num="276" text="[TUR] M. ALEMDAROGLU - personal  foul (3 PF, 4th team foul). Foul drawn: J. GULAM" team="2" time="04:19" />
+    <LINE num="275" text="[TUR] D. OZDEMIROGLU - 2pt lay-up made (fast break, 10 Pts)" team="2" time="04:32" scoreA="54" scoreB="54" />
+    <LINE num="274" text="[CRO] T. GABRIĆTeam turnover (ball handling). D. OZDEMIROGLU - steal" team="1" time="04:35" />
+    <LINE num="273" text="[TUR] K. BAYRAM - 2pt lay-up missed. T. GABRIĆ - defensive rebound" team="2" time="04:40" />
+    <LINE num="272" text="[CRO] A. ĆORIĆ -  offensive foul (3 PF, 6th team foul). A. ĆORIĆ - turnover (offensive foul, 2 TO)" team="1" time="04:53" />
+    <LINE num="271" text="[TUR] T. GECIM - free throw made" team="2" time="05:03" scoreA="54" scoreB="52" />
+    <LINE num="270" text="[TUR] T. GECIM - free throw missed" team="2" time="05:03" />
+    <LINE num="269" text="[CRO] Substitution - B. ŠPANJA OUT" team="1" time="05:03" deleted="1" />
+    <LINE num="268" text="[CRO] B. ŠPANJA - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded" team="1" time="05:03" />
+    <LINE num="267" text="[CRO] M. BAĆAK - personal  foul (1 PF, 4th team foul)" team="1" time="05:15" />
+    <LINE num="266" text="[TUR] D. OZDEMIROGLU - 3pt jump shot missed. M. ALEMDAROGLU - offensive rebound" team="2" time="05:15" />
+    <LINE num="265" text="[CRO] Substitution - K. ŽGANEC OUT" team="1" time="05:41" deleted="1" />
+    <LINE num="264" text="[CRO] B. ŠPANJA - personal  foul (2 PF, 3rd team foul)" team="1" time="05:41" />
+    <LINE num="263" text="[CRO] K. ŽGANECTeam turnover (bad pass). T. GECIM - steal" team="1" time="05:43" />
+    <LINE num="262" text="[TUR] D. OZDEMIROGLUTeam turnover (out of bounds)" team="2" time="06:03" />
+    <LINE num="261" text="[CRO] K. ŽGANEC - 2pt lay-up made (12 Pts). A. ĆORIĆ - assist (1 AS)" team="1" time="06:19" scoreA="54" scoreB="51" />
+    <LINE num="260" text="[TUR] Substitution - E. ARAR OUT" team="2" time="06:32" deleted="1" />
+    <LINE num="259" text="[TUR] E. ARAR - personal  foul (4 PF, 3rd team foul)" team="2" time="06:32" />
+    <LINE num="258" text="[TUR] M. ALEMDAROGLUTeam turnover (bad pass). K. ŽGANEC - steal" team="2" time="06:32" />
+    <LINE num="257" text="[CRO] B. ŠPANJA - personal  foul (1 PF, 2nd team foul)" team="1" time="06:44" />
+    <LINE num="256" text="[CRO] B. ŠPANJA - free throw missed. M. ALEMDAROGLU - defensive rebound" team="1" time="06:52" />
+    <LINE num="255" text="[CRO] B. ŠPANJA - free throw made (1 Pts)" team="1" time="06:52" scoreA="52" scoreB="51" />
+    <LINE num="254" text="[TUR] T. GECIM - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: B. ŠPANJA" team="2" time="06:52" />
+    <LINE num="253" text="[TUR] D. OZDEMIROGLU - 2pt jump shot missed. A. ĆORIĆ - defensive rebound (6 REB)" team="2" time="06:56" />
+    <LINE num="252" text="[CRO] Substitution - M. BAĆAK OUT, A. ĆORIĆ IN" team="1" time="07:23" deleted="1" />
+    <LINE num="251" text="[CRO] K. ŽGANEC - 2pt jump shot missed. D. OZDEMIROGLU - defensive rebound" team="1" time="07:23" />
+    <LINE num="250" text="[TUR] T. GECIM - 2pt jump shot made (8 Pts)" team="2" time="07:40" scoreA="51" scoreB="51" />
+    <LINE num="249" text="[TUR] Substitution - A. OLMAZ OUT" team="2" time="07:51" deleted="1" />
+    <LINE num="248" text="[TUR] Substitution - I. UGURLU OUT" team="2" time="07:51" deleted="1" />
+    <LINE num="247" text="[TUR] Substitution - Y. ARSLAN OUT" team="2" time="07:51" deleted="1" />
+    <LINE num="246" text="[CRO] J. GULAM - personal  foul (2 PF, 1st team foul)" team="1" time="07:51" />
+    <LINE num="245" text="[CRO] K. ŽGANEC - 2pt jump shot missed. A. OLMAZ - defensive rebound" team="1" time="07:55" />
+    <LINE num="244" text="[TUR] Y. ARSLAN - 3pt jump shot missed. B. ŠPANJA - defensive rebound (1 REB)" team="2" time="08:15" />
+    <LINE num="243" text="[TUR] E. ARAR - 2pt jump shot missed. E. ARAR - offensive rebound" team="2" time="08:22" />
+    <LINE num="242" text="[CRO] M. BAĆAK - 2pt jump shot missed. T. GECIM - defensive rebound" team="1" time="08:41" />
+    <LINE num="241" text="[TUR] I. UGURLU - personal  foul (3 PF, 1st team foul). Foul drawn: B. ŠPANJA" team="2" time="08:49" />
+    <LINE num="240" text="[TUR] E. ARARTeam turnover (bad pass). K. ŽGANEC - steal" team="2" time="09:02" />
+    <LINE num="239" text="[CRO] K. ŽGANECTeam turnover (bad pass). A. OLMAZ - steal" team="1" time="09:19" />
+    <LINE num="238" text="[TUR] I. UGURLUTeam turnover (out of bounds)" team="2" time="09:44" />
+    <LINE num="237" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="236" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="235" text="[TUR] T. GECIM - 2pt jump shot missed" team="2" time="00:00" />
+    <LINE num="234" text="[TUR] Y. ARSLAN - 2pt jump shot missed. A. OLMAZ - offensive rebound" team="2" time="00:07" />
+    <LINE num="233" text="[CRO] M. BAĆAKTeam turnover (travelling)" team="1" time="00:28" />
+    <LINE num="232" text="[CRO] M. BAĆAK - offensive rebound" team="1" time="00:28" />
+    <LINE num="231" text="[CRO] Substitution - J. JUKIĆ OUT" team="1" time="00:28" deleted="1" />
+    <LINE num="230" text="[CRO] K. ŽGANEC - free throw missed" team="1" time="00:31" />
+    <LINE num="229" text="[CRO] K. ŽGANEC - free throw made" team="1" time="00:31" scoreA="51" scoreB="49" />
+    <LINE num="228" text="[TUR] E. ARAR - personal shooting foul (3 PF, 6th team foul). 2 free throws awarded" team="2" time="00:31" />
+    <LINE num="227" text="[TUR] E. ARAR - free throw missed. K. ŽGANEC - defensive rebound" team="2" time="00:45" />
+    <LINE num="226" text="[TUR] E. ARAR - free throw made" team="2" time="00:45" scoreA="50" scoreB="49" />
+    <LINE num="225" text="[TUR] Substitution - M. AKYEL OUT" team="2" time="00:45" deleted="1" />
+    <LINE num="224" text="[CRO] Substitution - J. PERIĆ OUT, B. ŠPANJA IN" team="1" time="00:45" />
+    <LINE num="223" text="[CRO] Substitution - T. GABRIĆ OUT, D. BOŠNJAK IN" team="1" time="00:45" deleted="1" />
+    <LINE num="222" text="[CRO] T. GABRIĆ - personal  foul (1 PF, 6th team foul)" team="1" time="00:45" />
+    <LINE num="221" text="[CRO] J. JUKIĆ - 2pt lay-up made (4 Pts)" team="1" time="00:58" scoreA="50" scoreB="48" />
+    <LINE num="220" text="[CRO] J. GULAM - 3pt jump shot missed. J. JUKIĆ - offensive rebound (4 REB)" team="1" time="01:01" />
+    <LINE num="219" text="[TUR] I. UGURLU - 2pt jump shot made (8 Pts)" team="2" time="01:22" scoreA="48" scoreB="48" />
+    <LINE num="218" text="[CRO] K. ŽGANEC - free throw made" team="1" time="01:40" scoreA="48" scoreB="46" />
+    <LINE num="217" text="[CRO] K. ŽGANEC - free throw made" team="1" time="01:40" scoreA="47" scoreB="46" />
+    <LINE num="216" text="[TUR] Y. ARSLAN - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded" team="2" time="01:40" />
+    <LINE num="215" text="[TUR] M. AKYEL - free throw missed. J. JUKIĆ - defensive rebound (3 REB)" team="2" time="01:50" />
+    <LINE num="214" text="[CRO] Substitution - A. ĆORIĆ OUT" team="1" time="01:50" deleted="1" />
+    <LINE num="213" text="[CRO] A. ĆORIĆ - personal  foul (2 PF, 5th team foul)" team="1" time="01:50" />
+    <LINE num="212" text="[TUR] M. AKYEL - 2pt jump shot made (4 Pts)" team="2" time="01:51" scoreA="46" scoreB="46" />
+    <LINE num="211" text="[CRO] J. PERIĆ - 2pt jump shot made (4 Pts)" team="1" time="02:00" scoreA="46" scoreB="44" />
+    <LINE num="210" text="[CRO] T. GABRIĆ - 2pt jump shot missed. I. UGURLU - defensive rebound" team="1" time="02:05" />
+    <LINE num="209" text="[CRO] T. GABRIĆ - 2pt jump shot missed" team="1" time="02:15" />
+    <LINE num="208" text="[CRO] Substitution - D. BOŠNJAK OUT" team="1" time="02:41" deleted="1" />
+    <LINE num="207" text="[TUR] Substitution - E. ARAR OUT" team="2" time="02:41" deleted="1" />
+    <LINE num="206" text="[TUR] T. GECIM - personal  foul (1 PF, 4th team foul). Foul drawn: A. ĆORIĆ" team="2" time="02:41" />
+    <LINE num="205" text="[TUR] I. UGURLU - 2pt jump shot made (6 Pts)" team="2" time="02:44" scoreA="44" scoreB="44" />
+    <LINE num="204" text="[TUR] T. GECIM - 2pt jump shot missed. I. UGURLU - offensive rebound" team="2" time="02:47" />
+    <LINE num="203" text="[TUR] E. ARAR - free throw missed. T. GECIM - offensive rebound" team="2" time="02:48" />
+    <LINE num="202" text="[TUR] E. ARAR - free throw made" team="2" time="02:48" scoreA="44" scoreB="42" />
+    <LINE num="201" text="[CRO] J. JUKIĆ - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded" team="1" time="02:48" />
+    <LINE num="200" text="[TUR] M. AKYEL - 2pt jump shot missed. E. ARAR - offensive rebound" team="2" time="02:48" />
+    <LINE num="199" text="[CRO] D. BOŠNJAK - 3pt jump shot missed. T. GECIM - defensive rebound" team="1" time="03:02" />
+    <LINE num="198" text="[TUR] I. UGURLU - 2pt jump shot missed. A. ĆORIĆ - defensive rebound (5 REB)" team="2" time="03:15" />
+    <LINE num="197" text="[CRO] D. BOŠNJAK - 3pt jump shot made (11 Pts). J. PERIĆ - assist (1 AS)" team="1" time="03:42" scoreA="44" scoreB="41" />
+    <LINE num="196" text="[TUR] Substitution - M. ALEMDAROGLU OUT" team="2" time="03:55" deleted="1" />
+    <LINE num="195" text="[TUR] Substitution - O. BAYKAN OUT" team="2" time="03:55" deleted="1" />
+    <LINE num="194" text="[TUR] Substitution - D. OZDEMIROGLU OUT" team="2" time="03:55" deleted="1" />
+    <LINE num="193" text="[TUR] M. ALEMDAROGLU - free throw made" team="2" time="03:55" scoreA="41" scoreB="41" />
+    <LINE num="192" text="[TUR] M. ALEMDAROGLU - free throw made" team="2" time="03:55" scoreA="41" scoreB="40" />
+    <LINE num="191" text="[CRO] Substitution - K. ŽGANEC OUT, J. JUKIĆ IN" team="1" time="03:55" deleted="1" />
+    <LINE num="190" text="[CRO] K. ŽGANEC - personal  foul (3 PF, 3rd team foul)" team="1" time="03:55" />
+    <LINE num="189" text="[CRO] K. ŽGANEC - 2pt jump shot missed. E. ARAR - defensive rebound" team="1" time="04:00" />
+    <LINE num="188" text="[TUR] E. ARAR - block" team="2" time="04:02" />
+    <LINE num="187" text="[TUR] I. UGURLUTeam turnover (bad pass). K. ŽGANEC - steal" team="2" time="04:23" />
+    <LINE num="186" text="[CRO] J. GULAM - turnover (out of bounds, 1 TO)" team="1" time="04:39" />
+    <LINE num="185" text="[TUR] E. ARAR - free throw made" team="2" time="04:46" scoreA="41" scoreB="39" />
+    <LINE num="184" text="[TUR] E. ARAR - free throw missed" team="2" time="04:46" />
+    <LINE num="183" text="[TUR] Substitution - K. BAYRAM OUT" team="2" time="04:46" deleted="1" />
+    <LINE num="182" text="[CRO] Timeout" team="1" time="04:46" />
+    <LINE num="181" text="[CRO] J. PERIĆ - personal  foul (2 PF, 2nd team foul)" team="1" time="04:49" />
+    <LINE num="180" text="[CRO] D. BOŠNJAK - turnover (bad pass, 5 TO). K. BAYRAM - steal" team="1" time="04:53" />
+    <LINE num="179" text="[TUR] O. BAYKAN - personal  foul (1 PF, 3rd team foul). Foul drawn: J. PERIĆ" team="2" time="05:16" />
+    <LINE num="178" text="[TUR] O. BAYKANTeam turnover (ball handling). J. PERIĆ - steal (2 ST)" team="2" time="05:17" />
+    <LINE num="177" text="[CRO] Substitution - T. GABRIĆ OUT, J. PERIĆ IN" team="1" time="05:34" deleted="1" />
+    <LINE num="176" text="[CRO] D. BOŠNJAK - turnover (out of bounds, 4 TO)" team="1" time="05:34" />
+    <LINE num="175" text="[TUR] D. OZDEMIROGLU - 2pt lay-up made (8 Pts)" team="2" time="06:01" scoreA="41" scoreB="38" />
+    <LINE num="174" text="[TUR] E. ARARTeam turnover (travelling)" team="2" time="06:15" />
+    <LINE num="173" text="[CRO] A. ĆORIĆ - 2pt dunk made (13 Pts). J. GULAM - assist (1 AS)" team="1" time="06:37" scoreA="41" scoreB="36" />
+    <LINE num="172" text="[TUR] O. BAYKAN - 2pt lay-up made (fast break, 2 Pts)" team="2" time="07:02" scoreA="39" scoreB="36" />
+    <LINE num="171" text="[CRO] D. BOŠNJAK - 2pt jump shot missed. M. ALEMDAROGLU - defensive rebound" team="1" time="07:07" />
+    <LINE num="170" text="[CRO] T. GABRIĆ - 2pt dunk missed" team="1" time="07:13" />
+    <LINE num="169" text="[TUR] K. BAYRAM - 2pt jump shot missed. K. ŽGANEC - defensive rebound" team="2" time="07:19" />
+    <LINE num="168" text="[CRO] A. ĆORIĆ - 2pt jump shot missed. E. ARAR - defensive rebound" team="1" time="07:38" />
+    <LINE num="167" text="[TUR] K. BAYRAM - personal  foul (1 PF, 2nd team foul). Foul drawn: D. BOŠNJAK" team="2" time="07:51" />
+    <LINE num="166" text="[TUR] K. BAYRAMTeam turnover (bad pass). T. GABRIĆ - steal" team="2" time="07:52" />
+    <LINE num="165" text="[CRO] J. GULAM - 3pt jump shot missed. D. OZDEMIROGLU - defensive rebound" team="1" time="08:14" />
+    <LINE num="164" text="[TUR] M. ALEMDAROGLU - personal  foul (2 PF, 1st team foul)" team="2" time="08:24" />
+    <LINE num="163" text="[TUR] D. OZDEMIROGLU - free throw missed. K. ŽGANEC - defensive rebound" team="2" time="08:30" />
+    <LINE num="162" text="[TUR] D. OZDEMIROGLU - free throw made" team="2" time="08:30" scoreA="39" scoreB="34" />
+    <LINE num="161" text="[CRO] K. ŽGANEC - personal shooting foul (2 PF, 1st team foul). 2 free throws awarded" team="1" time="08:30" />
+    <LINE num="160" text="[CRO] Team turnover (24 seconds)" team="1" time="08:58" />
+    <LINE num="159" text="[CRO] A. ĆORIĆ - 3pt jump shot missed. K. ŽGANEC - offensive rebound" team="1" time="08:58" />
+    <LINE num="158" text="[TUR] D. OZDEMIROGLUTeam turnover (out of bounds)" team="2" time="09:21" />
+    <LINE num="157" text="[CRO] D. BOŠNJAK - turnover (bad pass, 3 TO). E. ARAR - steal" team="1" time="09:24" />
+    <LINE num="156" text="[TUR] D. OZDEMIROGLU - 3pt jump shot missed. A. ĆORIĆ - defensive rebound (4 REB)" team="2" time="09:43" />
+    <LINE num="155" text="[TUR] Substitution - T. GECIM OUT" team="2" time="10:00" deleted="1" />
+    <LINE num="154" text="[TUR] Substitution - S. KIRCE OUT" team="2" time="10:00" deleted="1" />
+    <LINE num="153" text="[TUR] Substitution - A. OLMAZ OUT" team="2" time="10:00" deleted="1" />
+    <LINE num="152" text="[TUR] Substitution - I. ULUSOY OUT" team="2" time="10:00" deleted="1" />
+    <LINE num="151" text="[CRO] Substitution - J. PERIĆ OUT" team="1" time="10:00" deleted="1" />
+    <LINE num="150" text="[CRO] Substitution - B. ŠPANJA OUT, D. BOŠNJAK IN" team="1" time="10:00" />
+    <LINE num="149" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="148" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="147" text="[TUR] Team turnover (24 seconds)" team="2" time="00:07" />
+    <LINE num="146" text="[TUR] Timeout" team="2" time="00:28" />
+    <LINE num="145" text="[CRO] K. ŽGANEC - 2pt lay-up made (7 Pts)" team="1" time="00:30" scoreA="39" scoreB="33" />
+    <LINE num="144" text="[CRO] A. ĆORIĆ - 3pt jump shot missed. K. ŽGANEC - offensive rebound" team="1" time="00:32" />
+    <LINE num="143" text="[TUR] I. ULUSOY - 2pt jump shot made (4 Pts)" team="2" time="00:50" scoreA="37" scoreB="33" />
+    <LINE num="142" text="[TUR] A. OLMAZ - 2pt jump shot missed. I. ULUSOY - offensive rebound" team="2" time="00:53" />
+    <LINE num="141" text="[CRO] J. GULAM - 2pt lay-up made (fast break, 7 Pts)" team="1" time="01:17" scoreA="37" scoreB="31" />
+    <LINE num="140" text="[TUR] T. GECIM - 3pt jump shot missed. K. ŽGANEC - defensive rebound" team="2" time="01:21" />
+    <LINE num="139" text="[CRO] A. ĆORIĆ - 2pt jump shot made (11 Pts)" team="1" time="01:49" scoreA="35" scoreB="31" />
+    <LINE num="138" text="[TUR] I. ULUSOY - 2pt jump shot made (2 Pts)" team="2" time="02:04" scoreA="33" scoreB="31" />
+    <LINE num="137" text="[CRO] K. ŽGANEC - free throw made" team="1" time="02:20" scoreA="33" scoreB="29" />
+    <LINE num="136" text="[CRO] K. ŽGANEC - free throw missed" team="1" time="02:20" />
+    <LINE num="135" text="[TUR] Timeout" team="2" time="02:20" />
+    <LINE num="134" text="[TUR] D. OZDEMIROGLU - personal  foul (1 PF, 3rd team foul)" team="2" time="02:23" />
+    <LINE num="133" text="[TUR] D. OZDEMIROGLU - 3pt jump shot missed. J. GULAM - defensive rebound (1 REB)" team="2" time="02:30" />
+    <LINE num="132" text="[CRO] Substitution - D. BOŠNJAK OUT, B. ŠPANJA IN" team="1" time="02:54" />
+    <LINE num="131" text="[CRO] D. BOŠNJAK - personal  foul (1 PF, 2nd team foul)" team="1" time="02:54" />
+    <LINE num="130" text="[CRO] K. ŽGANEC - 2pt jump shot made (4 Pts)" team="1" time="03:00" scoreA="32" scoreB="29" />
+    <LINE num="129" text="[TUR] Substitution - E. ARAR OUT" team="2" time="03:00" deleted="1" />
+    <LINE num="128" text="[CRO] Substitution - T. GABRIĆ OUT, J. PERIĆ IN" team="1" time="03:00" deleted="1" />
+    <LINE num="127" text="[TUR] E. ARAR - personal  foul (2 PF, 2nd team foul)" team="2" time="03:00" />
+    <LINE num="126" text="[TUR] I. ULUSOY - 2pt jump shot missed. K. ŽGANEC - defensive rebound" team="2" time="03:08" />
+    <LINE num="125" text="[CRO] A. ĆORIĆ - 3pt jump shot made (9 Pts). K. ŽGANEC - assist" team="1" time="03:31" scoreA="30" scoreB="29" />
+    <LINE num="124" text="[TUR] T. GECIM - 3pt jump shot made (6 Pts). D. OZDEMIROGLU - assist" team="2" time="03:57" scoreA="27" scoreB="29" />
+    <LINE num="123" text="[CRO] D. BOŠNJAK - 3pt jump shot made (8 Pts). T. GABRIĆ - assist" team="1" time="04:21" scoreA="27" scoreB="26" />
+    <LINE num="122" text="[TUR] D. OZDEMIROGLU - 3pt jump shot made (fast break, 5 Pts). T. GECIM - assist" team="2" time="04:47" scoreA="24" scoreB="26" />
+    <LINE num="121" text="[CRO] K. ŽGANEC - 2pt jump shot missed. D. OZDEMIROGLU - defensive rebound" team="1" time="04:55" />
+    <LINE num="120" text="[TUR] A. OLMAZ - 2pt jump shot made (4 Pts). D. OZDEMIROGLU - assist" team="2" time="05:21" scoreA="24" scoreB="23" />
+    <LINE num="119" text="[CRO] D. BOŠNJAK - 2pt lay-up made (5 Pts)" team="1" time="05:41" scoreA="24" scoreB="21" />
+    <LINE num="118" text="[TUR] Substitution - Y. ARSLAN OUT" team="2" time="05:59" deleted="1" />
+    <LINE num="117" text="[TUR] Y. ARSLANTeam turnover (bad pass). K. ŽGANEC - steal" team="2" time="05:59" />
+    <LINE num="116" text="[TUR] I. ULUSOY - personal  foul (1 PF, 1st team foul)" team="2" time="05:59" />
+    <LINE num="115" text="[TUR] Substitution - I. UGURLU OUT" team="2" time="06:09" deleted="1" />
+    <LINE num="114" text="[TUR] Substitution - M. AKYEL OUT" team="2" time="06:09" deleted="1" />
+    <LINE num="113" text="[CRO] Substitution - M. BAĆAK OUT" team="1" time="06:09" deleted="1" />
+    <LINE num="112" text="[CRO] Substitution - B. ŽGANEC OUT, J. GULAM IN" team="1" time="06:09" />
+    <LINE num="111" text="[CRO] Timeout" team="1" time="06:09" />
+    <LINE num="110" text="[CRO] B. ŽGANEC - 2pt jump shot missed. E. ARAR - defensive rebound" team="1" time="06:21" />
+    <LINE num="109" text="[TUR] I. UGURLU - 2pt lay-up made (4 Pts)" team="2" time="06:48" scoreA="22" scoreB="21" />
+    <LINE num="108" text="[CRO] B. ŽGANEC - 3pt jump shot missed. E. ARAR - defensive rebound" team="1" time="07:10" />
+    <LINE num="107" text="[TUR] I. UGURLU - 2pt lay-up made (2 Pts)" team="2" time="07:31" scoreA="22" scoreB="19" />
+    <LINE num="106" text="[TUR] I. UGURLU - free throw missed" team="2" time="07:33" />
+    <LINE num="105" text="[CRO] B. ŽGANEC - personal shooting foul (1 PF, 1st team foul). One free throw awarded" team="1" time="07:33" />
+    <LINE num="104" text="[CRO] Substitution - J. PERIĆ OUT" team="1" time="07:33" deleted="1" />
+    <LINE num="103" text="[TUR] I. UGURLU - steal. D. BOŠNJAK - turnover (bad pass, 2 TO)" team="2" time="07:33" />
+    <LINE num="102" text="[TUR] M. AKYEL - 2pt lay-up made (2 Pts)" team="2" time="07:39" scoreA="22" scoreB="17" />
+    <LINE num="101" text="[TUR] Y. ARSLAN - 2pt lay-up missed. M. AKYEL - offensive rebound" team="2" time="07:42" />
+    <LINE num="100" text="[CRO] B. ŽGANEC - 2pt lay-up made (2 Pts)" team="1" time="08:05" scoreA="22" scoreB="15" />
+    <LINE num="99" text="[TUR] E. ARAR - 2pt jump shot made (4 Pts)" team="2" time="08:26" scoreA="20" scoreB="15" />
+    <LINE num="98" text="[TUR] Y. ARSLAN - 3pt jump shot missed. E. ARAR - offensive rebound" team="2" time="08:28" />
+    <LINE num="97" text="[TUR] Substitution - M. ALEMDAROGLU OUT" team="2" time="08:45" deleted="1" />
+    <LINE num="96" text="[CRO] Substitution - T. GABRIĆ OUT, A. ĆORIĆ IN" team="1" time="08:45" deleted="1" />
+    <LINE num="95" text="[TUR] Substitution - K. BAYRAM OUT" team="2" time="08:45" deleted="1" />
+    <LINE num="94" text="[CRO] D. BOŠNJAK - 3pt jump shot missed. Y. ARSLAN - defensive rebound" team="1" time="08:48" />
+    <LINE num="93" text="[CRO] T. GABRIĆ - 3pt jump shot missed. B. ŽGANEC - offensive rebound (1 REB)" team="1" time="09:04" />
+    <LINE num="92" text="[TUR] K. BAYRAMTeam turnover (travelling)" team="2" time="09:23" />
+    <LINE num="91" text="[CRO] T. GABRIĆ - 3pt jump shot missed. M. AKYEL - defensive rebound" team="1" time="09:37" />
+    <LINE num="90" text="[TUR] Substitution - D. OZDEMIROGLU OUT" team="2" time="10:00" deleted="1" />
+    <LINE num="89" text="[CRO] Substitution - A. ĆORIĆ OUT" team="1" time="10:00" deleted="1" />
+    <LINE num="88" text="[CRO] Substitution - J. GULAM OUT" team="1" time="10:00" deleted="1" />
+    <LINE num="87" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="86" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="85" text="[CRO] J. PERIĆ - 2pt lay-up made (2 Pts)" team="1" time="00:02" scoreA="20" scoreB="13" />
+    <LINE num="84" text="[TUR] K. BAYRAMTeam turnover (out of bounds)" team="2" time="00:16" />
+    <LINE num="83" text="[CRO] Substitution - T. GABRIĆ OUT, J. GULAM IN" team="1" time="00:18" deleted="1" />
+    <LINE num="82" text="[CRO] A. ĆORIĆ - free throw made (6 Pts)" team="1" time="00:18" scoreA="18" scoreB="13" />
+    <LINE num="81" text="[CRO] A. ĆORIĆ - free throw made (5 Pts)" team="1" time="00:18" scoreA="17" scoreB="13" />
+    <LINE num="80" text="[TUR] M. AKYEL - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: A. ĆORIĆ" team="2" time="00:18" />
+    <LINE num="79" text="[CRO] Substitution - M. BAĆAK OUT, J. PERIĆ IN" team="1" time="00:27" deleted="1" />
+    <LINE num="78" text="[CRO] Substitution - K. ŽGANEC OUT, A. ĆORIĆ IN" team="1" time="00:27" deleted="1" />
+    <LINE num="77" text="[TUR] D. OZDEMIROGLUTeam turnover (travelling)" team="2" time="00:33" />
+    <LINE num="76" text="[TUR] M. ALEMDAROGLU - steal. K. ŽGANECTeam turnover (ball handling)" team="2" time="00:47" />
+    <LINE num="75" text="[TUR] K. BAYRAM - 2pt jump shot made (fast break, 4 Pts)" team="2" time="01:07" scoreA="16" scoreB="13" />
+    <LINE num="74" text="[CRO] K. ŽGANECTeam turnover (bad pass). D. OZDEMIROGLU - steal" team="1" time="01:15" />
+    <LINE num="73" text="[TUR] Y. ARSLANTeam turnover (out of bounds)" team="2" time="01:18" />
+    <LINE num="72" text="[CRO] Substitution - J. GULAM OUT, B. ŽGANEC IN" team="1" time="01:36" />
+    <LINE num="71" text="[CRO] M. BAĆAKTeam turnover (travelling)" team="1" time="01:36" />
+    <LINE num="70" text="[TUR] K. BAYRAM - 2pt lay-up missed. K. ŽGANEC - defensive rebound" team="2" time="01:48" />
+    <LINE num="69" text="[TUR] D. OZDEMIROGLU - 3pt jump shot missed. K. BAYRAM - offensive rebound" team="2" time="02:05" />
+    <LINE num="68" text="[CRO] T. GABRIĆ - 2pt jump shot missed. Y. ARSLAN - defensive rebound" team="1" time="02:17" />
+    <LINE num="67" text="[TUR] K. BAYRAM - free throw made" team="2" time="02:35" scoreA="16" scoreB="11" />
+    <LINE num="66" text="[TUR] K. BAYRAM - free throw made" team="2" time="02:35" scoreA="16" scoreB="10" />
+    <LINE num="65" text="[CRO] K. ŽGANEC - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded" team="1" time="02:35" />
+    <LINE num="64" text="[TUR] M. AKYEL - 2pt jump shot missed. D. OZDEMIROGLU - offensive rebound" team="2" time="02:47" />
+    <LINE num="63" text="[CRO] K. ŽGANEC - free throw made" team="1" time="03:15" scoreA="16" scoreB="9" />
+    <LINE num="62" text="[CRO] K. ŽGANEC - free throw made" team="1" time="03:15" scoreA="15" scoreB="9" />
+    <LINE num="61" text="[TUR] M. ALEMDAROGLU - personal  foul (1 PF, 5th team foul)" team="2" time="03:32" />
+    <LINE num="60" text="[TUR] Substitution - A. OLMAZ OUT" team="2" time="03:32" deleted="1" />
+    <LINE num="59" text="[TUR] D. OZDEMIROGLU - free throw missed. T. GABRIĆ - defensive rebound" team="2" time="03:34" />
+    <LINE num="58" text="[TUR] D. OZDEMIROGLU - free throw made" team="2" time="03:34" scoreA="14" scoreB="9" />
+    <LINE num="57" text="[TUR] D. OZDEMIROGLU - free throw made" team="2" time="03:34" scoreA="14" scoreB="8" />
+    <LINE num="56" text="[CRO] J. GULAM - personal shooting foul (1 PF, 3rd team foul). 3 free throws awarded" team="1" time="03:34" />
+    <LINE num="55" text="[CRO] J. GULAM - 3pt jump shot made (5 Pts). T. GABRIĆ - assist" team="1" time="03:46" scoreA="14" scoreB="7" />
+    <LINE num="54" text="[TUR] M. AKYEL - 2pt jump shot missed. D. BOŠNJAK - defensive rebound (4 REB)" team="2" time="04:02" />
+    <LINE num="53" text="[TUR] Substitution - T. GECIM OUT" team="2" time="04:16" deleted="1" />
+    <LINE num="52" text="[CRO] Substitution - J. PERIĆ OUT" team="1" time="04:16" deleted="1" />
+    <LINE num="51" text="[CRO] J. GULAM - 2pt lay-up made (2 Pts). K. ŽGANEC - assist" team="1" time="04:36" scoreA="11" scoreB="7" />
+    <LINE num="50" text="[TUR] A. OLMAZ - 2pt jump shot made (2 Pts). D. OZDEMIROGLU - assist" team="2" time="04:47" scoreA="9" scoreB="7" />
+    <LINE num="49" text="[CRO] Substitution - A. ĆORIĆ OUT" team="1" time="05:00" deleted="1" />
+    <LINE num="48" text="[TUR] T. GECIM - free throw made" team="2" time="05:00" scoreA="9" scoreB="5" />
+    <LINE num="47" text="[CRO] A. ĆORIĆ - technical  foul (1 PF, 2nd team foul). One free throw awarded" team="1" time="05:00" />
+    <LINE num="46" text="[CRO] Substitution - J. JUKIĆ OUT" team="1" time="05:00" deleted="1" />
+    <LINE num="45" text="[TUR] Substitution - E. ARAR OUT" team="2" time="05:00" deleted="1" />
+    <LINE num="44" text="[TUR] A. OLMAZ - personal  foul (1 PF, 4th team foul). Foul drawn: A. ĆORIĆ" team="2" time="05:00" />
+    <LINE num="43" text="[TUR] D. OZDEMIROGLU - steal. J. JUKIĆ - turnover (bad pass, 1 TO)" team="2" time="05:06" />
+    <LINE num="42" text="[CRO] J. PERIĆ - 3pt jump shot missed. A. ĆORIĆ - offensive rebound (3 REB)" team="1" time="05:14" />
+    <LINE num="41" text="[TUR] Substitution - O. BAYKAN OUT" team="2" time="05:29" deleted="1" />
+    <LINE num="40" text="[TUR] E. ARAR -  offensive foul (1 PF, 3rd team foul). Foul drawn: A. ĆORIĆ. E. ARARTeam turnover (offensive foul)" team="2" time="05:33" />
+    <LINE num="39" text="[CRO] A. ĆORIĆ - 2pt jump shot made (4 Pts)" team="1" time="05:40" scoreA="9" scoreB="4" />
+    <LINE num="38" text="[TUR] E. ARAR - free throw missed. A. ĆORIĆ - defensive rebound (2 REB)" team="2" time="05:59" />
+    <LINE num="37" text="[CRO] J. PERIĆ - personal shooting foul (1 PF, 1st team foul). One free throw awarded" team="1" time="05:59" />
+    <LINE num="36" text="[TUR] E. ARAR - 2pt lay-up made (2 Pts)" team="2" time="06:01" scoreA="7" scoreB="4" />
+    <LINE num="35" text="[TUR] Substitution - I. UGURLU OUT" team="2" time="06:10" deleted="1" />
+    <LINE num="34" text="[CRO] D. BOŠNJAK - turnover (travelling, 1 TO)" team="1" time="06:10" />
+    <LINE num="33" text="[TUR] O. BAYKAN - 3pt jump shot missed. D. BOŠNJAK - defensive rebound (3 REB)" team="2" time="06:15" />
+    <LINE num="32" text="[CRO] A. ĆORIĆ - turnover (out of bounds, 1 TO)" team="1" time="06:40" />
+    <LINE num="31" text="[CRO] D. BOŠNJAK - 3pt jump shot missed. A. ĆORIĆ - offensive rebound (1 REB)" team="1" time="06:40" />
+    <LINE num="30" text="[CRO] J. PERIĆ - steal (1 ST). O. BAYKANTeam turnover (ball handling)" team="1" time="06:48" />
+    <LINE num="29" text="[CRO] D. BOŠNJAK - 3pt jump shot made (3 Pts). J. JUKIĆ - assist (1 AS)" team="1" time="07:03" scoreA="7" scoreB="2" />
+    <LINE num="28" text="[CRO] Substitution - J. BOBAN OUT, J. GULAM IN" team="1" time="07:15" />
+    <LINE num="27" text="[TUR] I. UGURLU - personal  foul (2 PF, 2nd team foul). Foul drawn: A. ĆORIĆ" team="2" time="07:15" />
+    <LINE num="26" text="[TUR] O. BAYKAN - 2pt jump shot missed. J. PERIĆ - defensive rebound (2 REB)" team="2" time="07:23" />
+    <LINE num="25" text="[CRO] A. ĆORIĆ - 2pt lay-up made (fast break, 2 Pts)" team="1" time="07:45" scoreA="4" scoreB="2" />
+    <LINE num="24" text="[TUR] T. GECIM - 3pt jump shot missed. D. BOŠNJAK - defensive rebound (2 REB)" team="2" time="07:51" />
+    <LINE num="23" text="[CRO] J. BOBAN - 2pt jump shot missed" team="1" time="07:59" />
+    <LINE num="22" text="[TUR] A. OLMAZ - block" team="2" time="08:00" />
+    <LINE num="21" text="[TUR] T. GECIM - 2pt jump shot made (fast break, 2 Pts)" team="2" time="08:24" scoreA="2" scoreB="2" />
+    <LINE num="20" text="[CRO] J. BOBAN - 2pt lay-up missed. T. GECIM - defensive rebound" team="1" time="08:29" />
+    <LINE num="19" text="[CRO] J. JUKIĆ - 2pt jump shot missed. J. JUKIĆ - offensive rebound (2 REB)" team="1" time="08:37" />
+    <LINE num="18" text="[TUR] I. UGURLU - personal  foul (1 PF, 1st team foul). Foul drawn: D. BOŠNJAK" team="2" time="08:52" />
+    <LINE num="17" text="[CRO] J. JUKIĆ - 2pt jump shot missed. J. PERIĆ - offensive rebound (1 REB)" team="1" time="08:56" />
+    <LINE num="16" text="[TUR] A. OLMAZ - 2pt lay-up missed. D. BOŠNJAK - defensive rebound (1 REB)" team="2" time="09:04" />
+    <LINE num="15" text="[CRO] J. JUKIĆ - 2pt jump shot made (2 Pts)" team="1" time="09:20" scoreA="2" scoreB="0" />
+    <LINE num="14" text="[CRO] J. PERIĆ - 2pt lay-up missed. J. JUKIĆ - offensive rebound (1 REB)" team="1" time="09:22" />
+    <LINE num="13" text="[TUR] T. GECIM - 2pt jump shot missed" team="2" time="09:42" />
+    <LINE num="12" text="[TUR] T. GECIM - offensive rebound" team="2" time="09:58" />
+    <LINE num="11" text="START OF GAME" team="0" time="10:00" />
+    <LINE num="10" text="[TUR] Substitution - " team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[TUR] Substitution - " team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[TUR] Substitution - " team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[TUR] Substitution - " team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[TUR] Substitution - " team="2" time="10:00" deleted="1" />
+    <LINE num="5" text="[CRO] Substitution - J. JUKIĆ IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[CRO] Substitution - J. PERIĆ IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[CRO] Substitution - A. ĆORIĆ IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[CRO] Substitution - D. BOŠNJAK IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="[CRO] Substitution - J. BOBAN IN" team="1" time="10:00" deleted="1" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/3E5C6046-13C6-42E4-88B5-610B39FAF8AE.gif" duration="0" />
+</FE>

@@ -1,0 +1,68 @@
+<FE>
+  <HEADER competition="International Basketball Tournament Dubrovnik" quarter="4" time="00:00" logo="http://live.fibaeurope.com/www/gallery/5422498C-C013-4808-BD28-B73AAFD84A79.jpg" duration="46.8048">
+    <TEAM name="Croatia U20" logo="" pts="61" fouls="6" />
+    <TEAM name="Montenegro U20" logo="" pts="55" fouls="7" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="17" scoreB="16" />
+      <QUARTER n="2" scoreA="18" scoreB="8" />
+      <QUARTER n="3" scoreA="11" scoreB="10" />
+      <QUARTER n="4" scoreA="15" scoreB="21" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Croatia U20 missed last 13 consecutive three pointers" duration="15.5988">
+    <ITEM text="Free throw percentage: Croatia U20 - 86.2%, Montenegro U20 - 57.1%" />
+  </TICKER>
+  <OVERVIEW duration="93.6003">
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68536" GameCode="" TeamA="Greece U19" ScoreA="80" TeamB="Australia U19" ScoreB="67" StartTime="17:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68537" GameCode="" TeamA="Croatia U20" ScoreA="60" TeamB="Turkey U19" ScoreB="65" StartTime="19:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68419" GameCode="" TeamA="KK ZAGREB" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ PRIMOŠTEN" ScoreB="0" StartTime="08:30:00" LogoA="http://live.fibaeurope.com/www/gallery/3FEF344B-6D17-46BA-B3C8-D415EAFC1A63.jpg" LogoB="http://live.fibaeurope.com/www/gallery/9E2C2C6C-4FFC-4D56-BFF4-626B15532146.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68420" GameCode="" TeamA="KK VUČIĆI WOLFSCLUB" ScoreA="0" TeamB="KK RUDEŠ" ScoreB="0" StartTime="08:30:00" LogoA="http://live.fibaeurope.com/www/gallery/3DED2F2D-F9ED-45FF-BD86-96903BEEAADC.jpg" LogoB="http://live.fibaeurope.com/www/gallery/FD7D60FA-5599-4F26-870E-6C77DDC39A6D.png" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68421" GameCode="" TeamA="KK ZAPAD" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreB="0" StartTime="09:30:00" LogoA="http://live.fibaeurope.com/www/gallery/F5C24259-BBBE-4761-9517-1D529FC6443A.jpg" LogoB="http://live.fibaeurope.com/www/gallery/9E2C2C6C-4FFC-4D56-BFF4-626B15532146.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68422" GameCode="" TeamA="ŠK ZADAR" ScoreA="0" TeamB="KK SESVETE" ScoreB="0" StartTime="09:30:00" LogoA="http://live.fibaeurope.com/www/gallery/3877227F-1EEE-4F35-B2E3-9B71B2B24842.png" LogoB="http://live.fibaeurope.com/www/gallery/A1AD4DE4-D1ED-4B05-9952-81EDC7F14280.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68423" GameCode="" TeamA="KK VINDIJA" ScoreA="0" TeamB="KK ZAGREB" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" LogoB="http://live.fibaeurope.com/www/gallery/3FEF344B-6D17-46BA-B3C8-D415EAFC1A63.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68424" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK CEDEVITA II" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/2082E3F1-CF7B-45E8-AD79-BD03029E3B35.jpg" LogoB="http://live.fibaeurope.com/www/gallery/DDA37C2A-CCB6-4CB7-A20E-DC44CDDFC40F.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68425" GameCode="" TeamA="KK BOROVO" ScoreA="0" TeamB="ŠK ZADAR" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" LogoB="http://live.fibaeurope.com/www/gallery/3877227F-1EEE-4F35-B2E3-9B71B2B24842.png" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68426" GameCode="" TeamA="KK ČAKOVEC" ScoreA="0" TeamB="KK CRIKVENICA" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" LogoB="http://live.fibaeurope.com/www/gallery/E589009C-4D20-4EDB-92B0-AA2D1D3ED750.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68427" GameCode="" TeamA="KK SLAVONSKI BROD 1946" ScoreA="0" TeamB="KK VINDIJA" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/1C360D24-972D-4A1A-A247-7053A4905FDB.jpg" LogoB="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68428" GameCode="" TeamA="KK RI BASKET" ScoreA="0" TeamB="KK ZAPAD" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9B47AB14-346D-48D1-8BCB-2B38D00952C5.jpg" LogoB="http://live.fibaeurope.com/www/gallery/F5C24259-BBBE-4761-9517-1D529FC6443A.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68429" GameCode="" TeamA="KK ZARA" ScoreA="0" TeamB="KK CRES" ScoreB="0" StartTime="13:15:00" LogoA="http://live.fibaeurope.com/www/gallery/6F798D39-34BF-440A-B194-846DAF273839.jpg" LogoB="http://live.fibaeurope.com/www/gallery/5FF014CE-A798-4D3B-9D44-E60BFD3A9590.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68430" GameCode="" TeamA="KS ZAGREBAČKE ŽUPANIJE" ScoreA="0" TeamB="KK ČAKOVEC" ScoreB="0" StartTime="13:15:00" LogoA="http://live.fibaeurope.com/www/gallery/7F7D38A1-DF1A-48E8-868C-45DD13DCCDAB.jpg" LogoB="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68431" GameCode="" TeamA="KK VOŠTARNICA" ScoreA="0" TeamB="KK FSV" ScoreB="0" StartTime="14:10:00" LogoA="http://live.fibaeurope.com/www/gallery/2FC8B46C-4328-475B-93FE-974FEA20911C.jpg" LogoB="http://live.fibaeurope.com/www/gallery/7DB8F018-BBAC-42B0-AC26-298B3839FB7E.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68432" GameCode="" TeamA="KK DUBROVNIK" ScoreA="0" TeamB="KK SLAVONSKI BROD 1946" ScoreB="0" StartTime="14:10:00" LogoA="http://live.fibaeurope.com/www/gallery/D960F267-820F-4C87-9352-EF9E7C8E902A.jpg" LogoB="http://live.fibaeurope.com/www/gallery/1C360D24-972D-4A1A-A247-7053A4905FDB.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68450" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK DUBRAVA" ScoreB="0" StartTime="14:10:00" LogoA="http://live.fibaeurope.com/www/gallery/2082E3F1-CF7B-45E8-AD79-BD03029E3B35.jpg" LogoB="http://live.fibaeurope.com/www/gallery/39F1BBC1-90F5-4380-BA35-8DF9E518A804.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68433" GameCode="" TeamA="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreA="0" TeamB="KK ADRIATIC" ScoreB="0" StartTime="15:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9E2C2C6C-4FFC-4D56-BFF4-626B15532146.jpg" LogoB="http://live.fibaeurope.com/www/gallery/47ED9977-075E-4541-AF50-784D589907F7.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68435" GameCode="" TeamA="KK VUČIĆI" ScoreA="0" TeamB="KK SEDAM" ScoreB="0" StartTime="15:20:00" LogoA="http://live.fibaeurope.com/www/gallery/3DED2F2D-F9ED-45FF-BD86-96903BEEAADC.jpg" LogoB="http://live.fibaeurope.com/www/gallery/8F086EA3-2092-4D24-9B8E-39187E1AD09A.png" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68451" GameCode="" TeamA="KK KASTAV" ScoreA="0" TeamB="KK BOROVO" ScoreB="0" StartTime="15:20:00" LogoA="http://live.fibaeurope.com/www/gallery/A0857187-7BA6-4583-98A2-D659DDB51E85.jpg" LogoB="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68436" GameCode="" TeamA="KK JOLLY JBŠ" ScoreA="0" TeamB="KS ZAGREBAČKE ŽUPANIJE" ScoreB="0" StartTime="16:15:00" LogoA="http://live.fibaeurope.com/www/gallery/08CF54DD-B14C-4419-81AF-21390AE9A992.jpg" LogoB="http://live.fibaeurope.com/www/gallery/7F7D38A1-DF1A-48E8-868C-45DD13DCCDAB.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68437" GameCode="" TeamA="KA HRVATSKI SOKOL" ScoreA="0" TeamB="KK TROGIR" ScoreB="0" StartTime="16:15:00" LogoA="http://live.fibaeurope.com/www/gallery/C89D9468-5CE0-4B73-B265-72D1C712AFF9.jpg" LogoB="http://live.fibaeurope.com/www/gallery/B3ED9033-6E28-4DC2-B7CF-69632E4BDA6E.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68452" GameCode="" TeamA="KK SESVETE" ScoreA="0" TeamB="KK AMFORA" ScoreB="0" StartTime="16:15:00" LogoA="http://live.fibaeurope.com/www/gallery/A1AD4DE4-D1ED-4B05-9952-81EDC7F14280.jpg" LogoB="http://live.fibaeurope.com/www/gallery/ACAB8432-9B3F-40B1-B048-95BD60B1654B.jpg" Quarter="0" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="109.203">
+    <LINE num="327" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="326" text="[MON] M. KRIVOKAPIĆ - turnover (bad pass, 5 TO). M. BAĆAK - steal (1 ST)" team="2" time="00:08" />
+    <LINE num="325" text="[CRO] D. BOŠNJAK - free throw made (7 Pts)" team="1" time="00:21" scoreA="61" scoreB="55" />
+    <LINE num="324" text="[CRO] D. BOŠNJAK - free throw made (6 Pts)" team="1" time="00:21" scoreA="60" scoreB="55" />
+    <LINE num="323" text="[MON] M. KRIVOKAPIĆ - personal shooting foul (1 PF, 7th team foul). 2 free throws awarded. Foul drawn: D. BOŠNJAK" team="2" time="00:21" />
+    <LINE num="322" text="[MON] V. BAČOVIĆ - free throw missed. M. BAĆAK - defensive rebound (4 REB)" team="2" time="00:23" />
+    <LINE num="321" text="[CRO] I. JUKIĆ - personal shooting foul (2 PF, 6th team foul). One free throw awarded. Foul drawn: V. BAČOVIĆ" team="1" time="00:23" />
+    <LINE num="320" text="[MON] V. BAČOVIĆ - 2pt lay-up made (13 Pts)" team="2" time="00:23" scoreA="59" scoreB="55" />
+    <LINE num="319" text="[CRO] I. JUKIĆ - free throw made (2 Pts)" team="1" time="00:35" scoreA="59" scoreB="53" />
+    <LINE num="318" text="[CRO] I. JUKIĆ - free throw made (1 Pts)" team="1" time="00:35" scoreA="58" scoreB="53" />
+    <LINE num="317" text="[MON] V. MILOVIĆ - personal shooting foul (3 PF, 6th team foul). 2 free throws awarded. Foul drawn: I. JUKIĆ" team="2" time="00:35" />
+    <LINE num="316" text="[MON] V. MILOVIĆ - 2pt lay-up missed. I. JUKIĆ - defensive rebound (2 REB)" team="2" time="00:35" />
+    <LINE num="315" text="[CRO] A. ĆORIĆ - 3pt jump shot missed. A. ILIĆ - defensive rebound (9 REB)" team="1" time="00:44" />
+    <LINE num="314" text="[CRO] Substitution - J. BOBAN OUT, I. JUKIĆ IN" team="1" time="00:54" />
+    <LINE num="313" text="[MON] A. ILIĆ - 2pt dunk made (fast break, 6 Pts). V. MILOVIĆ - assist (1 AS)" team="2" time="00:57" scoreA="57" scoreB="53" />
+    <LINE num="312" text="[CRO] A. ĆORIĆ - 2pt lay-up made (14 Pts)" team="1" time="01:01" scoreA="57" scoreB="51" />
+    <LINE num="311" text="[CRO] A. ĆORIĆ - offensive rebound (6 REB)" team="1" time="01:01" />
+    <LINE num="310" text="[CRO] D. BOŠNJAK - 2pt lay-up missed" team="1" time="01:06" />
+    <LINE num="309" text="[MON] M. KRIVOKAPIĆ - 2pt lay-up missed. M. BAĆAK - defensive rebound (3 REB)" team="2" time="01:31" />
+    <LINE num="308" text="[CRO] J. BOBAN - turnover (bad pass, 3 TO). E. HADŽIBEGOVIĆ - steal (3 ST)" team="1" time="01:41" />
+    <LINE num="307" text="[MON] Substitution - M. RAIČEVIĆ OUT, V. MILOVIĆ IN" team="2" time="01:53" />
+    <LINE num="306" text="[MON] V. BAČOVIĆ - free throw made (11 Pts)" team="2" time="01:53" scoreA="55" scoreB="51" />
+    <LINE num="305" text="[MON] V. BAČOVIĆ - free throw made (10 Pts)" team="2" time="01:53" scoreA="55" scoreB="50" />
+    <LINE num="304" text="[CRO] M. BAĆAK - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: V. BAČOVIĆ" team="1" time="01:53" />
+    <LINE num="303" text="[MON] A. ILIĆ - 3pt jump shot missed" team="2" time="02:01" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/3E5C6046-13C6-42E4-88B5-610B39FAF8AE.gif" duration="0" />
+</FE>

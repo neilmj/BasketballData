@@ -1,0 +1,62 @@
+<FE>
+  <HEADER competition="International Basketball Tournament Dubrovnik" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/5422498C-C013-4808-BD28-B73AAFD84A79.jpg" duration="31.2009">
+    <TEAM name="Greece U19" logo="" pts="80" fouls="10" />
+    <TEAM name="Australia U19" logo="" pts="67" fouls="7" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="22" scoreB="13" />
+      <QUARTER n="2" scoreA="17" scoreB="18" />
+      <QUARTER n="3" scoreA="17" scoreB="9" />
+      <QUARTER n="4" scoreA="24" scoreB="27" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="0">
+    <TEAM name="Greece U19">
+      <TEAMACTIONS ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="20" p1a="23" p1p="87.0" p2m="21" p2a="36" p2p="58.3" p3m="6" p3a="18" p3p="33.3" fgm="27" fga="54" fgp="50.0" as="14" bs="7" br="0" pts="80" ro="7" rd="28" rt="35" pf="28" rf="26" to="22" st="10" in="0" ind="0" />
+      <PLAYER no="4" name="V. TOLIOPOULOS" min="26:37" sta="True" p1m="6" p1a="6" p1p="100.0" p2m="3" p2a="6" p2p="50.0" p3m="1" p3a="4" p3p="25.0" fgm="4" fga="10" fgp="40.0" as="6" bs="0" br="0" pts="15" ro="0" rd="4" rt="4" pf="2" rf="5" to="2" st="1" in="1" ind="25" />
+      <PLAYER no="5" name="M. LOUNTZIS" min="18:02" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="1" p2a="1" p2p="100.0" p3m="1" p3a="2" p3p="50.0" fgm="2" fga="3" fgp="66.7" as="2" bs="0" br="0" pts="6" ro="0" rd="3" rt="3" pf="2" rf="3" to="2" st="2" in="1" ind="12" />
+      <PLAYER no="6" name="V. MOURATOS" min="06:53" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="3" rf="0" to="0" st="0" in="0" ind="-10" />
+      <PLAYER no="7" name="G. TSALBOURIS" min="04:52" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="0" bs="1" br="0" pts="2" ro="0" rd="1" rt="1" pf="3" rf="0" to="1" st="0" in="0" ind="3" />
+      <PLAYER no="8" name="K. MITOGLOU" min="27:48" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="6" p2a="8" p2p="75.0" p3m="0" p3a="0" p3p="0.0" fgm="6" fga="8" fgp="75.0" as="0" bs="0" br="0" pts="12" ro="1" rd="4" rt="5" pf="2" rf="0" to="3" st="0" in="1" ind="20" />
+      <PLAYER no="9" name="S. MPILLIS" min="07:20" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="0" br="0" pts="1" ro="0" rd="0" rt="0" pf="0" rf="1" to="1" st="0" in="0" ind="0" />
+      <PLAYER no="10" name="D. SKOULIDAS" min="14:51" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="1" p3a="2" p3p="50.0" fgm="1" fga="3" fgp="33.3" as="1" bs="1" br="0" pts="3" ro="0" rd="1" rt="1" pf="4" rf="0" to="2" st="3" in="0" ind="-5" />
+      <PLAYER no="11" name="V. CHRISTIDIS" min="05:18" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="1" br="0" pts="0" ro="0" rd="1" rt="1" pf="2" rf="0" to="0" st="0" in="0" ind="2" />
+      <PLAYER no="12" name="T. DORSEY" min="11:24" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="3" p3p="33.3" fgm="1" fga="3" fgp="33.3" as="0" bs="0" br="0" pts="3" ro="0" rd="2" rt="2" pf="2" rf="0" to="1" st="0" in="0" ind="-1" />
+      <PLAYER no="13" name="D. STAMATIS" min="26:36" sta="True" p1m="6" p1a="6" p1p="100.0" p2m="2" p2a="4" p2p="50.0" p3m="2" p3a="4" p3p="50.0" fgm="4" fga="8" fgp="50.0" as="2" bs="0" br="0" pts="16" ro="0" rd="1" rt="1" pf="3" rf="5" to="3" st="1" in="1" ind="6" />
+      <PLAYER no="14" name="G. PAPAGIANNIS" min="24:59" sta="True" p1m="4" p1a="5" p1p="80.0" p2m="7" p2a="10" p2p="70.0" p3m="0" p3a="0" p3p="0.0" fgm="7" fga="10" fgp="70.0" as="1" bs="4" br="0" pts="18" ro="2" rd="6" rt="8" pf="3" rf="6" to="4" st="2" in="1" ind="16" />
+      <PLAYER no="15" name="V. CHARALAMBOPOULOS" min="24:03" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="1" p2a="3" p2p="33.3" p3m="0" p3a="3" p3p="0.0" fgm="1" fga="6" fgp="16.7" as="1" bs="0" br="0" pts="4" ro="4" rd="5" rt="9" pf="2" rf="6" to="3" st="1" in="0" ind="6" />
+      <PLAYER no="16" name="T. KOTTAS" min="01:17" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="-9" />
+    </TEAM>
+    <TEAM name="Australia U19">
+      <TEAMACTIONS ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="16" p1a="22" p1p="72.7" p2m="15" p2a="35" p2p="42.9" p3m="7" p3a="21" p3p="33.3" fgm="22" fga="56" fgp="39.3" as="5" bs="1" br="0" pts="67" ro="6" rd="20" rt="26" pf="26" rf="28" to="20" st="12" in="0" ind="0" />
+      <PLAYER no="4" name="D. VASILJEVIĆ" min="26:26" sta="False" p1m="3" p1a="3" p1p="100.0" p2m="2" p2a="5" p2p="40.0" p3m="1" p3a="5" p3p="20.0" fgm="3" fga="10" fgp="30.0" as="0" bs="0" br="0" pts="10" ro="0" rd="2" rt="2" pf="1" rf="2" to="1" st="1" in="0" ind="-12" />
+      <PLAYER no="5" name="A. GLOVER" min="08:42" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="1" rf="0" to="1" st="0" in="1" ind="-9" />
+      <PLAYER no="6" name="T. KREBS" min="20:56" sta="False" p1m="4" p1a="4" p1p="100.0" p2m="0" p2a="3" p2p="0.0" p3m="2" p3a="3" p3p="66.7" fgm="2" fga="6" fgp="33.3" as="2" bs="0" br="0" pts="10" ro="0" rd="3" rt="3" pf="4" rf="2" to="2" st="1" in="1" ind="-7" />
+      <PLAYER no="7" name="T. WILSON" min="17:52" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="1" p3a="4" p3p="25.0" fgm="2" fga="6" fgp="33.3" as="0" bs="0" br="0" pts="5" ro="0" rd="1" rt="1" pf="2" rf="4" to="2" st="2" in="0" ind="-5" />
+      <PLAYER no="8" name="G. BLAGOJEVIĆ" min="07:38" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="1" p3p="100.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="3" ro="0" rd="0" rt="0" pf="1" rf="0" to="1" st="0" in="1" ind="7" />
+      <PLAYER no="9" name="W. MCDOWELL-WHITE" min="22:25" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="2" p2a="3" p2p="66.7" p3m="0" p3a="2" p3p="0.0" fgm="2" fga="5" fgp="40.0" as="1" bs="1" br="0" pts="6" ro="0" rd="2" rt="2" pf="1" rf="3" to="2" st="1" in="1" ind="-4" />
+      <PLAYER no="10" name="J. WHITE" min="18:09" sta="True" p1m="1" p1a="4" p1p="25.0" p2m="3" p2a="8" p2p="37.5" p3m="1" p3a="2" p3p="50.0" fgm="4" fga="10" fgp="40.0" as="0" bs="0" br="0" pts="10" ro="2" rd="1" rt="3" pf="5" rf="5" to="0" st="3" in="0" ind="2" />
+      <PLAYER no="11" name="K. CLARK" min="22:08" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="4" p3p="25.0" fgm="1" fga="4" fgp="25.0" as="0" bs="0" br="0" pts="3" ro="0" rd="2" rt="2" pf="1" rf="1" to="2" st="1" in="0" ind="-8" />
+      <PLAYER no="12" name="J. MCVEIGH" min="15:44" sta="False" p1m="3" p1a="5" p1p="60.0" p2m="6" p2a="10" p2p="60.0" p3m="0" p3a="0" p3p="0.0" fgm="6" fga="10" fgp="60.0" as="1" bs="0" br="0" pts="15" ro="2" rd="3" rt="5" pf="1" rf="5" to="2" st="2" in="0" ind="-16" />
+      <PLAYER no="13" name="J. HUNTER" min="09:02" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="2" rt="2" pf="5" rf="1" to="2" st="0" in="0" ind="-2" />
+      <PLAYER no="14" name="D. GAK" min="18:10" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="1" p2a="3" p2p="33.3" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="3" fgp="33.3" as="0" bs="0" br="0" pts="3" ro="0" rd="4" rt="4" pf="2" rf="2" to="2" st="1" in="1" ind="-11" />
+      <PLAYER no="15" name="G. MCKAY" min="12:48" sta="False" p1m="2" p1a="2" p1p="100.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="1" bs="0" br="0" pts="2" ro="2" rd="0" rt="2" pf="2" rf="3" to="3" st="0" in="0" ind="0" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="62.4318">
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68536" GameCode="" TeamA="Greece U19" ScoreA="80" TeamB="Australia U19" ScoreB="67" StartTime="17:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68537" GameCode="" TeamA="Croatia U20" ScoreA="60" TeamB="Turkey U19" ScoreB="65" StartTime="19:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68419" GameCode="" TeamA="KK ZAGREB" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ PRIMOŠTEN" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68420" GameCode="" TeamA="KK VUČIĆI WOLFSCLUB" ScoreA="0" TeamB="KK RUDEŠ" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68421" GameCode="" TeamA="KK ZAPAD" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68422" GameCode="" TeamA="ŠK ZADAR" ScoreA="0" TeamB="KK SESVETE" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68423" GameCode="" TeamA="KK VINDIJA" ScoreA="0" TeamB="KK ZAGREB" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68424" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK CEDEVITA II" ScoreB="0" StartTime="10:30:00" LogoB="http://live.fibaeurope.com/www/gallery/DDA37C2A-CCB6-4CB7-A20E-DC44CDDFC40F.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68425" GameCode="" TeamA="KK BOROVO" ScoreA="0" TeamB="ŠK ZADAR" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68426" GameCode="" TeamA="KK ČAKOVEC" ScoreA="0" TeamB="KK CRIKVENICA" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" LogoB="http://live.fibaeurope.com/www/gallery/E589009C-4D20-4EDB-92B0-AA2D1D3ED750.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68427" GameCode="" TeamA="KK SLAVONSKI BROD 1946" ScoreA="0" TeamB="KK VINDIJA" ScoreB="0" StartTime="12:20:00" LogoB="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68428" GameCode="" TeamA="KK RI BASKET" ScoreA="0" TeamB="KK ZAPAD" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9B47AB14-346D-48D1-8BCB-2B38D00952C5.jpg" Quarter="0" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/3E5C6046-13C6-42E4-88B5-610B39FAF8AE.gif" duration="15.5746" />
+</FE>

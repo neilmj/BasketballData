@@ -1,0 +1,190 @@
+<FE>
+  <HEADER competition="International Basketball Tournament Dubrovnik" quarter="4" time="00:00" logo="http://live.fibaeurope.com/www/gallery/5422498C-C013-4808-BD28-B73AAFD84A79.jpg" duration="46.7989">
+    <TEAM name="Croatia U19" logo="" pts="99" fouls="6" />
+    <TEAM name="Australia U19" logo="" pts="59" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="22" scoreB="12" />
+      <QUARTER n="2" scoreA="28" scoreB="16" />
+      <QUARTER n="3" scoreA="30" scoreB="18" />
+      <QUARTER n="4" scoreA="19" scoreB="13" />
+    </QUARTERS>
+  </HEADER>
+  <SHOTCHART Quarters="4" duration="93.5874">
+    <TEAM Name="Croatia U19">
+      <P N="I. VUČIĆ" Nr="4" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="I. KARAČIĆ" Nr="5" FGP="75.0" FTP="50.0" P2P="100.0" P3P="0.0" PTS="7" />
+      <P N="I. MAJCUNIĆ" Nr="6" FGP="60.0" FTP="0.0" P2P="0.0" P3P="75.0" PTS="9" />
+      <P N="R. BADŽIM" Nr="7" FGP="33.3" FTP="0.0" P2P="0.0" P3P="33.3" PTS="3" />
+      <P N="L. BOŽIĆ" Nr="8" FGP="83.3" FTP="60.0" P2P="80.0" P3P="100.0" PTS="14" />
+      <P N="I. VRANEŠ" Nr="9" FGP="66.7" FTP="0.0" P2P="66.7" P3P="0.0" PTS="8" />
+      <P N="N. SLAVICA" Nr="10" FGP="66.7" FTP="0.0" P2P="100.0" P3P="33.3" PTS="9" />
+      <P N="L. MAZALIN" Nr="11" FGP="25.0" FTP="100.0" P2P="25.0" P3P="0.0" PTS="4" />
+      <P N="D. BENDER" Nr="12" FGP="60.0" FTP="80.0" P2P="66.7" P3P="0.0" PTS="20" />
+      <P N="M. JURICA" Nr="13" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="A. ŽIŽIĆ" Nr="14" FGP="50.0" FTP="100.0" P2P="50.0" P3P="0.0" PTS="6" />
+      <P N="M. ARAPOVIĆ " Nr="15" FGP="42.9" FTP="100.0" P2P="33.3" P3P="100.0" PTS="8" />
+      <P N="I. ZUBAC" Nr="22" FGP="100.0" FTP="33.3" P2P="100.0" P3P="0.0" PTS="11" />
+    </TEAM>
+    <TEAM Name="Australia U19">
+      <P N="D. VASILJEVIĆ" Nr="4" FGP="12.5" FTP="0.0" P2P="0.0" P3P="16.7" PTS="3" />
+      <P N="A. GLOVER" Nr="5" FGP="33.3" FTP="50.0" P2P="50.0" P3P="0.0" PTS="4" />
+      <P N="T. KREBS" Nr="6" FGP="50.0" FTP="0.0" P2P="66.7" P3P="0.0" PTS="4" />
+      <P N="T. WILSON" Nr="7" FGP="14.3" FTP="100.0" P2P="0.0" P3P="25.0" PTS="9" />
+      <P N="G. BLAGOJEVIĆ" Nr="8" FGP="33.3" FTP="0.0" P2P="50.0" P3P="0.0" PTS="2" />
+      <P N="W. MCDOWELL-WHITE" Nr="9" FGP="20.0" FTP="0.0" P2P="25.0" P3P="0.0" PTS="2" />
+      <P N="J. WHITE" Nr="10" FGP="50.0" FTP="50.0" P2P="57.1" P3P="0.0" PTS="10" />
+      <P N="K. CLARK" Nr="11" FGP="75.0" FTP="50.0" P2P="100.0" P3P="0.0" PTS="13" />
+      <P N="J. MCVEIGH" Nr="12" FGP="28.6" FTP="50.0" P2P="33.3" P3P="0.0" PTS="5" />
+      <P N="J. HUNTER" Nr="13" FGP="66.7" FTP="75.0" P2P="66.7" P3P="0.0" PTS="7" />
+      <P N="D. GAK" Nr="14" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="G. MCKAY" Nr="15" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+    </TEAM>
+    <SHOTS>
+      <S m="1" t="09:22" x="406" y="361" team="0" player="15" quarter="1" />
+      <S m="1" t="09:04" x="541" y="177" team="0" player="12" quarter="1" />
+      <S m="1" t="08:50" x="1444" y="237" team="1" player="7" quarter="1" />
+      <S m="1" t="08:27" x="662" y="729" team="0" player="11" quarter="1" />
+      <S m="0" t="08:23" x="553" y="263" team="1" player="9" quarter="1" />
+      <S m="0" t="07:58" x="759" y="158" team="1" player="13" quarter="1" />
+      <S m="1" t="07:24" x="214" y="402" team="0" player="11" quarter="1" />
+      <S m="0" t="07:17" x="346" y="286" team="0" player="12" quarter="1" />
+      <S m="1" t="07:01" x="1244" y="195" team="1" player="7" quarter="1" />
+      <S m="0" t="06:50" x="782" y="165" team="1" player="10" quarter="1" />
+      <S m="0" t="06:42" x="654" y="188" team="0" player="15" quarter="1" />
+      <S m="0" t="06:22" x="605" y="192" team="0" player="10" quarter="1" />
+      <S m="1" t="05:35" x="124" y="402" team="0" player="15" quarter="1" />
+      <S m="1" t="05:25" x="1462" y="226" team="1" player="8" quarter="1" />
+      <S m="1" t="04:38" x="372" y="233" team="0" player="11" quarter="1" />
+      <S m="0" t="04:29" x="632" y="267" team="1" player="8" quarter="1" />
+      <S m="1" t="04:06" x="511" y="289" team="0" player="12" quarter="1" />
+      <S m="0" t="04:02" x="752" y="154" team="0" player="14" quarter="1" />
+      <S m="0" t="03:36" x="49" y="173" team="0" player="7" quarter="1" />
+      <S m="1" t="03:18" x="1432" y="226" team="1" player="5" quarter="1" />
+      <S m="0" t="03:01" x="820" y="195" team="0" player="12" quarter="1" />
+      <S m="1" t="02:54" x="883" y="252" team="1" player="5" quarter="1" />
+      <S m="1" t="02:41" x="83" y="361" team="0" player="6" quarter="1" />
+      <S m="0" t="02:38" x="489" y="229" team="0" player="12" quarter="1" />
+      <S m="0" t="02:24" x="594" y="338" team="1" player="6" quarter="1" />
+      <S m="0" t="02:13" x="602" y="263" team="0" player="8" quarter="1" />
+      <S m="0" t="01:21" x="895" y="244" team="0" player="8" quarter="1" />
+      <S m="0" t="00:28" x="650" y="327" team="0" player="12" quarter="1" />
+      <S m="1" t="00:05" x="898" y="252" team="1" player="7" quarter="1" />
+      <S m="1" t="09:16" x="617" y="327" team="0" player="15" quarter="2" />
+      <S m="0" t="09:13" x="733" y="278" team="0" player="12" quarter="2" />
+      <S m="0" t="08:58" x="793" y="914" team="1" player="7" quarter="2" />
+      <S m="0" t="08:22" x="921" y="297" team="1" player="11" quarter="2" />
+      <S m="1" t="07:58" x="64" y="301" team="0" player="7" quarter="2" />
+      <S m="0" t="07:41" x="910" y="342" team="0" player="14" quarter="2" />
+      <S m="1" t="07:20" x="868" y="895" team="1" player="11" quarter="2" />
+      <S m="0" t="07:00" x="620" y="278" team="1" player="11" quarter="2" />
+      <S m="1" t="06:39" x="477" y="305" team="0" player="8" quarter="2" />
+      <S m="1" t="06:29" x="1429" y="297" team="1" player="12" quarter="2" />
+      <S m="1" t="06:17" x="346" y="395" team="0" player="15" quarter="2" />
+      <S m="0" t="06:10" x="53" y="229" team="0" player="8" quarter="2" />
+      <S m="0" t="05:37" x="639" y="320" team="0" player="10" quarter="2" />
+      <S m="1" t="05:18" x="1436" y="444" team="1" player="4" quarter="2" />
+      <S m="0" t="05:00" x="891" y="256" team="0" player="10" quarter="2" />
+      <S m="0" t="04:54" x="774" y="169" team="1" player="6" quarter="2" />
+      <S m="0" t="04:38" x="617" y="256" team="0" player="12" quarter="2" />
+      <S m="0" t="04:28" x="34" y="342" team="1" player="4" quarter="2" />
+      <S m="0" t="04:01" x="632" y="342" team="1" player="10" quarter="2" />
+      <S m="1" t="03:21" x="1222" y="771" team="1" player="4" quarter="2" />
+      <S m="1" t="03:09" x="117" y="579" team="0" player="12" quarter="2" />
+      <S m="1" t="03:05" x="617" y="910" team="1" player="4" quarter="2" />
+      <S m="1" t="02:39" x="1455" y="278" team="1" player="6" quarter="2" />
+      <S m="0" t="02:22" x="617" y="308" team="0" player="22" quarter="2" />
+      <S m="1" t="02:11" x="1203" y="703" team="1" player="7" quarter="2" />
+      <S m="1" t="02:00" x="1094" y="357" team="1" player="6" quarter="2" />
+      <S m="0" t="01:49" x="455" y="353" team="0" player="8" quarter="2" />
+      <S m="1" t="01:19" x="64" y="327" team="0" player="7" quarter="2" />
+      <S m="0" t="01:05" x="346" y="244" team="0" player="5" quarter="2" />
+      <S m="1" t="00:48" x="1474" y="286" team="1" player="4" quarter="2" />
+      <S m="0" t="00:36" x="677" y="312" team="0" player="22" quarter="2" />
+      <S m="1" t="00:19" x="1436" y="244" team="1" player="11" quarter="2" />
+      <S m="1" t="09:57" x="650" y="301" team="0" player="14" quarter="3" />
+      <S m="0" t="09:57" x="526" y="289" team="0" player="9" quarter="3" />
+      <S m="0" t="09:47" x="759" y="169" team="1" player="10" quarter="3" />
+      <S m="0" t="08:29" x="602" y="259" team="1" player="13" quarter="3" />
+      <S m="0" t="08:15" x="38" y="218" team="0" player="15" quarter="3" />
+      <S m="1" t="08:08" x="583" y="207" team="1" player="10" quarter="3" />
+      <S m="0" t="07:50" x="632" y="293" team="1" player="11" quarter="3" />
+      <S m="1" t="07:27" x="857" y="192" team="1" player="9" quarter="3" />
+      <S m="1" t="06:37" x="515" y="293" team="0" player="14" quarter="3" />
+      <S m="0" t="06:37" x="598" y="263" team="0" player="9" quarter="3" />
+      <S m="1" t="06:19" x="1154" y="827" team="1" player="10" quarter="3" />
+      <S m="0" t="05:40" x="898" y="274" team="0" player="15" quarter="3" />
+      <S m="1" t="05:22" x="1368" y="586" team="1" player="7" quarter="3" />
+      <S m="0" t="05:15" x="538" y="256" team="0" player="8" quarter="3" />
+      <S m="1" t="04:59" x="1470" y="207" team="1" player="4" quarter="3" />
+      <S m="1" t="04:44" x="793" y="252" team="1" player="7" quarter="3" />
+      <S m="0" t="04:33" x="816" y="282" team="0" player="11" quarter="3" />
+      <S m="0" t="04:16" x="883" y="192" team="1" player="11" quarter="3" />
+      <S m="1" t="04:02" x="86" y="534" team="0" player="10" quarter="3" />
+      <S m="0" t="03:32" x="695" y="274" team="1" player="12" quarter="3" />
+      <S m="0" t="03:18" x="684" y="263" team="0" player="9" quarter="3" />
+      <S m="1" t="02:10" x="1071" y="188" team="1" player="12" quarter="3" />
+      <S m="0" t="01:58" x="744" y="338" team="1" player="5" quarter="3" />
+      <S m="1" t="01:31" x="466" y="320" team="0" player="12" quarter="3" />
+      <S m="1" t="01:25" x="981" y="353" team="1" player="4" quarter="3" />
+      <S m="1" t="00:49" x="481" y="259" team="1" player="12" quarter="3" />
+      <S m="1" t="00:47" x="872" y="301" team="1" player="12" quarter="3" />
+      <S m="0" t="00:36" x="109" y="526" team="0" player="6" quarter="3" />
+      <S m="0" t="00:06" x="237" y="677" team="0" player="10" quarter="3" />
+      <S m="1" t="09:36" x="49" y="237" team="0" player="5" quarter="4" />
+      <S m="0" t="09:04" x="639" y="271" team="1" player="12" quarter="4" />
+      <S m="1" t="08:33" x="79" y="320" team="1" player="9" quarter="4" />
+      <S m="1" t="08:20" x="68" y="624" team="0" player="10" quarter="4" />
+      <S m="1" t="07:55" x="492" y="402" team="1" player="12" quarter="4" />
+      <S m="0" t="07:30" x="665" y="459" team="0" player="5" quarter="4" />
+      <S m="0" t="07:01" x="534" y="278" team="0" player="22" quarter="4" />
+      <S m="0" t="06:15" x="556" y="406" team="0" player="5" quarter="4" />
+      <S m="1" t="06:00" x="628" y="353" team="1" player="8" quarter="4" />
+      <S m="0" t="05:54" x="744" y="154" team="1" player="10" quarter="4" />
+      <S m="0" t="05:36" x="53" y="169" team="0" player="6" quarter="4" />
+      <S m="1" t="04:53" x="1207" y="402" team="0" player="13" quarter="4" />
+      <S m="1" t="04:15" x="470" y="331" team="0" player="9" quarter="4" />
+      <S m="0" t="04:14" x="774" y="286" team="0" player="22" quarter="4" />
+      <S m="1" t="04:03" x="256" y="222" team="1" player="10" quarter="4" />
+      <S m="1" t="03:35" x="797" y="293" team="1" player="10" quarter="4" />
+      <S m="1" t="02:24" x="331" y="365" team="1" player="4" quarter="4" />
+      <S m="0" t="02:08" x="624" y="323" team="0" player="9" quarter="4" />
+      <S m="1" t="01:56" x="876" y="312" team="1" player="13" quarter="4" />
+      <S m="1" t="01:39" x="154" y="624" team="0" player="4" quarter="4" />
+      <S m="1" t="01:33" x="1038" y="267" team="1" player="9" quarter="4" />
+      <S m="0" t="01:23" x="891" y="350" team="0" player="22" quarter="4" />
+      <S m="0" t="01:23" x="602" y="327" team="1" player="11" quarter="4" />
+      <S m="1" t="01:04" x="305" y="714" team="0" player="13" quarter="4" />
+      <S m="0" t="00:47" x="771" y="154" team="1" player="11" quarter="4" />
+      <S m="1" t="00:25" x="726" y="308" team="0" player="6" quarter="4" />
+      <S m="1" t="00:25" x="335" y="297" team="0" player="9" quarter="4" />
+      <S m="1" t="00:25" x="1173" y="308" team="1" player="9" quarter="4" />
+      <S m="0" t="00:15" x="996" y="850" team="0" player="6" quarter="4" />
+    </SHOTS>
+  </SHOTCHART>
+  <OVERVIEW duration="78.0031">
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68536" GameCode="" TeamA="Greece U19" ScoreA="80" TeamB="Australia U19" ScoreB="67" StartTime="17:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68537" GameCode="" TeamA="Croatia U20" ScoreA="60" TeamB="Turkey U19" ScoreB="65" StartTime="19:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68419" GameCode="" TeamA="KK ZAGREB" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ PRIMOŠTEN" ScoreB="0" StartTime="08:30:00" LogoA="http://live.fibaeurope.com/www/gallery/3FEF344B-6D17-46BA-B3C8-D415EAFC1A63.jpg" LogoB="http://live.fibaeurope.com/www/gallery/9E2C2C6C-4FFC-4D56-BFF4-626B15532146.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68420" GameCode="" TeamA="KK VUČIĆI WOLFSCLUB" ScoreA="0" TeamB="KK RUDEŠ" ScoreB="0" StartTime="08:30:00" LogoA="http://live.fibaeurope.com/www/gallery/3DED2F2D-F9ED-45FF-BD86-96903BEEAADC.jpg" LogoB="http://live.fibaeurope.com/www/gallery/FD7D60FA-5599-4F26-870E-6C77DDC39A6D.png" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68421" GameCode="" TeamA="KK ZAPAD" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreB="0" StartTime="09:30:00" LogoA="http://live.fibaeurope.com/www/gallery/F5C24259-BBBE-4761-9517-1D529FC6443A.jpg" LogoB="http://live.fibaeurope.com/www/gallery/9E2C2C6C-4FFC-4D56-BFF4-626B15532146.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68422" GameCode="" TeamA="ŠK ZADAR" ScoreA="0" TeamB="KK SESVETE" ScoreB="0" StartTime="09:30:00" LogoA="http://live.fibaeurope.com/www/gallery/3877227F-1EEE-4F35-B2E3-9B71B2B24842.png" LogoB="http://live.fibaeurope.com/www/gallery/A1AD4DE4-D1ED-4B05-9952-81EDC7F14280.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68423" GameCode="" TeamA="KK VINDIJA" ScoreA="0" TeamB="KK ZAGREB" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" LogoB="http://live.fibaeurope.com/www/gallery/3FEF344B-6D17-46BA-B3C8-D415EAFC1A63.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68424" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK CEDEVITA II" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/2082E3F1-CF7B-45E8-AD79-BD03029E3B35.jpg" LogoB="http://live.fibaeurope.com/www/gallery/DDA37C2A-CCB6-4CB7-A20E-DC44CDDFC40F.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68425" GameCode="" TeamA="KK BOROVO" ScoreA="0" TeamB="ŠK ZADAR" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" LogoB="http://live.fibaeurope.com/www/gallery/3877227F-1EEE-4F35-B2E3-9B71B2B24842.png" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68426" GameCode="" TeamA="KK ČAKOVEC" ScoreA="0" TeamB="KK CRIKVENICA" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" LogoB="http://live.fibaeurope.com/www/gallery/E589009C-4D20-4EDB-92B0-AA2D1D3ED750.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68427" GameCode="" TeamA="KK SLAVONSKI BROD 1946" ScoreA="0" TeamB="KK VINDIJA" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/1C360D24-972D-4A1A-A247-7053A4905FDB.jpg" LogoB="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68428" GameCode="" TeamA="KK RI BASKET" ScoreA="0" TeamB="KK ZAPAD" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9B47AB14-346D-48D1-8BCB-2B38D00952C5.jpg" LogoB="http://live.fibaeurope.com/www/gallery/F5C24259-BBBE-4761-9517-1D529FC6443A.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68429" GameCode="" TeamA="KK ZARA" ScoreA="0" TeamB="KK CRES" ScoreB="0" StartTime="13:15:00" LogoA="http://live.fibaeurope.com/www/gallery/6F798D39-34BF-440A-B194-846DAF273839.jpg" LogoB="http://live.fibaeurope.com/www/gallery/5FF014CE-A798-4D3B-9D44-E60BFD3A9590.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68430" GameCode="" TeamA="KS ZAGREBAČKE ŽUPANIJE" ScoreA="0" TeamB="KK ČAKOVEC" ScoreB="0" StartTime="13:15:00" LogoA="http://live.fibaeurope.com/www/gallery/7F7D38A1-DF1A-48E8-868C-45DD13DCCDAB.jpg" LogoB="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68431" GameCode="" TeamA="KK VOŠTARNICA" ScoreA="0" TeamB="KK FSV" ScoreB="0" StartTime="14:10:00" LogoA="http://live.fibaeurope.com/www/gallery/2FC8B46C-4328-475B-93FE-974FEA20911C.jpg" LogoB="http://live.fibaeurope.com/www/gallery/7DB8F018-BBAC-42B0-AC26-298B3839FB7E.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68432" GameCode="" TeamA="KK DUBROVNIK" ScoreA="0" TeamB="KK SLAVONSKI BROD 1946" ScoreB="0" StartTime="14:10:00" LogoA="http://live.fibaeurope.com/www/gallery/D960F267-820F-4C87-9352-EF9E7C8E902A.jpg" LogoB="http://live.fibaeurope.com/www/gallery/1C360D24-972D-4A1A-A247-7053A4905FDB.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68450" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK DUBRAVA" ScoreB="0" StartTime="14:10:00" LogoA="http://live.fibaeurope.com/www/gallery/2082E3F1-CF7B-45E8-AD79-BD03029E3B35.jpg" LogoB="http://live.fibaeurope.com/www/gallery/39F1BBC1-90F5-4380-BA35-8DF9E518A804.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68433" GameCode="" TeamA="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreA="0" TeamB="KK ADRIATIC" ScoreB="0" StartTime="15:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9E2C2C6C-4FFC-4D56-BFF4-626B15532146.jpg" LogoB="http://live.fibaeurope.com/www/gallery/47ED9977-075E-4541-AF50-784D589907F7.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68435" GameCode="" TeamA="KK VUČIĆI" ScoreA="0" TeamB="KK SEDAM" ScoreB="0" StartTime="15:20:00" LogoA="http://live.fibaeurope.com/www/gallery/3DED2F2D-F9ED-45FF-BD86-96903BEEAADC.jpg" LogoB="http://live.fibaeurope.com/www/gallery/8F086EA3-2092-4D24-9B8E-39187E1AD09A.png" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68451" GameCode="" TeamA="KK KASTAV" ScoreA="0" TeamB="KK BOROVO" ScoreB="0" StartTime="15:20:00" LogoA="http://live.fibaeurope.com/www/gallery/A0857187-7BA6-4583-98A2-D659DDB51E85.jpg" LogoB="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68436" GameCode="" TeamA="KK JOLLY JBŠ" ScoreA="0" TeamB="KS ZAGREBAČKE ŽUPANIJE" ScoreB="0" StartTime="16:15:00" LogoA="http://live.fibaeurope.com/www/gallery/08CF54DD-B14C-4419-81AF-21390AE9A992.jpg" LogoB="http://live.fibaeurope.com/www/gallery/7F7D38A1-DF1A-48E8-868C-45DD13DCCDAB.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68437" GameCode="" TeamA="KA HRVATSKI SOKOL" ScoreA="0" TeamB="KK TROGIR" ScoreB="0" StartTime="16:15:00" LogoA="http://live.fibaeurope.com/www/gallery/C89D9468-5CE0-4B73-B265-72D1C712AFF9.jpg" LogoB="http://live.fibaeurope.com/www/gallery/B3ED9033-6E28-4DC2-B7CF-69632E4BDA6E.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68452" GameCode="" TeamA="KK SESVETE" ScoreA="0" TeamB="KK AMFORA" ScoreB="0" StartTime="16:15:00" LogoA="http://live.fibaeurope.com/www/gallery/A1AD4DE4-D1ED-4B05-9952-81EDC7F14280.jpg" LogoB="http://live.fibaeurope.com/www/gallery/ACAB8432-9B3F-40B1-B048-95BD60B1654B.jpg" Quarter="0" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/3E5C6046-13C6-42E4-88B5-610B39FAF8AE.gif" duration="15.59" />
+</FE>

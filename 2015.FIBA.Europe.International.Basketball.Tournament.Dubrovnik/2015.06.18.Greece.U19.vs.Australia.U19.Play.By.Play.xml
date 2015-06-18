@@ -1,0 +1,57 @@
+<FE>
+  <HEADER competition="International Basketball Tournament Dubrovnik" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/5422498C-C013-4808-BD28-B73AAFD84A79.jpg" duration="46.8136">
+    <TEAM name="Greece U19" logo="" pts="80" fouls="10" />
+    <TEAM name="Australia U19" logo="" pts="67" fouls="7" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="22" scoreB="13" />
+      <QUARTER n="2" scoreA="17" scoreB="18" />
+      <QUARTER n="3" scoreA="17" scoreB="9" />
+      <QUARTER n="4" scoreA="24" scoreB="27" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Bench points: Greece U19 - 15, Australia U19 - 43" duration="31.1976">
+    <ITEM text="Blocks: Greece U19 - 7, Australia U19 - 1" />
+  </TICKER>
+  <OVERVIEW duration="62.4238">
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68536" GameCode="" TeamA="Greece U19" ScoreA="80" TeamB="Australia U19" ScoreB="67" StartTime="17:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68537" GameCode="" TeamA="Croatia U20" ScoreA="60" TeamB="Turkey U19" ScoreB="65" StartTime="19:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68419" GameCode="" TeamA="KK ZAGREB" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ PRIMOŠTEN" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68420" GameCode="" TeamA="KK VUČIĆI WOLFSCLUB" ScoreA="0" TeamB="KK RUDEŠ" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68421" GameCode="" TeamA="KK ZAPAD" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68422" GameCode="" TeamA="ŠK ZADAR" ScoreA="0" TeamB="KK SESVETE" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68423" GameCode="" TeamA="KK VINDIJA" ScoreA="0" TeamB="KK ZAGREB" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68424" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK CEDEVITA II" ScoreB="0" StartTime="10:30:00" LogoB="http://live.fibaeurope.com/www/gallery/DDA37C2A-CCB6-4CB7-A20E-DC44CDDFC40F.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68425" GameCode="" TeamA="KK BOROVO" ScoreA="0" TeamB="ŠK ZADAR" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68426" GameCode="" TeamA="KK ČAKOVEC" ScoreA="0" TeamB="KK CRIKVENICA" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" LogoB="http://live.fibaeurope.com/www/gallery/E589009C-4D20-4EDB-92B0-AA2D1D3ED750.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68427" GameCode="" TeamA="KK SLAVONSKI BROD 1946" ScoreA="0" TeamB="KK VINDIJA" ScoreB="0" StartTime="12:20:00" LogoB="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68428" GameCode="" TeamA="KK RI BASKET" ScoreA="0" TeamB="KK ZAPAD" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9B47AB14-346D-48D1-8BCB-2B38D00952C5.jpg" Quarter="0" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="93.5828">
+    <LINE num="348" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="347" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="346" text="[AUS] G. BLAGOJEVIĆ - 3pt jump shot made (fast break, 3 Pts)" team="2" time="00:01" scoreA="80" scoreB="67" />
+    <LINE num="345" text="[GRE] V. TOLIOPOULOS - 2pt lay-up made (15 Pts)" team="1" time="00:08" scoreA="80" scoreB="64" />
+    <LINE num="344" text="[AUS] T. KREBS - 2pt jump shot missed. M. LOUNTZIS - defensive rebound (3 REB)" team="2" time="00:25" />
+    <LINE num="343" text="[GRE] K. MITOGLOU - 2pt lay-up made (12 Pts). V. TOLIOPOULOS - assist (6 AS)" team="1" time="00:35" scoreA="78" scoreB="64" />
+    <LINE num="342" text="[AUS] D. GAK - 2pt dunk made (3 Pts)" team="2" time="00:54" scoreA="76" scoreB="64" />
+    <LINE num="341" text="[GRE] D. STAMATIS - 2pt jump shot made (16 Pts)" team="1" time="01:09" scoreA="76" scoreB="62" />
+    <LINE num="340" text="[AUS] D. GAK - turnover (out of bounds, 2 TO)" team="2" time="01:21" />
+    <LINE num="339" text="[GRE] M. LOUNTZIS - free throw missed. D. GAK - defensive rebound (4 REB)" team="1" time="01:26" />
+    <LINE num="338" text="[GRE] M. LOUNTZIS - free throw made (6 Pts)" team="1" time="01:26" scoreA="74" scoreB="62" />
+    <LINE num="337" text="[AUS] A. GLOVER - personal shooting foul (1 PF, 7th team foul). 2 free throws awarded. Foul drawn: M. LOUNTZIS" team="2" time="01:26" />
+    <LINE num="336" text="[AUS] T. KREBS - 3pt jump shot made (fast break, 10 Pts)" team="2" time="01:26" scoreA="73" scoreB="62" />
+    <LINE num="335" text="[GRE] V. TOLIOPOULOS - free throw made (13 Pts)" team="1" time="01:26" scoreA="73" scoreB="59" />
+    <LINE num="334" text="[GRE] V. TOLIOPOULOS - free throw made (12 Pts)" team="1" time="01:26" scoreA="72" scoreB="59" />
+    <LINE num="333" text="[AUS] J. WHITE - personal shooting foul (5 PF, 6th team foul). 2 free throws awarded. Foul drawn: V. TOLIOPOULOS. [AUS] Substitution - J. WHITE OUT, A. GLOVER IN" team="2" time="01:26" />
+    <LINE num="332" text="[AUS] J. WHITE - 2pt jump shot missed. D. STAMATIS - defensive rebound (1 REB)" team="2" time="01:26" />
+    <LINE num="331" text="[AUS] J. WHITE - 2pt jump shot missed. J. WHITE - offensive rebound (3 REB)" team="2" time="01:26" />
+    <LINE num="330" text="[AUS] J. WHITE - steal (3 ST)" team="2" time="01:26" />
+    <LINE num="329" text="[GRE] M. LOUNTZIS - turnover (bad pass, 2 TO)" team="1" time="01:26" />
+    <LINE num="328" text="[AUS] J. WHITE - 3pt jump shot missed. M. LOUNTZIS - defensive rebound (2 REB)" team="2" time="01:33" />
+    <LINE num="327" text="[GRE] D. STAMATIS - free throw made (14 Pts)" team="1" time="01:41" scoreA="71" scoreB="59" />
+    <LINE num="326" text="[GRE] D. STAMATIS - free throw made (13 Pts)" team="1" time="01:41" scoreA="70" scoreB="59" />
+    <LINE num="325" text="[AUS] W. MCDOWELL-WHITE - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: D. STAMATIS" team="2" time="01:41" />
+    <LINE num="324" text="[AUS] G. BLAGOJEVIĆ - personal  foul (1 PF, 4th team foul). Foul drawn: D. STAMATIS" team="2" time="01:47" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/3E5C6046-13C6-42E4-88B5-610B39FAF8AE.gif" duration="0" />
+</FE>

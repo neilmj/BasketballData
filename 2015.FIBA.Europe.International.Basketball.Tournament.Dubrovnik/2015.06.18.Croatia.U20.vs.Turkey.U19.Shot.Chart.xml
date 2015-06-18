@@ -1,0 +1,154 @@
+<FE>
+  <HEADER competition="International Basketball Tournament Dubrovnik" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/5422498C-C013-4808-BD28-B73AAFD84A79.jpg" duration="31.1984">
+    <TEAM name="Croatia U20" logo="" pts="60" fouls="9" />
+    <TEAM name="Turkey U19" logo="" pts="65" fouls="5" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="20" scoreB="13" />
+      <QUARTER n="2" scoreA="19" scoreB="20" />
+      <QUARTER n="3" scoreA="12" scoreB="16" />
+      <QUARTER n="4" scoreA="9" scoreB="16" />
+    </QUARTERS>
+  </HEADER>
+  <SHOTCHART Quarters="4" duration="31.1849">
+    <TEAM Name="Croatia U20">
+      <P N="J. GULAM" Nr="4" FGP="60.0" FTP="0.0" P2P="100.0" P3P="33.3" PTS="7" />
+      <P N="J. BOBAN" Nr="5" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="M. BILANDŽIĆ" Nr="6" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="D. BOŠNJAK" Nr="7" FGP="40.0" FTP="0.0" P2P="50.0" P3P="37.5" PTS="11" />
+      <P N="A. ĆORIĆ" Nr="9" FGP="55.6" FTP="75.0" P2P="80.0" P3P="25.0" PTS="14" />
+      <P N="B. ŠPANJA" Nr="10" FGP="0.0" FTP="50.0" P2P="0.0" P3P="0.0" PTS="1" />
+      <P N="B. ŽGANEC" Nr="11" FGP="33.3" FTP="0.0" P2P="50.0" P3P="0.0" PTS="2" />
+      <P N="J. PERIĆ" Nr="12" FGP="40.0" FTP="0.0" P2P="50.0" P3P="0.0" PTS="4" />
+      <P N="J. JUKIĆ" Nr="14" FGP="50.0" FTP="0.0" P2P="50.0" P3P="0.0" PTS="4" />
+      <P N="M. PALETA" Nr="16" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="M. RADUNIĆ" Nr="17" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="I. JUKIĆ" Nr="18" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+    </TEAM>
+    <TEAM Name="Turkey U19" />
+    <SHOTS>
+      <S m="1" t="09:42" x="248" y="229" team="1" player="15" quarter="1" />
+      <S m="1" t="09:22" x="722" y="237" team="0" player="12" quarter="1" />
+      <S m="0" t="09:20" x="635" y="297" team="0" player="14" quarter="1" />
+      <S m="1" t="09:04" x="778" y="286" team="1" player="11" quarter="1" />
+      <S m="1" t="08:56" x="534" y="286" team="0" player="14" quarter="1" />
+      <S m="1" t="08:37" x="485" y="286" team="0" player="14" quarter="1" />
+      <S m="1" t="08:29" x="643" y="402" team="0" player="5" quarter="1" />
+      <S m="0" t="08:24" x="1038" y="316" team="1" player="15" quarter="1" />
+      <S m="1" t="07:59" x="444" y="346" team="0" player="5" quarter="1" />
+      <S m="1" t="07:51" x="1466" y="383" team="1" player="15" quarter="1" />
+      <S m="0" t="07:45" x="553" y="226" team="0" player="9" quarter="1" />
+      <S m="1" t="07:23" x="1147" y="274" team="1" player="13" quarter="1" />
+      <S m="0" t="07:03" x="1323" y="643" team="0" player="7" quarter="1" />
+      <S m="1" t="06:40" x="970" y="853" team="0" player="7" quarter="1" />
+      <S m="1" t="06:15" x="1297" y="609" team="1" player="13" quarter="1" />
+      <S m="0" t="06:01" x="568" y="222" team="1" player="8" quarter="1" />
+      <S m="0" t="05:40" x="996" y="252" team="0" player="9" quarter="1" />
+      <S m="1" t="05:14" x="241" y="658" team="0" player="12" quarter="1" />
+      <S m="0" t="04:47" x="410" y="320" team="1" player="11" quarter="1" />
+      <S m="0" t="04:36" x="556" y="293" team="0" player="4" quarter="1" />
+      <S m="1" t="04:02" x="1026" y="256" team="1" player="7" quarter="1" />
+      <S m="0" t="03:46" x="1263" y="673" team="0" player="4" quarter="1" />
+      <S m="1" t="02:47" x="1023" y="459" team="1" player="7" quarter="1" />
+      <S m="1" t="02:17" x="387" y="252" team="0" player="8" quarter="1" />
+      <S m="1" t="02:05" x="1391" y="553" team="1" player="4" quarter="1" />
+      <S m="1" t="01:48" x="774" y="259" team="1" player="5" quarter="1" />
+      <S m="0" t="01:07" x="1075" y="526" team="1" player="5" quarter="1" />
+      <S m="0" t="00:02" x="526" y="297" team="0" player="12" quarter="1" />
+      <S m="1" t="09:37" x="1440" y="368" team="0" player="8" quarter="2" />
+      <S m="1" t="09:04" x="263" y="707" team="0" player="8" quarter="2" />
+      <S m="1" t="08:48" x="98" y="680" team="0" player="7" quarter="2" />
+      <S m="1" t="08:28" x="49" y="271" team="1" player="9" quarter="2" />
+      <S m="0" t="08:26" x="816" y="241" team="1" player="8" quarter="2" />
+      <S m="0" t="08:05" x="699" y="346" team="0" player="11" quarter="2" />
+      <S m="1" t="07:42" x="921" y="312" team="1" player="9" quarter="2" />
+      <S m="0" t="07:39" x="940" y="289" team="1" player="7" quarter="2" />
+      <S m="0" t="07:31" x="857" y="263" team="1" player="10" quarter="2" />
+      <S m="1" t="07:10" x="162" y="602" team="0" player="11" quarter="2" />
+      <S m="0" t="06:48" x="857" y="256" team="1" player="10" quarter="2" />
+      <S m="1" t="06:21" x="530" y="282" team="0" player="11" quarter="2" />
+      <S m="0" t="05:41" x="613" y="286" team="0" player="7" quarter="2" />
+      <S m="0" t="05:21" x="752" y="643" team="1" player="11" quarter="2" />
+      <S m="1" t="04:55" x="560" y="274" team="0" player="15" quarter="2" />
+      <S m="0" t="04:47" x="1440" y="286" team="1" player="4" quarter="2" />
+      <S m="0" t="04:21" x="117" y="515" team="0" player="7" quarter="2" />
+      <S m="0" t="03:57" x="756" y="951" team="1" player="15" quarter="2" />
+      <S m="0" t="03:31" x="1090" y="808" team="0" player="9" quarter="2" />
+      <S m="1" t="03:08" x="1184" y="368" team="1" player="6" quarter="2" />
+      <S m="0" t="03:00" x="350" y="365" team="0" player="15" quarter="2" />
+      <S m="1" t="02:30" x="586" y="846" team="1" player="4" quarter="2" />
+      <S m="0" t="02:04" x="729" y="556" team="1" player="6" quarter="2" />
+      <S m="0" t="01:49" x="703" y="365" team="0" player="9" quarter="2" />
+      <S m="1" t="01:21" x="1173" y="771" team="1" player="15" quarter="2" />
+      <S m="0" t="01:17" x="820" y="278" team="0" player="4" quarter="2" />
+      <S m="1" t="00:53" x="335" y="256" team="1" player="11" quarter="2" />
+      <S m="0" t="00:50" x="308" y="274" team="1" player="6" quarter="2" />
+      <S m="1" t="00:32" x="1474" y="192" team="0" player="9" quarter="2" />
+      <S m="0" t="00:30" x="857" y="229" team="0" player="15" quarter="2" />
+      <S m="1" t="09:43" x="1320" y="658" team="1" player="4" quarter="3" />
+      <S m="1" t="08:58" x="1180" y="797" team="0" player="9" quarter="3" />
+      <S m="1" t="08:14" x="35" y="151" team="0" player="4" quarter="3" />
+      <S m="1" t="07:38" x="568" y="346" team="0" player="9" quarter="3" />
+      <S m="1" t="07:19" x="752" y="417" team="1" player="5" quarter="3" />
+      <S m="1" t="07:13" x="759" y="150" team="0" player="8" quarter="3" />
+      <S m="1" t="07:07" x="180" y="237" team="0" player="7" quarter="3" />
+      <S m="0" t="07:02" x="865" y="207" team="1" player="13" quarter="3" />
+      <S m="0" t="06:37" x="763" y="158" team="0" player="9" quarter="3" />
+      <S m="0" t="06:01" x="695" y="229" team="1" player="4" quarter="3" />
+      <S m="1" t="04:00" x="440" y="274" team="0" player="15" quarter="3" />
+      <S m="0" t="03:42" x="162" y="568" team="0" player="7" quarter="3" />
+      <S m="1" t="03:15" x="1305" y="305" team="1" player="10" quarter="3" />
+      <S m="1" t="03:02" x="49" y="361" team="0" player="7" quarter="3" />
+      <S m="1" t="02:48" x="1098" y="188" team="1" player="7" quarter="3" />
+      <S m="1" t="02:47" x="613" y="308" team="1" player="15" quarter="3" />
+      <S m="0" t="02:44" x="895" y="271" team="1" player="10" quarter="3" />
+      <S m="1" t="02:15" x="519" y="237" team="0" player="8" quarter="3" />
+      <S m="1" t="02:05" x="534" y="301" team="0" player="8" quarter="3" />
+      <S m="0" t="02:00" x="466" y="338" team="0" player="12" quarter="3" />
+      <S m="0" t="01:51" x="741" y="305" team="1" player="7" quarter="3" />
+      <S m="0" t="01:22" x="695" y="647" team="1" player="10" quarter="3" />
+      <S m="1" t="01:01" x="628" y="857" team="0" player="4" quarter="3" />
+      <S m="0" t="00:58" x="752" y="289" team="0" player="14" quarter="3" />
+      <S m="1" t="00:07" x="1083" y="361" team="1" player="9" quarter="3" />
+      <S m="1" t="00:00" x="684" y="429" team="1" player="15" quarter="3" />
+      <S m="1" t="08:41" x="289" y="282" team="0" player="13" quarter="4" />
+      <S m="1" t="08:22" x="632" y="361" team="1" player="8" quarter="4" />
+      <S m="1" t="08:15" x="71" y="188" team="1" player="9" quarter="4" />
+      <S m="1" t="07:55" x="248" y="267" team="0" player="15" quarter="4" />
+      <S m="0" t="07:40" x="504" y="353" team="1" player="15" quarter="4" />
+      <S m="1" t="07:23" x="1034" y="523" team="0" player="15" quarter="4" />
+      <S m="1" t="06:56" x="1180" y="150" team="1" player="4" quarter="4" />
+      <S m="0" t="06:19" x="880" y="263" team="0" player="15" quarter="4" />
+      <S m="1" t="05:15" x="1338" y="635" team="1" player="4" quarter="4" />
+      <S m="1" t="04:40" x="635" y="353" team="1" player="5" quarter="4" />
+      <S m="0" t="04:32" x="778" y="350" team="1" player="4" quarter="4" />
+      <S m="1" t="04:07" x="805" y="327" team="1" player="15" quarter="4" />
+      <S m="1" t="03:36" x="662" y="233" team="1" player="9" quarter="4" />
+      <S m="0" t="03:34" x="662" y="226" team="1" player="9" quarter="4" />
+      <S m="0" t="03:00" x="778" y="289" team="1" player="16" quarter="4" />
+      <S m="0" t="02:37" x="34" y="316" team="0" player="8" quarter="4" />
+      <S m="1" t="02:22" x="504" y="256" team="0" player="12" quarter="4" />
+      <S m="1" t="01:32" x="26" y="376" team="0" player="9" quarter="4" />
+      <S m="1" t="01:04" x="759" y="1045" team="1" player="15" quarter="4" />
+      <S m="0" t="01:01" x="883" y="323" team="1" player="4" quarter="4" />
+      <S m="1" t="00:43" x="203" y="752" team="0" player="7" quarter="4" />
+      <S m="0" t="00:43" x="199" y="778" team="1" player="10" quarter="4" />
+      <S m="1" t="00:36" x="102" y="564" team="0" player="7" quarter="4" />
+      <S m="1" t="00:26" x="1361" y="538" team="1" player="9" quarter="4" />
+    </SHOTS>
+  </SHOTCHART>
+  <OVERVIEW duration="62.4022">
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68536" GameCode="" TeamA="Greece U19" ScoreA="80" TeamB="Australia U19" ScoreB="67" StartTime="17:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9378" CompCode="" Competition="International Basketball Tournament Dubrovnik" Round="" ID="68537" GameCode="" TeamA="Croatia U20" ScoreA="60" TeamB="Turkey U19" ScoreB="65" StartTime="19:00:00" Quarter="4" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68419" GameCode="" TeamA="KK ZAGREB" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ PRIMOŠTEN" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68420" GameCode="" TeamA="KK VUČIĆI WOLFSCLUB" ScoreA="0" TeamB="KK RUDEŠ" ScoreB="0" StartTime="08:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68421" GameCode="" TeamA="KK ZAPAD" ScoreA="0" TeamB="OKK DRAŽEN PETROVIĆ ŠIBENIK" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68422" GameCode="" TeamA="ŠK ZADAR" ScoreA="0" TeamB="KK SESVETE" ScoreB="0" StartTime="09:30:00" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68423" GameCode="" TeamA="KK VINDIJA" ScoreA="0" TeamB="KK ZAGREB" ScoreB="0" StartTime="10:30:00" LogoA="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68424" GameCode="" TeamA="KK ŠANAC KARLOVAC" ScoreA="0" TeamB="KK CEDEVITA II" ScoreB="0" StartTime="10:30:00" LogoB="http://live.fibaeurope.com/www/gallery/DDA37C2A-CCB6-4CB7-A20E-DC44CDDFC40F.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68425" GameCode="" TeamA="KK BOROVO" ScoreA="0" TeamB="ŠK ZADAR" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/877CF672-9ACA-4329-BB5B-E93680469DD2.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68426" GameCode="" TeamA="KK ČAKOVEC" ScoreA="0" TeamB="KK CRIKVENICA" ScoreB="0" StartTime="11:25:00" LogoA="http://live.fibaeurope.com/www/gallery/DD2C9EEA-1F3E-4796-B2A5-81C63822EC90.jpg" LogoB="http://live.fibaeurope.com/www/gallery/E589009C-4D20-4EDB-92B0-AA2D1D3ED750.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68427" GameCode="" TeamA="KK SLAVONSKI BROD 1946" ScoreA="0" TeamB="KK VINDIJA" ScoreB="0" StartTime="12:20:00" LogoB="http://live.fibaeurope.com/www/gallery/EA6A09F9-1A1F-4D90-BB4C-B06577B83299.jpg" Quarter="0" Time="00:00" Status="1" />
+    <GAME CompID="9368" CompCode="" Competition="Otvoreno PH za dječake 2003. god." Round="" ID="68428" GameCode="" TeamA="KK RI BASKET" ScoreA="0" TeamB="KK ZAPAD" ScoreB="0" StartTime="12:20:00" LogoA="http://live.fibaeurope.com/www/gallery/9B47AB14-346D-48D1-8BCB-2B38D00952C5.jpg" Quarter="0" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/3E5C6046-13C6-42E4-88B5-610B39FAF8AE.gif" duration="0" />
+</FE>
