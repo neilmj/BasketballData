@@ -1,0 +1,345 @@
+<FE>
+  <HEADER competition="Torneo Internacional Getxo U19" round="Final" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/918DD980-B1A0-4E38-9355-E01DCDEF7F55.jpg" duration="31.188">
+    <TEAM name="España" logo="http://live.fibaeurope.com/www/gallery/F4B664EB-95F7-4F9B-AA71-7405E2F17442.jpg" pts="69" fouls="5" />
+    <TEAM name="Argentina" logo="http://live.fibaeurope.com/www/gallery/3DC63709-8439-4E1B-ABC9-5A82541F57DF.jpg" pts="59" fouls="7" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="11" scoreB="12" />
+      <QUARTER n="2" scoreA="15" scoreB="15" />
+      <QUARTER n="3" scoreA="20" scoreB="16" />
+      <QUARTER n="4" scoreA="23" scoreB="16" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="P. Gramajo [ARG] - 60.0% 3PtFG (3/5)" duration="15.6022">
+    <ITEM text="Second chance points: España - 18, Argentina - 5" />
+  </TICKER>
+  <OVERVIEW duration="15.6056" />
+  <PLAYBYPLAY duration="156.0229">
+    <LINE num="326" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="325" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="324" text="[ARG] P. Gramajo - 3pt jump shot missed. Y. Sima - defensive rebound (8 REB)" team="2" time="00:23" />
+    <LINE num="323" text="[ESP] R. Vila - 2pt put-back made (11 Pts)" team="1" time="00:30" scoreA="69" scoreB="59" />
+    <LINE num="322" text="[ESP] X. Oroz - free throw missed. R. Vila - offensive rebound (9 REB)" team="1" time="00:32" />
+    <LINE num="321" text="[ESP] X. Oroz - free throw missed" team="1" time="00:32" />
+    <LINE num="320" text="[ARG] Substitution - M. Fernández OUT, L. Berra IN" team="2" time="00:32" />
+    <LINE num="319" text="[ARG] F. Zurbriggen - personal shooting foul (4 PF, 7th team foul). 2 free throws awarded. Foul drawn: X. Oroz" team="2" time="00:32" />
+    <LINE num="318" text="[ARG] M. Fjellerup - 3pt jump shot missed. Team defensive rebound" team="2" time="00:37" />
+    <LINE num="317" text="[ARG] Timeout" team="2" time="00:41" />
+    <LINE num="316" text="[ESP] R. Vila - 2pt jump shot made (9 Pts)" team="1" time="00:41" scoreA="67" scoreB="59" />
+    <LINE num="315" text="[ESP] X. López-Arostegui - free throw missed. R. Vila - offensive rebound (8 REB)" team="1" time="00:44" />
+    <LINE num="314" text="[ESP] X. López-Arostegui - free throw missed" team="1" time="00:44" />
+    <LINE num="313" text="[ESP] Substitution - F. Alonso OUT, X. Oroz IN" team="1" time="00:44" />
+    <LINE num="312" text="[ARG] R. Gerhardt - personal shooting foul (5 PF, 6th team foul). 2 free throws awarded. Foul drawn: X. López-Arostegui. [ARG] Substitution - R. Gerhardt OUT, M. Fernández IN" team="2" time="00:44" />
+    <LINE num="311" text="[ESP] P. Pérez - free throw made (8 Pts)" team="1" time="01:09" scoreA="65" scoreB="59" />
+    <LINE num="310" text="[ESP] P. Pérez - free throw made (7 Pts)" team="1" time="01:09" scoreA="64" scoreB="59" />
+    <LINE num="309" text="[ARG] F. Zurbriggen - unsportsmanlike  foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="01:09" />
+    <LINE num="308" text="[ARG] R. Gerhardt - free throw made (12 Pts)" team="2" time="01:09" scoreA="63" scoreB="59" />
+    <LINE num="307" text="[ARG] R. Gerhardt - free throw made (11 Pts)" team="2" time="01:09" scoreA="63" scoreB="58" />
+    <LINE num="306" text="[ESP] R. Vila - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: R. Gerhardt" team="1" time="01:09" />
+    <LINE num="305" text="[ESP] F. Alonso - 3pt jump shot missed. R. Gerhardt - defensive rebound (5 REB)" team="1" time="01:11" />
+    <LINE num="304" text="[ARG] M. Fjellerup - personal  foul (2 PF, 4th team foul). Foul drawn: X. López-Arostegui" team="2" time="01:27" />
+    <LINE num="303" text="[ARG] F. Zurbriggen - turnover (bad pass, 2 TO). X. López-Arostegui - steal (5 ST)" team="2" time="01:28" />
+    <LINE num="302" text="[ESP] P. Pérez - 3pt jump shot made (6 Pts)" team="1" time="01:48" scoreA="63" scoreB="57" />
+    <LINE num="301" text="[ARG] P. Gramajo - free throw missed. X. López-Arostegui - defensive rebound (6 REB)" team="2" time="02:05" />
+    <LINE num="300" text="[ARG] P. Gramajo - free throw made (15 Pts)" team="2" time="02:05" scoreA="60" scoreB="57" />
+    <LINE num="299" text="[ESP] F. Alonso - personal shooting foul (3 PF, 4th team foul). 2 free throws awarded. Foul drawn: P. Gramajo" team="1" time="02:05" />
+    <LINE num="298" text="[ESP] F. Alonso - 3pt jump shot missed. M. Fjellerup - defensive rebound (5 REB)" team="1" time="02:13" />
+    <LINE num="297" text="[ESP] Substitution - S. García OUT, P. Pérez IN" team="1" time="02:32" />
+    <LINE num="296" text="[ESP] Substitution - N. Sabata OUT, R. Vila IN" team="1" time="02:32" />
+    <LINE num="295" text="[ARG] F. Zurbriggen - turnover (travelling, 1 TO)" team="2" time="02:32" />
+    <LINE num="294" text="[ESP] S. García - 3pt jump shot missed. R. Gerhardt - defensive rebound (4 REB)" team="1" time="02:41" />
+    <LINE num="293" text="[ESP] F. Alonso - 3pt jump shot missed. Y. Sima - offensive rebound (7 REB)" team="1" time="02:50" />
+    <LINE num="292" text="[ARG] M. Fjellerup - 2pt jump shot made (fast break, 9 Pts). R. Gerhardt - assist (1 AS)" team="2" time="03:17" scoreA="60" scoreB="56" />
+    <LINE num="291" text="[ESP] X. López-Arostegui - 2pt lay-up missed. M. Fjellerup - defensive rebound (4 REB)" team="1" time="03:23" />
+    <LINE num="290" text="[ARG] F. Zurbriggen - personal  foul (2 PF, 3rd team foul). Foul drawn: F. Alonso" team="2" time="03:28" />
+    <LINE num="289" text="[ARG] Substitution - J. Vildoza OUT, F. Zurbriggen IN" team="2" time="03:43" />
+    <LINE num="288" text="[ARG] L. Delfino - 2pt lay-up missed. Y. Sima - defensive rebound (6 REB)" team="2" time="03:47" />
+    <LINE num="287" text="[ESP] S. García - 3pt jump shot made (11 Pts)" team="1" time="04:08" scoreA="60" scoreB="54" />
+    <LINE num="286" text="[ARG] P. Gramajo - 3pt jump shot made (14 Pts). M. Fjellerup - assist (5 AS)" team="2" time="04:21" scoreA="57" scoreB="54" />
+    <LINE num="285" text="[ESP] F. Alonso - free throw missed. P. Gramajo - defensive rebound (5 REB)" team="1" time="04:33" />
+    <LINE num="284" text="[ESP] F. Alonso - free throw missed" team="1" time="04:33" />
+    <LINE num="283" text="[ARG] P. Gramajo - personal shooting foul (4 PF, 2nd team foul). 2 free throws awarded. Foul drawn: F. Alonso" team="2" time="04:33" />
+    <LINE num="282" text="[ARG] P. Gramajo - turnover (bad pass, 1 TO). F. Alonso - steal (1 ST)" team="2" time="04:33" />
+    <LINE num="281" text="[ARG] Timeout" team="2" time="04:35" />
+    <LINE num="280" text="[ESP] S. García - 3pt jump shot made (8 Pts). X. López-Arostegui - assist (2 AS)" team="1" time="04:35" scoreA="57" scoreB="51" />
+    <LINE num="279" text="[ARG] L. Delfino - 2pt jump shot missed. Y. Sima - defensive rebound (5 REB)" team="2" time="04:44" />
+    <LINE num="278" text="[ESP] X. López-Arostegui - 2pt jump shot made (14 Pts). F. Alonso - assist (2 AS)" team="1" time="04:53" scoreA="54" scoreB="51" />
+    <LINE num="277" text="[ESP] Substitution - R. Vila OUT, Y. Sima IN" team="1" time="05:15" />
+    <LINE num="276" text="[ESP] Substitution - P. Pérez OUT, X. López-Arostegui IN" team="1" time="05:15" />
+    <LINE num="275" text="[ESP] Substitution - J. Jiménez OUT, S. García IN" team="1" time="05:15" />
+    <LINE num="274" text="[ESP] Timeout" team="1" time="05:15" />
+    <LINE num="273" text="[ARG] P. Gramajo - assist (1 AS)" team="2" time="05:15" />
+    <LINE num="272" text="[ARG] R. Gerhardt - 2pt jump shot made (fast break, 10 Pts)" team="2" time="05:18" scoreA="52" scoreB="51" />
+    <LINE num="271" text="[ESP] P. Pérez - turnover (bad pass, 3 TO). P. Gramajo - steal (1 ST)" team="1" time="05:19" />
+    <LINE num="270" text="[ARG] P. Gramajo - 3pt jump shot made (11 Pts)" team="2" time="05:40" scoreA="52" scoreB="49" />
+    <LINE num="269" text="[ESP] F. Alonso - 2pt lay-up missed. M. Fjellerup - defensive rebound (3 REB)" team="1" time="06:01" />
+    <LINE num="268" text="[ARG] J. Vildoza - assist (2 AS)" team="2" time="06:14" />
+    <LINE num="267" text="[ARG] R. Gerhardt - free throw made (8 Pts)" team="2" time="06:14" scoreA="52" scoreB="46" />
+    <LINE num="266" text="[ARG] R. Gerhardt - free throw missed" team="2" time="06:14" />
+    <LINE num="265" text="[ESP] N. Sabata - personal shooting foul (3 PF, 3rd team foul). 2 free throws awarded. Foul drawn: R. Gerhardt" team="1" time="06:14" />
+    <LINE num="264" text="[ESP] R. Vila - 2pt lay-up made (fast break, 7 Pts). F. Alonso - assist (1 AS)" team="1" time="06:34" scoreA="52" scoreB="45" />
+    <LINE num="263" text="[ARG] M. Fjellerup - 2pt lay-up missed. N. Sabata - defensive rebound (4 REB)" team="2" time="06:41" />
+    <LINE num="262" text="[ESP] Substitution - Y. Sima OUT, N. Sabata IN" team="1" time="06:51" />
+    <LINE num="261" text="[ESP] Y. Sima - personal  foul (4 PF, 2nd team foul). Foul drawn: R. Gerhardt" team="1" time="06:51" />
+    <LINE num="260" text="[ESP] R. Vila - personal  foul (1 PF, 1st team foul). Foul drawn: J. Vildoza" team="1" time="06:58" />
+    <LINE num="259" text="[ESP] Y. Sima - free throw made (7 Pts)" team="1" time="07:00" scoreA="50" scoreB="45" />
+    <LINE num="258" text="[ESP] Y. Sima - free throw made (6 Pts)" team="1" time="07:00" scoreA="49" scoreB="45" />
+    <LINE num="257" text="[ARG] Substitution - M. Fernández OUT, M. Fjellerup IN" team="2" time="07:00" />
+    <LINE num="256" text="[ARG] Substitution - F. Corvalán OUT, P. Gramajo IN" team="2" time="07:00" />
+    <LINE num="255" text="[ARG] Timeout" team="2" time="07:00" />
+    <LINE num="254" text="[ARG] R. Gerhardt - personal shooting foul (4 PF, 1st team foul). 2 free throws awarded. Foul drawn: Y. Sima" team="2" time="07:00" />
+    <LINE num="253" text="[ARG] F. Corvalán - turnover (bad pass, 1 TO). P. Pérez - steal (1 ST)" team="2" time="07:14" />
+    <LINE num="252" text="R. Vila - 2pt put-back made (5 Pts)" team="1" time="07:19" scoreA="48" scoreB="45" />
+    <LINE num="251" text="[ESP] F. Alonso - 3pt jump shot missed. R. Vila - offensive rebound (7 REB)" team="1" time="07:23" />
+    <LINE num="250" text="[ARG] J. Vildoza - 2pt lay-up missed. J. Jiménez - defensive rebound (2 REB)" team="2" time="07:30" />
+    <LINE num="249" text="[ESP] Y. Sima - 2pt jump shot missed. R. Gerhardt - defensive rebound (3 REB)" team="1" time="07:48" />
+    <LINE num="248" text="[ESP] Substitution - N. Sabata OUT, Y. Sima IN" team="1" time="08:10" />
+    <LINE num="247" text="[ARG] R. Gerhardt - turnover (travelling, 2 TO)" team="2" time="08:12" />
+    <LINE num="246" text="[ARG] L. Delfino - defensive rebound (6 REB)" team="2" time="08:12" />
+    <LINE num="245" text="[ESP] N. Sabata - 2pt jump shot missed" team="1" time="08:16" />
+    <LINE num="244" text="[ARG] R. Gerhardt - 2pt jump shot made (7 Pts)" team="2" time="08:36" scoreA="46" scoreB="45" />
+    <LINE num="243" text="[ARG] F. Corvalán - 2pt lay-up missed. F. Corvalán - offensive rebound (1 REB)" team="2" time="08:49" />
+    <LINE num="242" text="[ESP] J. Jiménez - turnover (out of bounds, 1 TO)" team="1" time="09:07" />
+    <LINE num="241" text="[ARG] F. Corvalán - 2pt jump shot missed. P. Pérez - defensive rebound (2 REB)" team="2" time="09:23" />
+    <LINE num="240" text="[ESP] P. Pérez - 3pt jump shot missed. J. Vildoza - defensive rebound (2 REB)" team="1" time="09:56" />
+    <LINE num="239" text="[ESP] R. Vila - 3pt jump shot missed. F. Alonso - offensive rebound (4 REB)" team="1" time="09:59" />
+    <LINE num="238" text="[ESP] Substitution - X. López-Arostegui OUT, R. Vila IN" team="1" time="10:00" />
+    <LINE num="237" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="236" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="235" text="[ESP] J. Jiménez - 3pt jump shot missed" team="1" time="00:02" />
+    <LINE num="234" text="[ARG] R. Gerhardt - free throw made (5 Pts)" team="2" time="00:18" scoreA="46" scoreB="43" />
+    <LINE num="233" text="[ARG] Substitution - F. Zurbriggen OUT, F. Corvalán IN" team="2" time="00:18" />
+    <LINE num="232" text="[ESP] Substitution - S. Rodríguez OUT, X. López-Arostegui IN" team="1" time="00:18" />
+    <LINE num="231" text="[ESP] N. Sabata - personal shooting foul (2 PF, 6th team foul). One free throw awarded. Foul drawn: R. Gerhardt" team="1" time="00:18" />
+    <LINE num="230" text="[ARG] R. Gerhardt - 2pt jump shot made (4 Pts)" team="2" time="00:18" scoreA="46" scoreB="42" />
+    <LINE num="229" text="[ARG] M. Fernández - 3pt jump shot missed. R. Gerhardt - offensive rebound (2 REB)" team="2" time="00:22" />
+    <LINE num="228" text="[ESP] Team turnover (24 seconds)" team="1" time="00:38" />
+    <LINE num="227" text="[ARG] Substitution - M. Fjellerup OUT, F. Zurbriggen IN" team="2" time="01:03" />
+    <LINE num="226" text="[ESP] Substitution - X. López-Arostegui OUT, J. Jiménez IN" team="1" time="01:03" />
+    <LINE num="225" text="[ARG] M. Fjellerup -  offensive foul (1 PF, 6th team foul). Foul drawn: F. Alonso. M. Fjellerup - turnover (offensive foul, 3 TO)" team="2" time="01:03" />
+    <LINE num="224" text="[ESP] P. Pérez - 2pt jump shot made (3 Pts)" team="1" time="01:20" scoreA="46" scoreB="40" />
+    <LINE num="223" text="[ARG] M. Fjellerup - 3pt jump shot missed. X. López-Arostegui - defensive rebound (5 REB)" team="2" time="01:39" />
+    <LINE num="222" text="[ESP] F. Alonso - 2pt jump shot missed. L. Delfino - defensive rebound (5 REB)" team="1" time="01:55" />
+    <LINE num="221" text="[ARG] Substitution - E. Rupcic OUT, R. Gerhardt IN" team="2" time="02:08" />
+    <LINE num="220" text="[ARG] J. Vildoza - turnover (out of bounds, 4 TO)" team="2" time="02:08" />
+    <LINE num="219" text="[ESP] S. Rodríguez - 2pt jump shot made (6 Pts)" team="1" time="02:19" scoreA="44" scoreB="40" />
+    <LINE num="218" text="[ESP] X. López-Arostegui - 3pt jump shot missed. N. Sabata - offensive rebound (3 REB)" team="1" time="02:27" />
+    <LINE num="217" text="[ARG] E. Rupcic - turnover (bad pass, 2 TO). N. Sabata - steal (1 ST)" team="2" time="02:38" />
+    <LINE num="216" text="[ESP] S. Rodríguez - free throw made (4 Pts)" team="1" time="02:52" scoreA="42" scoreB="40" />
+    <LINE num="215" text="[ESP] S. Rodríguez - free throw made (3 Pts)" team="1" time="02:52" scoreA="41" scoreB="40" />
+    <LINE num="214" text="[ARG] Substitution - F. Zurbriggen OUT, J. Vildoza IN" team="2" time="02:52" />
+    <LINE num="213" text="[ARG] E. Rupcic - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: S. Rodríguez" team="2" time="02:52" />
+    <LINE num="212" text="[ESP] F. Alonso - 3pt jump shot made (6 Pts)" team="1" time="02:54" scoreA="40" scoreB="40" />
+    <LINE num="211" text="[ARG] F. Zurbriggen - free throw missed. S. Rodríguez - defensive rebound (3 REB)" team="2" time="03:10" />
+    <LINE num="210" text="[ARG] F. Zurbriggen - free throw made (8 Pts)" team="2" time="03:10" scoreA="37" scoreB="40" />
+    <LINE num="209" text="[ESP] Substitution - R. Vila OUT, N. Sabata IN" team="1" time="03:10" />
+    <LINE num="208" text="[ESP] Substitution - X. Oroz OUT, F. Alonso IN" team="1" time="03:10" />
+    <LINE num="207" text="[ESP] S. Rodríguez - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: F. Zurbriggen" team="1" time="03:10" />
+    <LINE num="206" text="[ESP] R. Vila - 2pt jump shot missed. F. Zurbriggen - defensive rebound (3 REB)" team="1" time="03:17" />
+    <LINE num="205" text="[ARG] F. Zurbriggen - 2pt lay-up missed. R. Vila - defensive rebound (6 REB)" team="2" time="03:28" />
+    <LINE num="204" text="[ESP] X. López-Arostegui - 2pt jump shot missed. E. Rupcic - defensive rebound (2 REB)" team="1" time="03:42" />
+    <LINE num="203" text="[ARG] F. Zurbriggen - 3pt jump shot missed. X. López-Arostegui - defensive rebound (4 REB)" team="2" time="03:55" />
+    <LINE num="202" text="[ESP] X. Oroz - personal  foul (1 PF, 4th team foul). Foul drawn: M. Fjellerup" team="1" time="04:09" />
+    <LINE num="201" text="[ESP] X. Oroz - turnover (ball handling, 2 TO). M. Fjellerup - steal (2 ST)" team="1" time="04:11" />
+    <LINE num="200" text="[ARG] M. Fjellerup - 2pt jump shot made (7 Pts)" team="2" time="04:25" scoreA="37" scoreB="39" />
+    <LINE num="199" text="[ESP] S. Rodríguez - 2pt dunk made (2 Pts). P. Pérez - assist (2 AS)" team="1" time="04:48" scoreA="37" scoreB="37" />
+    <LINE num="198" text="[ARG] Substitution - P. Gramajo OUT, M. Fernández IN" team="2" time="04:53" />
+    <LINE num="197" text="[ARG] P. Gramajo - personal  foul (3 PF, 4th team foul). Foul drawn: X. Oroz" team="2" time="04:53" />
+    <LINE num="196" text="[ARG] M. Fjellerup - 3pt jump shot made (5 Pts). E. Rupcic - assist (1 AS)" team="2" time="05:10" scoreA="35" scoreB="37" />
+    <LINE num="195" text="[ESP] X. López-Arostegui - 2pt jump shot made (12 Pts)" team="1" time="05:25" scoreA="35" scoreB="34" />
+    <LINE num="194" text="[ESP] P. Pérez - 3pt jump shot missed. R. Vila - offensive rebound (5 REB)" team="1" time="05:37" />
+    <LINE num="193" text="[ARG] M. Fjellerup - turnover (out of bounds, 2 TO)" team="2" time="05:55" />
+    <LINE num="192" text="[ESP] X. López-Arostegui - free throw made (10 Pts)" team="1" time="06:08" scoreA="33" scoreB="34" />
+    <LINE num="191" text="[ESP] Substitution - S. García OUT, P. Pérez IN" team="1" time="06:07" />
+    <LINE num="190" text="[ARG] P. Gramajo - personal shooting foul (2 PF, 3rd team foul). One free throw awarded. Foul drawn: X. López-Arostegui" team="2" time="06:08" />
+    <LINE num="189" text="[ESP] X. López-Arostegui - 2pt lay-up made (9 Pts)" team="1" time="06:08" scoreA="32" scoreB="34" />
+    <LINE num="188" text="[ARG] F. Zurbriggen - 2pt jump shot made (7 Pts)" team="2" time="06:27" scoreA="30" scoreB="34" />
+    <LINE num="187" text="[ARG] Substitution - L. Berra OUT, E. Rupcic IN" team="2" time="06:51" />
+    <LINE num="186" text="[ESP] Substitution - Y. Sima OUT, S. Rodríguez IN" team="1" time="06:51" />
+    <LINE num="185" text="[ESP] Y. Sima -  offensive foul (3 PF, 3rd team foul). Foul drawn: P. Gramajo. Y. Sima - turnover (offensive foul, 3 TO)" team="1" time="06:51" />
+    <LINE num="184" text="[ARG] P. Gramajo - free throw made (8 Pts)" team="2" time="07:06" scoreA="30" scoreB="32" />
+    <LINE num="183" text="[ESP] S. García - personal shooting foul (3 PF, 2nd team foul). One free throw awarded. Foul drawn: P. Gramajo" team="1" time="07:06" />
+    <LINE num="182" text="[ARG] P. Gramajo - 2pt jump shot made (fast break, 7 Pts). F. Zurbriggen - assist (1 AS)" team="2" time="07:06" scoreA="30" scoreB="31" />
+    <LINE num="181" text="[ESP] R. Vila - 2pt lay-up missed. F. Zurbriggen - defensive rebound (2 REB)" team="1" time="07:12" />
+    <LINE num="180" text="[ARG] M. Fjellerup - 2pt jump shot made (2 Pts)" team="2" time="07:30" scoreA="30" scoreB="29" />
+    <LINE num="179" text="[ESP] X. López-Arostegui - 3pt jump shot missed. L. Berra - defensive rebound (1 REB)" team="1" time="07:54" />
+    <LINE num="178" text="[ARG] L. Berra - personal  foul (2 PF, 2nd team foul). Foul drawn: Y. Sima" team="2" time="08:10" />
+    <LINE num="177" text="[ARG] F. Zurbriggen - 3pt jump shot missed. Y. Sima - defensive rebound (4 REB)" team="2" time="08:10" />
+    <LINE num="176" text="[ESP] X. López-Arostegui - 2pt lay-up made (fast break, 7 Pts)" team="1" time="08:23" scoreA="30" scoreB="27" />
+    <LINE num="175" text="[ARG] P. Gramajo - 3pt jump shot missed. X. López-Arostegui - defensive rebound (3 REB)" team="2" time="08:31" />
+    <LINE num="174" text="[ESP] Y. Sima -  offensive foul (2 PF, 1st team foul). Foul drawn: F. Zurbriggen. Y. Sima - turnover (offensive foul, 2 TO)" team="1" time="08:42" />
+    <LINE num="173" text="[ARG] L. Delfino - 2pt jump shot missed. R. Vila - defensive rebound (4 REB)" team="2" time="08:57" />
+    <LINE num="172" text="[ESP] S. García - 2pt lay-up missed. L. Delfino - defensive rebound (4 REB)" team="1" time="09:08" />
+    <LINE num="171" text="[ARG] F. Zurbriggen - personal  foul (1 PF, 1st team foul). Foul drawn: S. García" team="2" time="09:19" />
+    <LINE num="170" text="[ARG] P. Gramajo - 2pt lay-up missed. S. García - defensive rebound (5 REB)" team="2" time="09:24" />
+    <LINE num="169" text="[ESP] X. López-Arostegui - 2pt dunk made (fast break, 5 Pts)" team="1" time="09:44" scoreA="28" scoreB="27" />
+    <LINE num="168" text="[ARG] L. Berra - turnover (bad pass, 3 TO). X. López-Arostegui - steal (4 ST)" team="2" time="09:48" />
+    <LINE num="167" text="[ARG] Substitution - M. Fernández OUT, M. Fjellerup IN" team="2" time="10:00" />
+    <LINE num="166" text="[ARG] Substitution - F. Corvalán OUT, F. Zurbriggen IN" team="2" time="10:00" />
+    <LINE num="165" text="[ARG] Substitution - A. Barbero OUT, P. Gramajo IN" team="2" time="10:00" />
+    <LINE num="164" text="[ESP] Substitution - N. Sabata OUT, R. Vila IN" team="1" time="10:00" />
+    <LINE num="163" text="[ESP] Substitution - P. Pérez OUT, S. García IN" team="1" time="10:00" />
+    <LINE num="162" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="161" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="160" text="[ESP] Y. Sima - 2pt jump shot made (fast break, 5 Pts). X. López-Arostegui - assist (1 AS)" team="1" time="00:03" scoreA="26" scoreB="27" />
+    <LINE num="159" text="[ARG] M. Fernández - 2pt jump shot missed. N. Sabata - defensive rebound (2 REB)" team="2" time="00:09" />
+    <LINE num="158" text="[ESP] P. Pérez - turnover (ball handling, 2 TO). F. Corvalán - steal (1 ST)" team="1" time="00:15" />
+    <LINE num="157" text="[ARG] F. Corvalán - free throw made (2 Pts)" team="2" time="00:30" scoreA="24" scoreB="27" />
+    <LINE num="156" text="[ARG] F. Corvalán - free throw made (1 Pts)" team="2" time="00:30" scoreA="24" scoreB="26" />
+    <LINE num="155" text="[ESP] N. Sabata - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: F. Corvalán" team="1" time="00:30" />
+    <LINE num="154" text="[ESP] Substitution - S. Rodríguez OUT, N. Sabata IN" team="1" time="00:36" />
+    <LINE num="153" text="[ARG] Substitution - J. Vildoza OUT, A. Barbero IN" team="2" time="00:36" />
+    <LINE num="152" text="[ARG] Timeout" team="2" time="00:36" />
+    <LINE num="151" text="[ESP] P. Pérez - free throw made (1 Pts)" team="1" time="00:36" scoreA="24" scoreB="25" />
+    <LINE num="150" text="[ESP] P. Pérez - free throw missed" team="1" time="00:36" />
+    <LINE num="149" text="[ARG] F. Corvalán - personal shooting foul (1 PF, 9th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="00:36" />
+    <LINE num="148" text="[ARG] F. Corvalán - 2pt jump shot missed. S. Rodríguez - defensive rebound (2 REB)" team="2" time="00:56" />
+    <LINE num="147" text="[ARG] Substitution - M. Fjellerup OUT, F. Corvalán IN" team="2" time="01:17" />
+    <LINE num="146" text="[ESP] Substitution - F. Alonso OUT, X. Oroz IN" team="1" time="01:17" />
+    <LINE num="145" text="[ESP] X. López-Arostegui - 2pt jump shot missed. Team defensive rebound" team="1" time="01:19" />
+    <LINE num="144" text="[ARG] L. Berra - turnover (bad pass, 2 TO). X. López-Arostegui - steal (3 ST)" team="2" time="01:22" />
+    <LINE num="143" text="[ESP] X. López-Arostegui - 3pt jump shot missed. M. Fjellerup - defensive rebound (2 REB)" team="1" time="01:39" />
+    <LINE num="142" text="[ARG] L. Berra - 2pt jump shot missed. F. Alonso - defensive rebound (3 REB)" team="2" time="01:54" />
+    <LINE num="141" text="[ESP] S. Rodríguez - turnover (out of bounds, 1 TO)" team="1" time="02:12" />
+    <LINE num="140" text="[ARG] J. Vildoza - 2pt hook shot made (10 Pts)" team="2" time="02:20" scoreA="23" scoreB="25" />
+    <LINE num="139" text="[ARG] Substitution - P. Gramajo OUT, M. Fjellerup IN" team="2" time="02:29" />
+    <LINE num="138" text="[ESP] F. Alonso - personal  foul (2 PF, 4th team foul). Foul drawn: J. Vildoza" team="1" time="02:29" />
+    <LINE num="137" text="[ESP] Substitution - J. Jiménez OUT, F. Alonso IN" team="1" time="02:32" />
+    <LINE num="136" text="[ESP] F. Alonso - 3pt jump shot made (3 Pts). P. Pérez - assist (1 AS)" team="1" time="02:46" scoreA="23" scoreB="23" />
+    <LINE num="135" text="[ESP] F. Alonso - 2pt jump shot missed. P. Pérez - offensive rebound (1 REB)" team="1" time="02:59" />
+    <LINE num="134" text="[ARG] J. Vildoza - free throw made (8 Pts)" team="2" time="03:15" scoreA="20" scoreB="23" />
+    <LINE num="133" text="[ARG] J. Vildoza - free throw made (7 Pts)" team="2" time="03:15" scoreA="20" scoreB="22" />
+    <LINE num="132" text="[ESP] S. Rodríguez - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Vildoza" team="1" time="03:15" />
+    <LINE num="131" text="[ESP] Substitution - S. García OUT, P. Pérez IN" team="1" time="03:32" />
+    <LINE num="130" text="[ESP] S. García - free throw made (5 Pts)" team="1" time="03:32" scoreA="20" scoreB="21" />
+    <LINE num="129" text="[ESP] S. García - free throw made (4 Pts)" team="1" time="03:32" scoreA="19" scoreB="21" />
+    <LINE num="128" text="[ESP] S. García - free throw made (3 Pts)" team="1" time="03:32" scoreA="18" scoreB="21" />
+    <LINE num="127" text="[ARG] J. Vildoza - personal shooting foul (1 PF, 8th team foul). 3 free throws awarded. Foul drawn: S. García" team="2" time="03:32" />
+    <LINE num="126" text="[ESP] Substitution - F. Alonso OUT, X. López-Arostegui IN" team="1" time="03:47" />
+    <LINE num="125" text="[ESP] Substitution - N. Sabata OUT, S. Rodríguez IN" team="1" time="03:47" />
+    <LINE num="124" text="[ARG] L. Berra - turnover (travelling, 1 TO)" team="2" time="03:47" />
+    <LINE num="123" text="[ESP] Y. Sima - free throw missed. L. Delfino - defensive rebound (3 REB)" team="1" time="04:08" />
+    <LINE num="122" text="[ESP] Y. Sima - free throw missed" team="1" time="04:08" />
+    <LINE num="121" text="[ARG] Substitution - R. Gerhardt OUT, L. Delfino IN" team="2" time="04:08" />
+    <LINE num="120" text="[ARG] R. Gerhardt - personal shooting foul (3 PF, 7th team foul). 2 free throws awarded. Foul drawn: Y. Sima" team="2" time="04:08" />
+    <LINE num="119" text="[ESP] N. Sabata - 2pt jump shot missed. Y. Sima - offensive rebound (3 REB)" team="1" time="04:08" />
+    <LINE num="118" text="[ARG] J. Vildoza - 2pt jump shot made (6 Pts)" team="2" time="04:33" scoreA="17" scoreB="21" />
+    <LINE num="117" text="[ESP] S. García - personal  foul (2 PF, 2nd team foul). Foul drawn: P. Gramajo" team="1" time="04:45" />
+    <LINE num="116" text="[ESP] Y. Sima - personal  foul (1 PF, 1st team foul). Foul drawn: J. Vildoza" team="1" time="04:50" />
+    <LINE num="115" text="[ESP] N. Sabata - free throw made (4 Pts)" team="1" time="04:50" scoreA="17" scoreB="19" />
+    <LINE num="114" text="[ESP] N. Sabata - free throw made (3 Pts)" team="1" time="04:50" scoreA="16" scoreB="19" />
+    <LINE num="113" text="[ARG] P. Gramajo - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: N. Sabata" team="2" time="04:50" />
+    <LINE num="112" text="[ARG] Substitution - L. Delfino OUT, L. Berra IN" team="2" time="05:03" />
+    <LINE num="111" text="[ESP] Timeout" team="1" time="05:03" />
+    <LINE num="110" text="[ARG] J. Vildoza - turnover (out of bounds, 3 TO)" team="2" time="05:06" />
+    <LINE num="109" text="[ESP] F. Alonso - 3pt jump shot missed. J. Vildoza - defensive rebound (1 REB)" team="1" time="05:10" />
+    <LINE num="108" text="[ARG] R. Gerhardt - 3pt jump shot missed. S. García - defensive rebound (4 REB)" team="2" time="05:35" />
+    <LINE num="107" text="[ESP] Substitution - X. Oroz OUT, S. García IN" team="1" time="05:52" />
+    <LINE num="106" text="[ESP] Team turnover (24 seconds)" team="1" time="05:52" />
+    <LINE num="105" text="[ARG] P. Gramajo - 3pt jump shot made (5 Pts). J. Vildoza - assist (1 AS)" team="2" time="06:22" scoreA="15" scoreB="19" />
+    <LINE num="104" text="[ESP] N. Sabata - 2pt lay-up made (2 Pts)" team="1" time="06:37" scoreA="15" scoreB="16" />
+    <LINE num="103" text="[ESP] J. Jiménez - 3pt jump shot missed. N. Sabata - offensive rebound (1 REB)" team="1" time="06:42" />
+    <LINE num="102" text="[ARG] R. Gerhardt - 2pt jump shot missed. F. Alonso - defensive rebound (2 REB)" team="2" time="06:48" />
+    <LINE num="101" text="[ESP] Y. Sima - free throw missed. P. Gramajo - defensive rebound (4 REB)" team="1" time="07:00" />
+    <LINE num="100" text="[ESP] Y. Sima - free throw made (3 Pts)" team="1" time="07:00" scoreA="13" scoreB="16" />
+    <LINE num="99" text="[ARG] R. Gerhardt - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: Y. Sima" team="2" time="07:00" />
+    <LINE num="98" text="[ARG] J. Vildoza - 2pt jump shot made (4 Pts)" team="2" time="07:11" scoreA="12" scoreB="16" />
+    <LINE num="97" text="[ESP] Substitution - P. Pérez OUT, F. Alonso IN" team="1" time="07:24" />
+    <LINE num="96" text="[ESP] Substitution - R. Vila OUT, Y. Sima IN" team="1" time="07:24" />
+    <LINE num="95" text="[ESP] P. Pérez - 2pt jump shot missed. Team defensive rebound" team="1" time="07:26" />
+    <LINE num="94" text="[ARG] M. Fernández - turnover (bad pass, 1 TO). J. Jiménez - steal (1 ST)" team="2" time="07:46" />
+    <LINE num="93" text="[ESP] R. Vila - free throw missed. P. Gramajo - defensive rebound (3 REB)" team="1" time="08:00" />
+    <LINE num="92" text="[ESP] R. Vila - free throw made (3 Pts)" team="1" time="08:00" scoreA="12" scoreB="14" />
+    <LINE num="91" text="[ARG] Substitution - A. Barbero OUT, M. Fernández IN" team="2" time="08:00" />
+    <LINE num="90" text="[ARG] A. Barbero - personal shooting foul (3 PF, 4th team foul). 2 free throws awarded. Foul drawn: R. Vila" team="2" time="08:00" />
+    <LINE num="89" text="[ESP] X. Oroz - 3pt jump shot missed. R. Vila - offensive rebound (3 REB)" team="1" time="08:03" />
+    <LINE num="88" text="[ARG] R. Gerhardt - personal  foul (1 PF, 3rd team foul). Foul drawn: R. Vila" team="2" time="08:14" />
+    <LINE num="87" text="[ESP] J. Jiménez - 2pt jump shot missed. R. Vila - offensive rebound (2 REB)" team="1" time="08:15" />
+    <LINE num="86" text="[ARG] Substitution - E. Rupcic OUT, R. Gerhardt IN" team="2" time="08:21" />
+    <LINE num="85" text="[ARG] E. Rupcic - personal  foul (2 PF, 2nd team foul). Foul drawn: P. Pérez" team="2" time="08:21" />
+    <LINE num="84" text="[ARG] J. Vildoza - turnover (travelling, 2 TO)" team="2" time="08:41" />
+    <LINE num="83" text="[ESP] J. Jiménez - 2pt jump shot missed. P. Gramajo - defensive rebound (2 REB)" team="1" time="08:42" />
+    <LINE num="82" text="[ARG] E. Rupcic - personal  foul (1 PF, 1st team foul). Foul drawn: P. Pérez" team="2" time="08:54" />
+    <LINE num="81" text="[ARG] P. Gramajo - 2pt jump shot made (fast break, 2 Pts)" team="2" time="09:09" scoreA="11" scoreB="14" />
+    <LINE num="80" text="[ESP] N. Sabata - 2pt jump shot missed. L. Delfino - defensive rebound (2 REB)" team="1" time="09:17" />
+    <LINE num="79" text="[ARG] E. Rupcic - 3pt jump shot missed. Team defensive rebound" team="2" time="09:37" />
+    <LINE num="78" text="[ESP] P. Pérez - turnover (ball handling, 1 TO). A. Barbero - steal (1 ST)" team="1" time="09:51" />
+    <LINE num="77" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="76" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="75" text="[ESP] P. Pérez - 3pt jump shot missed. P. Gramajo - defensive rebound (1 REB)" team="1" time="00:00" />
+    <LINE num="74" text="[ARG] L. Delfino - 3pt jump shot missed. J. Jiménez - defensive rebound (1 REB)" team="2" time="00:08" />
+    <LINE num="73" text="[ESP] Substitution - X. López-Arostegui OUT, J. Jiménez IN" team="1" time="00:14" />
+    <LINE num="72" text="[ESP] P. Pérez - personal  foul (1 PF, 3rd team foul). Foul drawn: J. Vildoza" team="1" time="00:14" />
+    <LINE num="71" text="[ESP] X. Oroz - 2pt jump shot made (fast break, 2 Pts)" team="1" time="00:29" scoreA="11" scoreB="12" />
+    <LINE num="70" text="[ARG] J. Vildoza - turnover (bad pass, 1 TO). X. Oroz - steal (1 ST)" team="2" time="00:33" />
+    <LINE num="69" text="[ARG] A. Barbero - defensive rebound (1 REB)" team="2" time="00:37" />
+    <LINE num="68" text="[ESP] X. López-Arostegui - free throw missed" team="1" time="00:44" />
+    <LINE num="67" text="[ARG] Substitution - M. Fjellerup OUT, P. Gramajo IN" team="2" time="00:44" />
+    <LINE num="66" text="[ARG] A. Barbero - personal shooting foul (2 PF, 4th team foul). One free throw awarded. Foul drawn: X. López-Arostegui" team="2" time="00:44" />
+    <LINE num="65" text="[ESP] X. López-Arostegui - 2pt jump shot made (3 Pts)" team="1" time="00:44" scoreA="9" scoreB="12" />
+    <LINE num="64" text="[ARG] J. Vildoza - 2pt jump shot made (2 Pts)" team="2" time="01:09" scoreA="7" scoreB="12" />
+    <LINE num="63" text="[ARG] Substitution - F. Zurbriggen OUT, J. Vildoza IN" team="2" time="01:28" />
+    <LINE num="62" text="[ESP] Substitution - S. Rodríguez OUT, N. Sabata IN" team="1" time="01:28" />
+    <LINE num="61" text="[ESP] X. López-Arostegui - turnover (travelling, 2 TO)" team="1" time="01:28" />
+    <LINE num="60" text="[ARG] E. Rupcic - turnover (ball handling, 1 TO). X. López-Arostegui - steal (2 ST)" team="2" time="01:32" />
+    <LINE num="59" text="[ESP] X. López-Arostegui - 2pt lay-up missed. E. Rupcic - defensive rebound (1 REB)" team="1" time="01:57" />
+    <LINE num="58" text="[ARG] F. Zurbriggen - 2pt jump shot missed. S. Rodríguez - defensive rebound (1 REB)" team="2" time="02:14" />
+    <LINE num="57" text="[ESP] R. Vila - 2pt put-back made (2 Pts)" team="1" time="02:38" scoreA="7" scoreB="10" />
+    <LINE num="56" text="[ESP] P. Pérez - 2pt jump shot missed. R. Vila - offensive rebound (1 REB)" team="1" time="02:43" />
+    <LINE num="55" text="[ESP] P. Pérez - 3pt jump shot missed. X. Oroz - offensive rebound (1 REB)" team="1" time="02:53" />
+    <LINE num="54" text="[ARG] F. Zurbriggen - 3pt jump shot made (5 Pts). M. Fjellerup - assist (4 AS)" team="2" time="03:09" scoreA="5" scoreB="10" />
+    <LINE num="53" text="[ESP] X. López-Arostegui - 3pt jump shot missed. M. Fjellerup - defensive rebound (1 REB)" team="1" time="03:29" />
+    <LINE num="52" text="[ARG] M. Fjellerup - turnover (travelling, 1 TO)" team="2" time="03:42" />
+    <LINE num="51" text="[ESP] X. Oroz - turnover (ball handling, 1 TO). F. Zurbriggen - steal (1 ST)" team="1" time="03:49" />
+    <LINE num="50" text="[ARG] M. Fjellerup - assist (3 AS)" team="2" time="04:03" />
+    <LINE num="49" text="[ARG] L. Delfino - free throw made (1 Pts)" team="2" time="04:03" scoreA="5" scoreB="7" />
+    <LINE num="48" text="[ARG] L. Delfino - free throw missed" team="2" time="04:03" />
+    <LINE num="47" text="[ESP] Substitution - S. García OUT, P. Pérez IN" team="1" time="04:03" />
+    <LINE num="46" text="[ESP] S. García - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: L. Delfino" team="1" time="04:03" />
+    <LINE num="45" text="[ESP] X. López-Arostegui - free throw made (1 Pts)" team="1" time="04:18" scoreA="5" scoreB="6" />
+    <LINE num="44" text="[ESP] X. López-Arostegui - free throw missed" team="1" time="04:18" />
+    <LINE num="43" text="[ARG] Substitution - L. Berra OUT, E. Rupcic IN" team="2" time="04:18" />
+    <LINE num="42" text="[ESP] Substitution - F. Alonso OUT, R. Vila IN" team="1" time="04:18" />
+    <LINE num="41" text="[ESP] Substitution - Y. Sima OUT, X. Oroz IN" team="1" time="04:18" />
+    <LINE num="40" text="[ARG] L. Delfino - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: X. López-Arostegui" team="2" time="04:18" />
+    <LINE num="39" text="[ARG] L. Berra - 2pt jump shot made (2 Pts). M. Fjellerup - assist (2 AS)" team="2" time="04:37" scoreA="4" scoreB="6" />
+    <LINE num="38" text="[ESP] S. García - 2pt jump shot made (2 Pts)" team="1" time="04:59" scoreA="4" scoreB="4" />
+    <LINE num="37" text="[ARG] A. Barbero - 3pt jump shot missed. S. García - defensive rebound (3 REB)" team="2" time="05:09" />
+    <LINE num="36" text="[ESP] Y. Sima - 2pt jump shot missed. L. Delfino - defensive rebound (1 REB)" team="1" time="05:27" />
+    <LINE num="35" text="[ESP] S. García - 3pt jump shot missed. X. López-Arostegui - offensive rebound (2 REB)" team="1" time="05:35" />
+    <LINE num="34" text="[ARG] A. Barbero - personal  foul (1 PF, 2nd team foul). Foul drawn: X. López-Arostegui" team="2" time="05:38" />
+    <LINE num="33" text="[ARG] Team turnover (24 seconds)" team="2" time="05:49" />
+    <LINE num="32" text="[ARG] Substitution - M. Fernández OUT, A. Barbero IN" team="2" time="06:04" />
+    <LINE num="31" text="[ARG] L. Delfino - 3pt jump shot missed. Team offensive rebound" team="2" time="06:08" />
+    <LINE num="30" text="[ESP] F. Alonso - turnover (bad pass, 1 TO). M. Fjellerup - steal (1 ST)" team="1" time="06:11" />
+    <LINE num="29" text="[ARG] F. Zurbriggen - 2pt driving lay-up made (2 Pts)" team="2" time="06:26" scoreA="2" scoreB="4" />
+    <LINE num="28" text="[ARG] Substitution - R. Gerhardt OUT, L. Delfino IN" team="2" time="06:35" />
+    <LINE num="27" text="[ESP] S. García - 3pt jump shot missed. Team defensive rebound" team="1" time="06:41" />
+    <LINE num="26" text="[ARG] R. Gerhardt - 2pt jump shot missed. S. García - defensive rebound (2 REB)" team="2" time="06:59" />
+    <LINE num="25" text="[ARG] M. Fjellerup - 3pt jump shot missed. R. Gerhardt - offensive rebound (1 REB)" team="2" time="07:11" />
+    <LINE num="24" text="[ESP] F. Alonso - 2pt jump shot missed. F. Zurbriggen - defensive rebound (1 REB)" team="1" time="07:18" />
+    <LINE num="23" text="[ARG] L. Berra - personal  foul (1 PF, 1st team foul). Foul drawn: Y. Sima" team="2" time="07:22" />
+    <LINE num="22" text="[ESP] X. López-Arostegui - 2pt jump shot missed. Y. Sima - offensive rebound (2 REB)" team="1" time="07:27" />
+    <LINE num="21" text="[ARG] L. Berra - 2pt jump shot blocked. Y. Sima - block (1 BS). X. López-Arostegui - defensive rebound (1 REB)" team="2" time="07:34" />
+    <LINE num="20" text="[ESP] Y. Sima - turnover (travelling, 1 TO)" team="1" time="07:46" />
+    <LINE num="19" text="[ESP] S. Rodríguez - 3pt jump shot missed. S. García - offensive rebound (1 REB)" team="1" time="08:00" />
+    <LINE num="18" text="[ESP] S. Rodríguez - 3pt jump shot missed. F. Alonso - offensive rebound (1 REB)" team="1" time="08:19" />
+    <LINE num="17" text="[ARG] R. Gerhardt - 2pt jump shot made (2 Pts). M. Fjellerup - assist (1 AS)" team="2" time="08:35" scoreA="2" scoreB="2" />
+    <LINE num="16" text="[ESP] F. Alonso - personal  foul (1 PF, 1st team foul). Foul drawn: F. Zurbriggen" team="1" time="08:49" />
+    <LINE num="15" text="[ESP] Y. Sima - 2pt jump shot made (2 Pts)" team="1" time="09:11" scoreA="2" scoreB="0" />
+    <LINE num="14" text="[ARG] R. Gerhardt - turnover (bad pass, 1 TO). X. López-Arostegui - steal (1 ST)" team="2" time="09:23" />
+    <LINE num="13" text="[ESP] X. López-Arostegui - turnover (bad pass, 1 TO). R. Gerhardt - steal (1 ST)" team="1" time="09:31" />
+    <LINE num="12" text="[ARG] M. Fjellerup - 3pt jump shot missed. Y. Sima - defensive rebound (1 REB)" team="2" time="09:43" />
+    <LINE num="11" text="START OF GAME" team="0" time="10:00" />
+    <LINE num="10" text="[ARG] Substitution - L. Berra IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[ARG] Substitution - R. Gerhardt IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[ARG] Substitution - M. Fjellerup IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[ARG] Substitution - M. Fernández IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[ARG] Substitution - F. Zurbriggen IN" team="2" time="10:00" deleted="1" />
+    <LINE num="5" text="[ESP] Substitution - S. Rodríguez IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[ESP] Substitution - F. Alonso IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[ESP] Substitution - Y. Sima IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[ESP] Substitution - X. López-Arostegui IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="[ESP] Substitution - S. García IN" team="1" time="10:00" deleted="1" />
+  </PLAYBYPLAY>
+  <BANNER duration="0" />
+</FE>

@@ -1,0 +1,358 @@
+<FE>
+  <HEADER competition="U18 Men friendlies 2015" quarter="4" time="ENDE" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="31.1899">
+    <TEAM name="Germany U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="67" fouls="3" />
+    <TEAM name="Turkey U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/6E1AF23C-5015-47B4-AF67-51D97FB879D2.jpg" pts="70" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="13" scoreB="17" />
+      <QUARTER n="2" scoreA="25" scoreB="25" />
+      <QUARTER n="3" scoreA="17" scoreB="16" />
+      <QUARTER n="4" scoreA="12" scoreB="12" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Ö. Yurtseven [TUR] - 6 Ballverluste" duration="15.6039">
+    <ITEM text="G. Zeeb [GER] - 7 Ballverluste" />
+  </TICKER>
+  <OVERVIEW duration="46.7979">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68392" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="67" TeamB="Turkey U18 Men 2015" ScoreB="70" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/2DF961C7-0CC9-457B-AA5A-17D59515B1DB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="140.4008">
+    <LINE num="335" text="SPIELENDE" team="0" time="00:00" />
+    <LINE num="334" text="Ende der Periode 4" team="0" time="00:00" />
+    <LINE num="333" text="[GER] I. Hartenstein - 2Pkt Korbleger getroffen (11 Pkt)" team="1" time="00:12" scoreA="67" scoreB="70" />
+    <LINE num="332" text="[GER] G. Zeeb - 3Pkt Sprungwurf vergeben. I. Hartenstein - offensiver Rebound (5 Reb)" team="1" time="00:12" />
+    <LINE num="331" text="[TUR] E. Yilmaz - persönliches  Foul (3 PF, 4. Team Foul). Gefoult: R. Freudenberg" team="2" time="00:12" />
+    <LINE num="330" text="[TUR] E. Yilmaz - 2Pkt Korbleger vergeben. R. Freudenberg - defensiver Rebound (3 Reb)" team="2" time="00:13" />
+    <LINE num="329" text="[GER] I. Hartenstein - persönliches  Foul (3 PF, 3. Team Foul). Gefoult: Ö. Al" team="1" time="00:17" />
+    <LINE num="328" text="[TUR] B. Ülker - 3Pkt Sprungwurf vergeben. Ö. Al - offensiver Rebound (4 Reb)" team="2" time="00:21" />
+    <LINE num="327" text="[GER] B. Turudic - 2Pkt Korbleger getroffen (4 Pkt). G. Zeeb - Assist (5 AS)" team="1" time="00:56" scoreA="65" scoreB="70" />
+    <LINE num="326" text="[TUR] Ö. Al - persönliches  Foul (4 PF, 3. Team Foul). Gefoult: G. Zeeb" team="2" time="00:58" />
+    <LINE num="325" text="[TUR] R. Öncel - 3Pkt Sprungwurf vergeben. I. Hartenstein - defensiver Rebound (4 Reb)" team="2" time="01:00" />
+    <LINE num="324" text="[GER] L. Figge - 2Pkt Sprungwurf geblockt. B. Ülker - Block (1 BL). B. Ülker - defensiver Rebound (9 Reb)" team="1" time="01:24" />
+    <LINE num="323" text="[TUR] B. Ülker - persönliches  Foul (1 PF, 2. Team Foul). Gefoult: G. Zeeb" team="2" time="01:28" />
+    <LINE num="322" text="[TUR] Ö. Al - 3Pkt Sprungwurf getroffen (7 Pkt). R. Öncel - Assist (1 AS)" team="2" time="01:37" scoreA="63" scoreB="70" />
+    <LINE num="321" text="[TUR] Ö. Al - Freiwurf getroffen (4 Pkt)" team="2" time="01:54" scoreA="63" scoreB="67" />
+    <LINE num="320" text="[GER]  - technisches  Foul. Ein Freiwurf" team="1" time="01:54" />
+    <LINE num="319" text="[TUR] Ö. Al - Freiwurf vergeben" team="2" time="01:54" />
+    <LINE num="318" text="[GER]  - technisches  Foul. Ein Freiwurf" team="1" time="01:54" />
+    <LINE num="317" text="[GER] I. Hartenstein - Ballverlust (Schrittfehler, 2 BV)" team="1" time="02:05" />
+    <LINE num="316" text="[TUR] R. Öncel - persönliches  Foul (2 PF, 1. Team Foul). Gefoult: G. Zeeb" team="2" time="02:08" />
+    <LINE num="315" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger vergeben. L. Figge - defensiver Rebound (1 Reb)" team="2" time="02:19" />
+    <LINE num="314" text="[GER] G. Zeeb - Ballverlust (Ballbehandlung, 7 BV). Ö. Al - Ballgewinn (1 BG)" team="1" time="02:39" />
+    <LINE num="313" text="[GER] Auszeit" team="1" time="02:44" />
+    <LINE num="312" text="[TUR] R. Öncel - 2Pkt Korbleger getroffen (Schnellangriff, 4 Pkt). B. Ülker - Assist (4 AS)" team="2" time="02:44" scoreA="63" scoreB="66" />
+    <LINE num="311" text="[GER] Auswechslung - M. Pölking raus, I. Hartenstein rein" team="1" time="02:51" />
+    <LINE num="310" text="[GER] Team Ballverlust (24 Sekunden)" team="1" time="02:54" />
+    <LINE num="309" text="[GER] L. Figge - 3Pkt Sprungwurf vergeben" team="1" time="02:54" />
+    <LINE num="308" text="[TUR] B. Ülker - Freiwurf getroffen (7 Pkt)" team="2" time="03:17" scoreA="63" scoreB="64" />
+    <LINE num="307" text="[TUR] B. Ülker - Freiwurf vergeben" team="2" time="03:17" />
+    <LINE num="306" text="[GER] Auswechslung - D. Krämer raus, L. Figge rein" team="1" time="03:17" />
+    <LINE num="305" text="[GER] G. Zeeb - persönliches  Foul (1 PF, 2. Team Foul). 2 Freiwürfe. Gefoult: B. Ülker" team="1" time="03:17" />
+    <LINE num="304" text="[GER] R. Freudenberg - 2Pkt Sprungwurf getroffen (4 Pkt). D. Krämer - Assist (2 AS)" team="1" time="03:30" scoreA="63" scoreB="63" />
+    <LINE num="303" text="[TUR] E. Yilmaz - Ballverlust (Fehlpass, 1 BV). M. Pölking - Ballgewinn (1 BG)" team="2" time="03:46" />
+    <LINE num="302" text="[TUR] Auszeit" team="2" time="03:53" />
+    <LINE num="301" text="[TUR] Auswechslung - E. Taskiran raus, R. Öncel rein" team="2" time="03:53" />
+    <LINE num="300" text="[TUR] Auswechslung - K. Özel raus, Ö. Al rein" team="2" time="03:53" />
+    <LINE num="299" text="[GER] D. Krämer - persönliches  Foul (1 PF, 1. Team Foul). Gefoult: E. Taskiran" team="1" time="03:53" />
+    <LINE num="298" text="[GER] B. Turudic - 2Pkt Sprungwurf getroffen (Schnellangriff, 2 Pkt). G. Zeeb - Assist (4 AS)" team="1" time="04:12" scoreA="61" scoreB="63" />
+    <LINE num="297" text="[TUR] E. Yilmaz - 3Pkt Sprungwurf vergeben. M. Pölking - defensiver Rebound (2 Reb)" team="2" time="04:21" />
+    <LINE num="296" text="[GER] G. Zeeb - 2Pkt Sprungwurf vergeben. Ö. Yurtseven - defensiver Rebound (6 Reb)" team="1" time="04:45" />
+    <LINE num="295" text="[TUR] B. Ülker - 2Pkt Korbleger vergeben. M. Pölking - defensiver Rebound (1 Reb)" team="2" time="05:11" />
+    <LINE num="294" text="[GER] Auszeit" team="1" time="05:28" />
+    <LINE num="293" text="[GER] B. Turudic - Ballverlust (Ballbehandlung, 1 BV)" team="1" time="06:01" />
+    <LINE num="292" text="[TUR] B. Ülker - 3Pkt Sprungwurf vergeben. D. Krämer - defensiver Rebound (3 Reb)" team="2" time="06:02" />
+    <LINE num="291" text="[TUR] B. Ülker - 2Pkt Alley-Oop vergeben. B. Ülker - offensiver Rebound (8 Reb)" team="2" time="06:02" />
+    <LINE num="290" text="[GER] G. Zeeb - Ballverlust (Fehlpass, 6 BV)" team="1" time="06:02" />
+    <LINE num="289" text="[GER] B. Turudic - 2Pkt Korbleger vergeben. D. Krämer - offensiver Rebound (2 Reb)" team="1" time="06:02" />
+    <LINE num="288" text="[TUR] E. Taskiran - 2Pkt Sprungwurf getroffen (Schnellangriff, 15 Pkt)" team="2" time="06:19" scoreA="59" scoreB="63" />
+    <LINE num="287" text="[GER] D. Krämer - 3Pkt Sprungwurf vergeben. K. Özel - defensiver Rebound (5 Reb)" team="1" time="06:27" />
+    <LINE num="286" text="[TUR] K. Özel - 3Pkt Sprungwurf getroffen (8 Pkt). E. Yilmaz - Assist (4 AS)" team="2" time="06:43" scoreA="59" scoreB="61" />
+    <LINE num="285" text="[TUR] Auswechslung - R. Öncel raus, E. Yilmaz rein" team="2" time="07:08" />
+    <LINE num="284" text="[GER] Auswechslung - S. Much raus, R. Freudenberg rein" team="1" time="07:08" />
+    <LINE num="283" text="[GER] B. Turudic - 2Pkt Sprungwurf vergeben. Team defensiver Rebound" team="1" time="07:13" />
+    <LINE num="282" text="[TUR] R. Öncel - Ballverlust (Fehlpass, 3 BV)" team="2" time="07:25" />
+    <LINE num="281" text="[TUR] E. Taskiran - 3Pkt Sprungwurf vergeben. K. Özel - offensiver Rebound (4 Reb)" team="2" time="07:36" />
+    <LINE num="280" text="[GER] Auswechslung - M. Keßen raus, M. Pölking rein" team="1" time="07:56" />
+    <LINE num="279" text="[GER] G. Zeeb - Ballverlust (Drei Sekunden, 5 BV)" team="1" time="07:56" />
+    <LINE num="278" text="[TUR] B. Ülker - 3Pkt Sprungwurf vergeben. M. Keßen - defensiver Rebound (5 Reb)" team="2" time="08:18" />
+    <LINE num="277" text="[GER] M. Keßen - 2Pkt Korbleger getroffen (4 Pkt)" team="1" time="08:28" scoreA="59" scoreB="58" />
+    <LINE num="276" text="[GER] S. Much - 2Pkt Korbleger geblockt. Ö. Yurtseven - Block (2 BL). M. Keßen - offensiver Rebound (4 Reb)" team="1" time="08:40" />
+    <LINE num="275" text="[TUR] Ö. Yurtseven - 3Pkt Sprungwurf vergeben. S. Much - defensiver Rebound (2 Reb)" team="2" time="08:55" />
+    <LINE num="274" text="[GER] Auswechslung - T. Taras raus, G. Zeeb rein" team="1" time="09:12" />
+    <LINE num="273" text="[GER] M. Keßen - 2Pkt Korbleger geblockt. R. Öncel - Block (1 BL). R. Öncel - defensiver Rebound (2 Reb)" team="1" time="09:15" />
+    <LINE num="272" text="[TUR] Auswechslung - E. Bayrak raus, B. Ülker rein" team="2" time="09:28" />
+    <LINE num="271" text="[TUR] Ö. Yurtseven - Ballverlust (Drei Sekunden, 6 BV)" team="2" time="09:28" />
+    <LINE num="270" text="[GER] T. Taras - 2Pkt Sprungwurf getroffen (6 Pkt)" team="1" time="09:46" scoreA="57" scoreB="58" />
+    <LINE num="269" text="[TUR] Auswechslung - A. Berisha raus, Ö. Yurtseven rein" team="2" time="10:00" />
+    <LINE num="268" text="[TUR] Auswechslung - Ö. Al raus, K. Özel rein" team="2" time="10:00" />
+    <LINE num="267" text="[GER] Auswechslung - M. Sanders raus, B. Turudic rein" team="1" time="10:00" />
+    <LINE num="266" text="Beginn der Periode 4" team="0" time="10:00" />
+    <LINE num="265" text="Ende der Periode 3" team="0" time="00:00" />
+    <LINE num="264" text="[TUR] Ö. Al - 2Pkt Korbleger vergeben. M. Sanders - defensiver Rebound (3 Reb)" team="2" time="00:05" />
+    <LINE num="263" text="[GER] S. Much - 2Pkt Korbleger vergeben. Ö. Al - defensiver Rebound (3 Reb)" team="1" time="00:12" />
+    <LINE num="262" text="[TUR] A. Berisha - Freiwurf vergeben. M. Keßen - defensiver Rebound (3 Reb)" team="2" time="00:18" />
+    <LINE num="261" text="[TUR] A. Berisha - Freiwurf getroffen (4 Pkt)" team="2" time="00:18" scoreA="55" scoreB="58" />
+    <LINE num="260" text="[GER] T. Taras - persönliches  Foul (4 PF, 8. Team Foul). 2 Freiwürfe. Gefoult: A. Berisha" team="1" time="00:18" />
+    <LINE num="259" text="[GER] T. Taras - 2Pkt Sprungwurf vergeben. E. Taskiran - defensiver Rebound (6 Reb)" team="1" time="00:35" />
+    <LINE num="258" text="[TUR] R. Öncel - Freiwurf getroffen (2 Pkt)" team="2" time="00:49" scoreA="55" scoreB="57" />
+    <LINE num="257" text="[TUR] R. Öncel - Freiwurf vergeben" team="2" time="00:49" />
+    <LINE num="256" text="[GER] T. Taras - persönliches  Foul (3 PF, 7. Team Foul). 2 Freiwürfe. Gefoult: R. Öncel" team="1" time="00:49" />
+    <LINE num="255" text="[GER] S. Much - 3Pkt Sprungwurf vergeben. R. Öncel - defensiver Rebound (1 Reb)" team="1" time="00:55" />
+    <LINE num="254" text="[TUR] Auswechslung - Ö. Yurtseven raus, E. Bayrak rein" team="2" time="01:14" />
+    <LINE num="253" text="[TUR] Auswechslung - B. Ülker raus, A. Berisha rein" team="2" time="01:14" />
+    <LINE num="252" text="[TUR] Auswechslung - E. Yilmaz raus, E. Taskiran rein" team="2" time="01:14" />
+    <LINE num="251" text="[GER] Auswechslung - L. Figge raus, D. Krämer rein" team="1" time="01:14" />
+    <LINE num="250" text="[TUR] Ö. Al - 3Pkt Sprungwurf vergeben. Team defensiver Rebound" team="2" time="01:18" />
+    <LINE num="249" text="[GER] T. Taras - 3Pkt Sprungwurf getroffen (4 Pkt). M. Sanders - Assist (1 AS)" team="1" time="01:37" scoreA="55" scoreB="56" />
+    <LINE num="248" text="[TUR] B. Ülker - 2Pkt Korbleger getroffen (Schnellangriff, 6 Pkt). Ö. Al - Assist (3 AS)" team="2" time="01:51" scoreA="52" scoreB="56" />
+    <LINE num="247" text="[GER] L. Figge - 2Pkt Korbleger getroffen (Schnellangriff, 6 Pkt)" team="1" time="02:01" scoreA="52" scoreB="54" />
+    <LINE num="246" text="[TUR] E. Yilmaz - 3Pkt Sprungwurf getroffen (5 Pkt). Ö. Al - Assist (2 AS)" team="2" time="02:08" scoreA="50" scoreB="54" />
+    <LINE num="245" text="[GER] M. Sanders - 3Pkt Sprungwurf vergeben. Ö. Al - defensiver Rebound (2 Reb)" team="1" time="02:22" />
+    <LINE num="244" text="[TUR] Ö. Yurtseven - Freiwurf vergeben. M. Sanders - defensiver Rebound (2 Reb)" team="2" time="02:35" />
+    <LINE num="243" text="[TUR] Ö. Yurtseven - Freiwurf getroffen (11 Pkt)" team="2" time="02:35" scoreA="50" scoreB="51" />
+    <LINE num="242" text="[GER] L. Figge - persönliches  Foul (2 PF, 6. Team Foul). 2 Freiwürfe. Gefoult: Ö. Yurtseven" team="1" time="02:35" />
+    <LINE num="241" text="[GER] S. Much - 3Pkt Sprungwurf vergeben. Ö. Yurtseven - defensiver Rebound (5 Reb)" team="1" time="02:38" />
+    <LINE num="240" text="[TUR] R. Öncel - 2Pkt Korbleger vergeben. M. Keßen - defensiver Rebound (2 Reb)" team="2" time="02:51" />
+    <LINE num="239" text="[GER] L. Figge - Freiwurf getroffen (4 Pkt)" team="1" time="03:07" scoreA="50" scoreB="50" />
+    <LINE num="238" text="[GER] L. Figge - Freiwurf getroffen (3 Pkt)" team="1" time="03:07" scoreA="49" scoreB="50" />
+    <LINE num="237" text="[TUR] Auswechslung - E. Gazi raus, R. Öncel rein" team="2" time="03:07" />
+    <LINE num="236" text="[TUR] E. Gazi - persönliches  Foul (2 PF, 7. Team Foul). 2 Freiwürfe. Gefoult: L. Figge" team="2" time="03:07" />
+    <LINE num="235" text="[TUR] Ö. Yurtseven - Assist (3 AS)" team="2" time="03:18" />
+    <LINE num="234" text="[TUR] B. Ülker - Freiwurf getroffen (4 Pkt)" team="2" time="03:18" scoreA="48" scoreB="50" />
+    <LINE num="233" text="[TUR] B. Ülker - Freiwurf vergeben" team="2" time="03:18" />
+    <LINE num="232" text="[GER] M. Keßen - persönliches  Foul (1 PF, 5. Team Foul). 2 Freiwürfe. Gefoult: B. Ülker" team="1" time="03:18" />
+    <LINE num="231" text="[GER] Team Ballverlust (24 Sekunden)" team="1" time="03:28" />
+    <LINE num="230" text="[GER] Auswechslung - L. Wank raus, S. Much rein" team="1" time="03:37" />
+    <LINE num="229" text="[GER] T. Taras - persönliches  Foul (2 PF, 4. Team Foul). Gefoult: E. Gazi" team="1" time="03:38" />
+    <LINE num="228" text="[TUR] E. Gazi - persönliches  Foul (1 PF, 6. Team Foul). Gefoult: T. Taras" team="2" time="03:38" />
+    <LINE num="227" text="[GER] T. Taras - 3Pkt Sprungwurf vergeben. L. Wank - offensiver Rebound (2 Reb)" team="1" time="03:44" />
+    <LINE num="226" text="[TUR] Ö. Yurtseven - 2Pkt Sprungwurf vergeben. M. Sanders - defensiver Rebound (1 Reb)" team="2" time="04:05" />
+    <LINE num="225" text="[GER] T. Taras - persönliches  Foul (1 PF, 3. Team Foul). Gefoult: E. Gazi" team="1" time="04:18" />
+    <LINE num="224" text="[GER] T. Taras - Freiwurf getroffen (1 Pkt)" team="1" time="04:30" scoreA="48" scoreB="49" />
+    <LINE num="223" text="[GER] T. Taras - Freiwurf vergeben" team="1" time="04:30" />
+    <LINE num="222" text="[TUR] Auswechslung - E. Taskiran raus, E. Gazi rein" team="2" time="04:30" />
+    <LINE num="221" text="[GER] Auswechslung - I. Hartenstein raus, M. Sanders rein" team="1" time="04:30" />
+    <LINE num="220" text="[GER] Auswechslung - K. Mushidi raus, L. Figge rein" team="1" time="04:30" />
+    <LINE num="219" text="[TUR] E. Taskiran - persönliches  Foul (3 PF, 5. Team Foul). Gefoult: T. Taras" team="2" time="04:30" />
+    <LINE num="218" text="[TUR] E. Taskiran - Ballverlust (Ballbehandlung, 3 BV). M. Keßen - Ballgewinn (1 BG)" team="2" time="04:34" />
+    <LINE num="217" text="[GER] M. Keßen - 2Pkt Korbleger getroffen (2 Pkt). I. Hartenstein - Assist (2 AS)" team="1" time="04:49" scoreA="47" scoreB="49" />
+    <LINE num="216" text="[TUR] Auswechslung - K. Özel raus, Ö. Al rein" team="2" time="05:12" />
+    <LINE num="215" text="[GER] Auswechslung - N. Kiel raus, M. Keßen rein" team="1" time="05:12" />
+    <LINE num="214" text="[TUR] K. Özel - Ballverlust (Ball im Aus, 2 BV)" team="2" time="05:16" />
+    <LINE num="213" text="[TUR] K. Özel - 2Pkt Korbleger geblockt. I. Hartenstein - Block (2 BL). K. Özel - offensiver Rebound (3 Reb)" team="2" time="05:16" />
+    <LINE num="212" text="[GER] L. Wank - Ballverlust (Ballbehandlung, 1 BV). K. Özel - Ballgewinn (2 BG)" team="1" time="05:16" />
+    <LINE num="211" text="[TUR] K. Özel - 2Pkt Korbleger geblockt. I. Hartenstein - Block (1 BL). L. Wank - defensiver Rebound (1 Reb)" team="2" time="05:22" />
+    <LINE num="210" text="[TUR] E. Taskiran - 2Pkt Sprungwurf vergeben. K. Özel - offensiver Rebound (2 Reb)" team="2" time="05:25" />
+    <LINE num="209" text="[GER] N. Kiel - Freiwurf vergeben. B. Ülker - defensiver Rebound (7 Reb)" team="1" time="05:47" />
+    <LINE num="208" text="[GER] N. Kiel - Freiwurf vergeben" team="1" time="05:47" />
+    <LINE num="207" text="[GER] Auswechslung - G. Zeeb raus, T. Taras rein" team="1" time="05:47" />
+    <LINE num="206" text="[TUR] Ö. Yurtseven - persönliches  Foul (3 PF, 4. Team Foul). 2 Freiwürfe. Gefoult: N. Kiel" team="2" time="05:47" />
+    <LINE num="205" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger getroffen (10 Pkt)" team="2" time="06:08" scoreA="45" scoreB="49" />
+    <LINE num="204" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger vergeben. Ö. Yurtseven - offensiver Rebound (4 Reb)" team="2" time="06:12" />
+    <LINE num="203" text="[TUR] B. Ülker - 3Pkt Sprungwurf vergeben. Ö. Yurtseven - offensiver Rebound (3 Reb)" team="2" time="06:14" />
+    <LINE num="202" text="[GER] I. Hartenstein - 2Pkt Sprungwurf getroffen (9 Pkt). G. Zeeb - Assist (3 AS)" team="1" time="06:42" scoreA="45" scoreB="47" />
+    <LINE num="201" text="[GER] K. Mushidi - 2Pkt Korbleger geblockt. Ö. Yurtseven - Block (1 BL). Team offensiver Rebound" team="1" time="06:46" />
+    <LINE num="200" text="[TUR] Ö. Yurtseven - Ballverlust (Ballbehandlung, 5 BV). N. Kiel - Ballgewinn (1 BG)" team="2" time="06:52" />
+    <LINE num="199" text="[GER] N. Kiel - Freiwurf vergeben. B. Ülker - defensiver Rebound (6 Reb)" team="1" time="07:11" />
+    <LINE num="198" text="[GER] N. Kiel - Freiwurf getroffen (10 Pkt)" team="1" time="07:11" scoreA="43" scoreB="47" />
+    <LINE num="197" text="[TUR] Auswechslung - E. Bayrak raus, Ö. Yurtseven rein" team="2" time="07:11" />
+    <LINE num="196" text="[TUR] Auswechslung - A. Berisha raus, E. Yilmaz rein" team="2" time="07:11" />
+    <LINE num="195" text="[TUR] E. Bayrak - persönliches  Foul (3 PF, 3. Team Foul). 2 Freiwürfe. Gefoult: N. Kiel" team="2" time="07:11" />
+    <LINE num="194" text="[TUR] E. Bayrak - 2Pkt Dunk getroffen (Schnellangriff, 4 Pkt). K. Özel - Assist (2 AS)" team="2" time="07:32" scoreA="42" scoreB="47" />
+    <LINE num="193" text="[GER] G. Zeeb - Ballverlust (Ballbehandlung, 4 BV). K. Özel - Ballgewinn (1 BG)" team="1" time="07:34" />
+    <LINE num="192" text="[TUR] E. Taskiran - 2Pkt Korbleger vergeben. N. Kiel - defensiver Rebound (4 Reb)" team="2" time="07:47" />
+    <LINE num="191" text="[GER] N. Kiel - Freiwurf getroffen (9 Pkt)" team="1" time="08:06" scoreA="42" scoreB="45" />
+    <LINE num="190" text="[GER] G. Zeeb - Assist (2 AS)" team="1" time="08:06" />
+    <LINE num="189" text="[GER] N. Kiel - Freiwurf getroffen (8 Pkt)" team="1" time="08:06" scoreA="41" scoreB="45" />
+    <LINE num="188" text="[TUR] E. Bayrak - persönliches  Foul (2 PF, 2. Team Foul). 2 Freiwürfe. Gefoult: N. Kiel" team="2" time="08:06" />
+    <LINE num="187" text="[TUR] A. Berisha - 2Pkt Korbleger getroffen (3 Pkt). B. Ülker - Assist (3 AS)" team="2" time="08:16" scoreA="40" scoreB="45" />
+    <LINE num="186" text="[GER] L. Wank - 3Pkt Sprungwurf vergeben. E. Taskiran - defensiver Rebound (5 Reb)" team="1" time="08:36" />
+    <LINE num="185" text="[TUR] Auswechslung - Ö. Al raus, K. Özel rein" team="2" time="08:41" />
+    <LINE num="184" text="[TUR] Ö. Al - persönliches  Foul (3 PF, 1. Team Foul). Gefoult: G. Zeeb" team="2" time="08:41" />
+    <LINE num="183" text="[TUR] A. Berisha - Freiwurf vergeben. I. Hartenstein - defensiver Rebound (3 Reb)" team="2" time="08:51" />
+    <LINE num="182" text="[TUR] A. Berisha - Freiwurf getroffen (1 Pkt)" team="2" time="08:51" scoreA="40" scoreB="43" />
+    <LINE num="181" text="[GER] L. Wank - persönliches  Foul (2 PF, 2. Team Foul). 2 Freiwürfe. Gefoult: A. Berisha" team="1" time="08:51" />
+    <LINE num="180" text="[TUR] Ö. Al - 2Pkt Sprungwurf vergeben. A. Berisha - offensiver Rebound (4 Reb)" team="2" time="08:54" />
+    <LINE num="179" text="[GER] K. Mushidi - persönliches  Foul (1 PF, 1. Team Foul). Gefoult: E. Taskiran" team="1" time="09:04" />
+    <LINE num="178" text="[GER] N. Kiel - Ballverlust (Fehlpass, 4 BV)" team="1" time="09:05" />
+    <LINE num="177" text="[TUR] A. Berisha - Ballverlust (Ballbehandlung, 1 BV)" team="2" time="09:22" />
+    <LINE num="176" text="[GER] G. Zeeb - 2Pkt Korbleger getroffen (Schnellangriff, 4 Pkt)" team="1" time="09:44" scoreA="40" scoreB="42" />
+    <LINE num="175" text="[TUR] Ö. Al - Ballverlust (Fehlpass, 1 BV). G. Zeeb - Ballgewinn (1 BG)" team="2" time="09:47" />
+    <LINE num="174" text="[TUR] Auswechslung - E. Gazi raus, E. Bayrak rein" team="2" time="10:00" />
+    <LINE num="173" text="[GER] Auswechslung - S. Much raus, N. Kiel rein" team="1" time="10:00" />
+    <LINE num="172" text="[GER] Auswechslung - M. Keßen raus, G. Zeeb rein" team="1" time="10:00" />
+    <LINE num="171" text="Beginn der Periode 3" team="0" time="10:00" />
+    <LINE num="170" text="Ende der Periode 2" team="0" time="00:00" />
+    <LINE num="169" text="[GER] K. Mushidi - 3Pkt Sprungwurf vergeben. B. Ülker - defensiver Rebound (5 Reb)" team="1" time="00:03" />
+    <LINE num="168" text="[TUR] E. Gazi - 3Pkt Sprungwurf getroffen (5 Pkt). B. Ülker - Assist (2 AS)" team="2" time="00:13" scoreA="38" scoreB="42" />
+    <LINE num="167" text="[GER] K. Mushidi - 2Pkt Korbleger getroffen (Schnellangriff, 5 Pkt)" team="1" time="00:37" scoreA="38" scoreB="39" />
+    <LINE num="166" text="[TUR] Auswechslung - Ö. Yurtseven raus, A. Berisha rein" team="2" time="00:46" />
+    <LINE num="165" text="[TUR] E. Taskiran - 2Pkt Sprungwurf vergeben. Team defensiver Rebound" team="2" time="00:48" />
+    <LINE num="164" text="[GER] L. Wank - 2Pkt Korbleger getroffen (Schnellangriff, 7 Pkt). I. Hartenstein - Assist (1 AS)" team="1" time="01:12" scoreA="36" scoreB="39" />
+    <LINE num="163" text="[TUR] Ö. Yurtseven - Ballverlust (Ballbehandlung, 4 BV). I. Hartenstein - Ballgewinn (1 BG)" team="2" time="01:16" />
+    <LINE num="162" text="[TUR] Auswechslung - K. Özel raus, Ö. Al rein" team="2" time="01:34" />
+    <LINE num="161" text="[GER] L. Wank - Freiwurf getroffen (5 Pkt)" team="1" time="01:34" scoreA="34" scoreB="39" />
+    <LINE num="160" text="[TUR] K. Özel - persönliches  Foul (3 PF, 7. Team Foul). Ein Freiwurf. Gefoult: L. Wank" team="2" time="01:34" />
+    <LINE num="159" text="[GER] L. Wank - 2Pkt Korbleger getroffen (Schnellangriff, 4 Pkt)" team="1" time="01:34" scoreA="33" scoreB="39" />
+    <LINE num="158" text="[TUR] K. Özel - 3Pkt Sprungwurf getroffen (5 Pkt). E. Taskiran - Assist (1 AS)" team="2" time="01:41" scoreA="31" scoreB="39" />
+    <LINE num="157" text="[TUR] Auswechslung - R. Öncel raus, E. Taskiran rein" team="2" time="01:51" />
+    <LINE num="156" text="[GER] L. Wank - persönliches  Foul (1 PF, 4. Team Foul). Gefoult: R. Öncel" team="1" time="01:51" />
+    <LINE num="155" text="[GER] L. Wank - 2Pkt Korbleger getroffen (2 Pkt)" team="1" time="02:09" scoreA="31" scoreB="36" />
+    <LINE num="154" text="[TUR] Ö. Yurtseven -  offensives Foul (2 PF, 6. Team Foul). Gefoult: I. Hartenstein. Ö. Yurtseven - Ballverlust (Offensives Foul, 3 BV)" team="2" time="02:23" />
+    <LINE num="153" text="[GER] S. Much - Freiwurf vergeben. B. Ülker - defensiver Rebound (4 Reb)" team="1" time="02:33" />
+    <LINE num="152" text="[TUR] Auswechslung - E. Yilmaz raus, E. Gazi rein" team="2" time="02:33" />
+    <LINE num="151" text="[TUR] E. Yilmaz - persönliches  Foul (2 PF, 5. Team Foul). Ein Freiwurf. Gefoult: S. Much" team="2" time="02:33" />
+    <LINE num="150" text="[GER] S. Much - 2Pkt Korbleger getroffen (2 Pkt). M. Keßen - Assist (1 AS)" team="1" time="02:33" scoreA="29" scoreB="36" />
+    <LINE num="149" text="[GER] I. Hartenstein - 3Pkt Sprungwurf vergeben. Team offensiver Rebound" team="1" time="02:41" />
+    <LINE num="148" text="[TUR] Ö. Yurtseven - 2Pkt Sprungwurf getroffen (8 Pkt). E. Yilmaz - Assist (3 AS)" team="2" time="02:58" scoreA="27" scoreB="36" />
+    <LINE num="147" text="[TUR] Auswechslung - E. Taskiran raus, R. Öncel rein" team="2" time="02:58" />
+    <LINE num="146" text="[GER] Auswechslung - N. Kiel raus, I. Hartenstein rein" team="1" time="02:58" />
+    <LINE num="145" text="[GER] Auswechslung - D. Krämer raus, L. Wank rein" team="1" time="02:58" />
+    <LINE num="144" text="[TUR] K. Özel - Ballverlust (Fehlpass, 1 BV)" team="2" time="02:58" deleted="1" />
+    <LINE num="143" text="[GER] K. Mushidi - 3Pkt Sprungwurf getroffen (3 Pkt)" team="1" time="03:24" scoreA="27" scoreB="34" />
+    <LINE num="142" text="[TUR] E. Taskiran - 2Pkt Sprungwurf vergeben. K. Mushidi - defensiver Rebound (1 Reb)" team="2" time="03:45" />
+    <LINE num="141" text="[GER] S. Much - 2Pkt Korbleger vergeben. Ö. Yurtseven - defensiver Rebound (2 Reb)" team="1" time="03:53" />
+    <LINE num="140" text="[TUR] E. Taskiran - persönliches  Foul (2 PF, 4. Team Foul). Gefoult: S. Much" team="2" time="04:08" />
+    <LINE num="139" text="[TUR] B. Ülker - 3Pkt Sprungwurf vergeben. S. Much - defensiver Rebound (1 Reb)" team="2" time="04:10" />
+    <LINE num="138" text="[GER] N. Kiel - Ballverlust (Ballbehandlung, 3 BV)" team="1" time="04:29" />
+    <LINE num="137" text="[TUR] Auswechslung - R. Öncel raus, E. Yilmaz rein" team="2" time="04:36" />
+    <LINE num="136" text="[GER] Auswechslung - G. Zeeb raus, S. Much rein" team="1" time="04:36" />
+    <LINE num="135" text="[TUR] Ö. Yurtseven - persönliches  Foul (1 PF, 3. Team Foul). Gefoult: M. Keßen" team="2" time="04:36" />
+    <LINE num="134" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger vergeben. M. Keßen - defensiver Rebound (1 Reb)" team="2" time="04:37" />
+    <LINE num="133" text="[GER] D. Krämer - 2Pkt Korbleger getroffen (Schnellangriff, 4 Pkt). G. Zeeb - Assist (1 AS)" team="1" time="04:58" scoreA="24" scoreB="34" />
+    <LINE num="132" text="[TUR] E. Taskiran - 2Pkt Sprungwurf getroffen (13 Pkt). K. Özel - Assist (1 AS)" team="2" time="05:11" scoreA="22" scoreB="34" />
+    <LINE num="131" text="[TUR] Auswechslung - A. Berisha raus, Ö. Yurtseven rein" team="2" time="05:20" />
+    <LINE num="130" text="[TUR] A. Berisha - 2Pkt Korbleger vergeben. Team offensiver Rebound" team="2" time="05:22" />
+    <LINE num="129" text="[GER] N. Kiel - 2Pkt Tip-In getroffen (Schnellangriff, 7 Pkt)" team="1" time="05:36" scoreA="22" scoreB="32" />
+    <LINE num="128" text="[GER] G. Zeeb - 2Pkt Korbleger vergeben. N. Kiel - offensiver Rebound (3 Reb)" team="1" time="05:39" />
+    <LINE num="127" text="[TUR] K. Özel - 2Pkt Korbleger getroffen (Schnellangriff, 2 Pkt). B. Ülker - Assist (1 AS)" team="2" time="05:52" scoreA="20" scoreB="32" />
+    <LINE num="126" text="[GER] G. Zeeb - Ballverlust (Fehlpass, 3 BV). B. Ülker - Ballgewinn (1 BG)" team="1" time="05:56" />
+    <LINE num="125" text="[TUR] R. Öncel - Ballverlust (Ball im Aus, 2 BV)" team="2" time="06:04" />
+    <LINE num="124" text="[GER] N. Kiel - Ballverlust (Fehlpass, 2 BV). R. Öncel - Ballgewinn (2 BG)" team="1" time="06:04" />
+    <LINE num="123" text="[TUR] E. Taskiran - 3Pkt Sprungwurf getroffen (11 Pkt)" team="2" time="06:06" scoreA="20" scoreB="30" />
+    <LINE num="122" text="[GER] G. Zeeb - 2Pkt Korbleger getroffen (2 Pkt). D. Krämer - Assist (1 AS)" team="1" time="06:33" scoreA="20" scoreB="27" />
+    <LINE num="121" text="[TUR] E. Taskiran - Freiwurf getroffen (8 Pkt)" team="2" time="06:54" scoreA="18" scoreB="27" />
+    <LINE num="120" text="[TUR] E. Taskiran - Freiwurf getroffen (7 Pkt)" team="2" time="06:54" scoreA="18" scoreB="26" />
+    <LINE num="119" text="[GER] Auswechslung - B. Turudic raus, M. Keßen rein" team="1" time="06:54" />
+    <LINE num="118" text="[GER] B. Turudic - persönliches  Foul (2 PF, 3. Team Foul). 2 Freiwürfe. Gefoult: E. Taskiran" team="1" time="06:54" />
+    <LINE num="117" text="[GER] G. Zeeb - 3Pkt Sprungwurf vergeben. B. Ülker - defensiver Rebound (3 Reb)" team="1" time="07:10" />
+    <LINE num="116" text="[TUR] B. Ülker - Ballverlust (Fünf Sekunden, 1 BV)" team="2" time="07:21" />
+    <LINE num="115" text="[GER] N. Kiel - Freiwurf getroffen (5 Pkt)" team="1" time="07:21" scoreA="18" scoreB="25" />
+    <LINE num="114" text="[TUR] Auswechslung - Ö. Al raus, K. Özel rein" team="2" time="07:21" />
+    <LINE num="113" text="[TUR] E. Taskiran - persönliches  Foul (1 PF, 2. Team Foul). Ein Freiwurf. Gefoult: N. Kiel" team="2" time="07:21" />
+    <LINE num="112" text="[GER] N. Kiel - 2Pkt Korbleger getroffen (4 Pkt). B. Turudic - Assist (1 AS)" team="1" time="07:21" scoreA="17" scoreB="25" />
+    <LINE num="111" text="[TUR] B. Ülker - Freiwurf getroffen (3 Pkt)" team="2" time="07:40" scoreA="15" scoreB="25" />
+    <LINE num="110" text="[GER] Auswechslung - M. Sanders raus, N. Kiel rein" team="1" time="07:40" />
+    <LINE num="109" text="[GER] Auswechslung - R. Freudenberg raus, K. Mushidi rein" team="1" time="07:40" />
+    <LINE num="108" text="[GER] Auswechslung - L. Figge raus, G. Zeeb rein" team="1" time="07:40" />
+    <LINE num="107" text="[GER] Auswechslung - T. Taras raus, D. Krämer rein" team="1" time="07:40" />
+    <LINE num="106" text="[GER] M. Sanders - persönliches  Foul (1 PF, 2. Team Foul). Ein Freiwurf. Gefoult: B. Ülker" team="1" time="07:40" />
+    <LINE num="105" text="[TUR] B. Ülker - 2Pkt Korbleger getroffen (2 Pkt)" team="2" time="07:40" scoreA="15" scoreB="24" />
+    <LINE num="104" text="[TUR] A. Berisha - 2Pkt Korbleger vergeben. B. Ülker - offensiver Rebound (2 Reb)" team="2" time="07:40" />
+    <LINE num="103" text="[TUR] Ö. Al - 3Pkt Sprungwurf vergeben. A. Berisha - offensiver Rebound (3 Reb)" team="2" time="07:42" />
+    <LINE num="102" text="[TUR] R. Öncel - Freiwurf getroffen (1 Pkt)" team="2" time="07:55" scoreA="15" scoreB="22" />
+    <LINE num="101" text="[TUR] R. Öncel - Freiwurf vergeben" team="2" time="07:55" />
+    <LINE num="100" text="[GER] B. Turudic - unsportliches  Foul (1 PF, 1. Team Foul). 2 Freiwürfe. Gefoult: R. Öncel" team="1" time="07:55" />
+    <LINE num="99" text="[GER] R. Freudenberg - Ballverlust (Ballbehandlung, 1 BV). R. Öncel - Ballgewinn (1 BG)" team="1" time="07:56" />
+    <LINE num="98" text="[TUR] Ö. Al - persönliches  Foul (2 PF, 1. Team Foul). Gefoult: T. Taras" team="2" time="08:01" />
+    <LINE num="97" text="[GER] L. Figge - 2Pkt Korbleger vergeben. R. Freudenberg - offensiver Rebound (2 Reb)" team="1" time="08:14" />
+    <LINE num="96" text="[TUR] E. Taskiran - 2Pkt Korbleger getroffen (6 Pkt)" team="2" time="08:21" scoreA="15" scoreB="21" />
+    <LINE num="95" text="[GER] L. Figge - 2Pkt Korbleger getroffen (2 Pkt)" team="1" time="08:56" scoreA="15" scoreB="19" />
+    <LINE num="94" text="[TUR] E. Taskiran - Ballverlust (Ballbehandlung, 2 BV)" team="2" time="09:00" />
+    <LINE num="93" text="[TUR] E. Taskiran - 3Pkt Sprungwurf vergeben. E. Taskiran - offensiver Rebound (4 Reb)" team="2" time="09:01" />
+    <LINE num="92" text="[GER] T. Taras - 2Pkt Korbleger vergeben. A. Berisha - defensiver Rebound (2 Reb)" team="1" time="09:12" />
+    <LINE num="91" text="[TUR] E. Taskiran - 2Pkt Sprungwurf getroffen (Schnellangriff, 4 Pkt)" team="2" time="09:35" scoreA="13" scoreB="19" />
+    <LINE num="90" text="[GER] M. Sanders - 2Pkt Sprungwurf vergeben. E. Taskiran - defensiver Rebound (3 Reb)" team="1" time="09:42" />
+    <LINE num="89" text="[TUR] E. Taskiran - Ballverlust (Ballbehandlung, 1 BV)" team="2" time="09:49" />
+    <LINE num="88" text="Beginn der Periode 2" team="0" time="10:00" />
+    <LINE num="87" text="[GER] Auswechslung - I. Hartenstein raus, M. Sanders rein" team="1" time="00:00" />
+    <LINE num="86" text="[GER] Auswechslung - L. Wank raus, B. Turudic rein" team="1" time="00:00" />
+    <LINE num="85" text="Ende der Periode 1" team="0" time="00:00" />
+    <LINE num="84" text="[TUR] R. Öncel - 2Pkt Sprungwurf vergeben. I. Hartenstein - defensiver Rebound (2 Reb)" team="2" time="00:03" />
+    <LINE num="83" text="[GER] I. Hartenstein -  offensives Foul (2 PF, 5. Team Foul). Gefoult: E. Taskiran. I. Hartenstein - Ballverlust (Offensives Foul, 1 BV)" team="1" time="00:15" />
+    <LINE num="82" text="[TUR] E. Taskiran - 2Pkt Tip-In getroffen (2 Pkt)" team="2" time="00:32" scoreA="13" scoreB="17" />
+    <LINE num="81" text="[TUR] B. Ülker - 3Pkt Sprungwurf vergeben. E. Taskiran - offensiver Rebound (2 Reb)" team="2" time="00:37" />
+    <LINE num="80" text="[TUR] Auswechslung - E. Bayrak raus, R. Öncel rein" team="2" time="00:46" />
+    <LINE num="79" text="[GER] R. Freudenberg - Freiwurf getroffen (2 Pkt)" team="1" time="00:46" scoreA="13" scoreB="15" />
+    <LINE num="78" text="[GER] R. Freudenberg - Freiwurf getroffen (1 Pkt)" team="1" time="00:46" scoreA="12" scoreB="15" />
+    <LINE num="77" text="[TUR] Auswechslung - K. Özel raus, Ö. Al rein" team="2" time="00:46" />
+    <LINE num="76" text="[TUR] K. Özel - persönliches  Foul (2 PF, 6. Team Foul). 2 Freiwürfe. Gefoult: R. Freudenberg" team="2" time="00:46" />
+    <LINE num="75" text="[TUR] E. Bayrak - 3Pkt Sprungwurf vergeben. R. Freudenberg - defensiver Rebound (1 Reb)" team="2" time="00:50" />
+    <LINE num="74" text="[GER] R. Freudenberg - 2Pkt Korbleger geblockt. E. Bayrak - Block (2 BL). K. Özel - defensiver Rebound (1 Reb)" team="1" time="01:14" />
+    <LINE num="73" text="[TUR] K. Özel - 2Pkt Korbleger vergeben. I. Hartenstein - defensiver Rebound (1 Reb)" team="2" time="01:32" />
+    <LINE num="72" text="[GER] I. Hartenstein - persönliches  Foul (1 PF, 4. Team Foul). Gefoult: K. Özel" team="1" time="01:38" />
+    <LINE num="71" text="[TUR] E. Taskiran - 3Pkt Sprungwurf vergeben. A. Berisha - offensiver Rebound (1 Reb)" team="2" time="01:48" />
+    <LINE num="70" text="[TUR] Auswechslung - Ö. Yurtseven raus, A. Berisha rein" team="2" time="01:56" />
+    <LINE num="69" text="[GER] L. Figge - persönliches  Foul (1 PF, 3. Team Foul). Gefoult: Ö. Yurtseven" team="1" time="01:56" />
+    <LINE num="68" text="[GER] T. Taras - 2Pkt Korbleger aus dem Gang vergeben. B. Ülker - defensiver Rebound (1 Reb)" team="1" time="02:08" />
+    <LINE num="67" text="[TUR] Ö. Yurtseven - 2Pkt Sprungwurf getroffen (6 Pkt). E. Bayrak - Assist (1 AS)" team="2" time="02:22" scoreA="11" scoreB="15" />
+    <LINE num="66" text="[GER] I. Hartenstein - 3Pkt Sprungwurf getroffen (7 Pkt). L. Figge - Assist (1 AS)" team="1" time="02:46" scoreA="11" scoreB="13" />
+    <LINE num="65" text="[TUR] Ö. Yurtseven - Ballverlust (Drei Sekunden, 2 BV)" team="2" time="03:02" />
+    <LINE num="64" text="[GER] Auswechslung - G. Zeeb raus, L. Figge rein" team="1" time="03:14" />
+    <LINE num="63" text="[GER] I. Hartenstein - 2Pkt Sprungwurf getroffen (4 Pkt). T. Taras - Assist (1 AS)" team="1" time="03:16" scoreA="8" scoreB="13" />
+    <LINE num="62" text="[TUR] Auswechslung - R. Öncel raus, E. Taskiran rein" team="2" time="03:33" />
+    <LINE num="61" text="[GER] Auswechslung - D. Krämer raus, L. Wank rein" team="1" time="03:33" />
+    <LINE num="60" text="[TUR] R. Öncel - Ballverlust (Ballbehandlung, 1 BV)" team="2" time="03:33" />
+    <LINE num="59" text="[TUR] Auswechslung - E. Yilmaz raus, B. Ülker rein" team="2" time="03:39" />
+    <LINE num="58" text="[GER] Auswechslung - M. Pölking raus, R. Freudenberg rein" team="1" time="03:39" />
+    <LINE num="57" text="[GER] D. Krämer - Freiwurf getroffen (2 Pkt)" team="1" time="03:39" scoreA="6" scoreB="13" />
+    <LINE num="56" text="[GER] D. Krämer - Freiwurf getroffen (1 Pkt)" team="1" time="03:39" scoreA="5" scoreB="13" />
+    <LINE num="55" text="[TUR] R. Öncel - persönliches  Foul (1 PF, 5. Team Foul). 2 Freiwürfe. Gefoult: D. Krämer" team="2" time="03:39" />
+    <LINE num="54" text="[GER] I. Hartenstein - Freiwurf vergeben. G. Zeeb - offensiver Rebound (1 Reb)" team="1" time="03:58" />
+    <LINE num="53" text="[TUR] Auswechslung - E. Gazi raus, R. Öncel rein" team="2" time="03:58" />
+    <LINE num="52" text="[TUR] E. Bayrak - persönliches  Foul (1 PF, 4. Team Foul). Ein Freiwurf. Gefoult: I. Hartenstein" team="2" time="03:58" />
+    <LINE num="51" text="[GER] I. Hartenstein - 2Pkt Korbleger getroffen (Schnellangriff, 2 Pkt)" team="1" time="03:58" scoreA="4" scoreB="13" />
+    <LINE num="50" text="[TUR] K. Özel - Ballverlust (Fehlpass, 1 BV)" team="2" time="03:59" />
+    <LINE num="49" text="[GER] Team Ballverlust (Acht Sekunden)" team="1" time="04:10" />
+    <LINE num="48" text="[TUR] K. Özel - persönliches  Foul (1 PF, 3. Team Foul). Gefoult: T. Taras" team="2" time="04:19" />
+    <LINE num="47" text="[TUR] E. Bayrak - 2Pkt Sprungwurf vergeben. T. Taras - defensiver Rebound (1 Reb)" team="2" time="04:23" />
+    <LINE num="46" text="[GER] M. Pölking - Ballverlust (Ball im Aus, 1 BV)" team="1" time="04:35" />
+    <LINE num="45" text="[TUR] Auswechslung - Ö. Al raus, K. Özel rein" team="2" time="04:35" />
+    <LINE num="44" text="[GER] Auswechslung - S. Much raus, I. Hartenstein rein" team="1" time="04:35" />
+    <LINE num="43" text="[GER] Auswechslung - N. Kiel raus, T. Taras rein" team="1" time="04:35" />
+    <LINE num="42" text="[GER] Auszeit" team="1" time="04:35" />
+    <LINE num="41" text="[TUR] E. Bayrak - 2Pkt Dunk getroffen (Schnellangriff, 2 Pkt). Ö. Al - Assist (1 AS)" team="2" time="04:35" scoreA="2" scoreB="13" />
+    <LINE num="40" text="[GER] G. Zeeb - Ballverlust (Ballbehandlung, 2 BV)" team="1" time="04:39" />
+    <LINE num="39" text="[TUR] Ö. Al - 3Pkt Sprungwurf getroffen (3 Pkt). Ö. Yurtseven - Assist (2 AS)" team="2" time="04:46" scoreA="2" scoreB="11" />
+    <LINE num="38" text="[GER] G. Zeeb - Ballverlust (Ballbehandlung, 1 BV)" team="1" time="05:03" />
+    <LINE num="37" text="[GER] Auszeit" team="1" time="05:07" />
+    <LINE num="36" text="[TUR] E. Gazi - 2Pkt Dunk getroffen (Schnellangriff, 2 Pkt). E. Yilmaz - Assist (2 AS)" team="2" time="05:07" scoreA="2" scoreB="8" />
+    <LINE num="35" text="[GER] S. Much - Ballverlust (Fehlpass, 1 BV). E. Yilmaz - Ballgewinn (1 BG)" team="1" time="05:10" />
+    <LINE num="34" text="[TUR] E. Gazi - 3Pkt Sprungwurf vergeben. N. Kiel - defensiver Rebound (2 Reb)" team="2" time="05:26" />
+    <LINE num="33" text="[GER] N. Kiel - persönliches  Foul (2 PF, 2. Team Foul). Gefoult: Ö. Yurtseven" team="1" time="05:38" />
+    <LINE num="32" text="[GER] S. Much - 3Pkt Sprungwurf vergeben. Ö. Al - defensiver Rebound (1 Reb)" team="1" time="05:56" />
+    <LINE num="31" text="[TUR] Auswechslung - E. Taskiran raus, E. Gazi rein" team="2" time="06:06" />
+    <LINE num="30" text="[GER] Auswechslung - M. Keßen raus, M. Pölking rein" team="1" time="06:06" />
+    <LINE num="29" text="[GER] Auswechslung - K. Mushidi raus, G. Zeeb rein" team="1" time="06:06" />
+    <LINE num="28" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger getroffen (Schnellangriff, 4 Pkt). E. Yilmaz - Assist (1 AS)" team="2" time="06:21" scoreA="2" scoreB="6" />
+    <LINE num="27" text="[GER] N. Kiel - 2Pkt Korbleger vergeben. E. Yilmaz - defensiver Rebound (1 Reb)" team="1" time="06:28" />
+    <LINE num="26" text="[TUR] E. Yilmaz - 2Pkt Sprungwurf getroffen (2 Pkt). Ö. Yurtseven - Assist (1 AS)" team="2" time="06:51" scoreA="2" scoreB="4" />
+    <LINE num="25" text="[GER] N. Kiel - Freiwurf getroffen (2 Pkt)" team="1" time="07:17" scoreA="2" scoreB="2" />
+    <LINE num="24" text="[GER] S. Much - Assist (1 AS)" team="1" time="07:17" />
+    <LINE num="23" text="[GER] N. Kiel - Freiwurf getroffen (1 Pkt)" team="1" time="07:17" scoreA="1" scoreB="2" />
+    <LINE num="22" text="[TUR] E. Yilmaz - persönliches  Foul (1 PF, 2. Team Foul). 2 Freiwürfe. Gefoult: N. Kiel" team="2" time="07:17" />
+    <LINE num="21" text="[TUR] E. Bayrak - 3Pkt Sprungwurf vergeben. D. Krämer - defensiver Rebound (1 Reb)" team="2" time="07:34" />
+    <LINE num="20" text="[GER] K. Mushidi - 2Pkt Korbleger geblockt. E. Bayrak - Block (1 BL). E. Taskiran - defensiver Rebound (1 Reb)" team="1" time="07:45" />
+    <LINE num="19" text="[TUR] Ö. Yurtseven - Ballverlust (Schrittfehler, 1 BV)" team="2" time="08:03" />
+    <LINE num="18" text="[GER] N. Kiel - persönliches  Foul (1 PF, 1. Team Foul). Gefoult: Ö. Al" team="1" time="08:15" />
+    <LINE num="17" text="[GER] K. Mushidi - Ballverlust (Fehlpass, 1 BV)" team="1" time="08:15" />
+    <LINE num="16" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger getroffen (2 Pkt)" team="2" time="08:38" scoreA="0" scoreB="2" />
+    <LINE num="15" text="[GER] S. Much - 2Pkt Korbleger aus dem Gang vergeben. Ö. Yurtseven - defensiver Rebound (1 Reb)" team="1" time="08:58" />
+    <LINE num="14" text="[TUR] Ö. Al - persönliches  Foul (1 PF, 1. Team Foul). Gefoult: K. Mushidi" team="2" time="09:05" />
+    <LINE num="13" text="[TUR] Ö. Yurtseven - 2Pkt Korbleger vergeben. N. Kiel - defensiver Rebound (1 Reb)" team="2" time="09:17" />
+    <LINE num="12" text="[GER] N. Kiel - Ballverlust (Fehlpass, 1 BV). Ö. Yurtseven - Ballgewinn (1 BG)" team="1" time="09:38" />
+    <LINE num="11" text="[TUR] Auswechslung - Ö. Yurtseven rein" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[TUR] Auswechslung - E. Bayrak rein" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[TUR] Auswechslung - E. Taskiran rein" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[TUR] Auswechslung - E. Yilmaz rein" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[TUR] Auswechslung - Ö. Al rein" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[GER] Auswechslung - S. Much rein" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[GER] Auswechslung - M. Keßen rein" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[GER] Auswechslung - N. Kiel rein" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[GER] Auswechslung - K. Mushidi rein" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[GER] Auswechslung - D. Krämer rein" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="SPIELBEGINN" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="15.5996" />
+</FE>

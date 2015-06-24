@@ -1,0 +1,480 @@
+<FE>
+  <HEADER competition="Torneo Internacional Getxo U19" round="Semifinal 1" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/918DD980-B1A0-4E38-9355-E01DCDEF7F55.jpg" duration="46.801">
+    <TEAM name="España" logo="http://live.fibaeurope.com/www/gallery/F4B664EB-95F7-4F9B-AA71-7405E2F17442.jpg" pts="79" fouls="5" />
+    <TEAM name="República Dominicana" logo="http://live.fibaeurope.com/www/gallery/C5D5F156-4DEC-49BE-9A8A-1F20387FBD8C.jpg" pts="73" fouls="15" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="17" scoreB="22" />
+      <QUARTER n="2" scoreA="18" scoreB="12" />
+      <QUARTER n="3" scoreA="24" scoreB="10" />
+      <QUARTER n="4" scoreA="20" scoreB="29" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="S. García [ESP] - 5 turnovers" duration="31.2042">
+    <ITEM text="Bench points: España - 44, República Dominicana - 20" />
+  </TICKER>
+  <OVERVIEW duration="15.603" />
+  <PLAYBYPLAY duration="249.5893">
+    <LINE num="461" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="460" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="459" text="[DOM] J. Matos - 3pt jump shot made (5 Pts)" team="2" time="00:08" scoreA="79" scoreB="73" />
+    <LINE num="458" text="[DOM] Y. Flores - 3pt jump shot missed. J. Rodríguez - offensive rebound (14 REB)" team="2" time="00:18" />
+    <LINE num="457" text="[ESP] P. Pérez - free throw made (5 Pts)" team="1" time="00:18" scoreA="79" scoreB="70" />
+    <LINE num="456" text="[ESP] P. Pérez - free throw made (4 Pts)" team="1" time="00:18" scoreA="78" scoreB="70" />
+    <LINE num="455" text="[DOM] W. Pérez - personal shooting foul (3 PF, 15th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="00:18" />
+    <LINE num="454" text="[DOM] Y. Flores - 3pt jump shot missed. J. Matos - offensive rebound (4 REB)" team="2" time="00:23" />
+    <LINE num="453" text="[ESP] S. García - free throw made (16 Pts)" team="1" time="00:33" scoreA="77" scoreB="70" />
+    <LINE num="452" text="[ESP] S. García - free throw missed" team="1" time="00:33" />
+    <LINE num="451" text="[DOM] A. Feliz - personal shooting foul (5 PF, 14th team foul). 2 free throws awarded. Foul drawn: S. García. [DOM] Substitution - A. Feliz OUT, A. Nuñez IN" team="2" time="00:33" />
+    <LINE num="450" text="J. Rodríguez - 2pt put-back missed. S. García - defensive rebound (3 REB)" team="2" time="00:34" />
+    <LINE num="449" text="[DOM] W. Pérez - 2pt lay-up missed. J. Rodríguez - offensive rebound (13 REB)" team="2" time="00:35" />
+    <LINE num="448" text="[DOM] Substitution - A. Nuñez OUT, J. Matos IN" team="2" time="00:41" />
+    <LINE num="447" text="[ESP] Substitution - R. Vila OUT, X. Oroz IN" team="1" time="00:41" />
+    <LINE num="446" text="[DOM] Timeout" team="2" time="00:41" />
+    <LINE num="445" text="[ESP] F. Alonso - 2pt jump shot made (9 Pts)" team="1" time="00:41" scoreA="76" scoreB="70" />
+    <LINE num="444" text="[ESP] Substitution - Y. Sima OUT, S. García IN" team="1" time="00:46" />
+    <LINE num="443" text="[DOM] Substitution - Y. Montero OUT, A. Nuñez IN" team="2" time="00:46" />
+    <LINE num="442" text="[ESP] X. López-Arostegui - steal (1 ST). Y. Montero - turnover (bad pass, 1 TO)" team="1" time="00:53" />
+    <LINE num="441" text="[ESP] P. Pérez - free throw missed. J. Rodríguez - defensive rebound (12 REB)" team="1" time="01:02" />
+    <LINE num="440" text="[ESP] P. Pérez - free throw missed" team="1" time="01:02" />
+    <LINE num="439" text="[DOM] Y. Montero - personal shooting foul (4 PF, 13th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="01:02" />
+    <LINE num="438" text="[DOM] Y. Flores - free throw made (10 Pts)" team="2" time="01:09" scoreA="74" scoreB="70" />
+    <LINE num="437" text="[DOM] Y. Flores - free throw made (9 Pts)" team="2" time="01:09" scoreA="74" scoreB="69" />
+    <LINE num="436" text="[ESP] P. Pérez - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: Y. Flores" team="1" time="01:09" />
+    <LINE num="435" text="[ESP] F. Alonso - 2pt jump shot missed. W. Pérez - defensive rebound (7 REB)" team="1" time="01:14" />
+    <LINE num="434" text="[ESP] Substitution - X. Oroz OUT, R. Vila IN" team="1" time="01:31" />
+    <LINE num="433" text="[DOM] Substitution - A. Nuñez OUT, J. Rodríguez IN" team="2" time="01:31" />
+    <LINE num="432" text="[ESP] Timeout" team="1" time="01:31" />
+    <LINE num="431" text="[DOM] Y. Flores - 3pt jump shot made (fast break, 8 Pts). Y. Montero - assist (2 AS)" team="2" time="01:31" scoreA="74" scoreB="68" />
+    <LINE num="430" text="[ESP] F. Alonso - 3pt jump shot missed. W. Pérez - defensive rebound (6 REB)" team="1" time="01:35" />
+    <LINE num="429" text="[DOM] Y. Flores - 3pt jump shot made (5 Pts). W. Pérez - assist (1 AS)" team="2" time="02:00" scoreA="74" scoreB="65" />
+    <LINE num="428" text="[ESP] Team turnover (24 seconds)" team="1" time="02:12" />
+    <LINE num="427" text="[DOM] Y. Flores - 3pt jump shot missed. X. López-Arostegui - defensive rebound (3 REB)" team="2" time="02:38" />
+    <LINE num="426" text="[ESP] Substitution - R. Vila OUT, X. López-Arostegui IN" team="1" time="02:49" />
+    <LINE num="425" text="[DOM] Substitution - E. Valera OUT, A. Nuñez IN" team="2" time="02:49" />
+    <LINE num="424" text="[DOM] Substitution - C. Duran OUT, Y. Flores IN" team="2" time="02:49" />
+    <LINE num="423" text="[DOM] Timeout" team="2" time="02:49" />
+    <LINE num="422" text="[ESP] Y. Sima - 2pt jump shot blocked. C. Duran - block (1 BS). C. Duran - defensive rebound (8 REB)" team="1" time="02:49" />
+    <LINE num="421" text="[ESP] F. Alonso - 3pt jump shot missed. Y. Sima - offensive rebound (5 REB)" team="1" time="02:55" />
+    <LINE num="420" text="[DOM] Substitution - J. Rodríguez OUT, C. Duran IN" team="2" time="03:00" />
+    <LINE num="419" text="[DOM] Y. Montero - 2pt lay-up missed. X. Oroz - defensive rebound (3 REB)" team="2" time="03:06" />
+    <LINE num="418" text="[ESP] P. Pérez - free throw made (3 Pts)" team="1" time="03:17" scoreA="74" scoreB="62" />
+    <LINE num="417" text="[ESP] P. Pérez - free throw missed" team="1" time="03:17" />
+    <LINE num="416" text="[DOM] E. Valera - personal shooting foul (4 PF, 12th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="03:17" />
+    <LINE num="415" text="[ESP] F. Alonso - free throw made (7 Pts)" team="1" time="03:22" scoreA="73" scoreB="62" />
+    <LINE num="414" text="[ESP] F. Alonso - free throw made (6 Pts)" team="1" time="03:22" scoreA="72" scoreB="62" />
+    <LINE num="413" text="[DOM] J. Rodríguez - unsportsmanlike  foul (3 PF, 11th team foul). 2 free throws awarded. Foul drawn: F. Alonso" team="2" time="03:22" />
+    <LINE num="412" text="[ESP] Y. Sima - 2pt lay-up blocked. Y. Montero - block (1 BS). Team offensive rebound" team="1" time="03:30" />
+    <LINE num="411" text="[DOM] J. Rodríguez - 2pt jump shot missed. Team defensive rebound" team="2" time="03:43" />
+    <LINE num="410" text="[ESP] Substitution - S. García OUT, P. Pérez IN" team="1" time="03:43" />
+    <LINE num="409" text="[ESP] Y. Sima - free throw missed" team="1" time="03:52" />
+    <LINE num="408" text="[DOM] Substitution - A. Nuñez OUT, E. Valera IN" team="2" time="03:52" />
+    <LINE num="407" text="[DOM] Substitution - Y. Flores OUT, A. Feliz IN" team="2" time="03:52" />
+    <LINE num="406" text="[DOM] J. Rodríguez - personal shooting foul (2 PF, 10th team foul). One free throw awarded. Foul drawn: Y. Sima" team="2" time="03:52" />
+    <LINE num="405" text="[ESP] Y. Sima - 2pt lay-up made (6 Pts). X. Oroz - assist (3 AS)" team="1" time="03:52" scoreA="71" scoreB="62" />
+    <LINE num="404" text="[DOM] Y. Montero - 2pt lay-up made (fast break, 5 Pts)" team="2" time="04:03" scoreA="69" scoreB="62" />
+    <LINE num="403" text="[ESP] S. García - turnover (bad pass, 5 TO). Y. Montero - steal (1 ST)" team="1" time="04:11" />
+    <LINE num="402" text="[DOM] Substitution - A. Feliz OUT, A. Nuñez IN" team="2" time="04:35" />
+    <LINE num="401" text="[DOM] Substitution - E. Valera OUT, Y. Flores IN" team="2" time="04:35" />
+    <LINE num="400" text="[DOM] Team turnover (24 seconds)" team="2" time="04:35" />
+    <LINE num="399" text="[DOM] J. Rodríguez - 2pt jump shot missed. A. Feliz - offensive rebound (4 REB)" team="2" time="04:49" />
+    <LINE num="398" text="[DOM] Substitution - C. Duran OUT, W. Pérez IN" team="2" time="04:59" />
+    <LINE num="397" text="[ESP] S. García - free throw made (15 Pts)" team="1" time="04:59" scoreA="69" scoreB="60" />
+    <LINE num="396" text="[ESP] S. García - free throw made (14 Pts)" team="1" time="04:59" scoreA="68" scoreB="60" />
+    <LINE num="395" text="[DOM] Y. Montero - personal shooting foul (3 PF, 9th team foul). 2 free throws awarded. Foul drawn: S. García" team="2" time="04:59" />
+    <LINE num="394" text="[DOM] A. Feliz - 2pt jump shot made (fast break, 13 Pts)" team="2" time="05:07" scoreA="67" scoreB="60" />
+    <LINE num="393" text="[ESP] S. García - free throw made (13 Pts)" team="1" time="05:13" scoreA="67" scoreB="58" />
+    <LINE num="392" text="[ESP] S. García - free throw made (12 Pts)" team="1" time="05:13" scoreA="66" scoreB="58" />
+    <LINE num="391" text="[DOM] Substitution - J. Matos OUT, Y. Montero IN" team="2" time="05:13" />
+    <LINE num="390" text="[ESP] Substitution - S. Rodríguez OUT, R. Vila IN" team="1" time="05:13" />
+    <LINE num="389" text="[DOM] J. Matos - personal shooting foul (3 PF, 8th team foul). 2 free throws awarded. Foul drawn: S. García" team="2" time="05:13" />
+    <LINE num="388" text="[DOM] J. Rodríguez - 2pt jump shot made (20 Pts)" team="2" time="05:22" scoreA="65" scoreB="58" />
+    <LINE num="387" text="[DOM] J. Matos - 2pt jump shot blocked. Y. Sima - block (1 BS). J. Rodríguez - offensive rebound (11 REB)" team="2" time="05:27" />
+    <LINE num="386" text="[ESP] X. Oroz - personal  foul (3 PF, 4th team foul). Foul drawn: J. Rodríguez" team="1" time="05:31" />
+    <LINE num="385" text="[ESP] F. Alonso - turnover (bad pass, 2 TO). J. Rodríguez - steal (4 ST)" team="1" time="05:32" />
+    <LINE num="384" text="[DOM] J. Rodríguez - turnover (out of bounds, 7 TO)" team="2" time="05:42" />
+    <LINE num="383" text="[ESP] S. García - turnover (out of bounds, 4 TO)" team="1" time="06:00" />
+    <LINE num="382" text="[DOM] Substitution - A. Nuñez OUT, E. Valera IN" team="2" time="06:21" />
+    <LINE num="381" text="[DOM] A. Nuñez -  offensive foul (2 PF, 7th team foul). Foul drawn: S. Rodríguez. A. Nuñez - turnover (offensive foul, 1 TO)" team="2" time="06:21" />
+    <LINE num="380" text="[DOM] A. Nuñez - steal (1 ST). S. García - turnover (bad pass, 3 TO)" team="2" time="06:24" />
+    <LINE num="379" text="[DOM] J. Matos - assist (1 AS)" team="2" time="06:33" />
+    <LINE num="378" text="[DOM] C. Duran - free throw made (6 Pts)" team="2" time="06:33" scoreA="65" scoreB="56" />
+    <LINE num="377" text="[DOM] C. Duran - free throw missed" team="2" time="06:33" />
+    <LINE num="376" text="[ESP] Substitution - X. López-Arostegui OUT, F. Alonso IN" team="1" time="06:33" />
+    <LINE num="375" text="[ESP] X. Oroz - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: C. Duran" team="1" time="06:33" />
+    <LINE num="374" text="[ESP] S. García - free throw made (11 Pts)" team="1" time="06:41" scoreA="65" scoreB="55" />
+    <LINE num="373" text="[ESP] S. García - free throw missed" team="1" time="06:41" />
+    <LINE num="372" text="[DOM] J. Matos - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: S. García" team="2" time="06:41" />
+    <LINE num="371" text="[DOM] A. Feliz - 2pt lay-up made (fast break, 11 Pts). A. Nuñez - assist (2 AS)" team="2" time="06:42" scoreA="64" scoreB="55" />
+    <LINE num="370" text="[DOM] J. Matos - steal (1 ST). S. Rodríguez - turnover (bad pass, 4 TO)" team="2" time="06:46" />
+    <LINE num="369" text="[ESP] Substitution - R. Vila OUT, Y. Sima IN" team="1" time="06:50" />
+    <LINE num="368" text="[ESP] Substitution - J. Jiménez OUT, X. Oroz IN" team="1" time="06:50" />
+    <LINE num="367" text="[DOM] Substitution - Y. Flores OUT, A. Feliz IN" team="2" time="06:50" />
+    <LINE num="366" text="[DOM] J. Rodríguez - turnover (travelling, 6 TO)" team="2" time="06:50" />
+    <LINE num="365" text="[ESP] X. López-Arostegui - free throw missed. J. Matos - defensive rebound (3 REB)" team="1" time="06:55" />
+    <LINE num="364" text="[ESP] X. López-Arostegui - free throw made (8 Pts)" team="1" time="06:55" scoreA="64" scoreB="53" />
+    <LINE num="363" text="[DOM] Y. Flores - personal shooting foul (4 PF, 5th team foul). 2 free throws awarded. Foul drawn: X. López-Arostegui" team="2" time="06:55" />
+    <LINE num="362" text="[DOM] Substitution - W. Pérez OUT, C. Duran IN" team="2" time="07:05" />
+    <LINE num="361" text="[DOM] Substitution - V. Peña OUT, J. Rodríguez IN" team="2" time="07:05" />
+    <LINE num="360" text="[DOM] V. Peña - personal  foul (1 PF, 4th team foul). Foul drawn: R. Vila" team="2" time="07:05" />
+    <LINE num="359" text="[ESP] Substitution - P. Pérez OUT, S. García IN" team="1" time="07:25" />
+    <LINE num="358" text="[DOM] Y. Flores - personal  foul (3 PF, 3rd team foul). Foul drawn: S. Rodríguez" team="2" time="07:25" />
+    <LINE num="357" text="[DOM] V. Peña - 2pt jump shot missed. P. Pérez - defensive rebound (4 REB)" team="2" time="07:25" />
+    <LINE num="356" text="[ESP] R. Vila - turnover (travelling, 2 TO)" team="1" time="07:38" />
+    <LINE num="355" text="[DOM] Substitution - Y. Montero OUT, J. Matos IN" team="2" time="07:42" />
+    <LINE num="354" text="[DOM] R. Polanco - personal  foul (1 PF, 2nd team foul). Foul drawn: X. López-Arostegui" team="2" time="07:42" />
+    <LINE num="353" text="[DOM] Y. Montero - 3pt jump shot made (3 Pts)" team="2" time="07:47" scoreA="63" scoreB="53" />
+    <LINE num="352" text="[ESP] R. Vila - 2pt jump shot made (10 Pts). X. López-Arostegui - assist (1 AS)" team="1" time="08:00" scoreA="63" scoreB="50" />
+    <LINE num="351" text="[DOM] Substitution - C. Duran OUT, V. Peña IN" team="2" time="08:08" />
+    <LINE num="350" text="[DOM] A. Nuñez - free throw made (8 Pts)" team="2" time="08:08" scoreA="61" scoreB="50" />
+    <LINE num="349" text="[DOM] A. Nuñez - free throw made (7 Pts)" team="2" time="08:08" scoreA="61" scoreB="49" />
+    <LINE num="348" text="[ESP] X. López-Arostegui - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: A. Nuñez" team="1" time="08:08" />
+    <LINE num="347" text="[ESP] P. Pérez - personal  foul (1 PF, 1st team foul). Foul drawn: Y. Flores" team="1" time="08:10" />
+    <LINE num="346" text="[ESP] P. Pérez - 3pt jump shot missed. W. Pérez - defensive rebound (5 REB)" team="1" time="08:14" />
+    <LINE num="345" text="[DOM] C. Duran - 2pt lay-up made (5 Pts)" team="2" time="08:29" scoreA="61" scoreB="48" />
+    <LINE num="344" text="[DOM] A. Nuñez - 3pt jump shot missed. C. Duran - offensive rebound (7 REB)" team="2" time="08:35" />
+    <LINE num="343" text="[ESP] S. Rodríguez - 2pt dunk made (6 Pts)" team="1" time="08:50" scoreA="61" scoreB="46" />
+    <LINE num="342" text="[DOM] Substitution - J. Matos OUT, A. Nuñez IN" team="2" time="09:09" />
+    <LINE num="341" text="[DOM] Substitution - R. Polanco OUT, W. Pérez IN" team="2" time="09:09" />
+    <LINE num="340" text="[DOM] Substitution - E. Valera OUT, Y. Montero IN" team="2" time="09:09" />
+    <LINE num="339" text="[DOM] Substitution - J. Rodríguez OUT, Y. Flores IN" team="2" time="09:09" />
+    <LINE num="338" text="[ESP] Timeout" team="1" time="09:09" />
+    <LINE num="337" text="[DOM] J. Matos - turnover (travelling, 2 TO)" team="2" time="09:09" />
+    <LINE num="336" text="[DOM] J. Matos - 2pt lay-up missed. Team offensive rebound" team="2" time="09:12" />
+    <LINE num="335" text="[ESP] S. Rodríguez - turnover (ball handling, 3 TO). E. Valera - steal (1 ST)" team="1" time="09:18" />
+    <LINE num="334" text="[DOM] C. Duran - personal  foul (3 PF, 1st team foul). Foul drawn: P. Pérez" team="2" time="09:31" />
+    <LINE num="333" text="J. Rodríguez - 2pt put-back made (18 Pts)" team="2" time="09:36" scoreA="59" scoreB="46" />
+    <LINE num="332" text="[DOM] J. Rodríguez - 2pt lay-up missed. J. Rodríguez - offensive rebound (10 REB)" team="2" time="09:39" />
+    <LINE num="331" text="[ESP] X. López-Arostegui - turnover (bad pass, 1 TO). R. Polanco - steal (1 ST)" team="1" time="09:45" />
+    <LINE num="330" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="329" text="[DOM] Substitution - E. Valera IN" team="2" time="00:00" deleted="1" />
+    <LINE num="328" text="[DOM] Substitution - J. Rodríguez IN" team="2" time="00:00" deleted="1" />
+    <LINE num="327" text="[DOM] Substitution - C. Duran IN" team="2" time="00:00" deleted="1" />
+    <LINE num="326" text="[DOM] Substitution - R. Polanco IN" team="2" time="00:00" deleted="1" />
+    <LINE num="325" text="[DOM] Substitution - J. Matos IN" team="2" time="00:00" deleted="1" />
+    <LINE num="324" text="[ESP] Substitution - R. Vila IN" team="1" time="00:00" deleted="1" />
+    <LINE num="323" text="[ESP] Substitution - S. Rodríguez IN" team="1" time="00:00" deleted="1" />
+    <LINE num="322" text="[ESP] Substitution - J. Jiménez IN" team="1" time="00:00" deleted="1" />
+    <LINE num="321" text="[ESP] Substitution - X. López-Arostegui IN" team="1" time="00:00" deleted="1" />
+    <LINE num="320" text="[ESP] Substitution - P. Pérez IN" team="1" time="00:00" deleted="1" />
+    <LINE num="319" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="318" text="[DOM] Substitution - E. Valera OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="317" text="[DOM] Substitution - J. Rodríguez OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="316" text="[DOM] Substitution - C. Duran OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="315" text="[DOM] Substitution - R. Polanco OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="314" text="[DOM] Substitution - J. Matos OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="313" text="[ESP] Substitution - R. Vila OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="312" text="[ESP] Substitution - J. Jiménez OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="311" text="[ESP] Substitution - X. López-Arostegui OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="310" text="[ESP] Substitution - S. García OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="309" text="[ESP] Substitution - P. Pérez OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="308" text="[ESP] S. García - 3pt jump shot missed" team="1" time="00:00" />
+    <LINE num="307" text="[ESP] Substitution - J. Sorolla OUT, S. García IN" team="1" time="00:05" />
+    <LINE num="306" text="[DOM] J. Rodríguez - free throw made (16 Pts)" team="2" time="00:05" scoreA="59" scoreB="44" />
+    <LINE num="305" text="[DOM] J. Rodríguez - free throw missed" team="2" time="00:05" />
+    <LINE num="304" text="[DOM] Substitution - A. Feliz OUT, J. Matos IN" team="2" time="00:05" />
+    <LINE num="303" text="[DOM] A. Feliz - unsportsmanlike  foul (4 PF, 9th team foul). Foul drawn: J. Jiménez" team="2" time="00:05" />
+    <LINE num="302" text="[ESP] J. Jiménez - unsportsmanlike  foul (3 PF, 6th team foul). Foul drawn: A. Feliz" team="1" time="00:05" />
+    <LINE num="301" text="[ESP] J. Sorolla - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: J. Rodríguez" team="1" time="00:05" />
+    <LINE num="300" text="[ESP] P. Pérez - assist (3 AS)" team="1" time="00:15" />
+    <LINE num="299" text="[ESP] J. Sorolla - free throw made (1 Pts)" team="1" time="00:15" scoreA="59" scoreB="43" />
+    <LINE num="298" text="[ESP] J. Sorolla - free throw missed" team="1" time="00:15" />
+    <LINE num="297" text="[DOM] J. Rodríguez - personal shooting foul (1 PF, 8th team foul). 2 free throws awarded. Foul drawn: J. Sorolla" team="2" time="00:15" />
+    <LINE num="296" text="[DOM] J. Rodríguez - 2pt jump shot made (15 Pts)" team="2" time="00:20" scoreA="58" scoreB="43" />
+    <LINE num="295" text="[DOM] A. Feliz - 2pt jump shot blocked. R. Vila - block (1 BS). J. Rodríguez - offensive rebound (9 REB)" team="2" time="00:26" />
+    <LINE num="294" text="[ESP] J. Jiménez - personal  foul (2 PF, 4th team foul). Foul drawn: A. Feliz" team="1" time="00:34" />
+    <LINE num="293" text="[ESP] P. Pérez - free throw missed. C. Duran - defensive rebound (6 REB)" team="1" time="00:40" />
+    <LINE num="292" text="[ESP] P. Pérez - free throw made (2 Pts)" team="1" time="00:40" scoreA="58" scoreB="41" />
+    <LINE num="291" text="[DOM] E. Valera - personal shooting foul (3 PF, 7th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="00:40" />
+    <LINE num="290" text="[DOM] J. Rodríguez - free throw made (13 Pts)" team="2" time="00:43" scoreA="57" scoreB="41" />
+    <LINE num="289" text="[DOM] J. Rodríguez - free throw missed" team="2" time="00:43" />
+    <LINE num="288" text="[DOM] Substitution - J. Matos OUT, E. Valera IN" team="2" time="00:42" />
+    <LINE num="287" text="[DOM] Substitution - V. Peña OUT, C. Duran IN" team="2" time="00:42" />
+    <LINE num="286" text="[ESP] Substitution - Y. Sima OUT, J. Sorolla IN" team="1" time="00:42" />
+    <LINE num="285" text="[ESP] Y. Sima - personal shooting foul (4 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Rodríguez" team="1" time="00:43" />
+    <LINE num="284" text="[ESP] Y. Sima - 2pt dunk made (4 Pts). R. Vila - assist (1 AS)" team="1" time="00:53" scoreA="57" scoreB="40" />
+    <LINE num="283" text="[DOM] Substitution - Y. Montero OUT, A. Feliz IN" team="2" time="01:09" />
+    <LINE num="282" text="[DOM] J. Rodríguez - turnover (travelling, 5 TO)" team="2" time="01:09" />
+    <LINE num="281" text="[ESP] R. Vila - 2pt jump shot made (8 Pts)" team="1" time="01:30" scoreA="55" scoreB="40" />
+    <LINE num="280" text="[ESP] J. Jiménez - 3pt jump shot missed. R. Vila - offensive rebound (1 REB)" team="1" time="01:34" />
+    <LINE num="279" text="[DOM] J. Rodríguez - turnover (out of bounds, 4 TO)" team="2" time="01:50" />
+    <LINE num="278" text="[ESP] Y. Sima - free throw made (2 Pts)" team="1" time="01:56" scoreA="53" scoreB="40" />
+    <LINE num="277" text="[ESP] Y. Sima - free throw made (1 Pts)" team="1" time="01:56" scoreA="52" scoreB="40" />
+    <LINE num="276" text="[ESP] Substitution - X. Oroz OUT, J. Jiménez IN" team="1" time="01:56" />
+    <LINE num="275" text="[DOM] W. Pérez - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: Y. Sima" team="2" time="01:56" />
+    <LINE num="274" text="[DOM] J. Matos - turnover (ball handling, 1 TO). Y. Sima - steal (1 ST)" team="2" time="02:17" />
+    <LINE num="273" text="[ESP] P. Pérez - turnover (out of bounds, 2 TO)" team="1" time="02:26" />
+    <LINE num="272" text="[ESP] Substitution - S. Rodríguez OUT, Y. Sima IN" team="1" time="02:44" />
+    <LINE num="271" text="[ESP] Substitution - F. Alonso OUT, X. López-Arostegui IN" team="1" time="02:44" />
+    <LINE num="270" text="[DOM] R. Polanco - turnover (travelling, 1 TO)" team="2" time="02:44" />
+    <LINE num="269" text="[ESP] F. Alonso - 3pt jump shot missed. J. Matos - defensive rebound (2 REB)" team="1" time="03:02" />
+    <LINE num="268" text="[DOM] R. Polanco - 3pt jump shot missed. P. Pérez - defensive rebound (3 REB)" team="2" time="03:15" />
+    <LINE num="267" text="[ESP] S. Rodríguez - free throw missed. J. Rodríguez - defensive rebound (8 REB)" team="1" time="03:36" />
+    <LINE num="266" text="[ESP] S. Rodríguez - free throw missed" team="1" time="03:36" />
+    <LINE num="265" text="[DOM] Substitution - A. Nuñez OUT, Y. Montero IN" team="2" time="03:36" />
+    <LINE num="264" text="[DOM] Substitution - E. Valera OUT, R. Polanco IN" team="2" time="03:36" />
+    <LINE num="263" text="[DOM] A. Nuñez - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: S. Rodríguez" team="2" time="03:36" />
+    <LINE num="262" text="[DOM] J. Rodríguez - 2pt jump shot made (12 Pts)" team="2" time="03:40" scoreA="51" scoreB="40" />
+    <LINE num="261" text="[DOM] J. Matos - 2pt lay-up missed. J. Rodríguez - offensive rebound (7 REB)" team="2" time="03:44" />
+    <LINE num="260" text="[ESP] F. Alonso - 3pt jump shot missed. J. Rodríguez - defensive rebound (6 REB)" team="1" time="04:00" />
+    <LINE num="259" text="[DOM] E. Valera - personal  foul (2 PF, 4th team foul). Foul drawn: S. Rodríguez" team="2" time="04:05" />
+    <LINE num="258" text="[DOM] J. Rodríguez - 2pt lay-up made (10 Pts). A. Nuñez - assist (1 AS)" team="2" time="04:21" scoreA="51" scoreB="38" />
+    <LINE num="257" text="[DOM] A. Nuñez - 2pt jump shot missed. A. Nuñez - offensive rebound (1 REB)" team="2" time="04:26" />
+    <LINE num="256" text="[ESP] Substitution - S. García OUT, P. Pérez IN" team="1" time="04:45" />
+    <LINE num="255" text="[DOM] Substitution - W. Pérez OUT, V. Peña IN" team="2" time="04:45" />
+    <LINE num="254" text="[ESP] F. Alonso - turnover (travelling, 1 TO)" team="1" time="04:45" />
+    <LINE num="253" text="[DOM] J. Matos - 3pt jump shot missed. X. Oroz - defensive rebound (2 REB)" team="2" time="04:52" />
+    <LINE num="252" text="[ESP] S. García - 3pt jump shot made (10 Pts). X. Oroz - assist (2 AS)" team="1" time="05:15" scoreA="51" scoreB="36" />
+    <LINE num="251" text="[ESP] S. García - 3pt jump shot missed. S. García - offensive rebound (2 REB)" team="1" time="05:36" />
+    <LINE num="250" text="[DOM] Timeout" team="2" time="05:46" />
+    <LINE num="249" text="[DOM] E. Valera - personal  foul (1 PF, 3rd team foul). Foul drawn: S. García" team="2" time="05:46" />
+    <LINE num="248" text="[DOM] Substitution - Y. Flores OUT, J. Matos IN" team="2" time="05:53" />
+    <LINE num="247" text="[DOM] W. Pérez - turnover (travelling, 3 TO)" team="2" time="05:53" />
+    <LINE num="246" text="[ESP] S. García - 3pt jump shot made (7 Pts). S. Rodríguez - assist (2 AS)" team="1" time="06:10" scoreA="48" scoreB="36" />
+    <LINE num="245" text="[DOM] J. Rodríguez - 2pt lay-up made (8 Pts)" team="2" time="06:24" scoreA="45" scoreB="36" />
+    <LINE num="244" text="[ESP] X. Oroz - free throw made (6 Pts)" team="1" time="06:40" scoreA="45" scoreB="34" />
+    <LINE num="243" text="[ESP] X. Oroz - free throw made (5 Pts)" team="1" time="06:40" scoreA="44" scoreB="34" />
+    <LINE num="242" text="[ESP] Substitution - Y. Sima OUT, R. Vila IN" team="1" time="06:40" />
+    <LINE num="241" text="[DOM] Y. Flores - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: X. Oroz" team="2" time="06:40" />
+    <LINE num="240" text="[DOM] Y. Flores - turnover (bad pass, 6 TO). X. Oroz - steal (2 ST)" team="2" time="06:42" />
+    <LINE num="239" text="[ESP] X. Oroz - 2pt jump shot made (fast break, 4 Pts)" team="1" time="07:01" scoreA="43" scoreB="34" />
+    <LINE num="238" text="[DOM] W. Pérez - 2pt jump shot missed. Y. Sima - defensive rebound (4 REB)" team="2" time="07:09" />
+    <LINE num="237" text="[DOM] W. Pérez - free throw missed. W. Pérez - offensive rebound (4 REB)" team="2" time="07:13" />
+    <LINE num="236" text="[DOM] W. Pérez - free throw missed" team="2" time="07:13" />
+    <LINE num="235" text="[ESP] Y. Sima - personal shooting foul (3 PF, 2nd team foul). 2 free throws awarded. Foul drawn: W. Pérez" team="1" time="07:13" />
+    <LINE num="234" text="[ESP] X. Oroz - 2pt jump shot made (2 Pts)" team="1" time="07:21" scoreA="41" scoreB="34" />
+    <LINE num="233" text="[DOM] Substitution - C. Duran OUT, A. Nuñez IN" team="2" time="07:34" />
+    <LINE num="232" text="[DOM] Substitution - A. Feliz OUT, E. Valera IN" team="2" time="07:34" />
+    <LINE num="231" text="[DOM] A. Feliz - personal  foul (3 PF, 1st team foul). Foul drawn: S. García" team="2" time="07:34" />
+    <LINE num="230" text="[DOM] J. Rodríguez - 2pt jump shot missed. X. Oroz - defensive rebound (1 REB)" team="2" time="07:41" />
+    <LINE num="229" text="[ESP] F. Alonso - 2pt jump shot made (fast break, 5 Pts). X. Oroz - assist (1 AS)" team="1" time="08:02" scoreA="39" scoreB="34" />
+    <LINE num="228" text="[ESP] X. Oroz - steal (1 ST). J. Rodríguez - turnover (bad pass, 3 TO)" team="1" time="08:05" />
+    <LINE num="227" text="[ESP] S. Rodríguez - 2pt jump shot made (4 Pts). S. García - assist (2 AS)" team="1" time="08:33" scoreA="37" scoreB="34" />
+    <LINE num="226" text="[DOM] A. Feliz - turnover (travelling, 1 TO)" team="2" time="08:45" />
+    <LINE num="225" text="[DOM] Y. Flores - steal (1 ST). S. Rodríguez - turnover (bad pass, 2 TO)" team="2" time="08:56" />
+    <LINE num="224" text="[DOM] C. Duran - 2pt jump shot missed. Y. Sima - defensive rebound (3 REB)" team="2" time="09:08" />
+    <LINE num="223" text="[ESP] S. Rodríguez - 3pt jump shot missed. A. Feliz - defensive rebound (3 REB)" team="1" time="09:21" />
+    <LINE num="222" text="[DOM] A. Feliz - free throw missed. Team defensive rebound" team="2" time="09:38" />
+    <LINE num="221" text="[DOM] A. Feliz - free throw missed" team="2" time="09:38" />
+    <LINE num="220" text="[ESP] Y. Sima - personal shooting foul (2 PF, 1st team foul). 2 free throws awarded. Foul drawn: A. Feliz" team="1" time="09:38" />
+    <LINE num="219" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="218" text="[DOM] Substitution - J. Rodríguez IN" team="2" time="00:00" deleted="1" />
+    <LINE num="217" text="[DOM] Substitution - A. Feliz IN" team="2" time="00:00" deleted="1" />
+    <LINE num="216" text="[DOM] Substitution - W. Pérez IN" team="2" time="00:00" deleted="1" />
+    <LINE num="215" text="[DOM] Substitution - C. Duran IN" team="2" time="00:00" deleted="1" />
+    <LINE num="214" text="[DOM] Substitution - Y. Flores IN" team="2" time="00:00" deleted="1" />
+    <LINE num="213" text="[ESP] Substitution - S. Rodríguez IN" team="1" time="00:00" deleted="1" />
+    <LINE num="212" text="[ESP] Substitution - F. Alonso IN" team="1" time="00:00" deleted="1" />
+    <LINE num="211" text="[ESP] Substitution - Y. Sima IN" team="1" time="00:00" deleted="1" />
+    <LINE num="210" text="[ESP] Substitution - X. Oroz IN" team="1" time="00:00" deleted="1" />
+    <LINE num="209" text="[ESP] Substitution - S. García IN" team="1" time="00:00" deleted="1" />
+    <LINE num="208" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="207" text="[DOM] Substitution - A. Nuñez OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="206" text="[DOM] Substitution - J. Rodríguez OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="205" text="[DOM] Substitution - W. Pérez OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="204" text="[DOM] Substitution - R. Polanco OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="203" text="[DOM] Substitution - Y. Flores OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="202" text="[ESP] Substitution - R. Vila OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="201" text="[ESP] Substitution - J. Jiménez OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="200" text="[ESP] Substitution - X. Oroz OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="199" text="[ESP] Substitution - X. López-Arostegui OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="198" text="[ESP] Substitution - P. Pérez OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="197" text="[DOM] R. Polanco - 2pt jump shot made (2 Pts)" team="2" time="00:02" scoreA="35" scoreB="34" />
+    <LINE num="196" text="[DOM] J. Rodríguez - 2pt jump shot missed. R. Polanco - offensive rebound (2 REB)" team="2" time="00:05" />
+    <LINE num="195" text="[ESP] Substitution - J. Sorolla OUT, R. Vila IN" team="1" time="00:19" />
+    <LINE num="194" text="[ESP] P. Pérez - free throw made (1 Pts)" team="1" time="00:19" scoreA="35" scoreB="32" />
+    <LINE num="193" text="[ESP] P. Pérez - free throw missed" team="1" time="00:19" />
+    <LINE num="192" text="[ESP] Substitution - S. García OUT, X. Oroz IN" team="1" time="00:19" />
+    <LINE num="191" text="[DOM] W. Pérez - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: P. Pérez" team="2" time="00:19" />
+    <LINE num="190" text="[ESP] J. Jiménez - 3pt jump shot missed. X. López-Arostegui - offensive rebound (2 REB)" team="1" time="00:31" />
+    <LINE num="189" text="[DOM] Y. Flores - 2pt jump shot made (2 Pts)" team="2" time="00:43" scoreA="34" scoreB="32" />
+    <LINE num="188" text="[ESP] X. López-Arostegui - 3pt jump shot made (7 Pts). J. Jiménez - assist (1 AS)" team="1" time="01:05" scoreA="34" scoreB="30" />
+    <LINE num="187" text="[DOM] A. Nuñez - free throw made (6 Pts)" team="2" time="01:25" scoreA="31" scoreB="30" />
+    <LINE num="186" text="[DOM] A. Nuñez - free throw made (5 Pts)" team="2" time="01:25" scoreA="31" scoreB="29" />
+    <LINE num="185" text="[DOM] J. Rodríguez - assist (2 AS)" team="2" time="01:25" />
+    <LINE num="184" text="[DOM] A. Nuñez - free throw made (4 Pts)" team="2" time="01:25" scoreA="31" scoreB="28" />
+    <LINE num="183" text="[DOM] Substitution - J. Araujo OUT, W. Pérez IN" team="2" time="01:25" />
+    <LINE num="182" text="[ESP] Substitution - S. Rodríguez OUT, J. Jiménez IN" team="1" time="01:25" />
+    <LINE num="181" text="[ESP] S. Rodríguez - personal shooting foul (3 PF, 3rd team foul). 3 free throws awarded. Foul drawn: A. Nuñez" team="1" time="01:25" />
+    <LINE num="180" text="[ESP] S. García - 2pt jump shot made (4 Pts)" team="1" time="01:37" scoreA="31" scoreB="27" />
+    <LINE num="179" text="[DOM] Y. Flores - turnover (out of bounds, 5 TO)" team="2" time="01:54" />
+    <LINE num="178" text="[DOM] Timeout" team="2" time="01:56" />
+    <LINE num="177" text="[ESP] Substitution - R. Vila OUT, J. Sorolla IN" team="1" time="01:56" />
+    <LINE num="176" text="[ESP] X. López-Arostegui - 3pt jump shot missed. J. Araujo - defensive rebound (2 REB)" team="1" time="02:03" />
+    <LINE num="175" text="[DOM] R. Polanco - 2pt jump shot missed. P. Pérez - defensive rebound (2 REB)" team="2" time="02:10" />
+    <LINE num="174" text="[DOM] J. Araujo - 2pt jump shot missed. R. Polanco - offensive rebound (1 REB)" team="2" time="02:13" />
+    <LINE num="173" text="[DOM] R. Polanco - 2pt jump shot missed. J. Araujo - offensive rebound (1 REB)" team="2" time="02:16" />
+    <LINE num="172" text="[DOM] Substitution - C. Duran OUT, J. Rodríguez IN" team="2" time="02:30" />
+    <LINE num="171" text="[ESP] R. Vila - personal  foul (1 PF, 2nd team foul). Foul drawn: J. Araujo" team="1" time="02:30" />
+    <LINE num="170" text="[DOM] R. Polanco - 2pt lay-up missed. Team offensive rebound" team="2" time="02:37" />
+    <LINE num="169" text="[DOM] Substitution - J. Matos OUT, R. Polanco IN" team="2" time="02:52" />
+    <LINE num="168" text="[ESP] S. Rodríguez - turnover (out of bounds, 1 TO)" team="1" time="02:52" />
+    <LINE num="167" text="[DOM] C. Duran - 2pt lay-up missed. X. López-Arostegui - defensive rebound (1 REB)" team="2" time="02:59" />
+    <LINE num="166" text="[ESP] S. García - free throw made (2 Pts)" team="1" time="03:16" scoreA="29" scoreB="27" />
+    <LINE num="165" text="[ESP] S. García - free throw made (1 Pts)" team="1" time="03:16" scoreA="28" scoreB="27" />
+    <LINE num="164" text="[DOM] Substitution - A. Feliz OUT, Y. Flores IN" team="2" time="03:16" />
+    <LINE num="163" text="[ESP] Substitution - J. Jiménez OUT, S. Rodríguez IN" team="1" time="03:16" />
+    <LINE num="162" text="[DOM] A. Feliz - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: S. García" team="2" time="03:16" />
+    <LINE num="161" text="[DOM] A. Nuñez - 3pt jump shot missed. J. Jiménez - defensive rebound (3 REB)" team="2" time="03:21" />
+    <LINE num="160" text="[ESP] P. Pérez - 3pt jump shot missed. J. Matos - defensive rebound (1 REB)" team="1" time="03:46" />
+    <LINE num="159" text="[ESP] Timeout" team="1" time="04:03" />
+    <LINE num="158" text="[DOM] J. Matos - 2pt dunk made (fast break, 2 Pts). C. Duran - assist (1 AS)" team="2" time="04:03" scoreA="27" scoreB="27" />
+    <LINE num="157" text="[ESP] S. García - turnover (bad pass, 2 TO). C. Duran - steal (2 ST)" team="1" time="04:05" />
+    <LINE num="156" text="[DOM] A. Nuñez - 3pt jump shot made (3 Pts)" team="2" time="04:27" scoreA="27" scoreB="25" />
+    <LINE num="155" text="[DOM] Substitution - Y. Montero OUT, A. Nuñez IN" team="2" time="04:41" />
+    <LINE num="154" text="[ESP] X. López-Arostegui - 2pt alley-oop missed. Team defensive rebound" team="1" time="04:42" />
+    <LINE num="153" text="[DOM] J. Matos - 3pt jump shot missed. S. García - defensive rebound (1 REB)" team="2" time="04:48" />
+    <LINE num="152" text="[ESP] Team turnover (24 seconds)" team="1" time="05:03" />
+    <LINE num="151" text="[DOM] Substitution - Y. Flores OUT, A. Feliz IN" team="2" time="05:28" />
+    <LINE num="150" text="[DOM] Y. Flores - personal  foul (1 PF, 4th team foul). Foul drawn: J. Jiménez" team="2" time="05:28" />
+    <LINE num="149" text="[DOM] Y. Montero - 3pt jump shot missed. J. Jiménez - defensive rebound (2 REB)" team="2" time="05:29" />
+    <LINE num="148" text="[ESP] J. Jiménez - 2pt jump shot made (fast break, 4 Pts)" team="1" time="05:43" scoreA="27" scoreB="22" />
+    <LINE num="147" text="[DOM] Y. Flores - turnover (bad pass, 4 TO). J. Jiménez - steal (1 ST)" team="2" time="05:46" />
+    <LINE num="146" text="[ESP] R. Vila - 2pt dunk made (6 Pts)" team="1" time="06:02" scoreA="25" scoreB="22" />
+    <LINE num="145" text="[ESP] Substitution - M. García OUT, S. García IN" team="1" time="06:19" />
+    <LINE num="144" text="[DOM] Substitution - W. Pérez OUT, C. Duran IN" team="2" time="06:19" />
+    <LINE num="143" text="[DOM] Y. Montero - personal  foul (2 PF, 3rd team foul). Foul drawn: P. Pérez" team="2" time="06:19" />
+    <LINE num="142" text="[DOM] J. Matos - 2pt jump shot missed. P. Pérez - defensive rebound (1 REB)" team="2" time="06:19" />
+    <LINE num="141" text="[DOM] Substitution - V. Peña OUT, J. Araujo IN" team="2" time="06:24" />
+    <LINE num="140" text="[ESP] R. Vila - 2pt dunk made (fast break, 4 Pts). P. Pérez - assist (2 AS)" team="1" time="06:46" scoreA="23" scoreB="22" />
+    <LINE num="139" text="[DOM] W. Pérez - 2pt lay-up missed. Team defensive rebound" team="2" time="06:53" />
+    <LINE num="138" text="[ESP] Substitution - Y. Sima OUT, R. Vila IN" team="1" time="07:15" />
+    <LINE num="137" text="[DOM] Timeout" team="2" time="07:15" />
+    <LINE num="136" text="[ESP] X. López-Arostegui - 2pt dunk made (fast break, 4 Pts). P. Pérez - assist (1 AS)" team="1" time="07:15" scoreA="21" scoreB="22" />
+    <LINE num="135" text="[DOM] W. Pérez - turnover (bad pass, 2 TO). P. Pérez - steal (1 ST)" team="2" time="07:21" />
+    <LINE num="134" text="[ESP] J. Jiménez - 2pt jump shot made (fast break, 2 Pts)" team="1" time="07:33" scoreA="19" scoreB="22" />
+    <LINE num="133" text="[DOM] J. Matos - 2pt jump shot missed. Team defensive rebound" team="2" time="07:54" />
+    <LINE num="132" text="[ESP] Y. Sima - 2pt lay-up missed. V. Peña - defensive rebound (2 REB)" team="1" time="07:56" />
+    <LINE num="131" text="[ESP] Y. Sima - 2pt lay-up missed. Y. Sima - offensive rebound (2 REB)" team="1" time="08:02" />
+    <LINE num="130" text="[DOM] V. Peña - turnover (travelling, 1 TO)" team="2" time="08:22" />
+    <LINE num="129" text="[ESP] X. López-Arostegui - 3pt jump shot missed. W. Pérez - defensive rebound (3 REB)" team="1" time="08:26" />
+    <LINE num="128" text="[DOM] W. Pérez - 2pt jump shot missed. J. Jiménez - defensive rebound (1 REB)" team="2" time="08:45" />
+    <LINE num="127" text="[DOM] Substitution - J. Rodríguez OUT, W. Pérez IN" team="2" time="08:56" />
+    <LINE num="126" text="[ESP] Y. Sima - personal  foul (1 PF, 1st team foul). Foul drawn: J. Rodríguez" team="1" time="08:58" />
+    <LINE num="125" text="[ESP] P. Pérez - turnover (bad pass, 1 TO). J. Rodríguez - steal (3 ST)" team="1" time="08:58" />
+    <LINE num="124" text="[DOM] Y. Flores - 3pt jump shot missed. Y. Sima - defensive rebound (1 REB)" team="2" time="09:03" />
+    <LINE num="123" text="[ESP] M. García - 3pt jump shot missed. V. Peña - defensive rebound (1 REB)" team="1" time="09:20" />
+    <LINE num="122" text="[DOM] J. Matos - personal  foul (1 PF, 2nd team foul). Foul drawn: M. García" team="2" time="09:30" />
+    <LINE num="121" text="[DOM] J. Rodríguez - turnover (out of bounds, 2 TO)" team="2" time="09:39" />
+    <LINE num="120" text="[ESP] J. Jiménez - 3pt jump shot missed. J. Rodríguez - defensive rebound (5 REB)" team="1" time="09:44" />
+    <LINE num="119" text="[DOM] Y. Montero - personal  foul (1 PF, 1st team foul). Foul drawn: P. Pérez" team="2" time="09:53" />
+    <LINE num="118" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="117" text="[DOM] Substitution - V. Peña IN" team="2" time="00:00" deleted="1" />
+    <LINE num="116" text="[DOM] Substitution - J. Rodríguez IN" team="2" time="00:00" deleted="1" />
+    <LINE num="115" text="[DOM] Substitution - Y. Montero IN" team="2" time="00:00" deleted="1" />
+    <LINE num="114" text="[DOM] Substitution - J. Matos IN" team="2" time="00:00" deleted="1" />
+    <LINE num="113" text="[DOM] Substitution - Y. Flores IN" team="2" time="00:00" deleted="1" />
+    <LINE num="112" text="[ESP] Substitution - J. Jiménez IN" team="1" time="00:00" deleted="1" />
+    <LINE num="111" text="[ESP] Substitution - Y. Sima IN" team="1" time="00:00" deleted="1" />
+    <LINE num="110" text="[ESP] Substitution - M. García IN" team="1" time="00:00" deleted="1" />
+    <LINE num="109" text="[ESP] Substitution - X. López-Arostegui IN" team="1" time="00:00" deleted="1" />
+    <LINE num="108" text="[ESP] Substitution - P. Pérez IN" team="1" time="00:00" deleted="1" />
+    <LINE num="107" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="106" text="[DOM] Substitution - V. Peña OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="105" text="[DOM] Substitution - E. Valera OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="104" text="[DOM] Substitution - J. Rodríguez OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="103" text="[DOM] Substitution - Y. Montero OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="102" text="[DOM] Substitution - Y. Flores OUT" team="2" time="00:00" deleted="1" />
+    <LINE num="101" text="[ESP] Substitution - J. Jiménez OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="100" text="[ESP] Substitution - Y. Sima OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="99" text="[ESP] Substitution - M. García OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="98" text="[ESP] Substitution - X. López-Arostegui OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="97" text="[ESP] Substitution - S. García OUT" team="1" time="00:00" deleted="1" />
+    <LINE num="96" text="[ESP] Substitution - X. Oroz OUT, Y. Sima IN" team="1" time="00:17" />
+    <LINE num="95" text="[DOM] Substitution - A. Feliz OUT, Y. Flores IN" team="2" time="00:20" />
+    <LINE num="94" text="[ESP] Substitution - R. Vila OUT, M. García IN" team="1" time="00:20" />
+    <LINE num="93" text="[DOM] A. Feliz - free throw made (9 Pts)" team="2" time="00:20" scoreA="17" scoreB="22" />
+    <LINE num="92" text="[DOM] A. Feliz - free throw made (8 Pts)" team="2" time="00:21" scoreA="17" scoreB="21" />
+    <LINE num="91" text="[ESP] J. Jiménez - personal shooting foul (1 PF, 7th team foul). 2 free throws awarded. Foul drawn: A. Feliz" team="1" time="00:21" />
+    <LINE num="90" text="[ESP] Substitution - J. Sorolla OUT, X. Oroz IN" team="1" time="00:21" />
+    <LINE num="89" text="[ESP] Y. Sima - turnover (bad pass, 2 TO). J. Rodríguez - steal (2 ST)" team="1" time="00:27" />
+    <LINE num="88" text="[DOM] A. Feliz - 3pt jump shot made (7 Pts)" team="2" time="00:39" scoreA="17" scoreB="20" />
+    <LINE num="87" text="[DOM] V. Peña - 2pt lay-up missed. A. Feliz - offensive rebound (2 REB)" team="2" time="00:43" />
+    <LINE num="86" text="[ESP] X. López-Arostegui - 2pt jump shot made (2 Pts)" team="1" time="01:05" scoreA="17" scoreB="17" />
+    <LINE num="85" text="[DOM] J. Rodríguez - 2pt alley-oop made (fast break, 6 Pts). Y. Montero - assist (1 AS)" team="2" time="01:23" scoreA="15" scoreB="17" />
+    <LINE num="84" text="[ESP] S. García - turnover (bad pass, 1 TO). A. Feliz - steal (2 ST)" team="1" time="01:28" />
+    <LINE num="83" text="[DOM] Substitution - W. Pérez OUT, Y. Montero IN" team="2" time="01:46" />
+    <LINE num="82" text="[DOM] W. Pérez - free throw made (4 Pts)" team="2" time="01:47" scoreA="15" scoreB="15" />
+    <LINE num="81" text="[DOM] W. Pérez - free throw made (3 Pts)" team="2" time="01:47" scoreA="15" scoreB="14" />
+    <LINE num="80" text="[DOM] Substitution - C. Duran OUT, V. Peña IN" team="2" time="01:48" />
+    <LINE num="79" text="[ESP] Substitution - M. García OUT, X. López-Arostegui IN" team="1" time="01:47" />
+    <LINE num="78" text="[ESP] J. Sorolla - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: W. Pérez" team="1" time="01:47" />
+    <LINE num="77" text="[DOM] J. Rodríguez - 2pt lay-up missed. W. Pérez - offensive rebound (2 REB)" team="2" time="01:47" />
+    <LINE num="76" text="[ESP] S. García - 2pt lay-up missed. C. Duran - defensive rebound (5 REB)" team="1" time="01:54" />
+    <LINE num="75" text="[DOM] C. Duran - turnover (bad pass, 2 TO). M. García - steal (2 ST)" team="2" time="01:58" />
+    <LINE num="74" text="[ESP] M. García - 3pt jump shot made (8 Pts). S. García - assist (1 AS)" team="1" time="02:16" scoreA="15" scoreB="13" />
+    <LINE num="73" text="[DOM] A. Feliz - 2pt jump shot made (4 Pts). E. Valera - assist (1 AS)" team="2" time="02:38" scoreA="12" scoreB="13" />
+    <LINE num="72" text="[ESP] M. García - free throw missed. W. Pérez - defensive rebound (1 REB)" team="1" time="02:48" />
+    <LINE num="71" text="[DOM] C. Duran - personal shooting foul (2 PF, 4th team foul). One free throw awarded. Foul drawn: M. García" team="2" time="02:48" />
+    <LINE num="70" text="[ESP] M. García - 2pt lay-up made (5 Pts)" team="1" time="02:48" scoreA="12" scoreB="11" />
+    <LINE num="69" text="[ESP] Substitution - F. Alonso OUT, J. Jiménez IN" team="1" time="02:57" />
+    <LINE num="68" text="[DOM] C. Duran - personal  foul (1 PF, 3rd team foul). Foul drawn: M. García" team="2" time="02:57" />
+    <LINE num="67" text="[DOM] J. Rodríguez - 2pt jump shot made (4 Pts)" team="2" time="03:16" scoreA="10" scoreB="11" />
+    <LINE num="66" text="[ESP] M. García - 2pt lay-up made (3 Pts)" team="1" time="03:32" scoreA="10" scoreB="9" />
+    <LINE num="65" text="[DOM] C. Duran - 2pt jump shot missed. F. Alonso - defensive rebound (1 REB)" team="2" time="03:42" />
+    <LINE num="64" text="[ESP] S. García - 3pt jump shot missed. C. Duran - defensive rebound (4 REB)" team="1" time="03:54" />
+    <LINE num="63" text="[DOM] J. Rodríguez - free throw missed. M. García - defensive rebound (1 REB)" team="2" time="04:10" />
+    <LINE num="62" text="[DOM] J. Rodríguez - free throw made (2 Pts)" team="2" time="04:13" scoreA="8" scoreB="9" />
+    <LINE num="61" text="[ESP] J. Sorolla - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: J. Rodríguez" team="1" time="04:13" />
+    <LINE num="60" text="[ESP] M. García - 3pt jump shot missed. J. Rodríguez - defensive rebound (4 REB)" team="1" time="04:13" />
+    <LINE num="59" text="[ESP] M. García - free throw missed" team="1" time="04:35" />
+    <LINE num="58" text="[DOM]  - technical  foul. One free throw awarded" team="2" time="04:35" />
+    <LINE num="57" text="[DOM] Team turnover (other)" team="2" time="04:35" />
+    <LINE num="56" text="[ESP] R. Vila - 2pt dunk made (2 Pts). M. García - assist (1 AS)" team="1" time="04:36" scoreA="8" scoreB="8" />
+    <LINE num="55" text="[DOM] Team turnover (other)" team="2" time="04:51" />
+    <LINE num="54" text="[ESP] M. García - free throw made (1 Pts)" team="1" time="04:51" scoreA="6" scoreB="8" />
+    <LINE num="53" text="[DOM]  - technical  foul. One free throw awarded" team="2" time="04:51" />
+    <LINE num="52" text="[ESP] Substitution - X. Oroz OUT, J. Sorolla IN" team="1" time="04:51" />
+    <LINE num="51" text="[ESP] Substitution - Y. Sima OUT, S. García IN" team="1" time="04:51" />
+    <LINE num="50" text="[DOM] W. Pérez - turnover (travelling, 1 TO)" team="2" time="04:51" />
+    <LINE num="49" text="[DOM] C. Duran - steal (1 ST)" team="2" time="05:04" />
+    <LINE num="48" text="[ESP] Y. Sima - turnover (other, 1 TO)" team="1" time="05:04" />
+    <LINE num="47" text="[DOM] A. Feliz - personal  foul (1 PF, 2nd team foul). Foul drawn: F. Alonso" team="2" time="05:13" />
+    <LINE num="46" text="[DOM] Substitution - Y. Flores OUT, E. Valera IN" team="2" time="05:26" />
+    <LINE num="45" text="[ESP] Timeout" team="1" time="05:26" />
+    <LINE num="44" text="[DOM] C. Duran - 3pt jump shot made (fast break, 3 Pts). Y. Flores - assist (1 AS)" team="2" time="05:27" scoreA="5" scoreB="8" />
+    <LINE num="43" text="[ESP] R. Vila - turnover (bad pass, 1 TO). J. Rodríguez - steal (1 ST)" team="1" time="05:34" />
+    <LINE num="42" text="[DOM] W. Pérez - 2pt jump shot made (2 Pts). J. Rodríguez - assist (1 AS)" team="2" time="05:49" scoreA="5" scoreB="5" />
+    <LINE num="41" text="[ESP] R. Vila - 2pt jump shot missed. J. Rodríguez - defensive rebound (3 REB)" team="1" time="06:03" />
+    <LINE num="40" text="[DOM] J. Rodríguez - turnover (travelling, 1 TO)" team="2" time="06:19" />
+    <LINE num="39" text="[ESP] M. García - turnover (bad pass, 1 TO). A. Feliz - steal (1 ST)" team="1" time="06:21" />
+    <LINE num="38" text="[DOM] Y. Flores - turnover (out of bounds, 3 TO)" team="2" time="06:35" />
+    <LINE num="37" text="[ESP] Substitution - S. Rodríguez OUT, R. Vila IN" team="1" time="06:47" />
+    <LINE num="36" text="[ESP] S. Rodríguez - personal  foul (2 PF, 4th team foul). Foul drawn: C. Duran" team="1" time="06:48" />
+    <LINE num="35" text="[ESP] F. Alonso - 2pt jump shot missed. C. Duran - defensive rebound (3 REB)" team="1" time="06:48" />
+    <LINE num="34" text="[DOM] J. Araujo -  offensive foul (1 PF, 1st team foul). Foul drawn: S. Rodríguez. Y. Flores - turnover (offensive foul, 2 TO)" team="2" time="07:06" />
+    <LINE num="33" text="[ESP] S. Rodríguez - 3pt jump shot missed. A. Feliz - defensive rebound (1 REB)" team="1" time="07:12" />
+    <LINE num="32" text="[DOM] A. Feliz - free throw made (2 Pts)" team="2" time="07:35" scoreA="5" scoreB="3" />
+    <LINE num="31" text="[DOM] A. Feliz - free throw made (1 Pts)" team="2" time="07:35" scoreA="5" scoreB="2" />
+    <LINE num="30" text="[ESP] F. Alonso - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: A. Feliz" team="1" time="07:35" />
+    <LINE num="29" text="[ESP] S. Rodríguez - 2pt jump shot made (fast break, 2 Pts)" team="1" time="07:35" scoreA="5" scoreB="1" />
+    <LINE num="28" text="[ESP] S. Rodríguez - 2pt jump shot blocked. J. Rodríguez - block (1 BS). S. Rodríguez - offensive rebound (1 REB)" team="1" time="07:35" />
+    <LINE num="27" text="[ESP] S. Rodríguez - 2pt jump shot missed" team="1" time="07:35" deleted="1" />
+    <LINE num="26" text="[DOM] C. Duran - 2pt jump shot missed" team="2" time="07:41" />
+    <LINE num="25" text="[DOM] W. Pérez - 2pt jump shot missed" team="2" time="07:47" deleted="1" />
+    <LINE num="24" text="[DOM] A. Feliz - 2pt jump shot missed. J. Rodríguez - offensive rebound (2 REB)" team="2" time="08:01" />
+    <LINE num="23" text="[ESP] M. García - 2pt lay-up missed. C. Duran - defensive rebound (2 REB)" team="1" time="08:15" />
+    <LINE num="22" text="[DOM] Y. Flores - turnover (out of bounds, 1 TO)" team="2" time="08:28" />
+    <LINE num="21" text="[ESP] S. Rodríguez - 2pt jump shot missed. J. Rodríguez - defensive rebound (1 REB)" team="1" time="08:42" />
+    <LINE num="20" text="[DOM] J. Rodríguez - free throw made (1 Pts)" team="2" time="08:59" scoreA="3" scoreB="1" />
+    <LINE num="19" text="[DOM] J. Rodríguez - free throw missed" team="2" time="08:59" />
+    <LINE num="18" text="[ESP] X. Oroz - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: J. Rodríguez" team="1" time="08:59" />
+    <LINE num="17" text="[ESP] M. García - 3pt jump shot missed. Y. Flores - defensive rebound (1 REB)" team="1" time="09:11" />
+    <LINE num="16" text="[DOM] C. Duran - turnover (bad pass, 1 TO). M. García - steal (1 ST)" team="2" time="09:20" />
+    <LINE num="15" text="[DOM] J. Rodríguez - 2pt jump shot missed. C. Duran - offensive rebound (1 REB)" team="2" time="09:20" />
+    <LINE num="14" text="[ESP] S. Rodríguez - personal  foul (1 PF, 1st team foul). Foul drawn: C. Duran" team="1" time="09:26" />
+    <LINE num="13" text="[DOM] C. Duran - 2pt jump shot made (0 Pts)" team="2" time="09:27" scoreA="3" scoreB="0" deleted="1" />
+    <LINE num="12" text="[ESP] F. Alonso - 3pt jump shot made (3 Pts). S. Rodríguez - assist (1 AS)" team="1" time="09:43" scoreA="3" scoreB="0" />
+    <LINE num="11" text="START OF GAME" team="0" time="10:00" />
+    <LINE num="10" text="[DOM] Substitution - J. Rodríguez IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[DOM] Substitution - A. Feliz IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[DOM] Substitution - W. Pérez IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[DOM] Substitution - C. Duran IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[DOM] Substitution - Y. Flores IN" team="2" time="10:00" deleted="1" />
+    <LINE num="5" text="[ESP] Substitution - S. Rodríguez IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[ESP] Substitution - F. Alonso IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[ESP] Substitution - Y. Sima IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[ESP] Substitution - M. García IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="[ESP] Substitution - X. Oroz IN" team="1" time="10:00" deleted="1" />
+  </PLAYBYPLAY>
+  <BANNER duration="0" />
+</FE>

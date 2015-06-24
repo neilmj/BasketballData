@@ -1,0 +1,48 @@
+<FE>
+  <HEADER competition="Torneo Internacional Getxo U19" round="Semifinal 1" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/918DD980-B1A0-4E38-9355-E01DCDEF7F55.jpg" duration="46.8083">
+    <TEAM name="España" logo="http://live.fibaeurope.com/www/gallery/F4B664EB-95F7-4F9B-AA71-7405E2F17442.jpg" pts="79" fouls="5" />
+    <TEAM name="República Dominicana" logo="http://live.fibaeurope.com/www/gallery/C5D5F156-4DEC-49BE-9A8A-1F20387FBD8C.jpg" pts="73" fouls="15" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="17" scoreB="22" />
+      <QUARTER n="2" scoreA="18" scoreB="12" />
+      <QUARTER n="3" scoreA="24" scoreB="10" />
+      <QUARTER n="4" scoreA="20" scoreB="29" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="0">
+    <TEAM name="España">
+      <TEAMACTIONS ro="1" rd="4" rt="5" pf="0" rf="0" to="2" st="0" in="1" ind="0" />
+      <TOTAL p1m="22" p1a="36" p1p="61.1" p2m="21" p2a="33" p2p="63.6" p3m="5" p3a="24" p3p="20.8" fgm="26" fga="57" fgp="45.6" as="14" bs="2" br="3" pts="79" ro="7" rd="23" rt="30" pf="21" rf="34" to="21" st="8" in="0" ind="0" />
+      <PLAYER no="4" name="P. Pérez" min="21:03" sta="False" p1m="5" p1a="10" p1p="50.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="3" bs="0" br="0" pts="5" ro="0" rd="4" rt="4" pf="2" rf="8" to="2" st="1" in="0" ind="-2" />
+      <PLAYER no="5" name="S. García" min="20:39" sta="False" p1m="8" p1a="10" p1p="80.0" p2m="1" p2a="2" p2p="50.0" p3m="2" p3a="5" p3p="40.0" fgm="3" fga="7" fgp="42.9" as="2" bs="0" br="0" pts="16" ro="1" rd="2" rt="3" pf="0" rf="7" to="5" st="0" in="1" ind="14" />
+      <PLAYER no="6" name="X. López-Arostegui" min="20:47" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="2" p2a="3" p2p="66.7" p3m="1" p3a="3" p3p="33.3" fgm="3" fga="6" fgp="50.0" as="1" bs="0" br="0" pts="8" ro="1" rd="2" rt="3" pf="1" rf="2" to="1" st="1" in="1" ind="-8" />
+      <PLAYER no="7" name="X. Oroz" min="19:36" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="2" p2a="2" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="2" fgp="100.0" as="3" bs="0" br="0" pts="6" ro="0" rd="3" rt="3" pf="3" rf="1" to="0" st="2" in="1" ind="-1" />
+      <PLAYER no="8" name="M. García" min="12:14" sta="True" p1m="1" p1a="3" p1p="33.3" p2m="2" p2a="3" p2p="66.7" p3m="1" p3a="4" p3p="25.0" fgm="3" fga="7" fgp="42.9" as="1" bs="0" br="0" pts="8" ro="0" rd="1" rt="1" pf="0" rf="3" to="1" st="2" in="0" ind="8" />
+      <PLAYER no="9" name="Y. Sima" min="19:37" sta="True" p1m="2" p1a="3" p1p="66.7" p2m="2" p2a="6" p2p="33.3" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="6" fgp="33.3" as="0" bs="1" br="2" pts="6" ro="2" rd="3" rt="5" pf="4" rf="2" to="2" st="1" in="0" ind="8" />
+      <PLAYER no="10" name="F. Alonso" min="20:52" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="2" p2a="4" p2p="50.0" p3m="1" p3a="5" p3p="20.0" fgm="3" fga="9" fgp="33.3" as="0" bs="0" br="0" pts="9" ro="0" rd="1" rt="1" pf="1" rf="2" to="2" st="0" in="1" ind="5" />
+      <PLAYER no="11" name="J. Jiménez" min="16:12" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="2" p2p="100.0" p3m="0" p3a="3" p3p="0.0" fgm="2" fga="5" fgp="40.0" as="1" bs="0" br="0" pts="4" ro="0" rd="3" rt="3" pf="3" rf="2" to="0" st="1" in="0" ind="-2" />
+      <PLAYER no="12" name="S. Rodríguez" min="17:07" sta="True" p1m="0" p1a="2" p1p="0.0" p2m="3" p2a="5" p2p="60.0" p3m="0" p3a="2" p3p="0.0" fgm="3" fga="7" fgp="42.9" as="2" bs="0" br="1" pts="6" ro="1" rd="0" rt="1" pf="3" rf="5" to="4" st="0" in="0" ind="8" />
+      <PLAYER no="13" name="N. Sabata" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="14" name="J. Sorolla" min="06:44" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="1" ro="0" rd="0" rt="0" pf="3" rf="1" to="0" st="0" in="0" ind="-1" />
+      <PLAYER no="15" name="R. Vila" min="25:09" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="5" p2a="6" p2p="83.3" p3m="0" p3a="0" p3p="0.0" fgm="5" fga="6" fgp="83.3" as="1" bs="1" br="0" pts="10" ro="1" rd="0" rt="1" pf="1" rf="1" to="2" st="0" in="0" ind="1" />
+    </TEAM>
+    <TEAM name="República Dominicana">
+      <TEAMACTIONS ro="2" rd="1" rt="3" pf="2" rf="0" to="3" st="0" in="0" ind="0" />
+      <TOTAL p1m="18" p1a="27" p1p="66.7" p2m="17" p2a="48" p2p="35.4" p3m="7" p3a="17" p3p="41.2" fgm="24" fga="65" fgp="36.9" as="11" bs="3" br="2" pts="73" ro="20" rd="28" rt="48" pf="36" rf="21" to="28" st="14" in="0" ind="0" />
+      <PLAYER no="4" name="Y. Flores" min="22:40" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="1" p2a="1" p2p="100.0" p3m="2" p3a="6" p3p="33.3" fgm="3" fga="7" fgp="42.9" as="1" bs="0" br="0" pts="10" ro="0" rd="1" rt="1" pf="4" rf="2" to="6" st="1" in="1" ind="-11" />
+      <PLAYER no="5" name="J. Matos" min="16:25" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="6" p2p="16.7" p3m="1" p3a="3" p3p="33.3" fgm="2" fga="9" fgp="22.2" as="1" bs="0" br="1" pts="5" ro="1" rd="3" rt="4" pf="3" rf="0" to="2" st="1" in="1" ind="-6" />
+      <PLAYER no="6" name="R. Polanco" min="07:19" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="4" p2p="25.0" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="5" fgp="20.0" as="0" bs="0" br="0" pts="2" ro="2" rd="0" rt="2" pf="1" rf="0" to="1" st="1" in="0" ind="-1" />
+      <PLAYER no="7" name="Y. Montero" min="15:26" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="1" p3a="2" p3p="50.0" fgm="2" fga="4" fgp="50.0" as="2" bs="1" br="0" pts="5" ro="0" rd="0" rt="0" pf="4" rf="0" to="1" st="1" in="0" ind="-3" />
+      <PLAYER no="8" name="C. Duran" min="19:18" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="1" p2a="5" p2p="20.0" p3m="1" p3a="1" p3p="100.0" fgm="2" fga="6" fgp="33.3" as="1" bs="1" br="0" pts="6" ro="2" rd="6" rt="8" pf="3" rf="3" to="2" st="2" in="0" ind="0" />
+      <PLAYER no="9" name="W. Pérez" min="24:34" sta="True" p1m="2" p1a="4" p1p="50.0" p2m="1" p2a="5" p2p="20.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="5" fgp="20.0" as="1" bs="0" br="0" pts="4" ro="2" rd="5" rt="7" pf="3" rf="2" to="3" st="0" in="1" ind="-11" />
+      <PLAYER no="10" name="A. Feliz" min="20:56" sta="True" p1m="4" p1a="6" p1p="66.7" p2m="3" p2a="5" p2p="60.0" p3m="1" p3a="1" p3p="100.0" fgm="4" fga="6" fgp="66.7" as="0" bs="0" br="1" pts="13" ro="2" rd="2" rt="4" pf="5" rf="5" to="1" st="2" in="0" ind="10" />
+      <PLAYER no="11" name="J. Rodríguez" min="30:01" sta="True" p1m="4" p1a="8" p1p="50.0" p2m="8" p2a="16" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="8" fga="16" fgp="50.0" as="2" bs="1" br="0" pts="20" ro="7" rd="7" rt="14" pf="3" rf="6" to="7" st="4" in="1" ind="-8" />
+      <PLAYER no="12" name="J. Araujo" min="04:59" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="1" rd="1" rt="2" pf="1" rf="1" to="0" st="0" in="0" ind="-3" />
+      <PLAYER no="13" name="E. Valera" min="13:46" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="4" rf="0" to="0" st="1" in="0" ind="-3" />
+      <PLAYER no="14" name="V. Peña" min="10:30" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="2" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="2" rt="2" pf="1" rf="0" to="1" st="0" in="0" ind="0" />
+      <PLAYER no="15" name="A. Nuñez" min="14:06" sta="False" p1m="5" p1a="5" p1p="100.0" p2m="0" p2a="1" p2p="0.0" p3m="1" p3a="3" p3p="33.3" fgm="1" fga="4" fgp="25.0" as="2" bs="0" br="0" pts="8" ro="1" rd="0" rt="1" pf="2" rf="2" to="1" st="1" in="1" ind="6" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="31.2006" />
+  <BANNER duration="0" />
+</FE>

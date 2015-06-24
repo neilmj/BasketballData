@@ -1,0 +1,48 @@
+<FE>
+  <HEADER competition="U20 Men friendlies 2015" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="15.6068">
+    <TEAM name="Germany U20 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="60" fouls="6" />
+    <TEAM name="Poland U20 Men 2015" logo="http://live.fibaeurope.com/www/gallery/74C2ABAE-9AFE-4325-9BCC-A344E865BC08.jpg" pts="46" fouls="8" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="14" scoreB="3" />
+      <QUARTER n="2" scoreA="19" scoreB="15" />
+      <QUARTER n="3" scoreA="14" scoreB="15" />
+      <QUARTER n="4" scoreA="13" scoreB="13" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Attempted three pointers: Germany U20 Men 2015 - 8, Poland U20 Men 2015 - 23" duration="31.1912">
+    <ITEM text="Attempted three pointers: Germany U20 Men 2015 - 8, Poland U20 Men 2015 - 23" />
+  </TICKER>
+  <OVERVIEW duration="31.2053">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68392" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="67" TeamB="Turkey U18 Men 2015" ScoreB="70" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/2DF961C7-0CC9-457B-AA5A-17D59515B1DB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="78.0203">
+    <LINE num="321" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="320" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="319" text="[POL] J. Nizol - 2pt jump shot missed. M. Konopatzki - offensive rebound (2 REB)" team="2" time="00:04" />
+    <LINE num="318" text="[GER] T. Hasbargen - 3pt jump shot missed. M. Konopatzki - defensive rebound (1 REB)" team="1" time="00:15" />
+    <LINE num="317" text="[POL] M. Stawiak - free throw made (4 Pts)" team="2" time="00:31" scoreA="60" scoreB="46" />
+    <LINE num="316" text="[POL] M. Stawiak - free throw made (3 Pts)" team="2" time="00:31" scoreA="60" scoreB="45" />
+    <LINE num="315" text="[GER] D. Kovacevic - personal shooting foul (4 PF, 6th team foul). 2 free throws awarded. Foul drawn: M. Stawiak" team="1" time="00:31" />
+    <LINE num="314" text="[GER] T. Hasbargen - 2pt lay-up made (2 Pts). M. Ugrai - assist (1 AS)" team="1" time="00:42" scoreA="60" scoreB="44" />
+    <LINE num="313" text="[POL] M. Fatz - turnover (ball handling, 2 TO). A. Onwuegbuzie - steal (2 ST)" team="2" time="01:01" />
+    <LINE num="312" text="[GER] M. Ugrai - 2pt lay-up made (fast break, 10 Pts). J. Grof - assist (1 AS)" team="1" time="01:19" scoreA="58" scoreB="44" />
+    <LINE num="311" text="[POL] M. Konopatzki - turnover (travelling, 2 TO)" team="2" time="01:24" />
+    <LINE num="310" text="[POL] M. Stawiak - free throw missed. M. Stawiak - offensive rebound (4 REB)" team="2" time="01:37" />
+    <LINE num="309" text="[POL] M. Stawiak - free throw missed" team="2" time="01:37" />
+    <LINE num="308" text="[GER] D. Kovacevic - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Stawiak" team="1" time="01:37" />
+    <LINE num="307" text="[POL] M. Fatz - 2pt lay-up missed. M. Stawiak - offensive rebound (3 REB)" team="2" time="01:43" />
+    <LINE num="306" text="[GER] Substitution - T. Alte OUT, D. Kovacevic IN" team="1" time="02:03" />
+    <LINE num="305" text="[GER] Substitution - K. Kovalev OUT, J. Grof IN" team="1" time="02:03" />
+    <LINE num="304" text="[GER] Substitution - C. Ebert OUT, M. Ugrai IN" team="1" time="02:03" />
+    <LINE num="303" text="[GER] Timeout" team="1" time="02:03" />
+    <LINE num="302" text="[GER] T. Alte - turnover (ball handling, 3 TO)" team="1" time="02:05" />
+    <LINE num="301" text="[POL] A. Wlodarczyk - 2pt lay-up made (fast break, 2 Pts). J. Nizol - assist (2 AS)" team="2" time="02:19" scoreA="56" scoreB="44" />
+    <LINE num="300" text="[GER] T. Alte - turnover (ball handling, 2 TO). M. Konopatzki - steal (2 ST)" team="1" time="02:24" />
+    <LINE num="299" text="[POL] M. Stawiak - 2pt lay-up made (2 Pts)" team="2" time="02:44" scoreA="56" scoreB="42" />
+    <LINE num="298" text="[POL] A. Wlodarczyk - 3pt jump shot missed. M. Stawiak - offensive rebound (2 REB)" team="2" time="02:50" />
+    <LINE num="297" text="[GER] C. Ebert - personal  foul (2 PF, 4th team foul). Foul drawn: A. Wlodarczyk" team="1" time="02:58" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="0" />
+</FE>

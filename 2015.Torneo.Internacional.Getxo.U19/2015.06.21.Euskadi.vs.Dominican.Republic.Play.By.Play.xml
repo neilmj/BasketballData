@@ -1,0 +1,384 @@
+<FE>
+  <HEADER competition="Torneo Internacional Getxo U19" round="3er y 4º Puesto" quarter="4" time="00:00" logo="http://live.fibaeurope.com/www/gallery/918DD980-B1A0-4E38-9355-E01DCDEF7F55.jpg" duration="31.1999">
+    <TEAM name="Euskadi" logo="http://live.fibaeurope.com/www/gallery/B778EB23-BAA9-4728-9C72-0E191B9EA533.jpg" pts="52" fouls="6" />
+    <TEAM name="República Dominicana" logo="http://live.fibaeurope.com/www/gallery/C5D5F156-4DEC-49BE-9A8A-1F20387FBD8C.jpg" pts="51" fouls="10" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="13" scoreB="12" />
+      <QUARTER n="2" scoreA="7" scoreB="8" />
+      <QUARTER n="3" scoreA="18" scoreB="14" />
+      <QUARTER n="4" scoreA="14" scoreB="17" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="G. Maiza [EUS] - 6 turnovers" duration="15.5995">
+    <ITEM text="Bench points: Euskadi - 30, República Dominicana - 9" />
+  </TICKER>
+  <OVERVIEW duration="15.5965" />
+  <PLAYBYPLAY duration="202.8016">
+    <LINE num="365" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="364" text="[DOM] J. Matos - turnover (travelling, 3 TO)" team="2" time="00:00" />
+    <LINE num="363" text="[EUS] G. Maiza - free throw missed. J. Araujo - defensive rebound (7 REB)" team="1" time="00:02" />
+    <LINE num="362" text="[EUS] G. Maiza - free throw made (9 Pts)" team="1" time="00:02" scoreA="52" scoreB="51" />
+    <LINE num="361" text="[DOM] Substitution - E. Valera OUT, A. Nuñez IN" team="2" time="00:02" />
+    <LINE num="360" text="[DOM] E. Valera - personal shooting foul (1 PF, 10th team foul). 2 free throws awarded. Foul drawn: G. Maiza" team="2" time="00:02" />
+    <LINE num="359" text="[DOM] Substitution - A. Nuñez OUT, E. Valera IN" team="2" time="00:10" />
+    <LINE num="358" text="[EUS] Substitution - B. Gabilondo OUT, B. Mendia IN" team="1" time="00:10" />
+    <LINE num="357" text="[EUS] Timeout" team="1" time="00:10" />
+    <LINE num="356" text="[DOM] J. Araujo - 3pt jump shot made (14 Pts)" team="2" time="00:12" scoreA="51" scoreB="51" />
+    <LINE num="355" text="[EUS] Substitution - B. Mendia OUT, B. Gabilondo IN" team="1" time="00:15" />
+    <LINE num="354" text="[DOM] Timeout" team="2" time="00:15" />
+    <LINE num="353" text="[EUS] M. Sainz de la Maza - free throw made (4 Pts)" team="1" time="00:15" scoreA="51" scoreB="48" />
+    <LINE num="352" text="[EUS] M. Sainz de la Maza - free throw made (3 Pts)" team="1" time="00:15" scoreA="50" scoreB="48" />
+    <LINE num="351" text="[DOM] J. Matos - personal shooting foul (3 PF, 9th team foul). 2 free throws awarded. Foul drawn: M. Sainz de la Maza" team="2" time="00:15" />
+    <LINE num="350" text="[EUS] I. Sarasola - 2pt jump shot missed. M. Sainz de la Maza - offensive rebound (7 REB)" team="1" time="00:26" />
+    <LINE num="349" text="[DOM] A. Feliz - 3pt jump shot missed. M. Sainz de la Maza - defensive rebound (6 REB)" team="2" time="00:47" />
+    <LINE num="348" text="[DOM] Substitution - R. Polanco OUT, J. Matos IN" team="2" time="01:02" />
+    <LINE num="347" text="[DOM] Timeout" team="2" time="01:02" />
+    <LINE num="346" text="[EUS] G. Maiza - 2pt jump shot made (8 Pts)" team="1" time="01:02" scoreA="49" scoreB="48" />
+    <LINE num="345" text="[DOM] R. Polanco - turnover (bad pass, 1 TO). I. Sarasola - steal (3 ST)" team="2" time="01:15" />
+    <LINE num="344" text="[EUS] B. Mendia - free throw made (10 Pts)" team="1" time="01:27" scoreA="47" scoreB="48" />
+    <LINE num="343" text="[EUS] B. Mendia - free throw missed" team="1" time="01:27" />
+    <LINE num="342" text="[DOM] J. Rodríguez - personal shooting foul (5 PF, 8th team foul). 2 free throws awarded. Foul drawn: B. Mendia. [DOM] Substitution - J. Rodríguez OUT, W. Pérez IN" team="2" time="01:27" />
+    <LINE num="341" text="[DOM] J. Araujo - 2pt jump shot made (11 Pts)" team="2" time="01:40" scoreA="46" scoreB="48" />
+    <LINE num="340" text="[EUS] B. Mendia - free throw made (9 Pts)" team="1" time="01:55" scoreA="46" scoreB="46" />
+    <LINE num="339" text="[EUS] B. Mendia - free throw made (8 Pts)" team="1" time="01:55" scoreA="45" scoreB="46" />
+    <LINE num="338" text="[DOM] J. Araujo - personal shooting foul (4 PF, 7th team foul). 2 free throws awarded. Foul drawn: B. Mendia" team="2" time="01:55" />
+    <LINE num="337" text="[DOM] J. Rodríguez - free throw missed. B. Mendia - defensive rebound (6 REB)" team="2" time="01:56" />
+    <LINE num="336" text="[DOM] J. Rodríguez - free throw missed" team="2" time="01:56" />
+    <LINE num="335" text="[EUS] B. Mendia - personal shooting foul (4 PF, 6th team foul). 2 free throws awarded. Foul drawn: J. Rodríguez" team="1" time="01:56" />
+    <LINE num="334" text="[EUS] I. Sarasola - 2pt jump shot missed. J. Rodríguez - defensive rebound (9 REB)" team="1" time="01:58" />
+    <LINE num="333" text="[DOM] A. Feliz - turnover (travelling, 3 TO)" team="2" time="02:08" />
+    <LINE num="332" text="[EUS] I. Sarasola - 2pt lay-up missed. J. Araujo - defensive rebound (6 REB)" team="1" time="02:28" />
+    <LINE num="331" text="[EUS] Substitution - B. Hevia OUT, G. Maiza IN" team="1" time="02:41" />
+    <LINE num="330" text="[DOM] J. Araujo - turnover (3 seconds, 6 TO)" team="2" time="02:41" />
+    <LINE num="329" text="[EUS] M. Sainz de la Maza - 2pt jump shot missed. J. Araujo - defensive rebound (5 REB)" team="1" time="03:00" />
+    <LINE num="328" text="[DOM] A. Feliz - free throw made (6 Pts)" team="2" time="03:21" scoreA="44" scoreB="46" />
+    <LINE num="327" text="[DOM] A. Feliz - free throw made (5 Pts)" team="2" time="03:21" scoreA="44" scoreB="45" />
+    <LINE num="326" text="[DOM] Substitution - V. Peña OUT, J. Araujo IN" team="2" time="03:21" />
+    <LINE num="325" text="[DOM] Substitution - W. Pérez OUT, J. Rodríguez IN" team="2" time="03:21" />
+    <LINE num="324" text="[EUS] B. Mendia - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: A. Feliz" team="1" time="03:21" />
+    <LINE num="323" text="[EUS] A. Astigarraga - turnover (bad pass, 1 TO). W. Pérez - steal (2 ST)" team="1" time="03:28" />
+    <LINE num="322" text="[DOM] W. Pérez - turnover (ball handling, 2 TO). M. Sainz de la Maza - steal (2 ST)" team="2" time="03:44" />
+    <LINE num="321" text="[DOM] R. Polanco - 3pt jump shot missed. W. Pérez - offensive rebound (6 REB)" team="2" time="03:49" />
+    <LINE num="320" text="[EUS] A. Astigarraga - 2pt lay-up missed. A. Nuñez - defensive rebound (2 REB)" team="1" time="04:02" />
+    <LINE num="319" text="[EUS] B. Mendia - 3pt jump shot missed. A. Astigarraga - offensive rebound (3 REB)" team="1" time="04:07" />
+    <LINE num="318" text="[DOM] V. Peña - 2pt jump shot missed. I. Sarasola - defensive rebound (5 REB)" team="2" time="04:28" />
+    <LINE num="317" text="[EUS] I. Sarasola - 2pt jump shot made (6 Pts). B. Mendia - assist (3 AS)" team="1" time="04:44" scoreA="44" scoreB="44" />
+    <LINE num="316" text="[EUS] A. Astigarraga - 3pt jump shot missed. Team offensive rebound" team="1" time="04:49" />
+    <LINE num="315" text="[EUS] Substitution - G. Maiza OUT, B. Hevia IN" team="1" time="05:16" />
+    <LINE num="314" text="[DOM] W. Pérez - 2pt lay-up made (14 Pts)" team="2" time="05:16" scoreA="42" scoreB="44" />
+    <LINE num="313" text="[DOM] R. Polanco - 3pt jump shot missed. W. Pérez - offensive rebound (5 REB)" team="2" time="05:17" />
+    <LINE num="312" text="[EUS] I. Sarasola - 2pt jump shot made (4 Pts)" team="1" time="05:43" scoreA="42" scoreB="42" />
+    <LINE num="311" text="[DOM] A. Feliz - free throw made (4 Pts)" team="2" time="06:03" scoreA="40" scoreB="42" />
+    <LINE num="310" text="[DOM] A. Feliz - free throw made (3 Pts)" team="2" time="06:03" scoreA="40" scoreB="41" />
+    <LINE num="309" text="[EUS] G. Maiza - personal shooting foul (4 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Feliz" team="1" time="06:03" />
+    <LINE num="308" text="[EUS] G. Maiza - free throw missed. R. Polanco - defensive rebound (5 REB)" team="1" time="06:11" />
+    <LINE num="307" text="[EUS] G. Maiza - free throw made (6 Pts)" team="1" time="06:11" scoreA="40" scoreB="40" />
+    <LINE num="306" text="[DOM] Substitution - Y. Montero OUT, A. Nuñez IN" team="2" time="06:11" />
+    <LINE num="305" text="[DOM] A. Feliz - personal shooting foul (3 PF, 6th team foul). 2 free throws awarded. Foul drawn: G. Maiza" team="2" time="06:11" />
+    <LINE num="304" text="[DOM] W. Pérez - 2pt jump shot missed. Team defensive rebound" team="2" time="06:28" />
+    <LINE num="303" text="[EUS] G. Maiza - 2pt jump shot missed. Y. Montero - defensive rebound (4 REB)" team="1" time="06:46" />
+    <LINE num="302" text="[EUS] B. Mendia - offensive rebound (5 REB)" team="1" time="06:54" />
+    <LINE num="301" text="[EUS] G. Maiza - 2pt jump shot missed" team="1" time="06:56" />
+    <LINE num="300" text="[EUS] Substitution - J. Urtxulutegi OUT, M. Sainz de la Maza IN" team="1" time="07:07" />
+    <LINE num="299" text="[DOM] Y. Montero - turnover (out of bounds, 1 TO)" team="2" time="07:07" />
+    <LINE num="298" text="[EUS] J. Urtxulutegi - 3pt jump shot missed. R. Polanco - defensive rebound (4 REB)" team="1" time="07:16" />
+    <LINE num="297" text="[DOM] W. Pérez - free throw made (12 Pts)" team="2" time="07:33" scoreA="39" scoreB="40" />
+    <LINE num="296" text="[DOM] W. Pérez - free throw made (11 Pts)" team="2" time="07:33" scoreA="39" scoreB="39" />
+    <LINE num="295" text="[EUS] A. Astigarraga - personal shooting foul (3 PF, 3rd team foul). 2 free throws awarded. Foul drawn: W. Pérez" team="1" time="07:33" />
+    <LINE num="294" text="[EUS] G. Maiza - turnover (bad pass, 6 TO). W. Pérez - steal (1 ST)" team="1" time="07:37" />
+    <LINE num="293" text="[EUS] G. Maiza - free throw missed. B. Mendia - offensive rebound (4 REB)" team="1" time="07:49" />
+    <LINE num="292" text="[EUS] G. Maiza - free throw made (5 Pts)" team="1" time="07:49" scoreA="39" scoreB="38" />
+    <LINE num="291" text="[DOM] Substitution - Y. Flores OUT, A. Feliz IN" team="2" time="07:49" />
+    <LINE num="290" text="[EUS] Substitution - I. Artiñano OUT, I. Sarasola IN" team="1" time="07:49" />
+    <LINE num="289" text="[DOM] Y. Flores - personal shooting foul (4 PF, 5th team foul). 2 free throws awarded. Foul drawn: G. Maiza" team="2" time="07:49" />
+    <LINE num="288" text="[DOM] W. Pérez - 2pt jump shot made (10 Pts)" team="2" time="07:53" scoreA="38" scoreB="38" />
+    <LINE num="287" text="[EUS] Substitution - B. Gabilondo OUT, A. Astigarraga IN" team="1" time="08:05" />
+    <LINE num="286" text="[DOM] Substitution - J. Araujo OUT, V. Peña IN" team="2" time="08:05" />
+    <LINE num="285" text="[EUS] I. Artiñano - personal  foul (3 PF, 2nd team foul). Foul drawn: W. Pérez" team="1" time="08:04" />
+    <LINE num="284" text="B. Mendia - 2pt put-back missed. W. Pérez - defensive rebound (4 REB)" team="1" time="08:04" />
+    <LINE num="283" text="[EUS] B. Gabilondo - 2pt lay-up missed. B. Mendia - offensive rebound (3 REB)" team="1" time="08:08" />
+    <LINE num="282" text="[DOM] Y. Flores - turnover (bad pass, 2 TO). B. Gabilondo - steal (2 ST)" team="2" time="08:12" />
+    <LINE num="281" text="[EUS] G. Maiza - turnover (travelling, 5 TO)" team="1" time="08:23" />
+    <LINE num="280" text="[DOM] J. Araujo - personal  foul (3 PF, 4th team foul). Foul drawn: G. Maiza" team="2" time="08:31" />
+    <LINE num="279" text="[DOM] Y. Flores - personal  foul (3 PF, 3rd team foul). Foul drawn: G. Maiza" team="2" time="08:43" />
+    <LINE num="278" text="[DOM] Y. Flores - personal  foul (2 PF, 2nd team foul). Foul drawn: B. Gabilondo" team="2" time="08:46" />
+    <LINE num="277" text="[DOM] R. Polanco - 3pt jump shot missed. B. Gabilondo - defensive rebound (2 REB)" team="2" time="08:46" />
+    <LINE num="276" text="[EUS] G. Maiza - personal  foul (3 PF, 1st team foul). Foul drawn: Y. Montero" team="1" time="08:51" />
+    <LINE num="275" text="[EUS] B. Mendia - 3pt jump shot missed. Y. Montero - defensive rebound (3 REB)" team="1" time="08:56" />
+    <LINE num="274" text="[DOM] R. Polanco - 2pt jump shot made (4 Pts)" team="2" time="09:08" scoreA="38" scoreB="36" />
+    <LINE num="273" text="[EUS] J. Urtxulutegi - turnover (bad pass, 1 TO). J. Araujo - steal (2 ST)" team="1" time="09:19" />
+    <LINE num="272" text="[DOM] Y. Montero - personal  foul (2 PF, 1st team foul). Foul drawn: G. Maiza" team="2" time="09:33" />
+    <LINE num="271" text="[DOM] W. Pérez - turnover (bad pass, 1 TO). B. Gabilondo - steal (1 ST)" team="2" time="09:44" />
+    <LINE num="270" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="269" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="268" text="[DOM] Y. Flores - 2pt jump shot missed" team="2" time="00:00" />
+    <LINE num="267" text="[EUS] G. Maiza - free throw missed. Y. Montero - defensive rebound (2 REB)" team="1" time="00:12" />
+    <LINE num="266" text="[EUS] G. Maiza - free throw made (4 Pts)" team="1" time="00:12" scoreA="38" scoreB="34" />
+    <LINE num="265" text="[DOM] Y. Montero - personal shooting foul (1 PF, 7th team foul). 2 free throws awarded. Foul drawn: G. Maiza" team="2" time="00:12" />
+    <LINE num="264" text="[DOM] W. Pérez - 2pt jump shot missed. B. Gabilondo - defensive rebound (1 REB)" team="2" time="00:19" />
+    <LINE num="263" text="[EUS] B. Mendia - turnover (out of bounds, 3 TO)" team="1" time="00:32" />
+    <LINE num="262" text="[DOM] Y. Flores - 2pt jump shot missed. J. Urtxulutegi - defensive rebound (3 REB)" team="2" time="00:49" />
+    <LINE num="261" text="[DOM] Y. Flores - 3pt jump shot missed. Y. Montero - offensive rebound (1 REB)" team="2" time="01:04" />
+    <LINE num="260" text="[DOM] Substitution - C. Duran OUT, W. Pérez IN" team="2" time="01:26" />
+    <LINE num="259" text="[EUS] B. Mendia - free throw made (7 Pts)" team="1" time="01:26" scoreA="37" scoreB="34" />
+    <LINE num="258" text="[EUS] B. Mendia - free throw made (6 Pts)" team="1" time="01:26" scoreA="36" scoreB="34" />
+    <LINE num="257" text="[DOM] C. Duran - personal shooting foul (4 PF, 6th team foul). 2 free throws awarded. Foul drawn: B. Mendia" team="2" time="01:26" />
+    <LINE num="256" text="[DOM] C. Duran - free throw missed. B. Mendia - defensive rebound (2 REB)" team="2" time="01:43" />
+    <LINE num="255" text="[DOM] C. Duran - free throw missed" team="2" time="01:43" />
+    <LINE num="254" text="[DOM] Substitution - A. Nuñez OUT, R. Polanco IN" team="2" time="01:43" />
+    <LINE num="253" text="[DOM] Substitution - A. Feliz OUT, Y. Flores IN" team="2" time="01:43" />
+    <LINE num="252" text="[EUS] Substitution - A. Astigarraga OUT, J. Urtxulutegi IN" team="1" time="01:43" />
+    <LINE num="251" text="[EUS] Substitution - M. Esnaola OUT, B. Mendia IN" team="1" time="01:43" />
+    <LINE num="250" text="[EUS] Timeout" team="1" time="01:43" />
+    <LINE num="249" text="[EUS] M. Esnaola - personal shooting foul (2 PF, 8th team foul). 2 free throws awarded. Foul drawn: C. Duran" team="1" time="01:43" />
+    <LINE num="248" text="[EUS] M. Esnaola - turnover (ball handling, 3 TO). Y. Montero - steal (2 ST)" team="1" time="01:53" />
+    <LINE num="247" text="[DOM] Y. Montero - 2pt dunk made (fast break, 2 Pts)" team="2" time="02:12" scoreA="35" scoreB="34" />
+    <LINE num="246" text="[EUS] G. Maiza - turnover (bad pass, 4 TO). Y. Montero - steal (1 ST)" team="1" time="02:14" />
+    <LINE num="245" text="[DOM] J. Araujo - turnover (ball handling, 5 TO). M. Esnaola - steal (1 ST)" team="2" time="02:22" />
+    <LINE num="244" text="[DOM] A. Nuñez - 2pt jump shot missed. J. Araujo - offensive rebound (4 REB)" team="2" time="02:27" />
+    <LINE num="243" text="[EUS] B. Gabilondo - free throw made (2 Pts)" team="1" time="02:46" scoreA="35" scoreB="32" />
+    <LINE num="242" text="[EUS] B. Gabilondo - free throw made (1 Pts)" team="1" time="02:46" scoreA="34" scoreB="32" />
+    <LINE num="241" text="[DOM] A. Feliz - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: B. Gabilondo" team="2" time="02:46" />
+    <LINE num="240" text="[DOM] Substitution - W. Pérez OUT, C. Duran IN" team="2" time="02:49" />
+    <LINE num="239" text="[DOM] Substitution - J. Rodríguez OUT, Y. Montero IN" team="2" time="02:49" />
+    <LINE num="238" text="[DOM] J. Rodríguez - personal  foul (4 PF, 4th team foul). Foul drawn: M. Esnaola" team="2" time="02:49" />
+    <LINE num="237" text="[EUS] Substitution - B. Hevia OUT, B. Gabilondo IN" team="1" time="02:59" />
+    <LINE num="236" text="[DOM] J. Rodríguez -  offensive foul (3 PF, 3rd team foul). Foul drawn: B. Hevia. J. Rodríguez - turnover (offensive foul, 4 TO)" team="2" time="02:59" />
+    <LINE num="235" text="[EUS] G. Maiza - turnover (bad pass, 3 TO). A. Nuñez - steal (3 ST)" team="1" time="03:03" />
+    <LINE num="234" text="[EUS] B. Hevia - 3pt jump shot missed. M. Esnaola - offensive rebound (4 REB)" team="1" time="03:13" />
+    <LINE num="233" text="[DOM] J. Rodríguez - turnover (ball handling, 3 TO). I. Artiñano - steal (2 ST)" team="2" time="03:22" />
+    <LINE num="232" text="[DOM] J. Araujo - 2pt lay-up missed. J. Rodríguez - offensive rebound (8 REB)" team="2" time="03:27" />
+    <LINE num="231" text="[EUS] M. Esnaola - turnover (bad pass, 2 TO). A. Feliz - steal (2 ST)" team="1" time="03:43" />
+    <LINE num="230" text="[DOM] A. Nuñez - personal  foul (1 PF, 2nd team foul). Foul drawn: G. Maiza" team="2" time="03:53" />
+    <LINE num="229" text="[DOM] J. Araujo - 2pt jump shot made (9 Pts)" team="2" time="04:13" scoreA="33" scoreB="32" />
+    <LINE num="228" text="[EUS] A. Astigarraga - 2pt jump shot made (13 Pts). M. Esnaola - assist (1 AS)" team="1" time="04:29" scoreA="33" scoreB="30" />
+    <LINE num="227" text="[DOM] J. Araujo - free throw made (7 Pts)" team="2" time="04:41" scoreA="31" scoreB="30" />
+    <LINE num="226" text="[DOM] J. Araujo - free throw made (6 Pts)" team="2" time="04:41" scoreA="31" scoreB="29" />
+    <LINE num="225" text="[EUS] G. Maiza - personal shooting foul (2 PF, 7th team foul). 2 free throws awarded. Foul drawn: J. Araujo" team="1" time="04:41" />
+    <LINE num="224" text="[EUS] Substitution - J. Urtxulutegi OUT, M. Esnaola IN" team="1" time="04:53" />
+    <LINE num="223" text="[EUS] A. Astigarraga - 2pt jump shot missed. Team defensive rebound" team="1" time="04:57" />
+    <LINE num="222" text="[DOM] J. Araujo - free throw made (5 Pts)" team="2" time="05:19" scoreA="31" scoreB="28" />
+    <LINE num="221" text="[DOM] J. Araujo - free throw missed" team="2" time="05:19" />
+    <LINE num="220" text="[EUS] I. Artiñano - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: J. Araujo" team="1" time="05:19" />
+    <LINE num="219" text="[EUS] A. Astigarraga - 3pt jump shot made (fast break, 11 Pts)" team="1" time="05:37" scoreA="31" scoreB="27" />
+    <LINE num="218" text="[DOM] J. Araujo - free throw made (4 Pts)" team="2" time="05:43" scoreA="28" scoreB="27" />
+    <LINE num="217" text="[DOM] J. Araujo - free throw made (3 Pts)" team="2" time="05:43" scoreA="28" scoreB="26" />
+    <LINE num="216" text="[EUS] G. Maiza - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: J. Araujo" team="1" time="05:43" />
+    <LINE num="215" text="[DOM] A. Nuñez - free throw missed. J. Araujo - offensive rebound (3 REB)" team="2" time="05:45" />
+    <LINE num="214" text="[DOM] A. Nuñez - free throw made (5 Pts)" team="2" time="05:45" scoreA="28" scoreB="25" />
+    <LINE num="213" text="[EUS] Substitution - I. Sarasola OUT, I. Artiñano IN" team="1" time="05:45" />
+    <LINE num="212" text="[EUS] I. Sarasola - personal shooting foul (3 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Nuñez" team="1" time="05:45" />
+    <LINE num="211" text="[EUS] I. Sarasola - turnover (bad pass, 7 TO). A. Nuñez - steal (2 ST)" team="1" time="05:46" />
+    <LINE num="210" text="[DOM] A. Nuñez - free throw made (4 Pts)" team="2" time="05:48" scoreA="28" scoreB="24" />
+    <LINE num="209" text="[DOM] A. Nuñez - free throw made (3 Pts)" team="2" time="05:48" scoreA="28" scoreB="23" />
+    <LINE num="208" text="[EUS] Substitution - M. Sainz de la Maza OUT, G. Maiza IN" team="1" time="05:48" />
+    <LINE num="207" text="[EUS] M. Sainz de la Maza - personal shooting foul (3 PF, 3rd team foul). 2 free throws awarded. Foul drawn: A. Nuñez" team="1" time="05:48" />
+    <LINE num="206" text="[DOM] A. Feliz - 2pt lay-up missed. J. Rodríguez - offensive rebound (7 REB)" team="2" time="06:03" />
+    <LINE num="205" text="[EUS] I. Sarasola - turnover (bad pass, 6 TO). A. Feliz - steal (1 ST)" team="1" time="06:06" />
+    <LINE num="204" text="[DOM] A. Feliz - 3pt jump shot missed. A. Astigarraga - defensive rebound (2 REB)" team="2" time="06:18" />
+    <LINE num="203" text="[EUS] M. Sainz de la Maza -  offensive foul (2 PF, 2nd team foul). Foul drawn: A. Feliz. M. Sainz de la Maza - turnover (offensive foul, 3 TO)" team="1" time="06:22" />
+    <LINE num="202" text="[DOM] J. Rodríguez - 2pt jump shot missed. J. Urtxulutegi - defensive rebound (2 REB)" team="2" time="06:43" />
+    <LINE num="201" text="[EUS] A. Astigarraga - 3pt jump shot made (8 Pts). M. Sainz de la Maza - assist (3 AS)" team="1" time="07:05" scoreA="28" scoreB="22" />
+    <LINE num="200" text="[DOM] W. Pérez - 2pt jump shot made (8 Pts)" team="2" time="07:22" scoreA="25" scoreB="22" />
+    <LINE num="199" text="[EUS] A. Astigarraga - 3pt jump shot made (5 Pts). M. Sainz de la Maza - assist (2 AS)" team="1" time="07:44" scoreA="25" scoreB="20" />
+    <LINE num="198" text="[DOM] J. Araujo - turnover (ball handling, 4 TO). B. Hevia - steal (1 ST)" team="2" time="08:02" />
+    <LINE num="197" text="[EUS] Substitution - B. Mendia OUT, M. Sainz de la Maza IN" team="1" time="08:05" />
+    <LINE num="196" text="[EUS] A. Astigarraga - personal  foul (2 PF, 1st team foul). Foul drawn: A. Feliz" team="1" time="08:05" />
+    <LINE num="195" text="[EUS] B. Hevia - 2pt lay-up missed. W. Pérez - defensive rebound (3 REB)" team="1" time="08:10" />
+    <LINE num="194" text="[DOM] J. Araujo - turnover (3 seconds, 3 TO)" team="2" time="08:19" />
+    <LINE num="193" text="[EUS] I. Sarasola - 2pt jump shot made (2 Pts). B. Mendia - assist (2 AS)" team="1" time="08:36" scoreA="22" scoreB="20" />
+    <LINE num="192" text="[DOM] A. Feliz - turnover (travelling, 2 TO)" team="2" time="08:50" />
+    <LINE num="191" text="[EUS] B. Mendia - 3pt jump shot missed. J. Rodríguez - defensive rebound (6 REB)" team="1" time="08:59" />
+    <LINE num="190" text="[DOM] A. Nuñez - turnover (bad pass, 3 TO). I. Sarasola - steal (2 ST)" team="2" time="09:19" />
+    <LINE num="189" text="[EUS] A. Astigarraga - 3pt jump shot missed. W. Pérez - defensive rebound (2 REB)" team="1" time="09:36" />
+    <LINE num="188" text="[DOM] A. Feliz - personal  foul (1 PF, 1st team foul). Foul drawn: B. Mendia" team="2" time="09:48" />
+    <LINE num="187" text="[DOM] Substitution - E. Valera OUT, J. Araujo IN" team="2" time="10:00" />
+    <LINE num="186" text="[DOM] Substitution - J. Matos OUT, J. Rodríguez IN" team="2" time="10:00" />
+    <LINE num="185" text="[DOM] Substitution - Y. Flores OUT, W. Pérez IN" team="2" time="10:00" />
+    <LINE num="184" text="[EUS] Substitution - I. Artiñano OUT, J. Urtxulutegi IN" team="1" time="10:00" />
+    <LINE num="183" text="[EUS] Substitution - M. Esnaola OUT, I. Sarasola IN" team="1" time="10:00" />
+    <LINE num="182" text="[EUS] Substitution - M. Sainz de la Maza OUT, B. Mendia IN" team="1" time="10:00" />
+    <LINE num="181" text="[EUS] Substitution - B. Gabilondo OUT, B. Hevia IN" team="1" time="10:00" />
+    <LINE num="180" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="179" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="178" text="[EUS] A. Astigarraga - free throw made (2 Pts)" team="1" time="00:05" scoreA="20" scoreB="20" />
+    <LINE num="177" text="[EUS] A. Astigarraga - free throw made (1 Pts)" team="1" time="00:05" scoreA="19" scoreB="20" />
+    <LINE num="176" text="[EUS] Substitution - B. Hevia OUT, M. Esnaola IN" team="1" time="00:05" />
+    <LINE num="175" text="[DOM] J. Matos - personal shooting foul (2 PF, 7th team foul). 2 free throws awarded. Foul drawn: A. Astigarraga" team="2" time="00:05" />
+    <LINE num="174" text="[DOM] Substitution - R. Polanco OUT, Y. Flores IN" team="2" time="00:13" />
+    <LINE num="173" text="[DOM] Substitution - J. Rodríguez OUT, E. Valera IN" team="2" time="00:13" />
+    <LINE num="172" text="[EUS] Substitution - M. Esnaola OUT, A. Astigarraga IN" team="1" time="00:13" />
+    <LINE num="171" text="[EUS] Timeout" team="1" time="00:13" />
+    <LINE num="170" text="[DOM] A. Nuñez - 2pt jump shot made (fast break, 2 Pts)" team="2" time="00:13" scoreA="18" scoreB="20" />
+    <LINE num="169" text="[EUS] B. Hevia - turnover (bad pass, 4 TO). A. Nuñez - steal (1 ST)" team="1" time="00:15" />
+    <LINE num="168" text="[DOM] R. Polanco - 2pt lay-up missed. B. Hevia - defensive rebound (3 REB)" team="2" time="00:26" />
+    <LINE num="167" text="[EUS] B. Hevia - turnover (out of bounds, 3 TO)" team="1" time="00:43" />
+    <LINE num="166" text="[DOM] R. Polanco - free throw missed. M. Esnaola - defensive rebound (3 REB)" team="2" time="00:53" />
+    <LINE num="165" text="[DOM] R. Polanco - free throw missed" team="2" time="00:53" />
+    <LINE num="164" text="[EUS] M. Sainz de la Maza - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: R. Polanco" team="1" time="00:53" />
+    <LINE num="163" text="[EUS] M. Esnaola - personal  foul (1 PF, 4th team foul). Foul drawn: A. Feliz" team="1" time="01:07" />
+    <LINE num="162" text="[EUS] B. Gabilondo - 3pt jump shot missed. A. Nuñez - defensive rebound (1 REB)" team="1" time="01:14" />
+    <LINE num="161" text="[DOM] J. Rodríguez - 2pt jump shot missed. I. Artiñano - defensive rebound (2 REB)" team="2" time="01:24" />
+    <LINE num="160" text="[DOM] J. Matos - 2pt jump shot blocked. I. Artiñano - block (1 BS). Team offensive rebound" team="2" time="01:32" />
+    <LINE num="159" text="[EUS] M. Sainz de la Maza - turnover (out of bounds, 2 TO)" team="1" time="01:43" />
+    <LINE num="158" text="[DOM] A. Feliz - 2pt lay-up made (2 Pts)" team="2" time="02:04" scoreA="18" scoreB="18" />
+    <LINE num="157" text="[DOM] J. Matos - 3pt jump shot missed. A. Feliz - offensive rebound (1 REB)" team="2" time="02:10" />
+    <LINE num="156" text="[EUS] Substitution - G. Maiza OUT, B. Hevia IN" team="1" time="02:25" />
+    <LINE num="155" text="[EUS] G. Maiza - free throw made (3 Pts)" team="1" time="02:25" scoreA="18" scoreB="16" />
+    <LINE num="154" text="[DOM] Substitution - W. Pérez OUT, R. Polanco IN" team="2" time="02:25" />
+    <LINE num="153" text="[DOM] Timeout" team="2" time="02:25" />
+    <LINE num="152" text="[DOM] W. Pérez - personal shooting foul (3 PF, 6th team foul). One free throw awarded. Foul drawn: G. Maiza" team="2" time="02:25" />
+    <LINE num="151" text="[EUS] G. Maiza - 2pt jump shot made (fast break, 2 Pts)" team="1" time="02:25" scoreA="17" scoreB="16" />
+    <LINE num="150" text="[DOM] A. Nuñez - turnover (bad pass, 2 TO). M. Sainz de la Maza - steal (1 ST)" team="2" time="02:31" />
+    <LINE num="149" text="[EUS] B. Gabilondo - 2pt lay-up missed. J. Rodríguez - defensive rebound (5 REB)" team="1" time="02:44" />
+    <LINE num="148" text="[DOM] A. Nuñez - 3pt jump shot missed. Team defensive rebound" team="2" time="02:59" />
+    <LINE num="147" text="[EUS] G. Maiza - turnover (out of bounds, 2 TO)" team="1" time="03:20" />
+    <LINE num="146" text="[EUS] G. Maiza - 2pt jump shot missed. G. Maiza - offensive rebound (3 REB)" team="1" time="03:23" />
+    <LINE num="145" text="[DOM] A. Nuñez - turnover (travelling, 1 TO)" team="2" time="03:34" />
+    <LINE num="144" text="[EUS] I. Artiñano - 2pt lay-up missed. J. Matos - defensive rebound (1 REB)" team="1" time="03:43" />
+    <LINE num="143" text="[DOM] W. Pérez - free throw missed. M. Sainz de la Maza - defensive rebound (5 REB)" team="2" time="04:06" />
+    <LINE num="142" text="[DOM] Substitution - R. Polanco OUT, A. Nuñez IN" team="2" time="04:06" />
+    <LINE num="141" text="[DOM] Substitution - Y. Flores OUT, A. Feliz IN" team="2" time="04:06" />
+    <LINE num="140" text="[EUS] Substitution - I. Sarasola OUT, M. Esnaola IN" team="1" time="04:06" />
+    <LINE num="139" text="[EUS] I. Sarasola - personal shooting foul (2 PF, 3rd team foul). One free throw awarded. Foul drawn: W. Pérez" team="1" time="04:06" />
+    <LINE num="138" text="[DOM] W. Pérez - 2pt jump shot made (fast break, 6 Pts)" team="2" time="04:06" scoreA="15" scoreB="16" />
+    <LINE num="137" text="[EUS] M. Sainz de la Maza - turnover (bad pass, 1 TO). J. Matos - steal (2 ST)" team="1" time="04:11" />
+    <LINE num="136" text="[DOM] J. Matos - 3pt jump shot missed. M. Sainz de la Maza - defensive rebound (4 REB)" team="2" time="04:16" />
+    <LINE num="135" text="[DOM] J. Rodríguez - 2pt jump shot missed. Team offensive rebound" team="2" time="04:25" />
+    <LINE num="134" text="[EUS] G. Maiza - turnover (out of bounds, 1 TO)" team="1" time="04:47" />
+    <LINE num="133" text="[EUS] Timeout" team="1" time="05:01" />
+    <LINE num="132" text="[DOM] J. Matos - turnover (travelling, 2 TO)" team="2" time="05:01" />
+    <LINE num="131" text="[EUS] I. Sarasola - turnover (ball handling, 5 TO). R. Polanco - steal (2 ST)" team="1" time="05:05" />
+    <LINE num="130" text="[DOM] Substitution - C. Duran OUT, J. Rodríguez IN" team="2" time="05:23" />
+    <LINE num="129" text="[DOM] C. Duran -  offensive foul (3 PF, 5th team foul). Foul drawn: B. Gabilondo. C. Duran - turnover (offensive foul, 2 TO)" team="2" time="05:23" />
+    <LINE num="128" text="[EUS] Substitution - A. López OUT, B. Gabilondo IN" team="1" time="05:32" />
+    <LINE num="127" text="[EUS] Substitution - M. Esnaola OUT, I. Artiñano IN" team="1" time="05:32" />
+    <LINE num="126" text="[EUS] I. Sarasola - turnover (travelling, 4 TO)" team="1" time="05:32" />
+    <LINE num="125" text="[DOM] W. Pérez - 2pt jump shot made (4 Pts)" team="2" time="05:51" scoreA="15" scoreB="14" />
+    <LINE num="124" text="[EUS] I. Sarasola - turnover (travelling, 3 TO)" team="1" time="06:04" />
+    <LINE num="123" text="[DOM] J. Matos - personal  foul (1 PF, 4th team foul). Foul drawn: M. Sainz de la Maza" team="2" time="06:12" />
+    <LINE num="122" text="[DOM] Y. Flores - personal  foul (1 PF, 3rd team foul). Foul drawn: G. Maiza" team="2" time="06:17" />
+    <LINE num="121" text="[DOM] R. Polanco - 3pt jump shot missed. I. Sarasola - defensive rebound (4 REB)" team="2" time="06:32" />
+    <LINE num="120" text="[EUS] M. Esnaola - 2pt jump shot made (2 Pts). G. Maiza - assist (1 AS)" team="1" time="06:52" scoreA="15" scoreB="12" />
+    <LINE num="119" text="[EUS] G. Maiza - 2pt jump shot missed. G. Maiza - offensive rebound (2 REB)" team="1" time="07:09" />
+    <LINE num="118" text="[EUS] G. Maiza - 2pt lay-up blocked. W. Pérez - block (1 BS). I. Sarasola - offensive rebound (3 REB)" team="1" time="07:15" />
+    <LINE num="117" text="[EUS] Substitution - J. Peña OUT, M. Sainz de la Maza IN" team="1" time="07:24" />
+    <LINE num="116" text="[DOM] Timeout" team="2" time="07:24" />
+    <LINE num="115" text="[DOM] C. Duran - personal  foul (2 PF, 2nd team foul). Foul drawn: I. Sarasola" team="2" time="07:24" />
+    <LINE num="114" text="[DOM] J. Matos - 3pt jump shot missed. J. Peña - defensive rebound (2 REB)" team="2" time="07:42" />
+    <LINE num="113" text="[EUS] Team turnover (24 seconds)" team="1" time="08:05" />
+    <LINE num="112" text="[EUS] G. Maiza - 3pt jump shot blocked. J. Matos - block (1 BS). I. Sarasola - offensive rebound (2 REB)" team="1" time="08:08" />
+    <LINE num="111" text="[EUS] J. Peña - free throw missed. G. Maiza - offensive rebound (1 REB)" team="1" time="08:22" />
+    <LINE num="110" text="[EUS] J. Peña - free throw missed" team="1" time="08:22" />
+    <LINE num="109" text="[EUS] Substitution - A. Astigarraga OUT, G. Maiza IN" team="1" time="08:22" />
+    <LINE num="108" text="[DOM] C. Duran - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: J. Peña" team="2" time="08:22" />
+    <LINE num="107" text="[DOM] J. Matos - turnover (out of bounds, 1 TO)" team="2" time="08:29" />
+    <LINE num="106" text="[EUS] M. Esnaola - turnover (bad pass, 1 TO). J. Matos - steal (1 ST)" team="1" time="08:32" />
+    <LINE num="105" text="[DOM] C. Duran - turnover (bad pass, 1 TO). J. Peña - steal (1 ST)" team="2" time="08:48" />
+    <LINE num="104" text="[EUS] Substitution - J. Urtxulutegi OUT, I. Sarasola IN" team="1" time="09:12" />
+    <LINE num="103" text="[EUS] A. Astigarraga - personal  foul (1 PF, 2nd team foul). Foul drawn: J. Matos" team="1" time="09:12" />
+    <LINE num="102" text="[EUS] J. Urtxulutegi - 2pt jump shot missed. R. Polanco - defensive rebound (3 REB)" team="1" time="09:17" />
+    <LINE num="101" text="[EUS] A. Astigarraga - 3pt jump shot missed. J. Peña - offensive rebound (1 REB)" team="1" time="09:20" />
+    <LINE num="100" text="[DOM] Y. Flores - 2pt jump shot missed. A. Astigarraga - defensive rebound (1 REB)" team="2" time="09:38" />
+    <LINE num="99" text="[EUS] A. López - personal  foul (1 PF, 1st team foul). Foul drawn: R. Polanco" team="1" time="09:48" />
+    <LINE num="98" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="97" text="[DOM] Substitution - J. Rodríguez OUT, W. Pérez IN" team="2" time="00:00" />
+    <LINE num="96" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="95" text="[DOM] Y. Flores - 3pt jump shot missed" team="2" time="00:00" />
+    <LINE num="94" text="[EUS] J. Peña - 3pt jump shot missed. R. Polanco - defensive rebound (2 REB)" team="1" time="00:04" />
+    <LINE num="93" text="[DOM] J. Rodríguez - 2pt jump shot made (4 Pts)" team="2" time="00:12" scoreA="13" scoreB="12" />
+    <LINE num="92" text="[DOM] J. Rodríguez - 2pt jump shot missed. J. Rodríguez - offensive rebound (4 REB)" team="2" time="00:17" />
+    <LINE num="91" text="[DOM] Y. Flores - 2pt lay-up missed. J. Rodríguez - offensive rebound (3 REB)" team="2" time="00:21" />
+    <LINE num="90" text="[EUS] A. López - 2pt jump shot made (3 Pts)" team="1" time="00:42" scoreA="13" scoreB="10" />
+    <LINE num="89" text="[EUS] J. Urtxulutegi - free throw missed. A. López - offensive rebound (1 REB)" team="1" time="00:43" />
+    <LINE num="88" text="[EUS] J. Urtxulutegi - free throw missed" team="1" time="00:43" />
+    <LINE num="87" text="[DOM] J. Rodríguez - personal shooting foul (2 PF, 8th team foul). 2 free throws awarded. Foul drawn: J. Urtxulutegi" team="2" time="00:43" />
+    <LINE num="86" text="[EUS] A. Astigarraga - 3pt jump shot missed. J. Urtxulutegi - offensive rebound (1 REB)" team="1" time="00:46" />
+    <LINE num="85" text="[DOM] Y. Flores - turnover (out of bounds, 1 TO)" team="2" time="00:55" />
+    <LINE num="84" text="[EUS] J. Urtxulutegi - 2pt jump shot missed. R. Polanco - defensive rebound (1 REB)" team="1" time="01:02" />
+    <LINE num="83" text="[DOM] J. Matos - 2pt jump shot made (fast break, 2 Pts). J. Rodríguez - assist (2 AS)" team="2" time="01:23" scoreA="11" scoreB="10" />
+    <LINE num="82" text="[EUS] M. Esnaola - 2pt jump shot missed. J. Rodríguez - defensive rebound (2 REB)" team="1" time="01:29" />
+    <LINE num="81" text="[DOM] Y. Flores - 3pt jump shot missed. Team defensive rebound" team="2" time="01:45" />
+    <LINE num="80" text="[EUS] J. Peña - free throw made (1 Pts)" team="1" time="01:56" scoreA="11" scoreB="8" />
+    <LINE num="79" text="[EUS] J. Peña - free throw missed" team="1" time="01:56" />
+    <LINE num="78" text="[DOM] R. Polanco - personal shooting foul (2 PF, 7th team foul). 2 free throws awarded. Foul drawn: J. Peña" team="2" time="01:56" />
+    <LINE num="77" text="[DOM] R. Polanco - 2pt jump shot missed. M. Esnaola - defensive rebound (2 REB)" team="2" time="02:06" />
+    <LINE num="76" text="[DOM] J. Rodríguez - free throw missed. C. Duran - offensive rebound (2 REB)" team="2" time="02:16" />
+    <LINE num="75" text="[DOM] J. Rodríguez - free throw missed" team="2" time="02:16" />
+    <LINE num="74" text="[EUS] J. Urtxulutegi - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: J. Rodríguez" team="1" time="02:16" />
+    <LINE num="73" text="[EUS] A. López - free throw made (1 Pts)" team="1" time="02:28" scoreA="10" scoreB="8" />
+    <LINE num="72" text="[EUS] A. López - free throw missed" team="1" time="02:28" />
+    <LINE num="71" text="[EUS] Substitution - I. Artiñano OUT, J. Urtxulutegi IN" team="1" time="02:28" />
+    <LINE num="70" text="[DOM] Substitution - J. Araujo OUT, J. Rodríguez IN" team="2" time="02:28" />
+    <LINE num="69" text="[DOM] J. Araujo - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: A. López" team="2" time="02:28" />
+    <LINE num="68" text="[DOM] J. Araujo - 3pt jump shot missed. M. Esnaola - defensive rebound (1 REB)" team="2" time="02:34" />
+    <LINE num="67" text="[DOM] Substitution - A. Feliz OUT, Y. Flores IN" team="2" time="02:46" />
+    <LINE num="66" text="[DOM] Substitution - W. Pérez OUT, R. Polanco IN" team="2" time="02:46" />
+    <LINE num="65" text="[EUS] Substitution - B. Mendia OUT, A. López IN" team="1" time="02:46" />
+    <LINE num="64" text="[EUS] B. Mendia - personal shooting foul (2 PF, 4th team foul). Foul drawn: W. Pérez" team="1" time="02:47" />
+    <LINE num="63" text="[DOM] J. Matos - 3pt jump shot missed. W. Pérez - offensive rebound (1 REB)" team="2" time="02:50" />
+    <LINE num="62" text="[EUS] I. Artiñano - 2pt lay-up missed. C. Duran - defensive rebound (1 REB)" team="1" time="03:04" />
+    <LINE num="61" text="[DOM] J. Araujo - free throw made (2 Pts)" team="2" time="03:30" scoreA="9" scoreB="8" />
+    <LINE num="60" text="[DOM] J. Araujo - free throw made (1 Pts)" team="2" time="03:30" scoreA="9" scoreB="7" />
+    <LINE num="59" text="[EUS] Substitution - B. Hevia OUT, J. Peña IN" team="1" time="03:30" />
+    <LINE num="58" text="[EUS] I. Artiñano - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Araujo" team="1" time="03:30" />
+    <LINE num="57" text="[DOM] Team defensive rebound" team="2" time="03:35" />
+    <LINE num="56" text="[EUS] B. Mendia - free throw missed" team="1" time="03:39" />
+    <LINE num="55" text="[EUS] B. Mendia - free throw made (5 Pts)" team="1" time="03:39" scoreA="9" scoreB="6" />
+    <LINE num="54" text="[EUS] Substitution - I. Sarasola OUT, A. Astigarraga IN" team="1" time="03:39" />
+    <LINE num="53" text="[EUS] Substitution - M. Sainz de la Maza OUT, M. Esnaola IN" team="1" time="03:39" />
+    <LINE num="52" text="[DOM] W. Pérez - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: B. Mendia" team="2" time="03:39" />
+    <LINE num="51" text="[DOM] Substitution - R. Polanco OUT, C. Duran IN" team="2" time="03:39" />
+    <LINE num="50" text="[DOM] Substitution - J. Rodríguez OUT, J. Matos IN" team="2" time="03:39" />
+    <LINE num="49" text="[DOM] J. Rodríguez - personal  foul (1 PF, 4th team foul). Foul drawn: I. Sarasola" team="2" time="03:39" />
+    <LINE num="48" text="[EUS] B. Mendia - 2pt lay-up missed. I. Sarasola - offensive rebound (1 REB)" team="1" time="03:42" />
+    <LINE num="47" text="[EUS] B. Mendia - 3pt jump shot missed. M. Sainz de la Maza - offensive rebound (3 REB)" team="1" time="03:58" />
+    <LINE num="46" text="[DOM] J. Rodríguez - turnover (bad pass, 2 TO). I. Sarasola - steal (1 ST)" team="2" time="04:10" />
+    <LINE num="45" text="[EUS] I. Sarasola - turnover (bad pass, 2 TO). J. Rodríguez - steal (2 ST)" team="1" time="04:13" />
+    <LINE num="44" text="[DOM] J. Araujo - 3pt jump shot missed. B. Mendia - defensive rebound (1 REB)" team="2" time="04:32" />
+    <LINE num="43" text="[EUS] I. Artiñano - turnover (out of bounds, 1 TO)" team="1" time="04:42" />
+    <LINE num="42" text="[DOM] J. Araujo - turnover (ball handling, 2 TO). I. Artiñano - steal (1 ST)" team="2" time="04:42" />
+    <LINE num="41" text="[EUS] M. Sainz de la Maza - 2pt jump shot missed. J. Araujo - defensive rebound (2 REB)" team="1" time="04:50" />
+    <LINE num="40" text="[DOM] J. Rodríguez - turnover (out of bounds, 1 TO)" team="2" time="04:59" />
+    <LINE num="39" text="[EUS] B. Hevia - turnover (ball handling, 2 TO). J. Araujo - steal (1 ST)" team="1" time="05:07" />
+    <LINE num="38" text="[DOM] A. Feliz - turnover (travelling, 1 TO)" team="2" time="05:18" />
+    <LINE num="37" text="[EUS] B. Hevia - turnover (ball handling, 1 TO). J. Rodríguez - steal (1 ST)" team="1" time="05:20" />
+    <LINE num="36" text="[DOM] J. Araujo -  offensive foul (1 PF, 3rd team foul). Foul drawn: B. Mendia. J. Araujo - turnover (offensive foul, 1 TO)" team="2" time="05:34" />
+    <LINE num="35" text="[EUS] I. Sarasola - personal  foul (1 PF, 2nd team foul). Foul drawn: J. Araujo" team="1" time="05:43" />
+    <LINE num="34" text="[EUS] B. Mendia - turnover (3 seconds, 2 TO)" team="1" time="05:54" />
+    <LINE num="33" text="[DOM] R. Polanco - personal  foul (1 PF, 2nd team foul). Foul drawn: B. Hevia" team="2" time="06:14" />
+    <LINE num="32" text="[DOM] J. Rodríguez - 2pt jump shot missed. B. Hevia - defensive rebound (2 REB)" team="2" time="06:16" />
+    <LINE num="31" text="[EUS] B. Mendia - 2pt jump shot made (4 Pts). I. Artiñano - assist (1 AS)" team="1" time="06:26" scoreA="8" scoreB="6" />
+    <LINE num="30" text="[DOM] R. Polanco - 3pt jump shot missed. M. Sainz de la Maza - defensive rebound (2 REB)" team="2" time="06:44" />
+    <LINE num="29" text="[DOM] J. Araujo - 2pt jump shot missed. J. Rodríguez - offensive rebound (1 REB)" team="2" time="06:55" />
+    <LINE num="28" text="[DOM] J. Araujo - defensive rebound (1 REB)" team="2" time="07:01" />
+    <LINE num="27" text="[EUS] B. Mendia - 3pt jump shot missed" team="1" time="07:09" />
+    <LINE num="26" text="[DOM] W. Pérez - free throw made (2 Pts)" team="2" time="07:15" scoreA="6" scoreB="6" />
+    <LINE num="25" text="[DOM] J. Rodríguez - assist (1 AS)" team="2" time="07:15" />
+    <LINE num="24" text="[DOM] W. Pérez - free throw made (1 Pts)" team="2" time="07:15" scoreA="6" scoreB="5" />
+    <LINE num="23" text="[EUS] B. Mendia - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: W. Pérez" team="1" time="07:15" />
+    <LINE num="22" text="[EUS] B. Mendia - 2pt jump shot made (2 Pts). B. Hevia - assist (1 AS)" team="1" time="07:31" scoreA="6" scoreB="4" />
+    <LINE num="21" text="[DOM] W. Pérez - personal  foul (1 PF, 1st team foul). Foul drawn: B. Mendia" team="2" time="07:32" />
+    <LINE num="20" text="[DOM] R. Polanco - 2pt dunk made (fast break, 2 Pts)" team="2" time="07:53" scoreA="4" scoreB="4" />
+    <LINE num="19" text="[EUS] I. Sarasola - turnover (bad pass, 1 TO). R. Polanco - steal (1 ST)" team="1" time="07:56" />
+    <LINE num="18" text="[EUS] M. Sainz de la Maza - 2pt jump shot missed. B. Hevia - offensive rebound (1 REB)" team="1" time="08:09" />
+    <LINE num="17" text="[DOM] A. Feliz - 3pt jump shot blocked. M. Sainz de la Maza - block (1 BS). M. Sainz de la Maza - defensive rebound (1 REB)" team="2" time="08:24" />
+    <LINE num="16" text="[EUS] B. Mendia - turnover (out of bounds, 1 TO)" team="1" time="08:32" />
+    <LINE num="15" text="[DOM] W. Pérez - 3pt jump shot missed. I. Artiñano - defensive rebound (1 REB)" team="2" time="08:44" />
+    <LINE num="14" text="[EUS] I. Artiñano - 2pt jump shot made (2 Pts). M. Sainz de la Maza - assist (1 AS)" team="1" time="08:55" scoreA="4" scoreB="2" />
+    <LINE num="13" text="[DOM] J. Rodríguez - 2pt jump shot made (2 Pts). A. Feliz - assist (1 AS)" team="2" time="09:15" scoreA="2" scoreB="2" />
+    <LINE num="12" text="[EUS] M. Sainz de la Maza - 2pt jump shot made (2 Pts). B. Mendia - assist (1 AS)" team="1" time="09:34" scoreA="2" scoreB="0" />
+    <LINE num="11" text="START OF GAME" team="0" time="10:00" />
+    <LINE num="10" text="[EUS] Substitution - I. Sarasola IN" team="1" time="10:00" deleted="1" />
+    <LINE num="9" text="[EUS] Substitution - B. Mendia IN" team="1" time="10:00" deleted="1" />
+    <LINE num="8" text="[EUS] Substitution - I. Artiñano IN" team="1" time="10:00" deleted="1" />
+    <LINE num="7" text="[EUS] Substitution - M. Sainz de la Maza IN" team="1" time="10:00" deleted="1" />
+    <LINE num="6" text="[EUS] Substitution - B. Hevia IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[DOM] Substitution - J. Araujo IN" team="2" time="10:00" deleted="1" />
+    <LINE num="4" text="[DOM] Substitution - J. Rodríguez IN" team="2" time="10:00" deleted="1" />
+    <LINE num="3" text="[DOM] Substitution - A. Feliz IN" team="2" time="10:00" deleted="1" />
+    <LINE num="2" text="[DOM] Substitution - W. Pérez IN" team="2" time="10:00" deleted="1" />
+    <LINE num="1" text="[DOM] Substitution - R. Polanco IN" team="2" time="10:00" deleted="1" />
+  </PLAYBYPLAY>
+  <BANNER duration="0" />
+</FE>

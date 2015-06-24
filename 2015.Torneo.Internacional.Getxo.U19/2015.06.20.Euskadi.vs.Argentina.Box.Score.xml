@@ -1,0 +1,48 @@
+<FE>
+  <HEADER competition="Torneo Internacional Getxo U19" round="Semifinal 2" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/918DD980-B1A0-4E38-9355-E01DCDEF7F55.jpg" duration="31.2937">
+    <TEAM name="Euskadi" logo="http://live.fibaeurope.com/www/gallery/B778EB23-BAA9-4728-9C72-0E191B9EA533.jpg" pts="69" fouls="3" />
+    <TEAM name="Argentina" logo="http://live.fibaeurope.com/www/gallery/3DC63709-8439-4E1B-ABC9-5A82541F57DF.jpg" pts="84" fouls="8" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="18" scoreB="22" />
+      <QUARTER n="2" scoreA="19" scoreB="19" />
+      <QUARTER n="3" scoreA="15" scoreB="18" />
+      <QUARTER n="4" scoreA="17" scoreB="25" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="0">
+    <TEAM name="Euskadi">
+      <TEAMACTIONS ro="2" rd="3" rt="5" pf="0" rf="0" to="2" st="0" in="0" ind="0" />
+      <TOTAL p1m="21" p1a="30" p1p="70.0" p2m="18" p2a="40" p2p="45.0" p3m="4" p3a="18" p3p="22.2" fgm="22" fga="58" fgp="37.9" as="7" bs="3" br="1" pts="69" ro="17" rd="22" rt="39" pf="17" rf="29" to="18" st="8" in="0" ind="0" />
+      <PLAYER no="5" name="B. Hevia" min="27:10" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="1" p3a="6" p3p="16.7" fgm="2" fga="8" fgp="25.0" as="1" bs="0" br="0" pts="5" ro="0" rd="3" rt="3" pf="3" rf="2" to="2" st="1" in="1" ind="-5" />
+      <PLAYER no="6" name="I. Artiñano" min="18:12" sta="False" p1m="2" p1a="2" p1p="100.0" p2m="5" p2a="5" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="5" fga="5" fgp="100.0" as="0" bs="1" br="0" pts="12" ro="4" rd="4" rt="8" pf="1" rf="1" to="3" st="1" in="1" ind="-18" />
+      <PLAYER no="8" name="M. Sainz de la Maza" min="25:19" sta="True" p1m="3" p1a="5" p1p="60.0" p2m="2" p2a="5" p2p="40.0" p3m="1" p3a="2" p3p="50.0" fgm="3" fga="7" fgp="42.9" as="2" bs="0" br="0" pts="10" ro="4" rd="0" rt="4" pf="2" rf="3" to="2" st="0" in="1" ind="-7" />
+      <PLAYER no="9" name="M. Esnaola" min="24:25" sta="True" p1m="4" p1a="5" p1p="80.0" p2m="1" p2a="6" p2p="16.7" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="7" fgp="14.3" as="2" bs="0" br="1" pts="6" ro="2" rd="3" rt="5" pf="2" rf="3" to="2" st="1" in="0" ind="-6" />
+      <PLAYER no="10" name="B. Gabilondo" min="05:42" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="2" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="0" rf="0" to="0" st="0" in="0" ind="6" />
+      <PLAYER no="11" name="A. Astigarraga" min="14:59" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="3" p3p="33.3" fgm="1" fga="3" fgp="33.3" as="0" bs="0" br="0" pts="3" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="-11" />
+      <PLAYER no="12" name="A. López" min="06:53" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="2" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="0" bs="1" br="0" pts="0" ro="1" rd="1" rt="2" pf="1" rf="0" to="0" st="0" in="0" ind="1" />
+      <PLAYER no="13" name="B. Mendia" min="26:26" sta="True" p1m="6" p1a="8" p1p="75.0" p2m="2" p2a="6" p2p="33.3" p3m="0" p3a="4" p3p="0.0" fgm="2" fga="10" fgp="20.0" as="0" bs="1" br="0" pts="10" ro="2" rd="3" rt="5" pf="2" rf="10" to="1" st="3" in="0" ind="-19" />
+      <PLAYER no="15" name="J. Peña" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="16" name="G. Maiza" min="20:02" sta="False" p1m="4" p1a="8" p1p="50.0" p2m="1" p2a="2" p2p="50.0" p3m="1" p3a="1" p3p="100.0" fgm="2" fga="3" fgp="66.7" as="2" bs="0" br="0" pts="9" ro="1" rd="1" rt="2" pf="2" rf="5" to="3" st="1" in="1" ind="-17" />
+      <PLAYER no="19" name="I. Sarasola" min="26:32" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="6" p2a="10" p2p="60.0" p3m="0" p3a="0" p3p="0.0" fgm="6" fga="10" fgp="60.0" as="0" bs="0" br="0" pts="14" ro="1" rd="3" rt="4" pf="2" rf="5" to="2" st="1" in="1" ind="2" />
+      <PLAYER no="20" name="J. Urtxulutegi" min="04:20" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="2" rf="0" to="1" st="0" in="0" ind="-1" />
+    </TEAM>
+    <TEAM name="Argentina">
+      <TEAMACTIONS ro="2" rd="1" rt="3" pf="0" rf="0" to="1" st="0" in="0" ind="0" />
+      <TOTAL p1m="9" p1a="14" p1p="64.3" p2m="12" p2a="28" p2p="42.9" p3m="17" p3a="31" p3p="54.8" fgm="29" fga="59" fgp="49.2" as="18" bs="1" br="3" pts="84" ro="9" rd="21" rt="30" pf="29" rf="16" to="22" st="10" in="0" ind="0" />
+      <PLAYER no="4" name="A. Barbero" min="05:29" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="2" ro="0" rd="0" rt="0" pf="2" rf="1" to="0" st="1" in="0" ind="5" />
+      <PLAYER no="5" name="P. Gramajo" min="28:47" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="2" p2p="100.0" p3m="7" p3a="10" p3p="70.0" fgm="9" fga="12" fgp="75.0" as="1" bs="0" br="0" pts="25" ro="1" rd="2" rt="3" pf="0" rf="0" to="1" st="2" in="1" ind="11" />
+      <PLAYER no="6" name="F. Zurbriggen" min="20:17" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="5" p2p="40.0" p3m="0" p3a="2" p3p="0.0" fgm="2" fga="7" fgp="28.6" as="4" bs="0" br="0" pts="4" ro="2" rd="0" rt="2" pf="3" rf="1" to="3" st="3" in="1" ind="12" />
+      <PLAYER no="7" name="J. Vaulet" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="8" name="F. Corvalán" min="07:37" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="1" rf="0" to="1" st="1" in="0" ind="0" />
+      <PLAYER no="9" name="M. Fernández" min="30:20" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="0" p2a="1" p2p="0.0" p3m="8" p3a="12" p3p="66.7" fgm="8" fga="13" fgp="61.5" as="0" bs="0" br="1" pts="26" ro="1" rd="2" rt="3" pf="2" rf="2" to="3" st="0" in="1" ind="7" />
+      <PLAYER no="10" name="M. Fjellerup" min="25:02" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="4" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="6" fgp="0.0" as="6" bs="0" br="0" pts="1" ro="0" rd="5" rt="5" pf="1" rf="4" to="1" st="1" in="1" ind="12" />
+      <PLAYER no="11" name="J. Vildoza" min="12:06" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="2" bs="0" br="0" pts="0" ro="0" rd="3" rt="3" pf="2" rf="1" to="0" st="1" in="0" ind="3" />
+      <PLAYER no="12" name="L. Delfino" min="15:58" sta="False" p1m="3" p1a="3" p1p="100.0" p2m="1" p2a="2" p2p="50.0" p3m="1" p3a="1" p3p="100.0" fgm="2" fga="3" fgp="66.7" as="1" bs="1" br="1" pts="8" ro="0" rd="1" rt="1" pf="5" rf="1" to="3" st="0" in="0" ind="7" />
+      <PLAYER no="13" name="E. Rupcic" min="15:27" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="2" p2a="5" p2p="40.0" p3m="0" p3a="1" p3p="0.0" fgm="2" fga="6" fgp="33.3" as="1" bs="0" br="1" pts="6" ro="1" rd="0" rt="1" pf="5" rf="2" to="2" st="1" in="0" ind="-1" />
+      <PLAYER no="14" name="R. Gerhardt" min="28:18" sta="True" p1m="1" p1a="5" p1p="20.0" p2m="3" p2a="6" p2p="50.0" p3m="1" p3a="1" p3p="100.0" fgm="4" fga="7" fgp="57.1" as="2" bs="0" br="0" pts="10" ro="1" rd="5" rt="6" pf="5" rf="4" to="5" st="0" in="0" ind="14" />
+      <PLAYER no="15" name="L. Berra" min="10:39" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="2" ro="1" rd="1" rt="2" pf="3" rf="0" to="2" st="0" in="1" ind="5" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="15.4947" />
+  <BANNER duration="0" />
+</FE>

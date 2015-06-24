@@ -1,0 +1,52 @@
+<FE>
+  <HEADER competition="U20 Men friendlies 2015" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="15.6068">
+    <TEAM name="Germany U20 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="60" fouls="6" />
+    <TEAM name="Poland U20 Men 2015" logo="http://live.fibaeurope.com/www/gallery/74C2ABAE-9AFE-4325-9BCC-A344E865BC08.jpg" pts="46" fouls="8" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="14" scoreB="3" />
+      <QUARTER n="2" scoreA="19" scoreB="15" />
+      <QUARTER n="3" scoreA="14" scoreB="15" />
+      <QUARTER n="4" scoreA="13" scoreB="13" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="15.5879">
+    <TEAM name="Germany U20 Men 2015">
+      <TEAMACTIONS ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="19" p1a="32" p1p="59.4" p2m="19" p2a="36" p2p="52.8" p3m="1" p3a="8" p3p="12.5" fgm="20" fga="44" fgp="45.5" as="12" bs="0" br="0" pts="60" ro="10" rd="21" rt="31" pf="21" rf="24" to="14" st="6" in="0" ind="0" />
+      <PLAYER no="4" name="C. Ebert" min="23:56" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="4" bs="0" br="0" pts="0" ro="0" rd="4" rt="4" pf="2" rf="1" to="2" st="0" in="0" ind="4" />
+      <PLAYER no="5" name="A. Onwuegbuzie" min="21:03" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="2" rf="0" to="0" st="2" in="1" ind="12" />
+      <PLAYER no="6" name="M. Ugrai" min="19:02" sta="True" p1m="2" p1a="3" p1p="66.7" p2m="4" p2a="4" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="4" fga="4" fgp="100.0" as="1" bs="0" br="0" pts="10" ro="1" rd="3" rt="4" pf="2" rf="2" to="3" st="0" in="1" ind="5" />
+      <PLAYER no="7" name="T. Hasbargen" min="17:19" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="3" p2p="33.3" p3m="0" p3a="2" p3p="0.0" fgm="1" fga="5" fgp="20.0" as="0" bs="0" br="0" pts="2" ro="0" rd="1" rt="1" pf="0" rf="2" to="1" st="0" in="1" ind="-1" />
+      <PLAYER no="8" name="S. Heck" min="16:36" sta="False" p1m="0" p1a="2" p1p="0.0" p2m="3" p2a="5" p2p="60.0" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="5" fgp="60.0" as="0" bs="0" br="0" pts="6" ro="2" rd="1" rt="3" pf="3" rf="2" to="0" st="1" in="0" ind="7" />
+      <PLAYER no="9" name="J. Grof" min="14:19" sta="True" p1m="3" p1a="3" p1p="100.0" p2m="3" p2a="7" p2p="42.9" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="7" fgp="42.9" as="1" bs="0" br="0" pts="9" ro="2" rd="2" rt="4" pf="0" rf="3" to="0" st="2" in="1" ind="7" />
+      <PLAYER no="10" name="B. Rohwer" min="16:43" sta="True" p1m="1" p1a="4" p1p="25.0" p2m="4" p2a="7" p2p="57.1" p3m="0" p3a="0" p3p="0.0" fgm="4" fga="7" fgp="57.1" as="0" bs="0" br="0" pts="9" ro="2" rd="2" rt="4" pf="3" rf="3" to="3" st="1" in="0" ind="10" />
+      <PLAYER no="11" name="K. Kovalev" min="09:29" sta="False" p1m="6" p1a="6" p1p="100.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="1" bs="0" br="0" pts="6" ro="1" rd="0" rt="1" pf="1" rf="3" to="0" st="0" in="0" ind="-9" />
+      <PLAYER no="12" name="D. Kovacevic" min="18:32" sta="False" p1m="0" p1a="2" p1p="0.0" p2m="2" p2a="2" p2p="100.0" p3m="1" p3a="2" p3p="50.0" fgm="3" fga="4" fgp="75.0" as="0" bs="0" br="0" pts="7" ro="1" rd="4" rt="5" pf="4" rf="1" to="1" st="0" in="1" ind="21" />
+      <PLAYER no="14" name="D. Dizdarevic" min="14:44" sta="True" p1m="2" p1a="4" p1p="50.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="1" bs="0" br="0" pts="2" ro="1" rd="1" rt="2" pf="2" rf="2" to="0" st="0" in="0" ind="7" />
+      <PLAYER no="21" name="T. Alte" min="16:14" sta="False" p1m="4" p1a="6" p1p="66.7" p2m="2" p2a="4" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="4" fgp="50.0" as="0" bs="0" br="0" pts="8" ro="0" rd="1" rt="1" pf="2" rf="4" to="3" st="0" in="0" ind="1" />
+      <PLAYER no="24" name="R. Zinn" min="12:03" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="3" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="3" bs="0" br="0" pts="1" ro="0" rd="2" rt="2" pf="0" rf="1" to="1" st="0" in="0" ind="6" />
+    </TEAM>
+    <TEAM name="Poland U20 Men 2015">
+      <TEAMACTIONS ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="6" p1a="12" p1p="50.0" p2m="14" p2a="30" p2p="46.7" p3m="4" p3a="23" p3p="17.4" fgm="18" fga="53" fgp="34.0" as="7" bs="0" br="0" pts="46" ro="9" rd="14" rt="23" pf="27" rf="15" to="13" st="6" in="0" ind="0" />
+      <PLAYER no="4" name="J. Nizol" min="28:16" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="7" p2a="10" p2p="70.0" p3m="2" p3a="7" p3p="28.6" fgm="9" fga="17" fgp="52.9" as="2" bs="0" br="0" pts="20" ro="1" rd="3" rt="4" pf="0" rf="3" to="1" st="2" in="1" ind="1" />
+      <PLAYER no="5" name="A. Wlodarczyk" min="22:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="2" p3p="0.0" fgm="1" fga="4" fgp="25.0" as="1" bs="0" br="0" pts="2" ro="1" rd="0" rt="1" pf="2" rf="1" to="1" st="0" in="1" ind="-1" />
+      <PLAYER no="6" name="B. Wrobel" min="03:50" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="2" rf="0" to="1" st="1" in="0" ind="-1" />
+      <PLAYER no="7" name="P. Dzierzak" min="15:37" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="2" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="2" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="1" rf="0" to="3" st="0" in="0" ind="-13" />
+      <PLAYER no="8" name="M. Konopatzki" min="14:39" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="2" p3p="50.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="0" pts="3" ro="1" rd="1" rt="2" pf="2" rf="1" to="2" st="2" in="1" ind="-1" />
+      <PLAYER no="9" name="M. Bojanowski" min="10:37" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="3" fgp="33.3" as="0" bs="0" br="0" pts="4" ro="0" rd="0" rt="0" pf="0" rf="1" to="1" st="0" in="0" ind="8" />
+      <PLAYER no="10" name="I. Wadowski" min="21:18" sta="True" p1m="1" p1a="4" p1p="25.0" p2m="0" p2a="2" p2p="0.0" p3m="0" p3a="3" p3p="0.0" fgm="0" fga="5" fgp="0.0" as="0" bs="0" br="0" pts="1" ro="1" rd="1" rt="2" pf="3" rf="5" to="0" st="0" in="0" ind="-26" />
+      <PLAYER no="11" name="W. Czerlonko" min="03:56" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="0" pts="2" ro="0" rd="0" rt="0" pf="0" rf="0" to="1" st="0" in="0" ind="-7" />
+      <PLAYER no="12" name="F. Pruefer" min="18:54" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="0" pts="3" ro="1" rd="2" rt="3" pf="5" rf="1" to="0" st="0" in="0" ind="1" />
+      <PLAYER no="13" name="M. Stawiak" min="10:01" sta="False" p1m="2" p1a="4" p1p="50.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="0" pts="4" ro="3" rd="1" rt="4" pf="4" rf="2" to="1" st="0" in="1" ind="-7" />
+      <PLAYER no="14" name="G. Kulka" min="29:59" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="2" p2p="100.0" p3m="1" p3a="5" p3p="20.0" fgm="3" fga="7" fgp="42.9" as="2" bs="0" br="0" pts="7" ro="0" rd="4" rt="4" pf="4" rf="1" to="0" st="1" in="0" ind="-7" />
+      <PLAYER no="15" name="M. Fatz" min="20:53" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="4" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="4" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="1" rd="2" rt="3" pf="4" rf="0" to="2" st="0" in="1" ind="-17" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="46.7995">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68392" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="67" TeamB="Turkey U18 Men 2015" ScoreB="70" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/2DF961C7-0CC9-457B-AA5A-17D59515B1DB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="0" />
+</FE>

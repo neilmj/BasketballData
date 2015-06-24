@@ -1,0 +1,48 @@
+<FE>
+  <HEADER competition="U18 Men friendlies 2015" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="46.8071">
+    <TEAM name="Germany U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="64" fouls="7" />
+    <TEAM name="Turkey U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/6E1AF23C-5015-47B4-AF67-51D97FB879D2.jpg" pts="70" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="12" scoreB="26" />
+      <QUARTER n="2" scoreA="19" scoreB="13" />
+      <QUARTER n="3" scoreA="24" scoreB="13" />
+      <QUARTER n="4" scoreA="9" scoreB="18" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="E. Taskiran [TUR] - 6 turnovers" duration="0">
+    <ITEM text="Steals: Germany U18 Men 2015 - 5, Turkey U18 Men 2015 - 12" />
+  </TICKER>
+  <OVERVIEW duration="93.6015">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68392" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="67" TeamB="Turkey U18 Men 2015" ScoreB="70" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/2DF961C7-0CC9-457B-AA5A-17D59515B1DB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="93.5968">
+    <LINE num="367" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="366" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="365" text="[GER] K. Mushidi - 3pt jump shot missed. Team defensive rebound" team="1" time="00:15" />
+    <LINE num="364" text="[TUR] E. Taskiran - turnover (bad pass, 6 TO). N. Kiel - steal (1 ST)" team="2" time="00:18" />
+    <LINE num="363" text="[TUR] E. Taskiran - 2pt lay-up blocked. S. Much - block (1 BS). S. Much - defensive rebound (3 REB)" team="2" time="00:34" />
+    <LINE num="362" text="[TUR] Timeout" team="2" time="00:24" />
+    <LINE num="361" text="[GER] N. Kiel - 2pt hook shot made (10 Pts)" team="1" time="00:24" scoreA="64" scoreB="70" />
+    <LINE num="360" text="[GER] L. Figge - 2pt dunk missed. N. Kiel - offensive rebound (4 REB)" team="1" time="00:25" />
+    <LINE num="359" text="[GER] K. Mushidi - turnover (ball handling, 5 TO). Ö. Al - steal (3 ST)" team="1" time="00:37" />
+    <LINE num="358" text="[TUR] E. Bayrak - 3pt jump shot missed. K. Mushidi - defensive rebound (2 REB)" team="2" time="00:44" />
+    <LINE num="357" text="[GER] K. Mushidi - turnover (ball handling, 4 TO)" team="1" time="01:05" />
+    <LINE num="356" text="[TUR] E. Gazi - turnover (travelling, 1 TO)" team="2" time="01:07" />
+    <LINE num="355" text="[GER] M. Pölking - 2pt lay-up made (4 Pts). S. Much - assist (1 AS)" team="1" time="01:27" scoreA="62" scoreB="70" />
+    <LINE num="354" text="[TUR] B. Ülker - personal  foul (3 PF, 4th team foul). Foul drawn: N. Kiel" team="2" time="01:37" />
+    <LINE num="353" text="[TUR] E. Bayrak - 3pt jump shot missed. L. Figge - defensive rebound (3 REB)" team="2" time="01:45" />
+    <LINE num="352" text="[GER] S. Much - turnover (out of bounds, 2 TO)" team="1" time="02:01" />
+    <LINE num="351" text="[TUR] Ö. Al - free throw made (8 Pts)" team="2" time="02:15" scoreA="60" scoreB="70" />
+    <LINE num="350" text="[TUR] Ö. Al - free throw made (7 Pts)" team="2" time="02:15" scoreA="60" scoreB="69" />
+    <LINE num="349" text="[TUR] Substitution - M. Tunc OUT, B. Ülker IN" team="2" time="02:15" />
+    <LINE num="348" text="[GER] Substitution - M. Keßen OUT, M. Pölking IN" team="1" time="02:15" />
+    <LINE num="347" text="[GER] L. Figge - personal  foul (2 PF, 7th team foul). Foul drawn: Ö. Al" team="1" time="02:15" />
+    <LINE num="346" text="[GER] S. Much - 2pt jump shot made (2 Pts)" team="1" time="02:21" scoreA="60" scoreB="68" />
+    <LINE num="345" text="[TUR] E. Gazi - 2pt lay-up missed. Team defensive rebound" team="2" time="02:38" />
+    <LINE num="344" text="[GER] L. Figge - turnover (ball handling, 1 TO). Ö. Al - steal (2 ST)" team="1" time="02:42" />
+    <LINE num="343" text="[TUR] M. Tunc - 3pt jump shot missed. L. Figge - defensive rebound (2 REB)" team="2" time="02:47" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="15.6005" />
+</FE>

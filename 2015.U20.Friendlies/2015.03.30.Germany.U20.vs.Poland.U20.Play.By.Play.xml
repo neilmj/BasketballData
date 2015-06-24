@@ -1,0 +1,48 @@
+<FE>
+  <HEADER competition="U20 Men friendlies 2015" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="93.6033">
+    <TEAM name="Germany U20 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="94" fouls="7" />
+    <TEAM name="Poland U20 Men 2015" logo="http://live.fibaeurope.com/www/gallery/74C2ABAE-9AFE-4325-9BCC-A344E865BC08.jpg" pts="56" fouls="7" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="25" scoreB="13" />
+      <QUARTER n="2" scoreA="24" scoreB="21" />
+      <QUARTER n="3" scoreA="20" scoreB="11" />
+      <QUARTER n="4" scoreA="25" scoreB="11" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="M. Fatz [POL] - fouled out" duration="31.2066">
+    <ITEM text="Germany U20 Men 2015 - 5 players in double figures" />
+  </TICKER>
+  <OVERVIEW duration="46.7973">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68392" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="67" TeamB="Turkey U18 Men 2015" ScoreB="70" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/2DF961C7-0CC9-457B-AA5A-17D59515B1DB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="124.7976">
+    <LINE num="420" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="419" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="418" text="[POL] I. Wadowski - 3pt jump shot missed" team="2" time="00:00" />
+    <LINE num="417" text="[GER] C. Ebert - 2pt jump shot made (8 Pts)" team="1" time="00:02" scoreA="94" scoreB="56" />
+    <LINE num="416" text="[POL] I. Wadowski - free throw made (18 Pts)" team="2" time="00:13" scoreA="92" scoreB="56" />
+    <LINE num="415" text="[POL] I. Wadowski - free throw made (17 Pts)" team="2" time="00:13" scoreA="92" scoreB="55" />
+    <LINE num="414" text="[GER] S. Heck - personal shooting foul (5 PF, 7th team foul). 2 free throws awarded. Foul drawn: I. Wadowski. [GER] Substitution - S. Heck OUT, L. Meisner IN" team="1" time="00:13" />
+    <LINE num="413" text="[GER] T. Alte - turnover (travelling, 1 TO)" team="1" time="00:29" />
+    <LINE num="412" text="[POL] I. Wadowski - free throw made (16 Pts)" team="2" time="00:42" scoreA="92" scoreB="54" />
+    <LINE num="411" text="[POL] I. Wadowski - free throw missed" team="2" time="00:42" />
+    <LINE num="410" text="[GER] S. Heck - personal shooting foul (4 PF, 6th team foul). 2 free throws awarded. Foul drawn: I. Wadowski" team="1" time="00:42" />
+    <LINE num="409" text="[GER] Team turnover (24 seconds)" team="1" time="00:51" />
+    <LINE num="408" text="[GER] M. Ugrai - free throw missed. S. Heck - offensive rebound (5 REB)" team="1" time="01:08" />
+    <LINE num="407" text="[GER] M. Ugrai - free throw made (14 Pts)" team="1" time="01:08" scoreA="92" scoreB="53" />
+    <LINE num="406" text="[POL] F. Pruefer - personal shooting foul (5 PF, 7th team foul). 2 free throws awarded. Foul drawn: M. Ugrai. [POL] Substitution - F. Pruefer OUT, W. Czerlonko IN" team="2" time="01:08" />
+    <LINE num="405" text="[POL] I. Wadowski - free throw made (15 Pts)" team="2" time="01:08" scoreA="91" scoreB="53" />
+    <LINE num="404" text="[POL] I. Wadowski - free throw made (14 Pts)" team="2" time="01:08" scoreA="91" scoreB="52" />
+    <LINE num="403" text="[GER] M. Ugrai - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: I. Wadowski" team="1" time="01:08" />
+    <LINE num="402" text="[GER] T. Alte - free throw missed. F. Pruefer - defensive rebound (3 REB)" team="1" time="01:16" />
+    <LINE num="401" text="[GER] T. Alte - free throw made (1 Pts)" team="1" time="01:16" scoreA="91" scoreB="51" />
+    <LINE num="400" text="[GER] Substitution - D. Taylor OUT, S. Heck IN" team="1" time="01:16" />
+    <LINE num="399" text="[POL] B. Wrobel - personal shooting foul (3 PF, 6th team foul). 2 free throws awarded. Foul drawn: T. Alte" team="2" time="01:16" />
+    <LINE num="398" text="[POL] M. Stawiak - turnover (travelling, 2 TO)" team="2" time="01:31" />
+    <LINE num="397" text="[GER] M. Ugrai - free throw made (13 Pts)" team="1" time="01:40" scoreA="90" scoreB="51" />
+    <LINE num="396" text="[GER] M. Ugrai - free throw made (12 Pts)" team="1" time="01:40" scoreA="89" scoreB="51" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="0" />
+</FE>
