@@ -1,0 +1,56 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1875">
+    <TEAM name="Polska" logo="http://live.fibaeurope.com/www/gallery/89857DBD-863A-4991-A29C-A3C53652B5F7.jpg" pts="52" fouls="3" />
+    <TEAM name="Athletes in Action (USA)" logo="" pts="61" fouls="0" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="16" scoreB="15" />
+      <QUARTER n="2" scoreA="11" scoreB="13" />
+      <QUARTER n="3" scoreA="11" scoreB="15" />
+      <QUARTER n="4" scoreA="14" scoreB="18" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Athletes in Action (USA) outscored Polska 18-8 in the last 07:31" duration="31.1983">
+    <ITEM text="J. Jones [AIA] - 5 turnovers" />
+  </TICKER>
+  <OVERVIEW duration="15.6159" />
+  <PLAYBYPLAY duration="93.583">
+    <LINE num="329" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="328" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="327" text="[POL] M. Radomska - 3pt jump shot missed. J. Jones - defensive rebound (7 REB)" team="1" time="00:08" />
+    <LINE num="326" text="[AIA] A. Seay - 2pt jump shot missed. K. Poboży - defensive rebound (4 REB)" team="2" time="00:13" />
+    <LINE num="325" text="[AIA] J. Jones - 3pt jump shot missed. M. Billings - offensive rebound (7 REB)" team="2" time="00:18" />
+    <LINE num="324" text="[POL] A. Stankiewicz - 3pt jump shot blocked. L. Brown - block (1 BS). A. Seay - defensive rebound (2 REB)" team="1" time="00:24" />
+    <LINE num="323" text="[AIA] L. Brown - 2pt jump shot made (7 Pts)" team="2" time="00:39" scoreA="52" scoreB="61" />
+    <LINE num="322" text="[POL] A. Stankiewicz - 2pt lay-up made (17 Pts)" team="1" time="00:59" scoreA="52" scoreB="59" />
+    <LINE num="321" text="[POL] Timeout" team="1" time="01:06" />
+    <LINE num="320" text="[AIA] C. Johnson - free throw missed" team="2" time="01:08" />
+    <LINE num="319" text="[AIA] C. Johnson - free throw missed" team="2" time="01:08" />
+    <LINE num="318" text="[POL] Substitution - M. Naczk OUT, J. Drop IN" team="1" time="01:08" />
+    <LINE num="317" text="[POL] M. Naczk - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: C. Johnson" team="1" time="01:08" />
+    <LINE num="316" text="[AIA] L. Brown - 2pt jump shot missed. C. Johnson - offensive rebound (6 REB)" team="2" time="01:13" />
+    <LINE num="315" text="[POL] M. Radomska - turnover (bad pass, 3 TO). M. Billings - steal (4 ST)" team="1" time="01:19" />
+    <LINE num="314" text="[AIA] J. Jones - 3pt jump shot made (12 Pts). A. Seay - assist (1 AS)" team="2" time="01:40" scoreA="50" scoreB="59" />
+    <LINE num="313" text="[POL] A. Rembiszewska - 2pt jump shot made (4 Pts)" team="1" time="02:00" scoreA="50" scoreB="56" />
+    <LINE num="312" text="[AIA] M. Billings - 2pt lay-up made (fast break, 14 Pts)" team="2" time="02:44" scoreA="48" scoreB="56" />
+    <LINE num="311" text="[POL] M. Naczk - turnover (bad pass, 4 TO). M. Billings - steal (3 ST)" team="1" time="02:47" />
+    <LINE num="310" text="[AIA] L. Brown - 2pt jump shot made (5 Pts)" team="2" time="02:57" scoreA="48" scoreB="54" />
+    <LINE num="309" text="[POL] A. Stankiewicz - turnover (bad pass, 2 TO). J. Jones - steal (4 ST)" team="1" time="03:13" />
+    <LINE num="308" text="[AIA] Substitution - M. Buck OUT, A. Seay IN" team="2" time="03:25" />
+    <LINE num="307" text="[AIA] Substitution - F. Randolph OUT, L. Brown IN" team="2" time="03:25" />
+    <LINE num="306" text="[POL] Substitution - J. Drop OUT, A. Stankiewicz IN" team="1" time="03:25" />
+    <LINE num="305" text="[POL] Timeout" team="1" time="03:25" />
+  </PLAYBYPLAY>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

@@ -1,0 +1,177 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="32.0414">
+    <TEAM name="Polska" logo="http://live.fibaeurope.com/www/gallery/89857DBD-863A-4991-A29C-A3C53652B5F7.jpg" pts="50" fouls="4" />
+    <TEAM name="Francja" logo="http://live.fibaeurope.com/www/gallery/9CFA807E-B803-491A-B43A-097D0737F9A5.jpg" pts="51" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="10" scoreB="12" />
+      <QUARTER n="2" scoreA="15" scoreB="20" />
+      <QUARTER n="3" scoreA="10" scoreB="7" />
+      <QUARTER n="4" scoreA="15" scoreB="12" />
+    </QUARTERS>
+  </HEADER>
+  <SHOTCHART Quarters="4" duration="0">
+    <TEAM Name="Polska">
+      <P N="A. Wajler" Nr="4" FGP="50.0" FTP="0.0" P2P="0.0" P3P="66.7" PTS="12" />
+      <P N="S. Bujniak" Nr="5" FGP="27.3" FTP="0.0" P2P="0.0" P3P="33.3" PTS="9" />
+      <P N="A. Stankiewicz" Nr="6" FGP="23.1" FTP="75.0" P2P="33.3" P3P="0.0" PTS="9" />
+      <P N="M. Naczk" Nr="7" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="J. Drop" Nr="8" FGP="12.5" FTP="100.0" P2P="0.0" P3P="16.7" PTS="5" />
+      <P N="A. Rembiszewska" Nr="9" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="J. Ossowska" Nr="10" FGP="20.0" FTP="0.0" P2P="0.0" P3P="25.0" PTS="3" />
+      <P N="M. Radomska" Nr="11" FGP="27.3" FTP="0.0" P2P="25.0" P3P="28.6" PTS="8" />
+      <P N="M. Szajtauer" Nr="12" FGP="33.3" FTP="0.0" P2P="33.3" P3P="0.0" PTS="2" />
+      <P N="W. Zapart" Nr="13" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="K. Poboży" Nr="14" FGP="100.0" FTP="0.0" P2P="100.0" P3P="0.0" PTS="2" />
+      <P N="J. Grymek" Nr="15" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+    </TEAM>
+    <TEAM Name="Francja">
+      <P N="L. Millavet" Nr="4" FGP="46.2" FTP="0.0" P2P="44.4" P3P="50.0" PTS="14" />
+      <P N="M. Johannes" Nr="5" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="M. Vidal-Geneve" Nr="6" FGP="20.0" FTP="0.0" P2P="100.0" P3P="0.0" PTS="2" />
+      <P N="M. Mane" Nr="7" FGP="33.3" FTP="100.0" P2P="50.0" P3P="28.6" PTS="10" />
+      <P N="L. Guapo" Nr="8" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="C. Djaldi Tabdi" Nr="9" FGP="50.0" FTP="0.0" P2P="50.0" P3P="0.0" PTS="2" />
+      <P N="A. Traore" Nr="10" FGP="0.0" FTP="0.0" P2P="0.0" P3P="0.0" PTS="0" />
+      <P N="M. Hero" Nr="11" FGP="66.7" FTP="0.0" P2P="100.0" P3P="60.0" PTS="11" />
+      <P N="B. Agblemagnon" Nr="12" FGP="33.3" FTP="100.0" P2P="40.0" P3P="0.0" PTS="6" />
+      <P N="E. Naigre" Nr="15" FGP="50.0" FTP="0.0" P2P="50.0" P3P="0.0" PTS="6" />
+    </TEAM>
+    <SHOTS>
+      <S m="1" t="09:53" x="282" y="392" team="0" player="8" quarter="1" />
+      <S m="1" t="09:27" x="1384" y="555" team="1" player="7" quarter="1" />
+      <S m="1" t="09:05" x="506" y="188" team="0" player="11" quarter="1" />
+      <S m="1" t="08:49" x="1390" y="533" team="1" player="5" quarter="1" />
+      <S m="0" t="08:36" x="586" y="152" team="0" player="6" quarter="1" />
+      <S m="0" t="08:23" x="746" y="257" team="1" player="4" quarter="1" />
+      <S m="1" t="08:08" x="807" y="533" team="0" player="6" quarter="1" />
+      <S m="1" t="07:59" x="1055" y="826" team="0" player="11" quarter="1" />
+      <S m="1" t="07:27" x="978" y="381" team="0" player="9" quarter="1" />
+      <S m="1" t="07:27" x="511" y="276" team="0" player="12" quarter="1" />
+      <S m="0" t="07:27" x="1238" y="166" team="1" player="4" quarter="1" />
+      <S m="1" t="07:27" x="820" y="550" team="0" player="6" quarter="1" />
+      <S m="1" t="07:27" x="1246" y="699" team="1" player="6" quarter="1" />
+      <S m="0" t="07:27" x="657" y="268" team="0" player="12" quarter="1" />
+      <S m="1" t="07:12" x="619" y="848" team="0" player="10" quarter="1" />
+      <S m="1" t="06:07" x="1359" y="528" team="1" player="6" quarter="1" />
+      <S m="1" t="05:49" x="1041" y="152" team="0" player="6" quarter="1" />
+      <S m="1" t="05:41" x="1157" y="381" team="1" player="15" quarter="1" />
+      <S m="0" t="05:31" x="1448" y="169" team="1" player="7" quarter="1" />
+      <S m="0" t="05:20" x="30" y="99" team="0" player="10" quarter="1" />
+      <S m="1" t="05:00" x="1423" y="401" team="1" player="7" quarter="1" />
+      <S m="1" t="04:25" x="1265" y="72" team="0" player="5" quarter="1" />
+      <S m="0" t="04:00" x="1378" y="486" team="1" player="11" quarter="1" />
+      <S m="1" t="02:41" x="290" y="461" team="0" player="10" quarter="1" />
+      <S m="1" t="02:31" x="1124" y="171" team="1" player="12" quarter="1" />
+      <S m="1" t="01:46" x="1036" y="657" team="1" player="12" quarter="1" />
+      <S m="1" t="01:25" x="22" y="108" team="0" player="5" quarter="1" />
+      <S m="0" t="01:00" x="760" y="285" team="1" player="15" quarter="1" />
+      <S m="1" t="00:45" x="36" y="110" team="0" player="5" quarter="1" />
+      <S m="1" t="00:19" x="1227" y="238" team="1" player="15" quarter="1" />
+      <S m="0" t="00:03" x="17" y="72" team="0" player="4" quarter="1" />
+      <S m="0" t="09:44" x="912" y="575" team="1" player="12" quarter="2" />
+      <S m="0" t="09:34" x="39" y="69" team="0" player="4" quarter="2" />
+      <S m="1" t="09:18" x="1356" y="552" team="1" player="12" quarter="2" />
+      <S m="0" t="09:03" x="1287" y="169" team="1" player="15" quarter="2" />
+      <S m="0" t="08:48" x="33" y="75" team="0" player="5" quarter="2" />
+      <S m="0" t="08:30" x="1210" y="113" team="1" player="6" quarter="2" />
+      <S m="2" t="08:20" x="420" y="144" team="0" player="5" quarter="2" />
+      <S m="1" t="08:03" x="641" y="271" team="0" player="12" quarter="2" />
+      <S m="0" t="07:23" x="1439" y="77" team="0" player="4" quarter="2" />
+      <S m="1" t="07:07" x="1445" y="94" team="1" player="6" quarter="2" />
+      <S m="1" t="06:48" x="171" y="682" team="0" player="8" quarter="2" />
+      <S m="0" t="06:30" x="843" y="649" team="1" player="4" quarter="2" />
+      <S m="1" t="06:12" x="251" y="713" team="0" player="8" quarter="2" />
+      <S m="1" t="05:56" x="1467" y="138" team="1" player="10" quarter="2" />
+      <S m="1" t="05:42" x="30" y="58" team="0" player="4" quarter="2" />
+      <S m="1" t="05:35" x="149" y="583" team="0" player="6" quarter="2" />
+      <S m="0" t="05:17" x="807" y="169" team="1" player="11" quarter="2" />
+      <S m="1" t="04:58" x="210" y="627" team="0" player="6" quarter="2" />
+      <S m="1" t="04:29" x="555" y="130" team="0" player="6" quarter="2" />
+      <S m="1" t="03:53" x="105" y="558" team="0" player="11" quarter="2" />
+      <S m="1" t="03:22" x="44" y="119" team="0" player="11" quarter="2" />
+      <S m="0" t="03:12" x="22" y="83" team="0" player="11" quarter="2" />
+      <S m="0" t="03:06" x="1436" y="160" team="1" player="11" quarter="2" />
+      <S m="1" t="03:06" x="36" y="296" team="0" player="11" quarter="2" />
+      <S m="1" t="03:06" x="1218" y="133" team="1" player="4" quarter="2" />
+      <S m="0" t="03:06" x="804" y="155" team="1" player="7" quarter="2" />
+      <S m="1" t="02:34" x="157" y="608" team="0" player="6" quarter="2" />
+      <S m="1" t="02:27" x="182" y="309" team="0" player="11" quarter="2" />
+      <S m="1" t="02:10" x="997" y="301" team="1" player="4" quarter="2" />
+      <S m="1" t="01:54" x="1285" y="105" team="1" player="7" quarter="2" />
+      <S m="1" t="01:29" x="1122" y="528" team="1" player="12" quarter="2" />
+      <S m="1" t="01:04" x="506" y="224" team="0" player="9" quarter="2" />
+      <S m="2" t="00:58" x="823" y="367" team="1" player="4" quarter="2" />
+      <S m="1" t="00:44" x="1456" y="356" team="1" player="4" quarter="2" />
+      <S m="0" t="00:25" x="735" y="878" team="0" player="8" quarter="2" />
+      <S m="0" t="00:13" x="1467" y="141" team="1" player="7" quarter="2" />
+      <S m="1" t="00:00" x="1376" y="547" team="1" player="5" quarter="2" />
+      <S m="1" t="09:38" x="320" y="199" team="0" player="6" quarter="3" />
+      <S m="1" t="09:12" x="1312" y="594" team="1" player="5" quarter="3" />
+      <S m="1" t="08:54" x="812" y="602" team="0" player="4" quarter="3" />
+      <S m="1" t="08:46" x="776" y="785" team="1" player="4" quarter="3" />
+      <S m="1" t="08:29" x="331" y="431" team="0" player="8" quarter="3" />
+      <S m="1" t="07:42" x="1403" y="528" team="1" player="8" quarter="3" />
+      <S m="0" t="07:20" x="663" y="616" team="0" player="6" quarter="3" />
+      <S m="1" t="06:58" x="1014" y="622" team="1" player="4" quarter="3" />
+      <S m="1" t="06:37" x="820" y="666" team="0" player="4" quarter="3" />
+      <S m="1" t="06:12" x="1373" y="494" team="1" player="8" quarter="3" />
+      <S m="1" t="05:49" x="1356" y="572" team="0" player="8" quarter="3" />
+      <S m="2" t="05:44" x="746" y="318" team="0" player="9" quarter="3" />
+      <S m="1" t="05:15" x="925" y="232" team="1" player="8" quarter="3" />
+      <S m="1" t="04:41" x="1434" y="199" team="1" player="8" quarter="3" />
+      <S m="1" t="04:28" x="1431" y="130" team="1" player="4" quarter="3" />
+      <S m="0" t="04:22" x="588" y="152" team="1" player="9" quarter="3" />
+      <S m="1" t="04:11" x="801" y="887" team="0" player="8" quarter="3" />
+      <S m="0" t="04:01" x="1285" y="108" team="1" player="4" quarter="3" />
+      <S m="0" t="03:46" x="820" y="232" team="0" player="6" quarter="3" />
+      <S m="2" t="03:10" x="41" y="301" team="0" player="11" quarter="3" />
+      <S m="1" t="02:43" x="1412" y="464" team="1" player="11" quarter="3" />
+      <S m="1" t="02:15" x="1116" y="793" team="1" player="7" quarter="3" />
+      <S m="2" t="01:57" x="881" y="276" team="0" player="9" quarter="3" />
+      <S m="1" t="01:33" x="870" y="262" team="1" player="9" quarter="3" />
+      <S m="1" t="01:18" x="1293" y="635" team="1" player="11" quarter="3" />
+      <S m="0" t="00:52" x="30" y="41" team="0" player="5" quarter="3" />
+      <S m="1" t="00:25" x="1445" y="459" team="1" player="7" quarter="3" />
+      <S m="0" t="00:11" x="1392" y="445" team="1" player="4" quarter="3" />
+      <S m="1" t="00:05" x="144" y="544" team="0" player="10" quarter="3" />
+      <S m="0" t="09:27" x="1453" y="66" team="1" player="4" quarter="4" />
+      <S m="0" t="09:15" x="155" y="94" team="0" player="11" quarter="4" />
+      <S m="1" t="08:45" x="44" y="64" team="0" player="5" quarter="4" />
+      <S m="0" t="08:43" x="663" y="210" team="0" player="14" quarter="4" />
+      <S m="0" t="08:12" x="1249" y="677" team="0" player="11" quarter="4" />
+      <S m="1" t="07:33" x="122" y="536" team="0" player="5" quarter="4" />
+      <S m="1" t="07:03" x="641" y="865" team="0" player="10" quarter="4" />
+      <S m="1" t="06:47" x="851" y="218" team="1" player="15" quarter="4" />
+      <S m="1" t="06:27" x="25" y="50" team="0" player="5" quarter="4" />
+      <S m="1" t="06:18" x="1439" y="102" team="1" player="7" quarter="4" />
+      <S m="0" t="05:46" x="1392" y="506" team="1" player="11" quarter="4" />
+      <S m="1" t="04:56" x="141" y="547" team="0" player="5" quarter="4" />
+      <S m="0" t="04:50" x="696" y="254" team="1" player="15" quarter="4" />
+      <S m="0" t="04:04" x="152" y="602" team="0" player="5" quarter="4" />
+      <S m="1" t="03:34" x="1428" y="434" team="1" player="6" quarter="4" />
+      <S m="1" t="03:21" x="1428" y="88" team="1" player="8" quarter="4" />
+      <S m="1" t="03:00" x="558" y="867" team="0" player="4" quarter="4" />
+      <S m="0" t="02:18" x="83" y="514" team="0" player="4" quarter="4" />
+      <S m="0" t="01:55" x="1202" y="127" team="1" player="12" quarter="4" />
+      <S m="1" t="01:25" x="185" y="583" team="0" player="6" quarter="4" />
+      <S m="1" t="01:09" x="64" y="169" team="0" player="8" quarter="4" />
+      <S m="1" t="00:10" x="923" y="221" team="0" player="6" quarter="4" />
+      <S m="1" t="00:04" x="644" y="320" team="0" player="11" quarter="4" />
+      <S m="2" t="00:04" x="992" y="251" team="0" player="9" quarter="4" />
+    </SHOTS>
+  </SHOTCHART>
+  <OVERVIEW duration="30.3875" />
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

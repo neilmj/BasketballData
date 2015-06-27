@@ -1,0 +1,355 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.2104">
+    <TEAM name="Łotwa" logo="http://live.fibaeurope.com/www/gallery/E1098AD8-89B9-4822-8DF3-6E9D1A18BE21.jpg" pts="53" fouls="5" />
+    <TEAM name="Polska" logo="http://live.fibaeurope.com/www/gallery/89857DBD-863A-4991-A29C-A3C53652B5F7.jpg" pts="58" fouls="3" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="16" scoreB="20" />
+      <QUARTER n="2" scoreA="17" scoreB="15" />
+      <QUARTER n="3" scoreA="15" scoreB="13" />
+      <QUARTER n="4" scoreA="5" scoreB="10" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="J. Drop [POL] - 60.0% 3PtFG (3/5)" duration="31.2049">
+    <ITEM text="Points from turnovers: Łotwa - 0, Polska - 16" />
+  </TICKER>
+  <OVERVIEW duration="46.8043" />
+  <PLAYBYPLAY duration="187.1905">
+    <LINE num="324" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="323" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="322" text="[LAT] E. Berżina - 3pt jump shot missed" team="1" time="00:00" />
+    <LINE num="321" text="[POL] A. Rembiszewska - personal  foul (3 PF, 3rd team foul). Foul drawn: P. Strautmane" team="2" time="00:00" />
+    <LINE num="320" text="[POL] J. Ossowska - free throw made (2 Pts)" team="2" time="00:00" scoreA="53" scoreB="58" />
+    <LINE num="319" text="[POL] J. Ossowska - free throw made (1 Pts)" team="2" time="00:00" scoreA="53" scoreB="57" />
+    <LINE num="318" text="[LAT] E. Berżina - personal shooting foul (4 PF, 5th team foul). 2 free throws awarded. Foul drawn: J. Ossowska" team="1" time="00:00" />
+    <LINE num="317" text="[LAT] D. Strautmane - 3pt jump shot missed. J. Ossowska - defensive rebound (1 REB)" team="1" time="00:06" />
+    <LINE num="316" text="[LAT] Substitution - P. Luke OUT, I. Spigule IN" team="1" time="00:24" />
+    <LINE num="315" text="[LAT] Timeout" team="1" time="00:24" />
+    <LINE num="314" text="[POL] Team turnover (24 seconds)" team="2" time="00:24" />
+    <LINE num="313" text="[LAT] S. Kudule - turnover (bad pass, 2 TO). A. Rembiszewska - steal (3 ST)" team="1" time="00:50" />
+    <LINE num="312" text="[POL] A. Stankiewicz - turnover (bad pass, 4 TO). S. Kudule - steal (2 ST)" team="2" time="00:53" />
+    <LINE num="311" text="[LAT] E. Berżina - personal  foul (3 PF, 4th team foul). Foul drawn: J. Drop" team="1" time="01:04" />
+    <LINE num="310" text="[LAT] D. Strautmane - 3pt jump shot made (16 Pts). P. Strautmane - assist (3 AS)" team="1" time="01:16" scoreA="53" scoreB="56" />
+    <LINE num="309" text="[POL] K. Poboży - personal  foul (2 PF, 2nd team foul). Foul drawn: D. Strautmane" team="2" time="01:24" />
+    <LINE num="308" text="[LAT] Timeout" team="1" time="01:38" />
+    <LINE num="307" text="[POL] Substitution - M. Szajtauer OUT, A. Rembiszewska IN" team="2" time="01:38" />
+    <LINE num="306" text="[POL] Substitution - S. Bujniak OUT, A. Stankiewicz IN" team="2" time="01:38" />
+    <LINE num="305" text="[POL] K. Poboży - 2pt jump shot missed. D. Strautmane - defensive rebound (9 REB)" team="2" time="01:43" />
+    <LINE num="304" text="[LAT] Team turnover (24 seconds)" team="1" time="02:02" />
+    <LINE num="303" text="[POL] J. Drop - free throw missed. P. Luke - defensive rebound (4 REB)" team="2" time="02:30" />
+    <LINE num="302" text="[POL] J. Drop - free throw missed" team="2" time="02:30" />
+    <LINE num="301" text="[LAT] A. Fridenberga - personal shooting foul (5 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Drop. [LAT] Substitution - A. Fridenberga OUT, S. Kudule IN" team="1" time="02:30" />
+    <LINE num="300" text="[LAT] D. Strautmane - turnover (ball handling, 1 TO). J. Drop - steal (2 ST)" team="1" time="02:34" />
+    <LINE num="299" text="[POL] K. Poboży - turnover (bad pass, 3 TO). D. Strautmane - steal (2 ST)" team="2" time="02:42" />
+    <LINE num="298" text="[POL] Substitution - A. Rembiszewska OUT, K. Poboży IN" team="2" time="02:46" />
+    <LINE num="297" text="[LAT] A. Fridenberga - turnover (bad pass, 3 TO). M. Szajtauer - steal (3 ST)" team="1" time="02:53" />
+    <LINE num="296" text="[POL] J. Ossowska - 2pt jump shot missed. A. Fridenberga - defensive rebound (6 REB)" team="2" time="03:00" />
+    <LINE num="295" text="[LAT] P. Strautmane - turnover (out of bounds, 2 TO)" team="1" time="03:17" />
+    <LINE num="294" text="[POL] M. Szajtauer - turnover (travelling, 1 TO)" team="2" time="03:53" />
+    <LINE num="293" text="[LAT] Substitution - P. Luke IN" team="1" time="03:53" deleted="1" />
+    <LINE num="292" text="[LAT] Substitution - S. Kudule OUT" team="1" time="03:53" deleted="1" />
+    <LINE num="291" text="[LAT] Substitution - L. Grabe OUT, P. Strautmane IN" team="1" time="03:53" />
+    <LINE num="290" text="[LAT] Substitution - V. Birina OUT, E. Berżina IN" team="1" time="03:53" />
+    <LINE num="289" text="[LAT] L. Grabe - turnover (travelling, 1 TO)" team="1" time="03:53" />
+    <LINE num="288" text="[POL] J. Ossowska - 3pt jump shot missed. D. Strautmane - defensive rebound (8 REB)" team="2" time="04:14" />
+    <LINE num="287" text="[LAT] V. Birina - 2pt jump shot missed. A. Rembiszewska - defensive rebound (7 REB)" team="1" time="04:26" />
+    <LINE num="286" text="[POL] M. Szajtauer - 2pt tip-in made (8 Pts)" team="2" time="04:47" scoreA="50" scoreB="56" />
+    <LINE num="285" text="[POL] M. Szajtauer - 2pt jump shot missed. M. Szajtauer - offensive rebound (9 REB)" team="2" time="04:50" />
+    <LINE num="284" text="[LAT] A. Fridenberga - 2pt jump shot missed. M. Szajtauer - defensive rebound (8 REB)" team="1" time="04:57" />
+    <LINE num="283" text="[POL] S. Bujniak - 2pt lay-up made (10 Pts)" team="2" time="05:25" scoreA="50" scoreB="54" />
+    <LINE num="282" text="[POL] Substitution - A. Stankiewicz OUT, S. Bujniak IN" team="2" time="05:35" />
+    <LINE num="281" text="[POL] A. Stankiewicz - 3pt jump shot missed. D. Strautmane - defensive rebound (7 REB)" team="2" time="06:10" />
+    <LINE num="280" text="[LAT] V. Birina - 2pt jump shot missed. J. Drop - defensive rebound (5 REB)" team="1" time="06:10" />
+    <LINE num="279" text="[POL] A. Stankiewicz - turnover (bad pass, 3 TO). D. Strautmane - steal (1 ST)" team="2" time="06:10" />
+    <LINE num="278" text="[LAT] V. Birina - personal  foul (1 PF, 2nd team foul). Foul drawn: A. Stankiewicz" team="1" time="06:10" />
+    <LINE num="277" text="[LAT] A. Fridenberga - turnover (ball handling, 2 TO). M. Szajtauer - steal (2 ST)" team="1" time="06:18" />
+    <LINE num="276" text="[POL] J. Ossowska - turnover (out of bounds, 1 TO)" team="2" time="06:35" />
+    <LINE num="275" text="[POL] Substitution - W. Zapart OUT, M. Szajtauer IN" team="2" time="06:35" />
+    <LINE num="274" text="[POL] Substitution - M. Radomska OUT, J. Ossowska IN" team="2" time="06:35" />
+    <LINE num="273" text="[LAT] D. Strautmane - 3pt jump shot missed. A. Rembiszewska - defensive rebound (6 REB)" team="1" time="06:53" />
+    <LINE num="272" text="[POL] A. Stankiewicz - free throw made (9 Pts)" team="2" time="07:17" scoreA="50" scoreB="52" />
+    <LINE num="271" text="[POL] A. Stankiewicz - free throw made (8 Pts)" team="2" time="07:17" scoreA="50" scoreB="51" />
+    <LINE num="270" text="[POL] Substitution - S. Bujniak OUT, J. Drop IN" team="2" time="07:17" />
+    <LINE num="269" text="[LAT] Substitution - K. Stolce OUT, S. Kudule IN" team="1" time="07:17" />
+    <LINE num="268" text="[LAT] Substitution - P. Strautmane OUT, A. Fridenberga IN" team="1" time="07:17" />
+    <LINE num="267" text="[LAT] Substitution - P. Luke OUT, L. Grabe IN" team="1" time="07:17" />
+    <LINE num="266" text="[LAT] Substitution - E. Berżina OUT, D. Strautmane IN" team="1" time="07:17" />
+    <LINE num="265" text="[LAT] Substitution - M. Bergmane OUT, V. Birina IN" team="1" time="07:17" />
+    <LINE num="264" text="[LAT] K. Stolce - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: A. Stankiewicz" team="1" time="07:17" />
+    <LINE num="263" text="[LAT] K. Stolce - 2pt jump shot missed. A. Rembiszewska - defensive rebound (5 REB)" team="1" time="07:25" />
+    <LINE num="262" text="[POL] S. Bujniak - 2pt jump shot missed. P. Luke - defensive rebound (3 REB)" team="2" time="07:45" />
+    <LINE num="261" text="[LAT] P. Strautmane - 2pt jump shot made (8 Pts). K. Stolce - assist (2 AS)" team="1" time="08:14" scoreA="50" scoreB="50" />
+    <LINE num="260" text="[POL] W. Zapart - 2pt tip-in made (5 Pts)" team="2" time="08:37" scoreA="48" scoreB="50" />
+    <LINE num="259" text="[POL] W. Zapart - 2pt jump shot blocked. K. Stolce - block (1 BS). W. Zapart - offensive rebound (4 REB)" team="2" time="08:37" />
+    <LINE num="258" text="[LAT] P. Luke - 3pt jump shot missed. A. Rembiszewska - defensive rebound (4 REB)" team="1" time="09:11" />
+    <LINE num="257" text="[POL] A. Rembiszewska - personal  foul (2 PF, 1st team foul). Foul drawn: P. Luke" team="2" time="09:22" />
+    <LINE num="256" text="[POL] M. Radomska - 3pt jump shot missed. P. Luke - defensive rebound (2 REB)" team="2" time="09:22" />
+    <LINE num="255" text="[LAT] M. Bergmane - 2pt jump shot missed. M. Radomska - defensive rebound (2 REB)" team="1" time="09:22" />
+    <LINE num="254" text="[POL] A. Stankiewicz - 3pt jump shot missed. P. Strautmane - defensive rebound (3 REB)" team="2" time="09:22" />
+    <LINE num="253" text="[POL] A. Rembiszewska - 2pt jump shot missed. Team offensive rebound" team="2" time="09:28" />
+    <LINE num="252" text="[LAT] P. Strautmane - 2pt jump shot missed. M. Radomska - defensive rebound (1 REB)" team="1" time="09:40" />
+    <LINE num="251" text="[POL] Substitution - J. Ossowska OUT, A. Stankiewicz IN" team="2" time="10:00" />
+    <LINE num="250" text="[LAT] Substitution - S. Kudule OUT, P. Luke IN" team="1" time="10:00" />
+    <LINE num="249" text="[LAT] Substitution - I. Spigule OUT, E. Berżina IN" team="1" time="10:00" />
+    <LINE num="248" text="[LAT] Substitution - V. Birina OUT, M. Bergmane IN" team="1" time="10:00" />
+    <LINE num="247" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="246" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="245" text="[POL] J. Ossowska - 3pt jump shot missed" team="2" time="00:05" />
+    <LINE num="244" text="[LAT] K. Stolce - 2pt jump shot missed. S. Bujniak - defensive rebound (3 REB)" team="1" time="00:14" />
+    <LINE num="243" text="[POL] M. Radomska - 3pt jump shot missed. S. Kudule - defensive rebound (1 REB)" team="2" time="00:20" />
+    <LINE num="242" text="[POL] K. Poboży - 2pt jump shot missed. A. Rembiszewska - offensive rebound (3 REB)" team="2" time="00:34" />
+    <LINE num="241" text="[POL] Substitution - K. Poboży OUT, A. Rembiszewska IN" team="2" time="00:34" />
+    <LINE num="240" text="[LAT] Substitution - E. Berżina OUT, K. Stolce IN" team="1" time="00:34" />
+    <LINE num="239" text="[LAT] Substitution - D. Strautmane OUT, P. Strautmane IN" team="1" time="00:34" />
+    <LINE num="238" text="[LAT] I. Spigule - 2pt jump shot made (6 Pts). S. Kudule - assist (2 AS)" team="1" time="00:46" scoreA="48" scoreB="48" />
+    <LINE num="237" text="[POL] W. Zapart - 2pt jump shot made (fast break, 3 Pts). K. Poboży - assist (1 AS)" team="2" time="01:04" scoreA="46" scoreB="48" />
+    <LINE num="236" text="[LAT] I. Spigule - 2pt tip-in made (4 Pts)" team="1" time="01:12" scoreA="46" scoreB="46" />
+    <LINE num="235" text="[LAT] S. Kudule - 2pt jump shot missed. I. Spigule - offensive rebound (2 REB)" team="1" time="01:16" />
+    <LINE num="234" text="[POL] S. Bujniak - 2pt jump shot missed. V. Birina - defensive rebound (2 REB)" team="2" time="01:24" />
+    <LINE num="233" text="[LAT] V. Birina - 2pt jump shot missed. W. Zapart - defensive rebound (3 REB)" team="1" time="01:33" />
+    <LINE num="232" text="[POL] K. Poboży - 2pt jump shot missed. D. Strautmane - defensive rebound (6 REB)" team="2" time="01:48" />
+    <LINE num="231" text="[LAT] E. Berżina - 2pt jump shot missed. K. Poboży - defensive rebound (7 REB)" team="1" time="02:09" />
+    <LINE num="230" text="[POL] Substitution - J. Drop OUT, M. Radomska IN" team="2" time="02:23" />
+    <LINE num="229" text="[POL] K. Poboży - turnover (travelling, 2 TO)" team="2" time="02:23" />
+    <LINE num="228" text="[POL] S. Bujniak - 3pt jump shot missed. J. Drop - offensive rebound (4 REB)" team="2" time="02:33" />
+    <LINE num="227" text="[LAT] D. Strautmane - 2pt jump shot made (13 Pts)" team="1" time="02:46" scoreA="44" scoreB="46" />
+    <LINE num="226" text="[LAT] V. Birina - 3pt jump shot missed. D. Strautmane - offensive rebound (5 REB)" team="1" time="02:50" />
+    <LINE num="225" text="[POL] J. Drop - personal  foul (1 PF, 3rd team foul). Foul drawn: S. Kudule" team="2" time="03:05" />
+    <LINE num="224" text="[POL] S. Bujniak - turnover (bad pass, 1 TO). S. Kudule - steal (1 ST)" team="2" time="03:09" />
+    <LINE num="223" text="[LAT] E. Berżina - free throw made (3 Pts)" team="1" time="03:19" scoreA="42" scoreB="46" />
+    <LINE num="222" text="[LAT] E. Berżina - free throw made (2 Pts)" team="1" time="03:19" scoreA="41" scoreB="46" />
+    <LINE num="221" text="[LAT] Timeout" team="1" time="03:19" />
+    <LINE num="220" text="[POL] S. Bujniak - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: E. Berżina" team="2" time="03:19" />
+    <LINE num="219" text="[POL] J. Drop - 3pt jump shot made (14 Pts). J. Ossowska - assist (1 AS)" team="2" time="03:36" scoreA="40" scoreB="46" />
+    <LINE num="218" text="[LAT] V. Birina - 2pt jump shot missed. K. Poboży - defensive rebound (6 REB)" team="1" time="03:51" />
+    <LINE num="217" text="[POL] K. Poboży - 2pt jump shot made (2 Pts)" team="2" time="04:09" scoreA="40" scoreB="43" />
+    <LINE num="216" text="[LAT] S. Kudule - 3pt jump shot missed. K. Poboży - defensive rebound (5 REB)" team="1" time="04:36" />
+    <LINE num="215" text="[LAT] Substitution - M. Bergmane OUT, E. Berżina IN" team="1" time="04:44" />
+    <LINE num="214" text="[POL] Substitution - A. Stankiewicz OUT, J. Ossowska IN" team="2" time="04:44" />
+    <LINE num="213" text="[POL] A. Stankiewicz -  offensive foul (2 PF, 1st team foul). Foul drawn: M. Bergmane. A. Stankiewicz - turnover (offensive foul, 2 TO)" team="2" time="04:44" />
+    <LINE num="212" text="[POL] Substitution - M. Szajtauer OUT, W. Zapart IN" team="2" time="04:45" />
+    <LINE num="211" text="[LAT] Substitution - P. Strautmane OUT, I. Spigule IN" team="1" time="04:45" />
+    <LINE num="210" text="[LAT] P. Strautmane - personal  foul (2 PF, 3rd team foul). Foul drawn: A. Stankiewicz" team="1" time="04:45" />
+    <LINE num="209" text="[LAT] V. Birina - 2pt jump shot missed. A. Stankiewicz - defensive rebound (1 REB)" team="1" time="04:50" />
+    <LINE num="208" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Bergmane - defensive rebound (4 REB)" team="2" time="05:45" />
+    <LINE num="207" text="[LAT] P. Strautmane - 2pt jump shot made (fast break, 6 Pts). M. Bergmane - assist (1 AS)" team="1" time="05:45" scoreA="40" scoreB="41" />
+    <LINE num="206" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Bergmane - defensive rebound (3 REB)" team="2" time="05:45" />
+    <LINE num="205" text="[LAT] M. Bergmane - turnover (bad pass, 1 TO). A. Stankiewicz - steal (3 ST)" team="1" time="05:45" />
+    <LINE num="204" text="[POL] Substitution - M. Radomska OUT, K. Poboży IN" team="2" time="05:45" />
+    <LINE num="203" text="[POL] Substitution - A. Rembiszewska OUT, S. Bujniak IN" team="2" time="05:45" />
+    <LINE num="202" text="[LAT] Substitution - S. Dzarcane OUT, S. Kudule IN" team="1" time="05:45" />
+    <LINE num="201" text="[LAT] Substitution - E. Berżina OUT, D. Strautmane IN" team="1" time="05:45" />
+    <LINE num="200" text="[LAT] P. Strautmane - 2pt jump shot blocked. M. Szajtauer - block (2 BS)" team="1" time="05:49" />
+    <LINE num="199" text="[POL] J. Drop - 3pt jump shot missed. M. Bergmane - defensive rebound (2 REB)" team="2" time="06:10" />
+    <LINE num="198" text="[LAT] M. Bergmane - 3pt jump shot missed. J. Drop - defensive rebound (3 REB)" team="1" time="06:34" />
+    <LINE num="197" text="[POL] A. Rembiszewska - 2pt jump shot made (6 Pts). J. Drop - assist (2 AS)" team="2" time="06:52" scoreA="38" scoreB="41" />
+    <LINE num="196" text="[LAT] Substitution - A. Fridenberga OUT, M. Bergmane IN" team="1" time="06:59" />
+    <LINE num="195" text="[LAT] Substitution - P. Luke OUT, V. Birina IN" team="1" time="06:59" />
+    <LINE num="194" text="[LAT] P. Luke - personal  foul (4 PF, 2nd team foul). Foul drawn: M. Szajtauer" team="1" time="06:59" />
+    <LINE num="193" text="[LAT] A. Fridenberga - turnover (bad pass, 1 TO). A. Stankiewicz - steal (2 ST)" team="1" time="07:16" />
+    <LINE num="192" text="[POL] M. Radomska - turnover (bad pass, 2 TO). A. Fridenberga - steal (1 ST)" team="2" time="07:21" />
+    <LINE num="191" text="[LAT] P. Strautmane - 2pt jump shot made (fast break, 4 Pts). A. Fridenberga - assist (1 AS)" team="1" time="08:08" scoreA="38" scoreB="39" />
+    <LINE num="190" text="[POL] A. Stankiewicz - 2pt jump shot missed. A. Fridenberga - defensive rebound (5 REB)" team="2" time="08:08" />
+    <LINE num="189" text="[LAT] P. Luke - 3pt jump shot missed. A. Rembiszewska - defensive rebound (2 REB)" team="1" time="08:08" />
+    <LINE num="188" text="[POL] M. Radomska - 2pt jump shot made (2 Pts). A. Stankiewicz - assist (2 AS)" team="2" time="08:30" scoreA="36" scoreB="39" />
+    <LINE num="187" text="[LAT] A. Fridenberga - personal  foul (4 PF, 1st team foul). Foul drawn: A. Rembiszewska" team="1" time="08:39" />
+    <LINE num="186" text="[LAT] A. Fridenberga - 3pt jump shot made (10 Pts). P. Strautmane - assist (2 AS)" team="1" time="08:57" scoreA="36" scoreB="37" />
+    <LINE num="185" text="[POL] J. Drop - 2pt jump shot made (11 Pts). A. Stankiewicz - assist (1 AS)" team="2" time="09:15" scoreA="33" scoreB="37" />
+    <LINE num="184" text="[LAT] P. Luke - 2pt jump shot missed. J. Drop - defensive rebound (2 REB)" team="1" time="09:27" />
+    <LINE num="183" text="[POL] J. Drop - 2pt jump shot missed. S. Dzarcane - defensive rebound (3 REB)" team="2" time="09:47" />
+    <LINE num="182" text="[POL] Substitution - J. Ossowska OUT, M. Radomska IN" team="2" time="10:00" />
+    <LINE num="181" text="[POL] Substitution - A. Wajler OUT, A. Rembiszewska IN" team="2" time="10:00" />
+    <LINE num="180" text="[LAT] Substitution - I. Spigule OUT, P. Strautmane IN" team="1" time="10:00" />
+    <LINE num="179" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="178" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="177" text="[POL] J. Ossowska - 2pt jump shot missed" team="2" time="00:03" />
+    <LINE num="176" text="[LAT] E. Berżina - personal  foul (2 PF, 4th team foul). Foul drawn: J. Drop" team="1" time="00:07" />
+    <LINE num="175" text="[LAT] A. Fridenberga - 3pt jump shot made (fast break, 7 Pts). I. Spigule - assist (1 AS)" team="1" time="00:07" scoreA="33" scoreB="35" />
+    <LINE num="174" text="[POL] J. Drop - 3pt jump shot missed. S. Dzarcane - defensive rebound (2 REB)" team="2" time="00:11" />
+    <LINE num="173" text="[LAT] S. Dzarcane - 2pt jump shot made (7 Pts)" team="1" time="00:34" scoreA="30" scoreB="35" />
+    <LINE num="172" text="[POL] J. Ossowska - 2pt jump shot missed. A. Fridenberga - defensive rebound (4 REB)" team="2" time="00:51" />
+    <LINE num="171" text="[LAT] I. Spigule - free throw missed. J. Drop - defensive rebound (1 REB)" team="1" time="00:57" />
+    <LINE num="170" text="[POL] A. Wajler - personal shooting foul (1 PF, 6th team foul). One free throw awarded. Foul drawn: I. Spigule" team="2" time="00:57" />
+    <LINE num="169" text="[LAT] I. Spigule - 2pt jump shot made (fast break, 2 Pts). P. Luke - assist (2 AS)" team="1" time="01:06" scoreA="28" scoreB="35" />
+    <LINE num="168" text="[POL] A. Stankiewicz - 2pt jump shot missed. A. Fridenberga - defensive rebound (3 REB)" team="2" time="01:14" />
+    <LINE num="167" text="[LAT] Substitution - K. Stolce OUT, S. Dzarcane IN" team="1" time="01:26" />
+    <LINE num="166" text="[LAT] K. Stolce - turnover (travelling, 1 TO)" team="1" time="01:26" />
+    <LINE num="165" text="[POL] Timeout" team="2" time="01:48" />
+    <LINE num="164" text="[POL] A. Wajler - 3pt jump shot missed. Team offensive rebound" team="2" time="01:52" />
+    <LINE num="163" text="[LAT] K. Stolce - 2pt jump shot missed. A. Wajler - defensive rebound (1 REB)" team="1" time="02:02" />
+    <LINE num="162" text="[POL] J. Ossowska - 3pt jump shot missed. K. Stolce - defensive rebound (1 REB)" team="2" time="02:16" />
+    <LINE num="161" text="[LAT] A. Fridenberga - 2pt jump shot made (4 Pts). P. Luke - assist (1 AS)" team="1" time="02:40" scoreA="26" scoreB="35" />
+    <LINE num="160" text="[POL] A. Stankiewicz - 3pt jump shot made (7 Pts). J. Drop - assist (1 AS)" team="2" time="02:57" scoreA="24" scoreB="35" />
+    <LINE num="159" text="[LAT] E. Berżina - free throw missed" team="1" time="03:09" />
+    <LINE num="158" text="[LAT] E. Berżina - free throw made (1 Pts)" team="1" time="03:09" scoreA="24" scoreB="32" />
+    <LINE num="157" text="[POL] A. Stankiewicz - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: E. Berżina" team="2" time="03:09" />
+    <LINE num="156" text="[POL] J. Drop - 2pt jump shot made (9 Pts)" team="2" time="03:24" scoreA="23" scoreB="32" />
+    <LINE num="155" text="[POL] M. Szajtauer - 2pt jump shot missed. M. Szajtauer - offensive rebound (7 REB)" team="2" time="03:34" />
+    <LINE num="154" text="[LAT] I. Spigule - turnover (out of bounds, 2 TO)" team="1" time="04:17" />
+    <LINE num="153" text="[POL] Substitution - K. Poboży OUT, A. Wajler IN" team="2" time="05:12" />
+    <LINE num="152" text="[LAT] Substitution - P. Strautmane OUT, A. Fridenberga IN" team="1" time="05:12" />
+    <LINE num="151" text="[LAT] Substitution - M. Bergmane OUT, K. Stolce IN" team="1" time="05:12" />
+    <LINE num="150" text="[LAT] Substitution - D. Strautmane OUT, E. Berżina IN" team="1" time="05:12" />
+    <LINE num="149" text="[POL] K. Poboży -  offensive foul (1 PF, 4th team foul). Foul drawn: M. Bergmane. K. Poboży - turnover (offensive foul, 1 TO)" team="2" time="05:12" />
+    <LINE num="148" text="[POL] Substitution - M. Radomska OUT, M. Szajtauer IN" team="2" time="05:58" />
+    <LINE num="147" text="[POL] Substitution - A. Rembiszewska OUT, J. Ossowska IN" team="2" time="05:58" />
+    <LINE num="146" text="[POL] Substitution - S. Bujniak OUT, A. Stankiewicz IN" team="2" time="05:58" />
+    <LINE num="145" text="[LAT] Substitution - S. Kudule OUT, I. Spigule IN" team="1" time="05:58" />
+    <LINE num="144" text="[LAT] P. Strautmane - personal  foul (1 PF, 3rd team foul). Foul drawn: M. Radomska" team="1" time="05:58" />
+    <LINE num="143" text="[LAT] M. Bergmane - 2pt jump shot missed. K. Poboży - defensive rebound (4 REB)" team="1" time="05:58" />
+    <LINE num="142" text="[LAT] D. Strautmane - 2pt jump shot missed. P. Strautmane - offensive rebound (2 REB)" team="1" time="05:58" />
+    <LINE num="141" text="[POL] J. Drop - 3pt jump shot made (fast break, 7 Pts). M. Radomska - assist (2 AS)" team="2" time="05:58" scoreA="23" scoreB="30" />
+    <LINE num="140" text="[LAT] P. Strautmane - 2pt tip-in made (fast break, 2 Pts)" team="1" time="05:58" scoreA="23" scoreB="27" />
+    <LINE num="139" text="[LAT] P. Strautmane - 2pt jump shot missed. P. Strautmane - offensive rebound (1 REB)" team="1" time="05:58" />
+    <LINE num="138" text="[POL] M. Radomska - 3pt jump shot missed. M. Bergmane - defensive rebound (1 REB)" team="2" time="05:58" />
+    <LINE num="137" text="[LAT] D. Strautmane - 2pt jump shot missed. S. Bujniak - defensive rebound (2 REB)" team="1" time="05:58" />
+    <LINE num="136" text="[LAT] M. Bergmane - 3pt jump shot missed. Team defensive rebound" team="1" time="06:01" />
+    <LINE num="135" text="[POL] A. Rembiszewska - turnover (travelling, 1 TO)" team="2" time="06:15" />
+    <LINE num="134" text="[LAT] P. Luke - block (1 BS)" team="1" time="06:19" />
+    <LINE num="133" text="[POL] M. Radomska - 2pt jump shot missed. K. Poboży - offensive rebound (3 REB)" team="2" time="06:25" />
+    <LINE num="132" text="[POL] Substitution - W. Zapart OUT, K. Poboży IN" team="2" time="06:35" />
+    <LINE num="131" text="[LAT] P. Luke -  offensive foul (3 PF, 2nd team foul). Foul drawn: A. Rembiszewska. P. Luke - turnover (offensive foul, 2 TO)" team="1" time="06:35" />
+    <LINE num="130" text="[LAT] Substitution - S. Dzarcane OUT, P. Luke IN" team="1" time="06:39" />
+    <LINE num="129" text="[POL] A. Rembiszewska - personal  foul (1 PF, 3rd team foul). Foul drawn: D. Strautmane" team="2" time="06:39" />
+    <LINE num="128" text="[POL] J. Drop - 3pt jump shot made (4 Pts). M. Radomska - assist (1 AS)" team="2" time="06:50" scoreA="21" scoreB="27" />
+    <LINE num="127" text="[LAT] S. Dzarcane - free throw missed. S. Bujniak - defensive rebound (1 REB)" team="1" time="07:06" />
+    <LINE num="126" text="[LAT] S. Dzarcane - free throw made (5 Pts)" team="1" time="07:06" scoreA="21" scoreB="24" />
+    <LINE num="125" text="[LAT] Substitution - A. Fridenberga OUT, P. Strautmane IN" team="1" time="07:06" />
+    <LINE num="124" text="[POL] S. Bujniak - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: S. Dzarcane" team="2" time="07:06" />
+    <LINE num="123" text="[POL] M. Radomska - 3pt jump shot blocked. M. Bergmane - block (1 BS). A. Fridenberga - defensive rebound (2 REB)" team="2" time="07:17" />
+    <LINE num="122" text="[LAT] A. Fridenberga - personal  foul (3 PF, 1st team foul). Foul drawn: M. Radomska" team="1" time="07:27" />
+    <LINE num="121" text="[POL] A. Rembiszewska - 2pt jump shot made (4 Pts)" team="2" time="07:35" scoreA="20" scoreB="24" />
+    <LINE num="120" text="[LAT] D. Strautmane - 2pt jump shot made (11 Pts)" team="1" time="07:55" scoreA="20" scoreB="22" />
+    <LINE num="119" text="[LAT] D. Strautmane - 2pt jump shot blocked. W. Zapart - block (1 BS). D. Strautmane - offensive rebound (4 REB)" team="1" time="08:03" />
+    <LINE num="118" text="[LAT] M. Bergmane - 3pt jump shot missed. D. Strautmane - offensive rebound (3 REB)" team="1" time="08:06" />
+    <LINE num="117" text="[LAT] Substitution - L. Grabe OUT, M. Bergmane IN" team="1" time="08:22" />
+    <LINE num="116" text="[POL] Substitution - M. Naczk OUT, J. Drop IN" team="2" time="08:22" />
+    <LINE num="115" text="[POL] Substitution - J. Ossowska OUT, M. Radomska IN" team="2" time="08:35" />
+    <LINE num="114" text="[POL] Substitution - A. Stankiewicz OUT, S. Bujniak IN" team="2" time="08:35" />
+    <LINE num="113" text="[LAT] Substitution - E. Berżina OUT, L. Grabe IN" team="1" time="08:35" />
+    <LINE num="112" text="[LAT] S. Dzarcane - 2pt jump shot made (4 Pts). D. Strautmane - assist (2 AS)" team="1" time="08:35" scoreA="18" scoreB="22" />
+    <LINE num="111" text="[LAT] S. Dzarcane - 3pt jump shot made (2 Pts)" team="1" time="08:43" scoreA="16" scoreB="22" deleted="1" />
+    <LINE num="110" text="[POL] A. Stankiewicz - 2pt lay-up made (fast break, 4 Pts)" team="2" time="09:05" scoreA="16" scoreB="22" />
+    <LINE num="109" text="[LAT] E. Berżina - turnover (bad pass, 3 TO). A. Stankiewicz - steal (1 ST)" team="1" time="09:08" />
+    <LINE num="108" text="[POL] M. Naczk - 3pt jump shot missed. S. Dzarcane - defensive rebound (1 REB)" team="2" time="09:18" />
+    <LINE num="107" text="[LAT] A. Fridenberga - 2pt jump shot missed. M. Naczk - defensive rebound (1 REB)" team="1" time="09:41" />
+    <LINE num="106" text="[POL] J. Ossowska - personal  foul (1 PF, 1st team foul). Foul drawn: A. Fridenberga" team="2" time="09:57" />
+    <LINE num="105" text="[POL] Substitution - M. Szajtauer OUT, A. Rembiszewska IN" team="2" time="10:00" />
+    <LINE num="104" text="[POL] Substitution - S. Bujniak OUT, A. Stankiewicz IN" team="2" time="10:00" />
+    <LINE num="103" text="[LAT] Substitution - P. Luke OUT, S. Dzarcane IN" team="1" time="10:00" />
+    <LINE num="102" text="[LAT] Substitution - I. Spigule OUT, E. Berżina IN" team="1" time="10:00" />
+    <LINE num="101" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="100" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="99" text="[POL] M. Szajtauer - 2pt jump shot blocked. D. Strautmane - block (1 BS). D. Strautmane - defensive rebound (2 REB)" team="2" time="00:03" />
+    <LINE num="98" text="[LAT] A. Fridenberga - 2pt jump shot missed. M. Szajtauer - defensive rebound (6 REB)" team="1" time="00:24" />
+    <LINE num="97" text="[POL] M. Szajtauer - personal  foul (1 PF, 3rd team foul). Foul drawn: P. Luke" team="2" time="00:24" />
+    <LINE num="96" text="[LAT] P. Luke - 2pt jump shot blocked. M. Szajtauer - block (1 BS)" team="1" time="00:27" />
+    <LINE num="95" text="[POL] M. Szajtauer - 2pt lay-up made (fast break, 6 Pts)" team="2" time="00:41" scoreA="16" scoreB="20" />
+    <LINE num="94" text="[LAT] I. Spigule - turnover (bad pass, 1 TO). M. Szajtauer - steal (1 ST)" team="1" time="00:45" />
+    <LINE num="93" text="[POL] S. Bujniak - free throw made (8 Pts)" team="2" time="01:02" scoreA="16" scoreB="18" />
+    <LINE num="92" text="[LAT] S. Kudule - personal shooting foul (1 PF, 7th team foul). One free throw awarded. Foul drawn: S. Bujniak" team="1" time="01:02" />
+    <LINE num="91" text="[POL] S. Bujniak - 2pt jump shot made (7 Pts)" team="2" time="01:02" scoreA="16" scoreB="17" />
+    <LINE num="90" text="[LAT] Substitution - P. Strautmane OUT, A. Fridenberga IN" team="1" time="01:09" />
+    <LINE num="89" text="[LAT] Substitution - V. Birina OUT, P. Luke IN" team="1" time="01:09" />
+    <LINE num="88" text="[LAT] V. Birina - turnover (back court violation, 1 TO)" team="1" time="01:09" />
+    <LINE num="87" text="[POL] W. Zapart - free throw missed. I. Spigule - defensive rebound (1 REB)" team="2" time="01:26" />
+    <LINE num="86" text="[POL] W. Zapart - free throw made (1 Pts)" team="2" time="01:26" scoreA="16" scoreB="15" />
+    <LINE num="85" text="[LAT] Substitution - E. Berżina OUT, I. Spigule IN" team="1" time="01:26" />
+    <LINE num="84" text="[LAT] E. Berżina - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: W. Zapart" team="1" time="01:26" />
+    <LINE num="83" text="[LAT] E. Berżina - 2pt jump shot missed. W. Zapart - defensive rebound (2 REB)" team="1" time="01:30" />
+    <LINE num="82" text="[POL] Substitution - A. Stankiewicz OUT, S. Bujniak IN" team="2" time="01:40" />
+    <LINE num="81" text="[POL] M. Naczk - personal  foul (1 PF, 2nd team foul). Foul drawn: S. Kudule" team="2" time="01:40" />
+    <LINE num="80" text="[POL] M. Szajtauer - 2pt tip-in made (4 Pts)" team="2" time="01:48" scoreA="16" scoreB="14" />
+    <LINE num="79" text="[POL] A. Stankiewicz - 3pt jump shot missed. M. Szajtauer - offensive rebound (5 REB)" team="2" time="01:51" />
+    <LINE num="78" text="[POL] A. Stankiewicz - 2pt jump shot missed. W. Zapart - offensive rebound (1 REB)" team="2" time="02:00" />
+    <LINE num="77" text="[POL] J. Ossowska - 3pt jump shot missed. M. Szajtauer - offensive rebound (4 REB)" team="2" time="02:08" />
+    <LINE num="76" text="[LAT] D. Strautmane - 2pt jump shot made (9 Pts). P. Strautmane - assist (1 AS)" team="1" time="02:31" scoreA="16" scoreB="12" />
+    <LINE num="75" text="[POL] A. Stankiewicz - 2pt lay-up made (fast break, 2 Pts)" team="2" time="02:44" scoreA="14" scoreB="12" />
+    <LINE num="74" text="[LAT] E. Berżina - turnover (bad pass, 2 TO). M. Naczk - steal (1 ST)" team="1" time="02:49" />
+    <LINE num="73" text="[POL] M. Szajtauer - free throw made (2 Pts)" team="2" time="03:08" scoreA="14" scoreB="10" />
+    <LINE num="72" text="[POL] M. Szajtauer - free throw made (1 Pts)" team="2" time="03:08" scoreA="14" scoreB="9" />
+    <LINE num="71" text="[POL] Substitution - K. Poboży OUT, W. Zapart IN" team="2" time="03:08" />
+    <LINE num="70" text="[POL] Substitution - J. Drop OUT, M. Naczk IN" team="2" time="03:08" />
+    <LINE num="69" text="[LAT] Substitution - P. Luke OUT, S. Kudule IN" team="1" time="03:08" />
+    <LINE num="68" text="[LAT] Substitution - M. Bergmane OUT, D. Strautmane IN" team="1" time="03:08" />
+    <LINE num="67" text="[LAT] P. Luke - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Szajtauer" team="1" time="03:08" />
+    <LINE num="66" text="[LAT] E. Berżina - turnover (bad pass, 1 TO). J. Drop - steal (1 ST)" team="1" time="03:19" />
+    <LINE num="65" text="[POL] A. Stankiewicz - 2pt jump shot missed. E. Berżina - defensive rebound (2 REB)" team="2" time="03:21" />
+    <LINE num="64" text="[LAT] M. Bergmane - 2pt jump shot missed. K. Poboży - defensive rebound (2 REB)" team="1" time="03:45" />
+    <LINE num="63" text="[POL] A. Stankiewicz - 3pt jump shot missed. V. Birina - defensive rebound (1 REB)" team="2" time="04:03" />
+    <LINE num="62" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Szajtauer - offensive rebound (3 REB)" team="2" time="04:10" />
+    <LINE num="61" text="[LAT] Substitution - L. Grabe OUT, E. Berżina IN" team="1" time="04:20" />
+    <LINE num="60" text="[POL] Substitution - M. Radomska OUT, J. Ossowska IN" team="2" time="04:48" />
+    <LINE num="59" text="[POL] Substitution - S. Bujniak OUT, A. Stankiewicz IN" team="2" time="04:48" />
+    <LINE num="58" text="[POL] J. Drop - turnover (out of bounds, 1 TO)" team="2" time="04:48" />
+    <LINE num="57" text="[LAT] L. Grabe - 2pt jump shot missed. M. Szajtauer - defensive rebound (2 REB)" team="1" time="04:56" />
+    <LINE num="56" text="[POL] M. Radomska - 3pt jump shot missed. P. Luke - defensive rebound (1 REB)" team="2" time="05:10" />
+    <LINE num="55" text="[LAT] P. Luke - 3pt jump shot made (3 Pts)" team="1" time="05:27" scoreA="14" scoreB="8" />
+    <LINE num="54" text="[POL] M. Radomska - personal  foul (1 PF, 1st team foul). Foul drawn: P. Strautmane" team="2" time="05:35" />
+    <LINE num="53" text="[POL] J. Drop - free throw made (1 Pts)" team="2" time="05:43" scoreA="11" scoreB="8" />
+    <LINE num="52" text="[POL] J. Drop - free throw missed" team="2" time="05:43" />
+    <LINE num="51" text="[POL] Substitution - A. Rembiszewska OUT, M. Szajtauer IN" team="2" time="05:43" />
+    <LINE num="50" text="[LAT] Substitution - S. Kudule OUT, L. Grabe IN" team="1" time="05:43" />
+    <LINE num="49" text="[LAT] Substitution - K. Stolce OUT, V. Birina IN" team="1" time="05:43" />
+    <LINE num="48" text="[LAT] Timeout" team="1" time="05:43" />
+    <LINE num="47" text="[LAT] P. Luke - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: J. Drop" team="1" time="05:43" />
+    <LINE num="46" text="[LAT] S. Kudule - turnover (bad pass, 1 TO). S. Bujniak - steal (1 ST)" team="1" time="05:49" />
+    <LINE num="45" text="[POL] A. Rembiszewska - 2pt jump shot made (fast break, 2 Pts)" team="2" time="05:49" scoreA="11" scoreB="7" />
+    <LINE num="44" text="[LAT] S. Kudule - 2pt jump shot missed. K. Poboży - defensive rebound (1 REB)" team="1" time="05:49" />
+    <LINE num="43" text="[POL] S. Bujniak - 3pt jump shot made (fast break, 5 Pts). A. Rembiszewska - assist (1 AS)" team="2" time="06:08" scoreA="11" scoreB="5" />
+    <LINE num="42" text="[LAT] P. Luke - turnover (bad pass, 1 TO). A. Rembiszewska - steal (2 ST)" team="1" time="06:12" />
+    <LINE num="41" text="[POL] M. Radomska - turnover (bad pass, 1 TO). P. Luke - steal (1 ST)" team="2" time="06:14" />
+    <LINE num="40" text="[LAT] P. Strautmane - turnover (bad pass, 1 TO). A. Rembiszewska - steal (1 ST)" team="1" time="06:20" />
+    <LINE num="39" text="[POL] Substitution - M. Naczk OUT, S. Bujniak IN" team="2" time="06:25" />
+    <LINE num="38" text="[POL] Substitution - S. Bujniak OUT, J. Drop IN" team="2" time="06:25" />
+    <LINE num="37" text="[POL] Team turnover (24 seconds)" team="2" time="06:25" />
+    <LINE num="36" text="[LAT] Substitution - A. Fridenberga OUT, P. Strautmane IN" team="1" time="06:39" />
+    <LINE num="35" text="[LAT] Substitution - D. Strautmane OUT, P. Luke IN" team="1" time="06:39" />
+    <LINE num="34" text="[LAT] A. Fridenberga - personal  foul (2 PF, 3rd team foul). Foul drawn: M. Radomska" team="1" time="06:39" />
+    <LINE num="33" text="[LAT] D. Strautmane - 2pt jump shot made (7 Pts). K. Stolce - assist (1 AS)" team="1" time="06:53" scoreA="11" scoreB="2" />
+    <LINE num="32" text="[POL] S. Bujniak - free throw made (2 Pts)" team="2" time="07:15" scoreA="9" scoreB="2" />
+    <LINE num="31" text="[POL] S. Bujniak - free throw made (1 Pts)" team="2" time="07:15" scoreA="9" scoreB="1" />
+    <LINE num="30" text="[LAT] Substitution - S. Dzarcane OUT, K. Stolce IN" team="1" time="07:15" />
+    <LINE num="29" text="[LAT] Substitution - E. Berżina OUT, M. Bergmane IN" team="1" time="07:15" />
+    <LINE num="28" text="[LAT] S. Dzarcane - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: S. Bujniak" team="1" time="07:15" />
+    <LINE num="27" text="[LAT] S. Dzarcane - 2pt jump shot missed. A. Rembiszewska - defensive rebound (1 REB)" team="1" time="07:25" />
+    <LINE num="26" text="[POL] Team turnover (24 seconds)" team="2" time="07:38" />
+    <LINE num="25" text="[POL] Substitution - M. Szajtauer OUT, K. Poboży IN" team="2" time="07:52" />
+    <LINE num="24" text="[LAT] A. Fridenberga - personal  foul (1 PF, 1st team foul). Foul drawn: M. Radomska" team="1" time="07:52" />
+    <LINE num="23" text="[LAT] D. Strautmane - 3pt jump shot made (5 Pts). S. Kudule - assist (1 AS)" team="1" time="08:06" scoreA="9" scoreB="0" />
+    <LINE num="22" text="[POL] M. Szajtauer - 2pt jump shot missed. D. Strautmane - defensive rebound (1 REB)" team="2" time="08:24" />
+    <LINE num="21" text="[POL] M. Naczk - 2pt jump shot missed. M. Szajtauer - offensive rebound (1 REB)" team="2" time="08:28" />
+    <LINE num="20" text="[POL] Substitution - A. Stankiewicz OUT, S. Bujniak IN" team="2" time="08:47" />
+    <LINE num="19" text="[POL] Timeout" team="2" time="08:47" />
+    <LINE num="18" text="[LAT] A. Fridenberga - 2pt jump shot made (2 Pts). E. Berżina - assist (1 AS)" team="1" time="08:54" scoreA="6" scoreB="0" />
+    <LINE num="17" text="[POL] A. Stankiewicz - 2pt jump shot missed. E. Berżina - defensive rebound (1 REB)" team="2" time="09:04" />
+    <LINE num="16" text="[LAT] D. Strautmane - 2pt jump shot made (2 Pts)" team="1" time="09:16" scoreA="4" scoreB="0" />
+    <LINE num="15" text="[POL] M. Naczk - 2pt jump shot missed. A. Fridenberga - defensive rebound (1 REB)" team="2" time="09:26" />
+    <LINE num="14" text="[LAT] S. Dzarcane - 2pt jump shot made (2 Pts). D. Strautmane - assist (1 AS)" team="1" time="09:46" scoreA="2" scoreB="0" />
+    <LINE num="13" text="[LAT] A. Fridenberga - 2pt jump shot blocked. M. Radomska - block (1 BS)" team="1" time="09:53" />
+    <LINE num="12" text="[POL] A. Stankiewicz - turnover (bad pass, 1 TO). S. Dzarcane - steal (1 ST)" team="2" time="09:55" />
+    <LINE num="11" text="[POL] Substitution - M. Szajtauer IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[POL] Substitution - M. Radomska IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[POL] Substitution - A. Rembiszewska IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[POL] Substitution - M. Naczk IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[POL] Substitution - A. Stankiewicz IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[LAT] Substitution - S. Kudule IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[LAT] Substitution - A. Fridenberga IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[LAT] Substitution - S. Dzarcane IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[LAT] Substitution - E. Berżina IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[LAT] Substitution - D. Strautmane IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="15.5963">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

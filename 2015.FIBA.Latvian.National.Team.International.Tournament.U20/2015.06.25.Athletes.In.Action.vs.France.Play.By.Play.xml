@@ -1,0 +1,342 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="93.5651">
+    <TEAM name="Athletes in Action (USA)" logo="" pts="40" fouls="4" />
+    <TEAM name="Francja" logo="http://live.fibaeurope.com/www/gallery/9CFA807E-B803-491A-B43A-097D0737F9A5.jpg" pts="46" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="14" scoreB="15" />
+      <QUARTER n="2" scoreA="8" scoreB="9" />
+      <QUARTER n="3" scoreA="8" scoreB="13" />
+      <QUARTER n="4" scoreA="10" scoreB="9" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Athletes in Action (USA) - 0 points in the last 02:23" duration="15.6049">
+    <ITEM text="Athletes in Action (USA) - 47.1% FT (8/17)" />
+  </TICKER>
+  <OVERVIEW duration="46.8184" />
+  <PLAYBYPLAY duration="155.9783">
+    <LINE num="311" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="310" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="309" text="[AIA] B. Lewis - 2pt jump shot missed. Team defensive rebound" team="1" time="00:12" />
+    <LINE num="308" text="[AIA] F. Randolph - 2pt jump shot missed. B. Lewis - offensive rebound (6 REB)" team="1" time="00:12" />
+    <LINE num="307" text="[FRA] M. Mane - personal  foul (3 PF, 4th team foul). Foul drawn: J. Jones" team="2" time="00:28" />
+    <LINE num="306" text="[FRA] B. Agblemagnon - turnover (ball handling, 3 TO). J. Jones - steal (6 ST)" team="2" time="00:28" />
+    <LINE num="305" text="[FRA] Timeout" team="2" time="00:38" />
+    <LINE num="304" text="[AIA] J. Jones - personal  foul (3 PF, 4th team foul). Foul drawn: M. Vidal-Geneve" team="1" time="00:38" />
+    <LINE num="303" text="[AIA] F. Randolph - 2pt jump shot blocked. M. Mane - block (1 BS)" team="1" time="00:45" />
+    <LINE num="302" text="[FRA] Team turnover (24 seconds)" team="2" time="00:50" />
+    <LINE num="301" text="[FRA] Substitution - M. Johannes OUT, C. Morateur IN" team="2" time="01:08" />
+    <LINE num="300" text="[AIA] L. Brown - 3pt jump shot blocked. M. Johannes - block (1 BS)" team="1" time="01:12" />
+    <LINE num="299" text="[FRA] M. Johannes - 2pt jump shot missed. B. Lewis - defensive rebound (5 REB)" team="2" time="01:37" />
+    <LINE num="298" text="[AIA] B. Lewis - 2pt jump shot missed. B. Agblemagnon - defensive rebound (2 REB)" team="1" time="01:57" />
+    <LINE num="297" text="[FRA] M. Mane - 2pt jump shot made (8 Pts). M. Johannes - assist (5 AS)" team="2" time="02:08" scoreA="40" scoreB="46" />
+    <LINE num="296" text="[AIA] M. Billings - 2pt jump shot made (6 Pts)" team="1" time="02:23" scoreA="40" scoreB="44" />
+    <LINE num="295" text="[FRA] M. Mane - free throw made (6 Pts)" team="2" time="02:36" scoreA="38" scoreB="44" />
+    <LINE num="294" text="[FRA] M. Mane - free throw made (5 Pts)" team="2" time="02:36" scoreA="38" scoreB="43" />
+    <LINE num="293" text="[AIA] Substitution - M. Buck OUT, F. Randolph IN" team="1" time="02:36" />
+    <LINE num="292" text="[AIA] L. Brown - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: M. Mane" team="1" time="02:36" />
+    <LINE num="291" text="[AIA] J. Jones - 2pt jump shot missed. B. Agblemagnon - defensive rebound (1 REB)" team="1" time="02:53" />
+    <LINE num="290" text="[FRA] M. Johannes - turnover (bad pass, 5 TO). M. Buck - steal (1 ST)" team="2" time="03:01" />
+    <LINE num="289" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. C. Djaldi Tabdi - offensive rebound (4 REB)" team="2" time="03:16" />
+    <LINE num="288" text="[FRA] M. Vidal-Geneve - 2pt jump shot missed. M. Vidal-Geneve - offensive rebound (6 REB)" team="2" time="03:32" />
+    <LINE num="287" text="[AIA] J. Jones - turnover (ball handling, 2 TO). M. Vidal-Geneve - steal (1 ST)" team="1" time="03:36" />
+    <LINE num="286" text="[AIA] Timeout" team="1" time="03:46" />
+    <LINE num="285" text="[FRA] B. Agblemagnon - free throw made (8 Pts)" team="2" time="03:46" scoreA="38" scoreB="42" />
+    <LINE num="284" text="[FRA] B. Agblemagnon - free throw missed" team="2" time="03:46" />
+    <LINE num="283" text="[AIA] B. Lewis - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: B. Agblemagnon" team="1" time="03:46" />
+    <LINE num="282" text="[AIA] L. Brown - 2pt jump shot blocked. C. Djaldi Tabdi - block (1 BS). C. Djaldi Tabdi - defensive rebound (3 REB)" team="1" time="03:53" />
+    <LINE num="281" text="[FRA] M. Vidal-Geneve - personal  foul (1 PF, 3rd team foul). Foul drawn: M. Billings" team="2" time="03:58" />
+    <LINE num="280" text="[FRA] M. Johannes - 3pt jump shot missed. L. Brown - defensive rebound (1 REB)" team="2" time="04:06" />
+    <LINE num="279" text="[AIA] J. Jones - 2pt lay-up made (10 Pts)" team="1" time="04:26" scoreA="38" scoreB="41" />
+    <LINE num="278" text="[FRA] Substitution - E. Naigre OUT, C. Djaldi Tabdi IN" team="2" time="04:41" />
+    <LINE num="277" text="[FRA] Substitution - A. Traore OUT, M. Mane IN" team="2" time="04:41" />
+    <LINE num="276" text="[AIA] Substitution - E. Young OUT, M. Billings IN" team="1" time="04:41" />
+    <LINE num="275" text="[FRA] E. Naigre - 2pt jump shot missed. B. Lewis - defensive rebound (4 REB)" team="2" time="04:47" />
+    <LINE num="274" text="[AIA] E. Young - turnover (bad pass, 2 TO). M. Johannes - steal (2 ST)" team="1" time="04:59" />
+    <LINE num="273" text="[AIA] Substitution - F. Randolph OUT, J. Jones IN" team="1" time="05:18" />
+    <LINE num="272" text="[FRA] Team turnover (24 seconds)" team="2" time="05:18" />
+    <LINE num="271" text="[AIA] F. Randolph - 2pt jump shot missed. Team defensive rebound" team="1" time="05:44" />
+    <LINE num="270" text="[AIA] Substitution - A. Seay OUT, M. Buck IN" team="1" time="06:00" />
+    <LINE num="269" text="[FRA] Timeout" team="2" time="06:00" />
+    <LINE num="268" text="[FRA] A. Traore - personal  foul (2 PF, 2nd team foul). Foul drawn: E. Young" team="2" time="06:00" />
+    <LINE num="267" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. A. Traore - offensive rebound (3 REB)" team="2" time="06:03" />
+    <LINE num="266" text="[FRA] A. Traore - 2pt jump shot missed. E. Naigre - offensive rebound (4 REB)" team="2" time="06:07" />
+    <LINE num="265" text="[AIA] B. Lewis - 2pt jump shot made (8 Pts). L. Brown - assist (1 AS)" team="1" time="06:29" scoreA="36" scoreB="41" />
+    <LINE num="264" text="[FRA] E. Naigre - turnover (bad pass, 1 TO). E. Young - steal (2 ST)" team="2" time="06:42" />
+    <LINE num="263" text="[AIA] B. Lewis - 2pt tip-in made (6 Pts)" team="1" time="07:00" scoreA="34" scoreB="41" />
+    <LINE num="262" text="[AIA] F. Randolph - 2pt jump shot missed. B. Lewis - offensive rebound (3 REB)" team="1" time="07:04" />
+    <LINE num="261" text="[AIA] Timeout" team="1" time="07:29" />
+    <LINE num="260" text="[FRA] E. Naigre - free throw made (5 Pts)" team="2" time="07:29" scoreA="32" scoreB="41" />
+    <LINE num="259" text="[FRA] E. Naigre - free throw made (4 Pts)" team="2" time="07:29" scoreA="32" scoreB="40" />
+    <LINE num="258" text="[AIA] Substitution - C. Johnson OUT, A. Seay IN" team="1" time="07:29" />
+    <LINE num="257" text="[AIA] Substitution - J. Jones OUT, E. Young IN" team="1" time="07:29" />
+    <LINE num="256" text="[AIA] C. Johnson - personal shooting foul (2 PF, 1st team foul). 2 free throws awarded. Foul drawn: E. Naigre" team="1" time="07:29" />
+    <LINE num="255" text="[FRA] A. Traore - 2pt jump shot missed. M. Johannes - offensive rebound (5 REB)" team="2" time="07:40" />
+    <LINE num="254" text="[AIA] J. Jones - 3pt jump shot missed. E. Naigre - defensive rebound (3 REB)" team="1" time="08:04" />
+    <LINE num="253" text="[AIA] F. Randolph - 2pt jump shot missed. J. Jones - offensive rebound (3 REB)" team="1" time="08:10" />
+    <LINE num="252" text="[FRA] B. Agblemagnon - 2pt jump shot made (7 Pts). M. Johannes - assist (4 AS)" team="2" time="08:30" scoreA="32" scoreB="39" />
+    <LINE num="251" text="[AIA] J. Jones - 2pt jump shot missed. A. Traore - defensive rebound (2 REB)" team="1" time="08:53" />
+    <LINE num="250" text="[AIA] B. Lewis - defensive rebound (2 REB)" team="1" time="09:12" />
+    <LINE num="249" text="[AIA] Substitution - M. Buck OUT, L. Brown IN" team="1" time="09:12" />
+    <LINE num="248" text="[FRA] E. Naigre - personal  foul (4 PF, 1st team foul). Foul drawn: B. Lewis" team="2" time="09:12" />
+    <LINE num="247" text="[FRA] M. Johannes - 3pt jump shot missed" team="2" time="09:17" />
+    <LINE num="246" text="[AIA] F. Randolph - 2pt lay-up made (4 Pts)" team="1" time="09:33" scoreA="32" scoreB="37" />
+    <LINE num="245" text="[FRA] M. Johannes - turnover (out of bounds, 4 TO)" team="2" time="09:42" />
+    <LINE num="244" text="[FRA] Substitution - C. Djaldi Tabdi OUT, B. Agblemagnon IN" team="2" time="10:00" />
+    <LINE num="243" text="[FRA] Substitution - C. Morateur OUT, M. Vidal-Geneve IN" team="2" time="10:00" />
+    <LINE num="242" text="[AIA] Substitution - M. Billings OUT, C. Johnson IN" team="1" time="10:00" />
+    <LINE num="241" text="[AIA] Substitution - E. Young OUT, B. Lewis IN" team="1" time="10:00" />
+    <LINE num="240" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="239" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="238" text="[FRA] A. Traore - 2pt jump shot made (fast break, 2 Pts). M. Johannes - assist (3 AS)" team="2" time="00:12" scoreA="30" scoreB="37" />
+    <LINE num="237" text="[AIA] J. Jones - 3pt jump shot missed. M. Johannes - defensive rebound (4 REB)" team="1" time="00:19" />
+    <LINE num="236" text="[FRA] C. Djaldi Tabdi - 2pt jump shot missed. F. Randolph - defensive rebound (4 REB)" team="2" time="00:28" />
+    <LINE num="235" text="[AIA] M. Buck - 2pt jump shot missed. E. Naigre - defensive rebound (2 REB)" team="1" time="00:33" />
+    <LINE num="234" text="[AIA] F. Randolph - 2pt jump shot missed. Team offensive rebound" team="1" time="00:33" />
+    <LINE num="233" text="[FRA] C. Morateur - turnover (ball handling, 5 TO). J. Jones - steal (5 ST)" team="2" time="00:51" />
+    <LINE num="232" text="[AIA] J. Jones - free throw missed. E. Naigre - defensive rebound (1 REB)" team="1" time="01:10" />
+    <LINE num="231" text="[AIA] J. Jones - free throw missed" team="1" time="01:10" />
+    <LINE num="230" text="[FRA] Substitution - L. Guapo OUT, M. Johannes IN" team="2" time="01:10" />
+    <LINE num="229" text="[FRA] L. Guapo - personal shooting foul (2 PF, 8th team foul). 2 free throws awarded. Foul drawn: J. Jones" team="2" time="01:10" />
+    <LINE num="228" text="[FRA] L. Guapo - turnover (bad pass, 2 TO). J. Jones - steal (4 ST)" team="2" time="01:17" />
+    <LINE num="227" text="[AIA] J. Jones - personal  foul (2 PF, 3rd team foul). Foul drawn: C. Djaldi Tabdi" team="1" time="01:34" />
+    <LINE num="226" text="[AIA] M. Billings - turnover (bad pass, 3 TO). C. Djaldi Tabdi - steal (3 ST)" team="1" time="01:43" />
+    <LINE num="225" text="[FRA] C. Morateur - turnover (out of bounds, 4 TO)" team="2" time="02:00" />
+    <LINE num="224" text="[FRA] E. Naigre - 3pt jump shot missed" team="2" time="02:19" />
+    <LINE num="223" text="[AIA] J. Jones - free throw made (8 Pts)" team="1" time="02:43" scoreA="30" scoreB="35" />
+    <LINE num="222" text="[AIA] J. Jones - free throw made (7 Pts)" team="1" time="02:43" scoreA="29" scoreB="35" />
+    <LINE num="221" text="[FRA] Timeout" team="2" time="02:43" />
+    <LINE num="220" text="[FRA] L. Guapo - personal shooting foul (1 PF, 7th team foul). 2 free throws awarded. Foul drawn: J. Jones" team="2" time="02:43" />
+    <LINE num="219" text="[AIA] E. Young - free throw missed. J. Jones - offensive rebound (2 REB)" team="1" time="02:54" />
+    <LINE num="218" text="[AIA] E. Young - free throw made (1 Pts)" team="1" time="02:54" scoreA="28" scoreB="35" />
+    <LINE num="217" text="[AIA] Substitution - L. Brown OUT, J. Jones IN" team="1" time="02:54" />
+    <LINE num="216" text="[FRA] E. Naigre - personal shooting foul (3 PF, 6th team foul). 2 free throws awarded. Foul drawn: E. Young" team="2" time="02:54" />
+    <LINE num="215" text="[FRA] Substitution - M. Hero OUT, L. Guapo IN" team="2" time="03:01" />
+    <LINE num="214" text="[AIA] M. Billings - 2pt jump shot blocked. A. Traore - block (1 BS). Team offensive rebound" team="1" time="03:06" />
+    <LINE num="213" text="[FRA] C. Djaldi Tabdi -  offensive foul (2 PF, 5th team foul). Foul drawn: M. Buck. C. Djaldi Tabdi - turnover (offensive foul, 2 TO)" team="2" time="03:22" />
+    <LINE num="212" text="[AIA] M. Billings - free throw made (4 Pts)" team="1" time="03:43" scoreA="27" scoreB="35" />
+    <LINE num="211" text="[AIA] M. Billings - free throw missed" team="1" time="03:43" />
+    <LINE num="210" text="[FRA] C. Djaldi Tabdi - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: M. Billings" team="2" time="03:43" />
+    <LINE num="209" text="[FRA] C. Morateur - turnover (bad pass, 3 TO). M. Billings - steal (3 ST)" team="2" time="03:50" />
+    <LINE num="208" text="[FRA] Substitution - M. Mane OUT, A. Traore IN" team="2" time="04:11" />
+    <LINE num="207" text="[AIA] Substitution - J. Jones OUT, M. Buck IN" team="1" time="04:11" />
+    <LINE num="206" text="[AIA] J. Jones - free throw made (6 Pts)" team="1" time="04:11" scoreA="26" scoreB="35" />
+    <LINE num="205" text="[AIA] J. Jones - free throw made (5 Pts)" team="1" time="04:11" scoreA="25" scoreB="35" />
+    <LINE num="204" text="[FRA] E. Naigre - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Jones" team="2" time="04:11" />
+    <LINE num="203" text="[FRA] M. Hero - turnover (bad pass, 2 TO). J. Jones - steal (3 ST)" team="2" time="04:17" />
+    <LINE num="202" text="[AIA] M. Billings - turnover (bad pass, 2 TO). E. Naigre - steal (2 ST)" team="1" time="04:34" />
+    <LINE num="201" text="[AIA] L. Brown - 2pt jump shot missed. M. Billings - offensive rebound (5 REB)" team="1" time="04:38" />
+    <LINE num="200" text="[FRA] C. Morateur - 2pt jump shot made (2 Pts). M. Hero - assist (1 AS)" team="2" time="05:02" scoreA="24" scoreB="35" />
+    <LINE num="199" text="[AIA] J. Jones - personal  foul (1 PF, 2nd team foul). Foul drawn: C. Djaldi Tabdi" team="1" time="05:05" />
+    <LINE num="198" text="[AIA] J. Jones - turnover (bad pass, 1 TO). C. Djaldi Tabdi - steal (2 ST)" team="1" time="05:10" />
+    <LINE num="197" text="[FRA] Substitution - M. Vidal-Geneve OUT, M. Hero IN" team="2" time="05:23" />
+    <LINE num="196" text="[FRA] Substitution - M. Johannes OUT, C. Morateur IN" team="2" time="05:23" />
+    <LINE num="195" text="[AIA] Substitution - B. Lewis OUT, M. Billings IN" team="1" time="05:23" />
+    <LINE num="194" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed" team="2" time="05:23" />
+    <LINE num="193" text="[FRA] M. Johannes - 3pt jump shot missed. C. Djaldi Tabdi - offensive rebound (2 REB)" team="2" time="05:23" />
+    <LINE num="192" text="[AIA] J. Jones - 2pt jump shot missed. M. Vidal-Geneve - defensive rebound (5 REB)" team="1" time="05:46" />
+    <LINE num="191" text="[FRA] C. Djaldi Tabdi - turnover (bad pass, 1 TO). J. Jones - steal (2 ST)" team="2" time="05:53" />
+    <LINE num="190" text="[AIA] L. Brown - turnover (bad pass, 3 TO). C. Djaldi Tabdi - steal (1 ST)" team="1" time="05:59" />
+    <LINE num="189" text="[FRA] Substitution - A. Gaye OUT, E. Naigre IN" team="2" time="06:14" />
+    <LINE num="188" text="[AIA] Substitution - M. Buck OUT, E. Young IN" team="1" time="06:14" />
+    <LINE num="187" text="[AIA] Substitution - C. Johnson OUT, F. Randolph IN" team="1" time="06:14" />
+    <LINE num="186" text="[FRA] M. Mane - 3pt jump shot missed. Team defensive rebound" team="2" time="06:16" />
+    <LINE num="185" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. M. Vidal-Geneve - offensive rebound (4 REB)" team="2" time="06:29" />
+    <LINE num="184" text="[AIA] B. Lewis - 2pt jump shot missed. M. Johannes - defensive rebound (3 REB)" team="1" time="06:38" />
+    <LINE num="183" text="[FRA] M. Johannes - 3pt jump shot made (5 Pts)" team="2" time="06:57" scoreA="24" scoreB="33" />
+    <LINE num="182" text="[AIA] B. Lewis - personal  foul (1 PF, 1st team foul). Foul drawn: A. Gaye" team="1" time="07:06" />
+    <LINE num="181" text="[AIA] L. Brown - turnover (out of bounds, 2 TO)" team="1" time="07:18" />
+    <LINE num="180" text="[AIA] Timeout" team="1" time="07:25" />
+    <LINE num="179" text="[FRA] M. Mane - 2pt lay-up made (fast break, 4 Pts)" team="2" time="07:38" scoreA="24" scoreB="30" />
+    <LINE num="178" text="[AIA] M. Buck - 2pt jump shot missed. C. Djaldi Tabdi - defensive rebound (1 REB)" team="1" time="07:43" />
+    <LINE num="177" text="[FRA] C. Djaldi Tabdi - 2pt jump shot made (fast break, 5 Pts). M. Johannes - assist (2 AS)" team="2" time="07:53" scoreA="24" scoreB="28" />
+    <LINE num="176" text="[AIA] B. Lewis - 2pt jump shot missed. M. Johannes - defensive rebound (2 REB)" team="1" time="07:59" />
+    <LINE num="175" text="[AIA] Substitution - M. Billings OUT, B. Lewis IN" team="1" time="08:10" />
+    <LINE num="174" text="[FRA] M. Mane - personal  foul (2 PF, 2nd team foul). Foul drawn: L. Brown" team="2" time="08:10" />
+    <LINE num="173" text="[FRA] C. Djaldi Tabdi - 2pt lay-up made (fast break, 3 Pts)" team="2" time="08:17" scoreA="24" scoreB="26" />
+    <LINE num="172" text="[AIA] M. Billings - 2pt jump shot blocked. A. Gaye - block (2 BS). M. Mane - defensive rebound (2 REB)" team="1" time="08:24" />
+    <LINE num="171" text="[FRA] A. Gaye - personal  foul (1 PF, 1st team foul). Foul drawn: J. Jones" team="2" time="08:40" />
+    <LINE num="170" text="[FRA] M. Vidal-Geneve - 2pt jump shot blocked. J. Jones - block (1 BS). M. Billings - defensive rebound (4 REB)" team="2" time="08:49" />
+    <LINE num="169" text="[FRA] M. Johannes - 2pt jump shot missed. A. Gaye - offensive rebound (7 REB)" team="2" time="09:00" />
+    <LINE num="168" text="[AIA] M. Billings - 2pt jump shot made (3 Pts)" team="1" time="09:18" scoreA="24" scoreB="24" />
+    <LINE num="167" text="[FRA] M. Johannes - 3pt jump shot missed. M. Buck - defensive rebound (5 REB)" team="2" time="09:29" />
+    <LINE num="166" text="[AIA] L. Brown - 2pt jump shot missed. M. Johannes - defensive rebound (1 REB)" team="1" time="09:50" />
+    <LINE num="165" text="[FRA] Substitution - B. Agblemagnon OUT, C. Djaldi Tabdi IN" team="2" time="10:00" />
+    <LINE num="164" text="[FRA] Substitution - M. Hero OUT, M. Vidal-Geneve IN" team="2" time="10:00" />
+    <LINE num="163" text="[FRA] Substitution - L. Guapo OUT, M. Johannes IN" team="2" time="10:00" />
+    <LINE num="162" text="[AIA] Substitution - B. Lewis OUT, C. Johnson IN" team="1" time="10:00" />
+    <LINE num="161" text="[AIA] Substitution - M. Sell OUT, M. Billings IN" team="1" time="10:00" />
+    <LINE num="160" text="[AIA] Substitution - F. Randolph OUT, J. Jones IN" team="1" time="10:00" />
+    <LINE num="159" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="158" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="157" text="[AIA] F. Randolph - 3pt jump shot missed" team="1" time="00:04" />
+    <LINE num="156" text="[FRA] L. Guapo - turnover (out of bounds, 1 TO)" team="2" time="00:04" />
+    <LINE num="155" text="[AIA] F. Randolph - 2pt lay-up made (2 Pts)" team="1" time="00:21" scoreA="22" scoreB="24" />
+    <LINE num="154" text="[FRA] Substitution - C. Morateur OUT, L. Guapo IN" team="2" time="00:34" />
+    <LINE num="153" text="[AIA] Timeout" team="1" time="00:34" />
+    <LINE num="152" text="[FRA] C. Morateur - turnover (out of bounds, 2 TO)" team="2" time="00:34" />
+    <LINE num="151" text="[AIA] M. Sell - free throw made (1 Pts)" team="1" time="00:52" scoreA="20" scoreB="24" />
+    <LINE num="150" text="[AIA] M. Sell - free throw missed" team="1" time="00:52" />
+    <LINE num="149" text="[FRA] B. Agblemagnon - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Sell" team="2" time="00:52" />
+    <LINE num="148" text="[AIA] M. Buck - 2pt jump shot missed" team="1" time="00:52" />
+    <LINE num="147" text="[FRA] M. Hero - personal  foul (1 PF, 4th team foul). Foul drawn: L. Brown" team="2" time="00:54" />
+    <LINE num="146" text="[FRA] C. Morateur - turnover (out of bounds, 1 TO)" team="2" time="01:01" />
+    <LINE num="145" text="[AIA] M. Buck - 2pt jump shot made (2 Pts). M. Sell - assist (1 AS)" team="1" time="01:13" scoreA="19" scoreB="24" />
+    <LINE num="144" text="[FRA] B. Agblemagnon - 2pt jump shot made (5 Pts). M. Mane - assist (1 AS)" team="2" time="01:26" scoreA="17" scoreB="24" />
+    <LINE num="143" text="[AIA] M. Buck - personal  foul (2 PF, 3rd team foul). Foul drawn: M. Mane" team="1" time="01:36" />
+    <LINE num="142" text="[AIA] Team turnover (24 seconds)" team="1" time="01:36" />
+    <LINE num="141" text="[FRA] Substitution - M. Johannes OUT, C. Morateur IN" team="2" time="01:36" />
+    <LINE num="140" text="[AIA] B. Lewis - 2pt jump shot blocked. A. Gaye - block (1 BS)" team="1" time="01:39" />
+    <LINE num="139" text="[FRA] M. Johannes - 3pt jump shot missed. M. Sell - defensive rebound (2 REB)" team="2" time="02:01" />
+    <LINE num="138" text="[FRA] B. Agblemagnon - 2pt jump shot missed. A. Gaye - offensive rebound (6 REB)" team="2" time="02:10" />
+    <LINE num="137" text="[AIA] L. Brown - free throw missed. A. Gaye - defensive rebound (5 REB)" team="1" time="02:29" />
+    <LINE num="136" text="[AIA] L. Brown - free throw missed" team="1" time="02:29" />
+    <LINE num="135" text="[FRA] Substitution - A. Traore OUT, M. Mane IN" team="2" time="02:29" />
+    <LINE num="134" text="[AIA] Substitution - C. Johnson OUT, B. Lewis IN" team="1" time="02:29" />
+    <LINE num="133" text="[AIA] Substitution - M. Billings OUT, M. Sell IN" team="1" time="02:29" />
+    <LINE num="132" text="[FRA] M. Johannes - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: L. Brown" team="2" time="02:29" />
+    <LINE num="131" text="[FRA] M. Hero - turnover (out of bounds, 1 TO)" team="2" time="02:43" />
+    <LINE num="130" text="[AIA] F. Randolph - turnover (bad pass, 2 TO). M. Johannes - steal (1 ST)" team="1" time="02:50" />
+    <LINE num="129" text="[FRA] B. Agblemagnon - turnover (bad pass, 2 TO). M. Billings - steal (2 ST)" team="2" time="02:54" />
+    <LINE num="128" text="[AIA] M. Buck - 3pt jump shot missed. A. Gaye - defensive rebound (4 REB)" team="1" time="03:09" />
+    <LINE num="127" text="[FRA] M. Johannes - turnover (bad pass, 3 TO)" team="2" time="03:25" />
+    <LINE num="126" text="[AIA] M. Buck - personal  foul (1 PF, 2nd team foul). Foul drawn: A. Traore" team="1" time="03:45" />
+    <LINE num="125" text="[AIA] F. Randolph - 3pt jump shot missed. A. Traore - defensive rebound (1 REB)" team="1" time="03:49" />
+    <LINE num="124" text="[AIA] Substitution - A. Seay OUT, L. Brown IN" team="1" time="03:57" />
+    <LINE num="123" text="[AIA] M. Billings - 2pt jump shot missed" team="1" time="04:02" />
+    <LINE num="122" text="[FRA] Substitution - E. Naigre OUT, B. Agblemagnon IN" team="2" time="04:06" />
+    <LINE num="121" text="[FRA] Substitution - M. Vidal-Geneve OUT, M. Hero IN" team="2" time="04:06" />
+    <LINE num="120" text="[AIA] Substitution - B. Lewis OUT, C. Johnson IN" team="1" time="04:06" />
+    <LINE num="119" text="[AIA] Substitution - J. Jones OUT, F. Randolph IN" team="1" time="04:06" />
+    <LINE num="118" text="[FRA] A. Gaye - 2pt jump shot made (8 Pts)" team="2" time="04:20" scoreA="17" scoreB="22" />
+    <LINE num="117" text="[AIA] M. Billings - 2pt jump shot missed. A. Gaye - defensive rebound (3 REB)" team="1" time="04:36" />
+    <LINE num="116" text="[AIA] Substitution - L. Brown OUT, A. Seay IN" team="1" time="04:58" />
+    <LINE num="115" text="[AIA] Substitution - A. Seay OUT, J. Jones IN" team="1" time="04:58" />
+    <LINE num="114" text="[FRA] A. Traore - personal  foul (1 PF, 2nd team foul). Foul drawn: M. Buck" team="2" time="04:58" />
+    <LINE num="113" text="[FRA] M. Johannes - 3pt jump shot missed. M. Billings - defensive rebound (3 REB)" team="2" time="05:03" />
+    <LINE num="112" text="[AIA] M. Billings - free throw made (1 Pts)" team="1" time="05:10" scoreA="17" scoreB="20" />
+    <LINE num="111" text="[AIA] M. Billings - free throw missed" team="1" time="05:10" />
+    <LINE num="110" text="[FRA] E. Naigre - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: M. Billings" team="2" time="05:10" />
+    <LINE num="109" text="[FRA] A. Gaye - turnover (3 seconds, 2 TO)" team="2" time="05:24" />
+    <LINE num="108" text="[AIA] Timeout" team="1" time="05:44" />
+    <LINE num="107" text="[AIA] Substitution - C. Johnson OUT, A. Seay IN" team="1" time="05:44" />
+    <LINE num="106" text="[AIA] Substitution - F. Randolph OUT, B. Lewis IN" team="1" time="05:44" />
+    <LINE num="105" text="[AIA] L. Brown - turnover (out of bounds, 1 TO)" team="1" time="05:44" />
+    <LINE num="104" text="[FRA] A. Gaye - 2pt jump shot made (6 Pts)" team="2" time="06:11" scoreA="16" scoreB="20" />
+    <LINE num="103" text="[FRA] Substitution - C. Djaldi Tabdi OUT, A. Gaye IN" team="2" time="06:24" />
+    <LINE num="102" text="[FRA] Substitution - L. Guapo OUT, M. Johannes IN" team="2" time="06:24" />
+    <LINE num="101" text="[AIA] F. Randolph - 2pt jump shot missed" team="1" time="06:29" />
+    <LINE num="100" text="[FRA] M. Vidal-Geneve - 3pt jump shot blocked. M. Billings - block (1 BS). M. Buck - defensive rebound (4 REB)" team="2" time="06:37" />
+    <LINE num="99" text="[AIA] M. Billings - 2pt jump shot missed" team="1" time="07:09" />
+    <LINE num="98" text="[AIA] L. Brown - 3pt jump shot missed. M. Buck - offensive rebound (3 REB)" team="1" time="07:18" />
+    <LINE num="97" text="[FRA] M. Vidal-Geneve - 2pt jump shot made (fast break, 2 Pts). E. Naigre - assist (1 AS)" team="2" time="07:41" scoreA="16" scoreB="18" />
+    <LINE num="96" text="[AIA] M. Billings - turnover (ball handling, 1 TO). E. Naigre - steal (1 ST)" team="1" time="07:46" />
+    <LINE num="95" text="[FRA] C. Djaldi Tabdi - 3pt jump shot missed. C. Johnson - defensive rebound (1 REB)" team="2" time="08:10" />
+    <LINE num="94" text="[AIA] F. Randolph - turnover (out of bounds, 1 TO)" team="1" time="08:36" />
+    <LINE num="93" text="[AIA] Substitution - J. Jones OUT, M. Buck IN" team="1" time="08:39" />
+    <LINE num="92" text="[FRA] E. Naigre - 2pt jump shot missed. Team defensive rebound" team="2" time="09:04" />
+    <LINE num="91" text="[AIA] F. Randolph - 2pt jump shot missed. L. Guapo - defensive rebound (1 REB)" team="1" time="09:12" />
+    <LINE num="90" text="[FRA] C. Djaldi Tabdi - free throw made (1 Pts)" team="2" time="09:34" scoreA="16" scoreB="16" />
+    <LINE num="89" text="[FRA] C. Djaldi Tabdi - free throw missed" team="2" time="09:34" />
+    <LINE num="88" text="[AIA] L. Brown - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: C. Djaldi Tabdi" team="1" time="09:34" />
+    <LINE num="87" text="[AIA] J. Jones - 2pt jump shot made (4 Pts)" team="1" time="09:54" scoreA="16" scoreB="15" />
+    <LINE num="86" text="[FRA] Substitution - B. Agblemagnon OUT, E. Naigre IN" team="2" time="10:00" />
+    <LINE num="85" text="[FRA] Substitution - M. Hero OUT, M. Vidal-Geneve IN" team="2" time="10:00" />
+    <LINE num="84" text="[AIA] Substitution - M. Buck OUT, C. Johnson IN" team="1" time="10:00" />
+    <LINE num="83" text="[AIA] Substitution - B. Lewis OUT, L. Brown IN" team="1" time="10:00" />
+    <LINE num="82" text="[AIA] Substitution - M. Sell OUT, F. Randolph IN" team="1" time="10:00" />
+    <LINE num="81" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="80" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="79" text="[AIA] M. Billings - 3pt jump shot missed" team="1" time="00:04" />
+    <LINE num="78" text="[FRA] M. Hero - 2pt jump shot blocked. M. Buck - block (1 BS). Team defensive rebound" team="2" time="00:06" />
+    <LINE num="77" text="[AIA] Substitution - E. Young OUT, M. Billings IN" team="1" time="00:06" />
+    <LINE num="76" text="[AIA] M. Buck - 2pt jump shot missed. M. Sell - offensive rebound (1 REB)" team="1" time="00:22" />
+    <LINE num="75" text="[FRA] B. Agblemagnon - free throw made (3 Pts)" team="2" time="00:44" scoreA="14" scoreB="15" />
+    <LINE num="74" text="[AIA] E. Young - personal shooting foul (3 PF, 6th team foul). One free throw awarded. Foul drawn: B. Agblemagnon" team="1" time="00:44" />
+    <LINE num="73" text="[FRA] B. Agblemagnon - 2pt jump shot made (2 Pts)" team="2" time="00:44" scoreA="14" scoreB="14" />
+    <LINE num="72" text="[AIA] B. Lewis - 2pt jump shot made (4 Pts). J. Jones - assist (1 AS)" team="1" time="01:01" scoreA="14" scoreB="12" />
+    <LINE num="71" text="[FRA] L. Guapo - free throw made (1 Pts)" team="2" time="01:12" scoreA="12" scoreB="12" />
+    <LINE num="70" text="[FRA] L. Guapo - free throw missed" team="2" time="01:12" />
+    <LINE num="69" text="[AIA] M. Sell - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: L. Guapo" team="1" time="01:12" />
+    <LINE num="68" text="[AIA] J. Jones - 2pt jump shot made (2 Pts)" team="1" time="01:32" scoreA="12" scoreB="11" />
+    <LINE num="67" text="[FRA] Substitution - M. Mane OUT, A. Traore IN" team="2" time="01:47" />
+    <LINE num="66" text="[FRA] B. Agblemagnon - turnover (bad pass, 1 TO). E. Young - steal (1 ST)" team="2" time="01:59" />
+    <LINE num="65" text="[AIA] E. Young - personal  foul (2 PF, 4th team foul). Foul drawn: M. Mane" team="1" time="02:17" />
+    <LINE num="64" text="[AIA] Substitution - A. Seay OUT, M. Sell IN" team="1" time="02:39" />
+    <LINE num="63" text="[AIA] B. Lewis - free throw missed. Team defensive rebound" team="1" time="02:41" />
+    <LINE num="62" text="[FRA] Timeout" team="2" time="02:41" />
+    <LINE num="61" text="[FRA] M. Mane - personal shooting foul (1 PF, 2nd team foul). One free throw awarded. Foul drawn: B. Lewis" team="2" time="02:41" />
+    <LINE num="60" text="[AIA] B. Lewis - 2pt jump shot made (2 Pts)" team="1" time="02:48" scoreA="10" scoreB="11" />
+    <LINE num="59" text="[AIA] M. Buck - 3pt jump shot missed. B. Lewis - offensive rebound (1 REB)" team="1" time="02:52" />
+    <LINE num="58" text="[FRA] Substitution - A. Gaye OUT, M. Hero IN" team="2" time="03:07" />
+    <LINE num="57" text="[FRA] Substitution - M. Vidal-Geneve OUT, C. Djaldi Tabdi IN" team="2" time="03:07" />
+    <LINE num="56" text="[FRA] A. Gaye - free throw made (4 Pts)" team="2" time="03:07" scoreA="8" scoreB="11" />
+    <LINE num="55" text="[AIA] Substitution - L. Brown OUT, M. Buck IN" team="1" time="03:07" />
+    <LINE num="54" text="[AIA] Substitution - F. Randolph OUT, J. Jones IN" team="1" time="03:07" />
+    <LINE num="53" text="[AIA] E. Young - personal shooting foul (1 PF, 3rd team foul). One free throw awarded. Foul drawn: A. Gaye" team="1" time="03:07" />
+    <LINE num="52" text="[FRA] A. Gaye - 2pt jump shot made (3 Pts). L. Guapo - assist (1 AS)" team="2" time="03:11" scoreA="8" scoreB="10" />
+    <LINE num="51" text="[AIA] L. Brown - 2pt lay-up made (6 Pts)" team="1" time="03:27" scoreA="8" scoreB="8" />
+    <LINE num="50" text="[FRA] A. Gaye - 2pt jump shot missed. E. Young - defensive rebound (1 REB)" team="2" time="03:42" />
+    <LINE num="49" text="[AIA] E. Young - turnover (out of bounds, 1 TO)" team="1" time="03:54" />
+    <LINE num="48" text="[FRA] B. Agblemagnon - 2pt jump shot missed. F. Randolph - defensive rebound (3 REB)" team="2" time="04:08" />
+    <LINE num="47" text="[AIA] E. Young - 2pt jump shot missed. A. Gaye - defensive rebound (2 REB)" team="1" time="04:29" />
+    <LINE num="46" text="[FRA] A. Gaye - free throw missed. F. Randolph - defensive rebound (2 REB)" team="2" time="04:38" />
+    <LINE num="45" text="[FRA] A. Gaye - free throw made (1 Pts)" team="2" time="04:38" scoreA="6" scoreB="8" />
+    <LINE num="44" text="[AIA] A. Seay - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: A. Gaye" team="1" time="04:38" />
+    <LINE num="43" text="[FRA] L. Guapo - 3pt jump shot missed. A. Gaye - offensive rebound (1 REB)" team="2" time="04:50" />
+    <LINE num="42" text="[AIA] Substitution - C. Johnson OUT, E. Young IN" team="1" time="05:17" />
+    <LINE num="41" text="[AIA] Team turnover (24 seconds)" team="1" time="05:17" />
+    <LINE num="40" text="[FRA] Substitution - M. Johannes OUT, L. Guapo IN" team="2" time="05:31" />
+    <LINE num="39" text="[AIA] Substitution - M. Buck OUT, A. Seay IN" team="1" time="05:31" />
+    <LINE num="38" text="[FRA] M. Johannes - 2pt jump shot missed. F. Randolph - defensive rebound (1 REB)" team="2" time="05:42" />
+    <LINE num="37" text="[AIA] L. Brown - 3pt jump shot missed. M. Vidal-Geneve - defensive rebound (3 REB)" team="1" time="05:45" />
+    <LINE num="36" text="[FRA] Substitution - E. Naigre OUT, B. Agblemagnon IN" team="2" time="06:02" />
+    <LINE num="35" text="[AIA] Substitution - M. Billings OUT, B. Lewis IN" team="1" time="06:02" />
+    <LINE num="34" text="[AIA] Substitution - J. Jones OUT, F. Randolph IN" team="1" time="06:02" />
+    <LINE num="33" text="[FRA] A. Gaye - turnover (bad pass, 1 TO). L. Brown - steal (2 ST)" team="2" time="06:06" />
+    <LINE num="32" text="[AIA] L. Brown - 2pt jump shot made (4 Pts)" team="1" time="06:27" scoreA="6" scoreB="7" />
+    <LINE num="31" text="[FRA] M. Mane - 2pt jump shot made (fast break, 2 Pts)" team="2" time="06:39" scoreA="4" scoreB="7" />
+    <LINE num="30" text="[AIA] M. Billings - 2pt jump shot blocked. E. Naigre - block (1 BS). M. Mane - defensive rebound (1 REB)" team="1" time="06:44" />
+    <LINE num="29" text="[FRA] M. Johannes - 2pt jump shot missed. J. Jones - defensive rebound (1 REB)" team="2" time="06:54" />
+    <LINE num="28" text="[AIA] C. Johnson - 2pt jump shot made (2 Pts). M. Buck - assist (1 AS)" team="1" time="07:11" scoreA="4" scoreB="5" />
+    <LINE num="27" text="[FRA] M. Johannes - 2pt jump shot made (fast break, 2 Pts)" team="2" time="07:30" scoreA="2" scoreB="5" />
+    <LINE num="26" text="[AIA] J. Jones - 2pt jump shot missed. M. Vidal-Geneve - defensive rebound (2 REB)" team="1" time="07:37" />
+    <LINE num="25" text="[FRA] M. Mane - turnover (bad pass, 1 TO). L. Brown - steal (1 ST)" team="2" time="07:44" />
+    <LINE num="24" text="[AIA] L. Brown - 2pt jump shot made (2 Pts). M. Billings - assist (1 AS)" team="1" time="07:58" scoreA="2" scoreB="3" />
+    <LINE num="23" text="[FRA] M. Mane - 3pt jump shot missed. M. Buck - defensive rebound (2 REB)" team="2" time="08:09" />
+    <LINE num="22" text="[AIA] M. Buck - turnover (out of bounds, 1 TO)" team="1" time="08:30" />
+    <LINE num="21" text="[AIA] J. Jones - 3pt jump shot missed. M. Buck - offensive rebound (1 REB)" team="1" time="08:30" />
+    <LINE num="20" text="[AIA] M. Billings - 2pt jump shot missed. M. Billings - offensive rebound (2 REB)" team="1" time="08:30" />
+    <LINE num="19" text="[FRA] M. Johannes - turnover (bad pass, 2 TO). J. Jones - steal (1 ST)" team="2" time="08:41" />
+    <LINE num="18" text="[FRA] M. Johannes - personal  foul (1 PF, 1st team foul). Foul drawn: J. Jones" team="2" time="08:41" />
+    <LINE num="17" text="[AIA] M. Billings - 2pt jump shot missed. M. Vidal-Geneve - defensive rebound (1 REB)" team="1" time="09:05" />
+    <LINE num="16" text="[AIA] M. Billings - 2pt jump shot missed. M. Billings - offensive rebound (1 REB)" team="1" time="09:10" />
+    <LINE num="15" text="[FRA] M. Johannes - turnover (bad pass, 1 TO). M. Billings - steal (1 ST)" team="2" time="09:20" />
+    <LINE num="14" text="[FRA] E. Naigre - free throw made (3 Pts)" team="2" time="09:49" scoreA="0" scoreB="3" />
+    <LINE num="13" text="[AIA] C. Johnson - personal shooting foul (1 PF, 1st team foul). One free throw awarded. Foul drawn: E. Naigre" team="1" time="09:49" />
+    <LINE num="12" text="[FRA] E. Naigre - 2pt jump shot made (2 Pts). M. Johannes - assist (1 AS)" team="2" time="09:53" scoreA="0" scoreB="2" />
+    <LINE num="11" text="START OF GAME" team="0" time="10:00" />
+    <LINE num="10" text="[FRA] Substitution - E. Naigre IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[FRA] Substitution - A. Gaye IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[FRA] Substitution - M. Mane IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[FRA] Substitution - M. Vidal-Geneve IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[FRA] Substitution - M. Johannes IN" team="2" time="10:00" deleted="1" />
+    <LINE num="5" text="[AIA] Substitution - M. Buck IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[AIA] Substitution - C. Johnson IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[AIA] Substitution - M. Billings IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[AIA] Substitution - L. Brown IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="[AIA] Substitution - J. Jones IN" team="1" time="10:00" deleted="1" />
+  </PLAYBYPLAY>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

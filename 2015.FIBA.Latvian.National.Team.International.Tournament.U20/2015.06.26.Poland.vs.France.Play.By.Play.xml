@@ -1,0 +1,308 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="62.3911">
+    <TEAM name="Polska" logo="http://live.fibaeurope.com/www/gallery/89857DBD-863A-4991-A29C-A3C53652B5F7.jpg" pts="50" fouls="4" />
+    <TEAM name="Francja" logo="http://live.fibaeurope.com/www/gallery/9CFA807E-B803-491A-B43A-097D0737F9A5.jpg" pts="51" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="10" scoreB="12" />
+      <QUARTER n="2" scoreA="15" scoreB="20" />
+      <QUARTER n="3" scoreA="10" scoreB="7" />
+      <QUARTER n="4" scoreA="15" scoreB="12" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="E. Naigre [FRA] - 5 turnovers" duration="15.6019">
+    <ITEM text="Turnovers: Polska - 14, Francja - 25" />
+  </TICKER>
+  <OVERVIEW duration="31.1901" />
+  <PLAYBYPLAY duration="140.3612">
+    <LINE num="277" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="276" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="275" text="[POL] A. Rembiszewska - 2pt jump shot blocked. C. Djaldi Tabdi - block (1 BS)" team="1" time="00:04" />
+    <LINE num="274" text="[POL] M. Radomska - 2pt jump shot missed. A. Rembiszewska - offensive rebound (3 REB)" team="1" time="00:04" />
+    <LINE num="273" text="[FRA] M. Vidal-Geneve - personal  foul (3 PF, 4th team foul). Foul drawn: A. Stankiewicz" team="2" time="00:04" />
+    <LINE num="272" text="[FRA] M. Vidal-Geneve - turnover (5 seconds, 1 TO)" team="2" time="00:10" />
+    <LINE num="271" text="[POL] M. Radomska - personal  foul (2 PF, 4th team foul). Foul drawn: M. Mane" team="1" time="00:10" />
+    <LINE num="270" text="[POL] Substitution - A. Wajler OUT, A. Rembiszewska IN" team="1" time="00:10" />
+    <LINE num="269" text="[FRA] Timeout" team="2" time="00:10" />
+    <LINE num="268" text="[POL] M. Radomska - personal  foul (1 PF, 3rd team foul). Foul drawn: M. Mane" team="1" time="00:10" />
+    <LINE num="267" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Mane - defensive rebound (7 REB)" team="1" time="00:10" />
+    <LINE num="266" text="[POL] Substitution - A. Rembiszewska OUT, A. Wajler IN" team="1" time="00:11" />
+    <LINE num="265" text="[FRA] M. Johannes - turnover (other, 3 TO)" team="2" time="00:13" />
+    <LINE num="264" text="[FRA] Substitution - E. Naigre OUT, L. Millavet IN" team="2" time="00:26" />
+    <LINE num="263" text="[POL] Substitution - W. Zapart OUT, M. Radomska IN" team="1" time="00:26" />
+    <LINE num="262" text="[POL] Substitution - A. Wajler OUT, S. Bujniak IN" team="1" time="00:26" />
+    <LINE num="261" text="[FRA] Timeout" team="2" time="00:26" />
+    <LINE num="260" text="[POL] J. Drop - free throw made (5 Pts)" team="1" time="00:26" scoreA="50" scoreB="51" />
+    <LINE num="259" text="[POL] J. Drop - free throw made (4 Pts)" team="1" time="00:26" scoreA="49" scoreB="51" />
+    <LINE num="258" text="[FRA] C. Djaldi Tabdi - personal shooting foul (3 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Drop" team="2" time="00:26" />
+    <LINE num="257" text="[FRA] Team turnover (24 seconds)" team="2" time="00:40" />
+    <LINE num="256" text="[FRA] Substitution - L. Guapo OUT, M. Mane IN" team="2" time="01:00" />
+    <LINE num="255" text="[POL] J. Drop - 3pt jump shot missed. E. Naigre - defensive rebound (5 REB)" team="1" time="01:09" />
+    <LINE num="254" text="[FRA] Substitution - B. Agblemagnon OUT, C. Djaldi Tabdi IN" team="2" time="01:20" />
+    <LINE num="253" text="[POL] Timeout" team="1" time="01:20" />
+    <LINE num="252" text="[FRA] E. Naigre -  offensive foul (1 PF, 2nd team foul). Foul drawn: A. Rembiszewska. E. Naigre - turnover (offensive foul, 5 TO)" team="2" time="01:20" />
+    <LINE num="251" text="[POL] A. Stankiewicz - 3pt jump shot missed. E. Naigre - defensive rebound (4 REB)" team="1" time="01:25" />
+    <LINE num="250" text="[FRA] M. Johannes - personal  foul (2 PF, 1st team foul). Foul drawn: A. Stankiewicz" team="2" time="01:33" />
+    <LINE num="249" text="[FRA] B. Agblemagnon - 2pt jump shot made (6 Pts). L. Guapo - assist (2 AS)" team="2" time="01:55" scoreA="48" scoreB="51" />
+    <LINE num="248" text="[POL] A. Wajler - 3pt jump shot made (12 Pts). J. Drop - assist (4 AS)" team="1" time="02:18" scoreA="48" scoreB="49" />
+    <LINE num="247" text="[FRA] L. Guapo - turnover (out of bounds, 4 TO)" team="2" time="02:27" />
+    <LINE num="246" text="[POL] A. Rembiszewska - turnover (out of bounds, 3 TO)" team="1" time="02:52" />
+    <LINE num="245" text="[POL] A. Wajler - 3pt jump shot missed. A. Rembiszewska - offensive rebound (2 REB)" team="1" time="03:00" />
+    <LINE num="244" text="[FRA] L. Guapo - 3pt jump shot missed. A. Wajler - defensive rebound (1 REB)" team="2" time="03:21" />
+    <LINE num="243" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. M. Johannes - offensive rebound (9 REB)" team="2" time="03:34" />
+    <LINE num="242" text="[POL] Substitution - S. Bujniak OUT, J. Drop IN" team="1" time="03:43" />
+    <LINE num="241" text="[POL] S. Bujniak - 3pt jump shot made (9 Pts). W. Zapart - assist (1 AS)" team="1" time="04:04" scoreA="45" scoreB="49" />
+    <LINE num="240" text="[FRA] Substitution - A. Traore OUT, L. Guapo IN" team="2" time="04:19" />
+    <LINE num="239" text="[FRA] Substitution - M. Mane OUT, M. Johannes IN" team="2" time="04:19" />
+    <LINE num="238" text="[FRA] M. Mane - turnover (out of bounds, 1 TO)" team="2" time="04:19" />
+    <LINE num="237" text="[POL] Substitution - M. Szajtauer OUT, W. Zapart IN" team="1" time="04:28" />
+    <LINE num="236" text="[POL] Substitution - J. Ossowska OUT, A. Rembiszewska IN" team="1" time="04:28" />
+    <LINE num="235" text="[POL] J. Ossowska - turnover (out of bounds, 2 TO)" team="1" time="04:28" />
+    <LINE num="234" text="[FRA] E. Naigre - 2pt jump shot made (fast break, 6 Pts). M. Mane - assist (4 AS)" team="2" time="04:50" scoreA="42" scoreB="49" />
+    <LINE num="233" text="[POL] S. Bujniak - 3pt jump shot missed. B. Agblemagnon - defensive rebound (5 REB)" team="1" time="04:56" />
+    <LINE num="232" text="[FRA] E. Naigre - turnover (out of bounds, 4 TO)" team="2" time="05:25" />
+    <LINE num="231" text="[FRA] Substitution - M. Hero OUT, B. Agblemagnon IN" team="2" time="05:25" />
+    <LINE num="230" text="[FRA] Substitution - L. Millavet OUT, M. Vidal-Geneve IN" team="2" time="05:25" />
+    <LINE num="229" text="[POL] Substitution - M. Radomska OUT, A. Stankiewicz IN" team="1" time="05:25" />
+    <LINE num="228" text="[POL] Substitution - J. Drop OUT, A. Wajler IN" team="1" time="05:25" />
+    <LINE num="227" text="[POL] J. Drop - turnover (bad pass, 2 TO)" team="1" time="05:25" />
+    <LINE num="226" text="[FRA] M. Hero - 3pt jump shot made (11 Pts). A. Traore - assist (5 AS)" team="2" time="05:46" scoreA="42" scoreB="47" />
+    <LINE num="225" text="[POL] J. Ossowska - turnover (bad pass, 1 TO). A. Traore - steal (1 ST)" team="1" time="06:05" />
+    <LINE num="224" text="[FRA] M. Mane - 3pt jump shot missed. M. Radomska - defensive rebound (1 REB)" team="2" time="06:18" />
+    <LINE num="223" text="[POL] S. Bujniak - 3pt jump shot missed. L. Millavet - defensive rebound (6 REB)" team="1" time="06:27" />
+    <LINE num="222" text="[FRA] E. Naigre - 2pt jump shot missed. J. Ossowska - defensive rebound (2 REB)" team="2" time="06:47" />
+    <LINE num="221" text="[POL] M. Szajtauer - turnover (travelling, 1 TO)" team="1" time="06:58" />
+    <LINE num="220" text="[POL] Substitution - K. Poboży OUT, M. Szajtauer IN" team="1" time="06:58" />
+    <LINE num="219" text="[POL] J. Ossowska - 3pt jump shot missed. Team offensive rebound" team="1" time="07:03" />
+    <LINE num="218" text="[FRA] M. Hero - turnover (bad pass, 1 TO). S. Bujniak - steal (1 ST)" team="2" time="07:14" />
+    <LINE num="217" text="[POL] S. Bujniak - 3pt jump shot missed. L. Millavet - defensive rebound (5 REB)" team="1" time="07:33" />
+    <LINE num="216" text="[FRA] M. Mane - free throw made (10 Pts)" team="2" time="07:49" scoreA="42" scoreB="44" />
+    <LINE num="215" text="[FRA] M. Mane - free throw made (9 Pts)" team="2" time="07:49" scoreA="42" scoreB="43" />
+    <LINE num="214" text="[POL] K. Poboży - personal shooting foul (4 PF, 2nd team foul). 2 free throws awarded. Foul drawn: M. Mane" team="1" time="07:49" />
+    <LINE num="213" text="[POL] M. Radomska - 3pt jump shot made (8 Pts). S. Bujniak - assist (3 AS)" team="1" time="08:12" scoreA="42" scoreB="42" />
+    <LINE num="212" text="[FRA] E. Naigre - turnover (out of bounds, 3 TO)" team="2" time="08:23" />
+    <LINE num="211" text="[POL] K. Poboży - 2pt tip-in made (2 Pts)" team="1" time="08:43" scoreA="39" scoreB="42" />
+    <LINE num="210" text="[POL] S. Bujniak - 3pt jump shot missed. K. Poboży - offensive rebound (2 REB)" team="1" time="08:45" />
+    <LINE num="209" text="[FRA] A. Traore - turnover (bad pass, 2 TO). J. Drop - steal (2 ST)" team="2" time="08:55" />
+    <LINE num="208" text="[POL] M. Radomska - 2pt jump shot made (5 Pts). S. Bujniak - assist (2 AS)" team="1" time="09:15" scoreA="37" scoreB="42" />
+    <LINE num="207" text="[FRA] L. Millavet - 3pt jump shot made (14 Pts). M. Hero - assist (2 AS)" team="2" time="09:27" scoreA="35" scoreB="42" />
+    <LINE num="206" text="[POL] J. Ossowska - personal  foul (2 PF, 1st team foul). Foul drawn: E. Naigre" team="1" time="09:34" />
+    <LINE num="205" text="[POL] Substitution - A. Stankiewicz OUT, J. Drop IN" team="1" time="10:00" />
+    <LINE num="204" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="203" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="202" text="[POL] J. Ossowska - 3pt jump shot missed" team="1" time="00:05" />
+    <LINE num="201" text="[FRA] L. Millavet - 3pt jump shot made (fast break, 11 Pts). M. Mane - assist (3 AS)" team="2" time="00:11" scoreA="35" scoreB="39" />
+    <LINE num="200" text="[POL] A. Stankiewicz - turnover (out of bounds, 1 TO)" team="1" time="00:11" />
+    <LINE num="199" text="[FRA] M. Mane - 3pt jump shot missed. A. Stankiewicz - defensive rebound (3 REB)" team="2" time="00:25" />
+    <LINE num="198" text="[POL] S. Bujniak - 3pt jump shot made (6 Pts). A. Stankiewicz - assist (2 AS)" team="1" time="00:52" scoreA="35" scoreB="36" />
+    <LINE num="197" text="[FRA] A. Traore - turnover (out of bounds, 1 TO)" team="2" time="01:01" />
+    <LINE num="196" text="[POL] A. Stankiewicz - free throw made (9 Pts)" team="1" time="01:03" scoreA="32" scoreB="36" />
+    <LINE num="195" text="[POL] A. Stankiewicz - free throw missed" team="1" time="01:03" />
+    <LINE num="194" text="[FRA] Substitution - C. Djaldi Tabdi OUT, E. Naigre IN" team="2" time="01:03" />
+    <LINE num="193" text="[FRA] A. Traore - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Stankiewicz" team="2" time="01:03" />
+    <LINE num="192" text="[FRA] C. Djaldi Tabdi - turnover (out of bounds, 3 TO)" team="2" time="01:13" />
+    <LINE num="191" text="[FRA] M. Hero - 3pt jump shot missed. C. Djaldi Tabdi - offensive rebound (4 REB)" team="2" time="01:18" />
+    <LINE num="190" text="[POL] K. Poboży - personal  foul (3 PF, 3rd team foul). Foul drawn: C. Djaldi Tabdi" team="1" time="01:30" />
+    <LINE num="189" text="[FRA] C. Djaldi Tabdi - 2pt jump shot missed. C. Djaldi Tabdi - offensive rebound (3 REB)" team="2" time="01:33" />
+    <LINE num="188" text="[POL] Substitution - A. Rembiszewska OUT, J. Ossowska IN" team="1" time="01:51" />
+    <LINE num="187" text="[POL] A. Rembiszewska - 2pt jump shot blocked. A. Traore - block (1 BS). Team defensive rebound" team="1" time="01:57" />
+    <LINE num="186" text="[FRA] Substitution - L. Guapo OUT, A. Traore IN" team="2" time="02:12" />
+    <LINE num="185" text="[FRA] M. Mane - 3pt jump shot missed" team="2" time="02:15" />
+    <LINE num="184" text="[POL] A. Stankiewicz - personal  foul (1 PF, 2nd team foul). Foul drawn: L. Guapo" team="1" time="02:30" />
+    <LINE num="183" text="[FRA] M. Hero - 3pt jump shot missed. M. Mane - offensive rebound (6 REB)" team="2" time="02:43" />
+    <LINE num="182" text="[POL] Team turnover (24 seconds)" team="1" time="03:06" />
+    <LINE num="181" text="[POL] M. Radomska - 3pt jump shot blocked. L. Guapo - block (2 BS)" team="1" time="03:10" />
+    <LINE num="180" text="[FRA] L. Guapo - turnover (travelling, 3 TO)" team="2" time="03:35" />
+    <LINE num="179" text="[POL] A. Stankiewicz - 2pt lay-up made (8 Pts)" team="1" time="03:46" scoreA="31" scoreB="36" />
+    <LINE num="178" text="[FRA] Substitution - M. Vidal-Geneve OUT, M. Hero IN" team="2" time="03:46" />
+    <LINE num="177" text="[POL] Substitution - M. Szajtauer OUT, K. Poboży IN" team="1" time="03:46" />
+    <LINE num="176" text="[POL] Substitution - J. Drop OUT, M. Radomska IN" team="1" time="03:46" />
+    <LINE num="175" text="[POL] Substitution - A. Wajler OUT, A. Stankiewicz IN" team="1" time="03:46" />
+    <LINE num="174" text="[FRA] L. Millavet - 2pt jump shot made (8 Pts). L. Guapo - assist (1 AS)" team="2" time="04:01" scoreA="29" scoreB="36" />
+    <LINE num="173" text="[POL] J. Drop - 3pt jump shot missed. L. Millavet - defensive rebound (4 REB)" team="1" time="04:11" />
+    <LINE num="172" text="[FRA] C. Djaldi Tabdi - 2pt tip-in made (2 Pts)" team="2" time="04:22" scoreA="29" scoreB="34" />
+    <LINE num="171" text="[FRA] L. Millavet - 3pt jump shot missed. C. Djaldi Tabdi - offensive rebound (2 REB)" team="2" time="04:28" />
+    <LINE num="170" text="[FRA] L. Guapo - 3pt jump shot missed. M. Mane - offensive rebound (5 REB)" team="2" time="04:41" />
+    <LINE num="169" text="[POL] J. Drop - turnover (bad pass, 1 TO). L. Millavet - steal (1 ST)" team="1" time="04:50" />
+    <LINE num="168" text="[FRA] Substitution - M. Johannes OUT, M. Mane IN" team="2" time="05:02" />
+    <LINE num="167" text="[POL] Substitution - A. Stankiewicz OUT, S. Bujniak IN" team="1" time="05:02" />
+    <LINE num="166" text="[FRA] L. Guapo - personal  foul (2 PF, 3rd team foul). Foul drawn: J. Drop" team="2" time="05:02" />
+    <LINE num="165" text="[FRA] L. Guapo - 2pt jump shot missed. J. Drop - defensive rebound (8 REB)" team="2" time="05:15" />
+    <LINE num="164" text="[POL] A. Wajler - turnover (bad pass, 1 TO). L. Guapo - steal (1 ST)" team="1" time="05:19" />
+    <LINE num="163" text="[FRA] C. Djaldi Tabdi - turnover (bad pass, 2 TO). A. Wajler - steal (1 ST)" team="2" time="05:21" />
+    <LINE num="162" text="[POL] A. Rembiszewska - turnover (bad pass, 2 TO)" team="1" time="05:30" />
+    <LINE num="161" text="[POL] A. Rembiszewska - 2pt jump shot blocked. L. Guapo - block (1 BS). A. Rembiszewska - offensive rebound (1 REB)" team="1" time="05:44" />
+    <LINE num="160" text="[POL] J. Drop - 3pt jump shot missed. J. Drop - offensive rebound (7 REB)" team="1" time="05:49" />
+    <LINE num="159" text="[FRA] L. Guapo - 3pt jump shot missed. A. Stankiewicz - defensive rebound (2 REB)" team="2" time="06:12" />
+    <LINE num="158" text="[POL] J. Drop - personal  foul (2 PF, 1st team foul). Foul drawn: C. Djaldi Tabdi" team="1" time="06:26" />
+    <LINE num="157" text="[POL] A. Wajler - 2pt jump shot missed. L. Millavet - defensive rebound (3 REB)" team="1" time="06:37" />
+    <LINE num="156" text="[FRA] L. Millavet - 2pt jump shot missed. M. Szajtauer - defensive rebound (3 REB)" team="2" time="06:58" />
+    <LINE num="155" text="[POL] A. Stankiewicz - 2pt jump shot made (6 Pts)" team="1" time="07:20" scoreA="29" scoreB="32" />
+    <LINE num="154" text="[FRA] L. Guapo - 3pt jump shot missed. J. Drop - defensive rebound (6 REB)" team="2" time="07:42" />
+    <LINE num="153" text="[POL] A. Stankiewicz - free throw made (4 Pts)" team="1" time="08:06" scoreA="27" scoreB="32" />
+    <LINE num="152" text="[POL] A. Stankiewicz - free throw made (3 Pts)" team="1" time="08:06" scoreA="26" scoreB="32" />
+    <LINE num="151" text="[FRA] M. Vidal-Geneve - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: A. Stankiewicz" team="2" time="08:06" />
+    <LINE num="150" text="[POL] Timeout" team="1" time="08:15" />
+    <LINE num="149" text="[FRA] L. Guapo -  offensive foul (1 PF, 1st team foul). Foul drawn: A. Stankiewicz. L. Guapo - turnover (offensive foul, 2 TO)" team="2" time="08:15" />
+    <LINE num="148" text="[POL] J. Drop - 2pt jump shot missed. M. Vidal-Geneve - defensive rebound (2 REB)" team="1" time="08:29" />
+    <LINE num="147" text="[FRA] L. Millavet - 2pt jump shot missed. J. Drop - defensive rebound (5 REB)" team="2" time="08:46" />
+    <LINE num="146" text="[POL] A. Wajler - 2pt jump shot missed. M. Johannes - defensive rebound (8 REB)" team="1" time="08:54" />
+    <LINE num="145" text="[FRA] M. Johannes - 3pt jump shot missed. A. Stankiewicz - defensive rebound (1 REB)" team="2" time="09:12" />
+    <LINE num="144" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Johannes - defensive rebound (7 REB)" team="1" time="09:38" />
+    <LINE num="143" text="[FRA] Substitution - E. Naigre OUT, C. Djaldi Tabdi IN" team="2" time="10:00" />
+    <LINE num="142" text="[FRA] Substitution - M. Hero OUT, L. Guapo IN" team="2" time="10:00" />
+    <LINE num="141" text="[FRA] Substitution - M. Mane OUT, M. Vidal-Geneve IN" team="2" time="10:00" />
+    <LINE num="140" text="[POL] Substitution - J. Ossowska OUT, M. Szajtauer IN" team="1" time="10:00" />
+    <LINE num="139" text="[POL] Substitution - S. Bujniak OUT, A. Wajler IN" team="1" time="10:00" />
+    <LINE num="138" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="137" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="136" text="[FRA] M. Johannes - 3pt jump shot missed" team="2" time="00:00" />
+    <LINE num="135" text="[FRA] Timeout" team="2" time="00:00" />
+    <LINE num="134" text="[POL] A. Rembiszewska - personal  foul (2 PF, 3rd team foul). Foul drawn: M. Hero" team="1" time="00:00" />
+    <LINE num="133" text="[FRA] M. Mane - 3pt jump shot made (8 Pts). M. Hero - assist (1 AS)" team="2" time="00:13" scoreA="25" scoreB="32" />
+    <LINE num="132" text="[POL] J. Drop - 3pt jump shot made (3 Pts). A. Rembiszewska - assist (3 AS)" team="1" time="00:25" scoreA="25" scoreB="29" />
+    <LINE num="131" text="[POL] Substitution - M. Radomska OUT, J. Drop IN" team="1" time="00:42" />
+    <LINE num="130" text="[FRA] L. Millavet - 3pt jump shot missed. Team defensive rebound" team="2" time="00:44" />
+    <LINE num="129" text="[FRA] Substitution - B. Agblemagnon OUT, E. Naigre IN" team="2" time="00:58" />
+    <LINE num="128" text="[FRA] L. Millavet - 2pt jump shot blocked. M. Radomska - block (1 BS). Team offensive rebound" team="2" time="00:58" />
+    <LINE num="127" text="[POL] A. Rembiszewska - 2pt jump shot missed. L. Millavet - defensive rebound (2 REB)" team="1" time="01:04" />
+    <LINE num="126" text="[FRA] B. Agblemagnon - 2pt jump shot missed. J. Ossowska - defensive rebound (1 REB)" team="2" time="01:29" />
+    <LINE num="125" text="[POL] Substitution - M. Szajtauer OUT, A. Rembiszewska IN" team="1" time="01:42" />
+    <LINE num="124" text="[POL] J. Ossowska - personal  foul (1 PF, 2nd team foul). Foul drawn: M. Hero" team="1" time="01:42" />
+    <LINE num="123" text="[POL] M. Radomska - turnover (bad pass, 1 TO). M. Hero - steal (1 ST)" team="1" time="01:45" />
+    <LINE num="122" text="[FRA] M. Mane - 2pt jump shot missed. S. Bujniak - defensive rebound (3 REB)" team="2" time="01:54" />
+    <LINE num="121" text="[FRA] L. Millavet - 2pt jump shot missed. L. Millavet - offensive rebound (1 REB)" team="2" time="02:10" />
+    <LINE num="120" text="[POL] M. Radomska - 2pt jump shot missed. M. Johannes - defensive rebound (6 REB)" team="1" time="02:27" />
+    <LINE num="119" text="[FRA] M. Johannes - turnover (bad pass, 2 TO). M. Radomska - steal (1 ST)" team="2" time="02:30" />
+    <LINE num="118" text="[POL] A. Stankiewicz - 3pt jump shot missed. M. Johannes - defensive rebound (5 REB)" team="1" time="02:34" />
+    <LINE num="117" text="[POL] Substitution - K. Poboży OUT, J. Ossowska IN" team="1" time="02:48" />
+    <LINE num="116" text="[FRA] M. Mane - 2pt tip-in made (fast break, 5 Pts)" team="2" time="03:06" scoreA="22" scoreB="29" />
+    <LINE num="115" text="[FRA] L. Millavet - 2pt jump shot missed. M. Mane - offensive rebound (4 REB)" team="2" time="03:06" />
+    <LINE num="114" text="[POL] M. Radomska - 3pt jump shot missed. B. Agblemagnon - defensive rebound (4 REB)" team="1" time="03:06" />
+    <LINE num="113" text="[FRA] M. Hero - 3pt jump shot made (fast break, 8 Pts). M. Mane - assist (2 AS)" team="2" time="03:06" scoreA="22" scoreB="27" />
+    <LINE num="112" text="[POL] M. Radomska - 3pt jump shot made (3 Pts). S. Bujniak - assist (1 AS)" team="1" time="03:12" scoreA="22" scoreB="24" />
+    <LINE num="111" text="[POL] M. Radomska - 3pt jump shot missed. S. Bujniak - offensive rebound (2 REB)" team="1" time="03:22" />
+    <LINE num="110" text="[FRA] B. Agblemagnon - turnover (ball handling, 1 TO). A. Stankiewicz - steal (2 ST)" team="2" time="03:34" />
+    <LINE num="109" text="[POL] M. Radomska - 3pt jump shot missed. B. Agblemagnon - defensive rebound (3 REB)" team="1" time="03:53" />
+    <LINE num="108" text="[FRA] L. Millavet - turnover (out of bounds, 2 TO)" team="2" time="04:21" />
+    <LINE num="107" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Mane - defensive rebound (3 REB)" team="1" time="04:29" />
+    <LINE num="106" text="[POL] Substitution - J. Drop OUT, M. Radomska IN" team="1" time="04:53" />
+    <LINE num="105" text="[POL] Substitution - A. Wajler OUT, S. Bujniak IN" team="1" time="04:53" />
+    <LINE num="104" text="[POL] Timeout" team="1" time="04:53" />
+    <LINE num="103" text="[FRA] L. Millavet - turnover (travelling, 1 TO)" team="2" time="04:53" />
+    <LINE num="102" text="[POL] A. Stankiewicz - 3pt jump shot missed. M. Mane - defensive rebound (2 REB)" team="1" time="04:58" />
+    <LINE num="101" text="[FRA] M. Hero - 2pt lay-up made (5 Pts)" team="2" time="05:17" scoreA="19" scoreB="24" />
+    <LINE num="100" text="[FRA] Substitution - A. Traore OUT, M. Hero IN" team="2" time="05:32" />
+    <LINE num="99" text="[FRA] Substitution - M. Vidal-Geneve OUT, M. Mane IN" team="2" time="05:32" />
+    <LINE num="98" text="[POL] Substitution - A. Rembiszewska OUT, K. Poboży IN" team="1" time="05:32" />
+    <LINE num="97" text="[POL] A. Stankiewicz - 3pt jump shot missed" team="1" time="05:35" />
+    <LINE num="96" text="[POL] A. Wajler - 3pt jump shot missed. M. Szajtauer - offensive rebound (2 REB)" team="1" time="05:42" />
+    <LINE num="95" text="[FRA] A. Traore - 3pt jump shot missed. J. Drop - defensive rebound (4 REB)" team="2" time="05:56" />
+    <LINE num="94" text="[POL] J. Drop - 3pt jump shot missed. B. Agblemagnon - defensive rebound (2 REB)" team="1" time="06:12" />
+    <LINE num="93" text="[FRA] L. Millavet - 2pt jump shot made (6 Pts). A. Traore - assist (4 AS)" team="2" time="06:30" scoreA="19" scoreB="22" />
+    <LINE num="92" text="[POL] Substitution - S. Bujniak OUT, A. Stankiewicz IN" team="1" time="06:45" />
+    <LINE num="91" text="[POL] J. Drop - 3pt jump shot missed" team="1" time="06:48" />
+    <LINE num="90" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. J. Drop - defensive rebound (3 REB)" team="2" time="07:07" />
+    <LINE num="89" text="[POL] A. Wajler - 3pt jump shot made (9 Pts). A. Rembiszewska - assist (2 AS)" team="1" time="07:23" scoreA="19" scoreB="20" />
+    <LINE num="88" text="[FRA] Substitution - E. Naigre OUT, L. Millavet IN" team="2" time="07:33" />
+    <LINE num="87" text="[FRA] M. Vidal-Geneve - personal  foul (1 PF, 1st team foul). Foul drawn: J. Drop" team="2" time="07:33" />
+    <LINE num="86" text="[FRA] E. Naigre - turnover (bad pass, 2 TO). J. Drop - steal (1 ST)" team="2" time="07:46" />
+    <LINE num="85" text="[POL] M. Szajtauer - 2pt jump shot missed. E. Naigre - defensive rebound (3 REB)" team="1" time="08:03" />
+    <LINE num="84" text="[FRA] B. Agblemagnon - free throw made (4 Pts)" team="2" time="08:15" scoreA="16" scoreB="20" />
+    <LINE num="83" text="[FRA] B. Agblemagnon - free throw made (3 Pts)" team="2" time="08:15" scoreA="16" scoreB="19" />
+    <LINE num="82" text="[POL] Substitution - J. Grymek OUT, M. Szajtauer IN" team="1" time="08:15" />
+    <LINE num="81" text="[POL] A. Rembiszewska - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: B. Agblemagnon" team="1" time="08:15" />
+    <LINE num="80" text="[POL] S. Bujniak - 2pt jump shot blocked. E. Naigre - block (1 BS). A. Traore - defensive rebound (2 REB)" team="1" time="08:20" />
+    <LINE num="79" text="[FRA] M. Vidal-Geneve - 2pt jump shot made (2 Pts)" team="2" time="08:30" scoreA="16" scoreB="18" />
+    <LINE num="78" text="[POL] S. Bujniak - 3pt jump shot made (3 Pts). A. Rembiszewska - assist (1 AS)" team="1" time="08:48" scoreA="16" scoreB="16" />
+    <LINE num="77" text="[FRA] E. Naigre - 2pt jump shot made (4 Pts). A. Traore - assist (3 AS)" team="2" time="09:03" scoreA="13" scoreB="16" />
+    <LINE num="76" text="[FRA] B. Agblemagnon - 3pt jump shot missed. Team offensive rebound" team="2" time="09:18" />
+    <LINE num="75" text="[POL] A. Wajler - 3pt jump shot made (6 Pts). J. Drop - assist (3 AS)" team="1" time="09:34" scoreA="13" scoreB="14" />
+    <LINE num="74" text="[FRA] B. Agblemagnon - 2pt jump shot made (2 Pts). A. Traore - assist (2 AS)" team="2" time="09:44" scoreA="10" scoreB="14" />
+    <LINE num="73" text="[FRA] Substitution - M. Hero OUT, M. Vidal-Geneve IN" team="2" time="10:00" />
+    <LINE num="72" text="[FRA] Substitution - L. Guapo OUT, M. Johannes IN" team="2" time="10:00" />
+    <LINE num="71" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="70" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="69" text="[POL] A. Wajler - 3pt jump shot made (3 Pts). J. Drop - assist (2 AS)" team="1" time="00:03" scoreA="10" scoreB="12" />
+    <LINE num="68" text="[FRA] E. Naigre - 2pt jump shot missed. S. Bujniak - defensive rebound (1 REB)" team="2" time="00:19" />
+    <LINE num="67" text="[POL] A. Wajler - personal  foul (1 PF, 4th team foul). Foul drawn: A. Traore" team="1" time="00:40" />
+    <LINE num="66" text="[POL] S. Bujniak - 3pt jump shot missed" team="1" time="00:45" />
+    <LINE num="65" text="[FRA] E. Naigre - 2pt jump shot made (2 Pts). A. Traore - assist (1 AS)" team="2" time="01:00" scoreA="7" scoreB="12" />
+    <LINE num="64" text="[POL] Substitution - J. Ossowska OUT, A. Wajler IN" team="1" time="01:21" />
+    <LINE num="63" text="[POL] J. Drop - personal  foul (1 PF, 3rd team foul). Foul drawn: A. Traore" team="1" time="01:21" />
+    <LINE num="62" text="[POL] S. Bujniak - 3pt jump shot missed. A. Traore - defensive rebound (1 REB)" team="1" time="01:25" />
+    <LINE num="61" text="[FRA] B. Agblemagnon - 2pt jump shot missed" team="2" time="01:46" />
+    <LINE num="60" text="[POL] A. Rembiszewska - turnover (bad pass, 1 TO). E. Naigre - steal (1 ST)" team="1" time="01:53" />
+    <LINE num="59" text="[FRA] Substitution - M. Mane OUT, A. Traore IN" team="2" time="02:01" />
+    <LINE num="58" text="[POL] Substitution - A. Stankiewicz OUT, J. Drop IN" team="1" time="02:01" />
+    <LINE num="57" text="[FRA] L. Guapo - turnover (ball handling, 1 TO). A. Stankiewicz - steal (1 ST)" team="2" time="02:16" />
+    <LINE num="56" text="[FRA] B. Agblemagnon - 2pt jump shot missed. E. Naigre - offensive rebound (2 REB)" team="2" time="02:31" />
+    <LINE num="55" text="[POL] J. Ossowska - 2pt jump shot missed. B. Agblemagnon - defensive rebound (1 REB)" team="1" time="02:41" />
+    <LINE num="54" text="[FRA] E. Naigre - turnover (bad pass, 1 TO). J. Grymek - steal (1 ST)" team="2" time="02:53" />
+    <LINE num="53" text="[POL] Substitution - K. Poboży OUT, J. Grymek IN" team="1" time="02:59" />
+    <LINE num="52" text="[POL] K. Poboży - personal  foul (2 PF, 2nd team foul). Foul drawn: E. Naigre" team="1" time="02:59" />
+    <LINE num="51" text="[POL] K. Poboży - turnover (bad pass, 1 TO). M. Mane - steal (1 ST)" team="1" time="03:09" />
+    <LINE num="50" text="[POL] Substitution - W. Zapart OUT, A. Rembiszewska IN" team="1" time="03:21" />
+    <LINE num="49" text="[FRA] M. Hero - 3pt jump shot made (3 Pts). M. Mane - assist (1 AS)" team="2" time="04:00" scoreA="7" scoreB="10" />
+    <LINE num="48" text="[POL] Team turnover (24 seconds)" team="1" time="04:21" />
+    <LINE num="47" text="[POL] S. Bujniak - 2pt jump shot missed. Team defensive rebound" team="1" time="04:25" />
+    <LINE num="46" text="[FRA] Substitution - M. Vidal-Geneve OUT, B. Agblemagnon IN" team="2" time="04:56" />
+    <LINE num="45" text="[FRA] Substitution - M. Johannes OUT, M. Hero IN" team="2" time="04:56" />
+    <LINE num="44" text="[FRA] Substitution - L. Millavet OUT, L. Guapo IN" team="2" time="04:56" />
+    <LINE num="43" text="[POL] Substitution - J. Drop OUT, S. Bujniak IN" team="1" time="04:56" />
+    <LINE num="42" text="[FRA] M. Johannes - personal  foul (1 PF, 3rd team foul). Foul drawn: K. Poboży" team="2" time="04:56" />
+    <LINE num="41" text="[FRA] M. Mane - 3pt jump shot missed. K. Poboży - defensive rebound (1 REB)" team="2" time="05:00" />
+    <LINE num="40" text="[POL] J. Ossowska - 3pt jump shot made (3 Pts). A. Stankiewicz - assist (1 AS)" team="1" time="05:20" scoreA="7" scoreB="7" />
+    <LINE num="39" text="[FRA] M. Mane - 3pt jump shot made (3 Pts). M. Johannes - assist (1 AS)" team="2" time="05:31" scoreA="4" scoreB="7" />
+    <LINE num="38" text="[FRA] E. Naigre - 2pt jump shot missed. M. Mane - offensive rebound (1 REB)" team="2" time="05:41" />
+    <LINE num="37" text="[POL] A. Stankiewicz - 2pt jump shot missed. E. Naigre - defensive rebound (1 REB)" team="1" time="05:49" />
+    <LINE num="36" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. Team defensive rebound" team="2" time="06:07" />
+    <LINE num="35" text="[POL] K. Poboży - personal  foul (1 PF, 1st team foul). Foul drawn: E. Naigre" team="1" time="06:52" />
+    <LINE num="34" text="[POL] J. Ossowska - 3pt jump shot missed. M. Johannes - defensive rebound (4 REB)" team="1" time="07:12" />
+    <LINE num="33" text="[POL] Substitution - M. Szajtauer OUT, W. Zapart IN" team="1" time="07:21" />
+    <LINE num="32" text="[FRA] Substitution - C. Djaldi Tabdi OUT, E. Naigre IN" team="2" time="07:27" />
+    <LINE num="31" text="[POL] Substitution - M. Radomska OUT, K. Poboży IN" team="1" time="07:27" />
+    <LINE num="30" text="[POL] Substitution - A. Rembiszewska OUT, J. Ossowska IN" team="1" time="07:27" />
+    <LINE num="29" text="[FRA] C. Djaldi Tabdi -  offensive foul (2 PF, 2nd team foul). Foul drawn: A. Stankiewicz. C. Djaldi Tabdi - turnover (offensive foul, 1 TO)" team="2" time="07:27" />
+    <LINE num="28" text="[POL] M. Szajtauer - 2pt jump shot made (fast break, 2 Pts). J. Drop - assist (1 AS)" team="1" time="07:27" scoreA="4" scoreB="4" />
+    <LINE num="27" text="[FRA] M. Vidal-Geneve - 3pt jump shot missed. J. Drop - defensive rebound (2 REB)" team="2" time="07:27" />
+    <LINE num="26" text="[POL] A. Stankiewicz - 2pt jump shot missed. M. Vidal-Geneve - defensive rebound (1 REB)" team="1" time="07:27" />
+    <LINE num="25" text="[FRA] L. Millavet - 2pt jump shot made (fast break, 4 Pts). M. Vidal-Geneve - assist (1 AS)" team="2" time="07:27" scoreA="2" scoreB="4" />
+    <LINE num="24" text="[POL] M. Szajtauer - 2pt jump shot missed. C. Djaldi Tabdi - defensive rebound (1 REB)" team="1" time="07:27" />
+    <LINE num="23" text="[FRA] M. Johannes - turnover (bad pass, 1 TO). M. Szajtauer - steal (1 ST)" team="2" time="07:27" />
+    <LINE num="22" text="[POL] A. Rembiszewska - 2pt jump shot missed. M. Johannes - defensive rebound (3 REB)" team="1" time="07:27" />
+    <LINE num="21" text="[FRA] Team turnover (24 seconds)" team="2" time="07:27" />
+    <LINE num="20" text="[POL] M. Radomska - 3pt jump shot missed" team="1" time="07:59" />
+    <LINE num="19" text="[POL] A. Stankiewicz - 2pt jump shot missed. Team offensive rebound" team="1" time="08:08" />
+    <LINE num="18" text="[FRA] L. Millavet - 2pt jump shot made (2 Pts). C. Djaldi Tabdi - assist (1 AS)" team="2" time="08:23" scoreA="2" scoreB="2" />
+    <LINE num="17" text="[POL] A. Stankiewicz - 2pt lay-up made (2 Pts)" team="1" time="08:36" scoreA="2" scoreB="0" />
+    <LINE num="16" text="[FRA] M. Johannes - 3pt jump shot missed. J. Drop - defensive rebound (1 REB)" team="2" time="08:49" />
+    <LINE num="15" text="[POL] M. Radomska - 2pt jump shot missed. M. Johannes - defensive rebound (2 REB)" team="1" time="09:05" />
+    <LINE num="14" text="[FRA] C. Djaldi Tabdi - personal  foul (1 PF, 1st team foul). Foul drawn: M. Szajtauer" team="2" time="09:23" />
+    <LINE num="13" text="[FRA] M. Mane - 3pt jump shot missed. M. Szajtauer - defensive rebound (1 REB)" team="2" time="09:27" />
+    <LINE num="12" text="[POL] J. Drop - 2pt jump shot missed. M. Johannes - defensive rebound (1 REB)" team="1" time="09:53" />
+    <LINE num="11" text="[FRA] Substitution - C. Djaldi Tabdi IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[FRA] Substitution - M. Mane IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[FRA] Substitution - M. Vidal-Geneve IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[FRA] Substitution - M. Johannes IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[FRA] Substitution - L. Millavet IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[POL] Substitution - M. Szajtauer IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[POL] Substitution - M. Radomska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[POL] Substitution - A. Rembiszewska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[POL] Substitution - J. Drop IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[POL] Substitution - A. Stankiewicz IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="15.5976">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

@@ -1,0 +1,370 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1865">
+    <TEAM name="Łotwa" logo="http://live.fibaeurope.com/www/gallery/E1098AD8-89B9-4822-8DF3-6E9D1A18BE21.jpg" pts="54" fouls="6" />
+    <TEAM name="Athletes in Action (USA)" logo="" pts="60" fouls="2" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="16" scoreB="14" />
+      <QUARTER n="2" scoreA="15" scoreB="23" />
+      <QUARTER n="3" scoreA="12" scoreB="11" />
+      <QUARTER n="4" scoreA="11" scoreB="12" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="V. Birina [LAT] - 66.7% FG (6/9)" duration="31.3396">
+    <ITEM text="Blocks: Łotwa - 1, Athletes in Action (USA) - 6" />
+  </TICKER>
+  <OVERVIEW duration="15.4632" />
+  <PLAYBYPLAY duration="140.3876">
+    <LINE num="339" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="338" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="337" text="[LAT] K. Stolce - 3pt jump shot missed. B. Lewis - defensive rebound (4 REB)" team="1" time="00:01" />
+    <LINE num="336" text="[AIA] J. Jones - free throw missed" team="2" time="00:10" />
+    <LINE num="335" text="[AIA] J. Jones - free throw made (20 Pts)" team="2" time="00:10" scoreA="54" scoreB="60" />
+    <LINE num="334" text="[LAT] P. Strautmane - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: J. Jones" team="1" time="00:10" />
+    <LINE num="333" text="[LAT] K. Stolce - 3pt jump shot missed. J. Jones - defensive rebound (11 REB)" team="1" time="00:10" />
+    <LINE num="332" text="[LAT] Substitution - S. Kudule OUT, E. Berżina IN" team="1" time="00:18" />
+    <LINE num="331" text="[LAT] Timeout" team="1" time="00:18" />
+    <LINE num="330" text="[AIA] L. Brown - free throw made (15 Pts)" team="2" time="00:18" scoreA="54" scoreB="59" />
+    <LINE num="329" text="[AIA] L. Brown - free throw made (14 Pts)" team="2" time="00:18" scoreA="54" scoreB="58" />
+    <LINE num="328" text="[LAT] P. Strautmane - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: L. Brown" team="1" time="00:18" />
+    <LINE num="327" text="[LAT] Substitution - I. Spigule OUT" team="1" time="00:21" deleted="1" />
+    <LINE num="326" text="[LAT] I. Spigule - free throw made (5 Pts)" team="1" time="00:21" scoreA="54" scoreB="57" />
+    <LINE num="325" text="[LAT] I. Spigule - free throw made (4 Pts)" team="1" time="00:21" scoreA="53" scoreB="57" />
+    <LINE num="324" text="[LAT] Substitution - V. Birina OUT, K. Stolce IN" team="1" time="00:21" />
+    <LINE num="323" text="[AIA] J. Jones - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: I. Spigule" team="2" time="00:21" />
+    <LINE num="322" text="[AIA] J. Jones - turnover (bad pass, 7 TO). I. Spigule - steal (1 ST)" team="2" time="00:25" />
+    <LINE num="321" text="[LAT] S. Kudule - turnover (ball handling, 3 TO). J. Jones - steal (2 ST)" team="1" time="00:47" />
+    <LINE num="320" text="[LAT] Substitution - E. Berżina OUT, S. Kudule IN" team="1" time="01:04" />
+    <LINE num="319" text="[LAT] Substitution - A. Busa OUT, I. Spigule IN" team="1" time="01:04" deleted="1" />
+    <LINE num="318" text="[AIA] J. Jones - 2pt lay-up made (19 Pts)" team="2" time="01:08" scoreA="52" scoreB="57" />
+    <LINE num="317" text="[LAT] P. Strautmane - 2pt lay-up missed. M. Buck - defensive rebound (3 REB)" team="1" time="01:25" />
+    <LINE num="316" text="[AIA] B. Lewis - 2pt jump shot missed. D. Strautmane - defensive rebound (9 REB)" team="2" time="01:42" />
+    <LINE num="315" text="[LAT] P. Strautmane - turnover (out of bounds, 2 TO)" team="1" time="01:55" />
+    <LINE num="314" text="[AIA] Team turnover (24 seconds)" team="2" time="01:56" />
+    <LINE num="313" text="[AIA] Substitution - M. Sell OUT, B. Lewis IN" team="2" time="02:18" />
+    <LINE num="312" text="[LAT] V. Birina - 2pt jump shot made (12 Pts)" team="1" time="02:23" scoreA="52" scoreB="55" />
+    <LINE num="311" text="[LAT] Substitution - M. Bergmane OUT" team="1" time="02:49" deleted="1" />
+    <LINE num="310" text="[AIA] M. Billings - 2pt jump shot made (fast break, 10 Pts)" team="2" time="02:49" scoreA="50" scoreB="55" />
+    <LINE num="309" text="[LAT] M. Bergmane - turnover (bad pass, 4 TO). M. Sell - steal (1 ST)" team="1" time="02:57" />
+    <LINE num="308" text="[AIA] L. Brown - 2pt jump shot missed. E. Berżina - defensive rebound (2 REB)" team="2" time="03:04" />
+    <LINE num="307" text="[LAT] V. Birina - 2pt jump shot made (10 Pts). D. Strautmane - assist (4 AS)" team="1" time="03:23" scoreA="50" scoreB="53" />
+    <LINE num="306" text="[AIA] L. Brown - 2pt jump shot missed" team="2" time="03:46" />
+    <LINE num="305" text="[LAT] Substitution - K. Stolce OUT, D. Strautmane IN" team="1" time="03:55" />
+    <LINE num="304" text="[AIA] M. Sell - 2pt jump shot missed" team="2" time="04:02" />
+    <LINE num="303" text="[LAT] Substitution - S. Kudule OUT, E. Berżina IN" team="1" time="04:19" />
+    <LINE num="302" text="[LAT] M. Bergmane - personal  foul (2 PF, 4th team foul). Foul drawn: M. Billings" team="1" time="04:19" />
+    <LINE num="301" text="[LAT] Team turnover (24 seconds)" team="1" time="04:19" />
+    <LINE num="300" text="[LAT] Substitution - P. Luke OUT, V. Birina IN" team="1" time="04:41" />
+    <LINE num="299" text="[LAT] Timeout" team="1" time="04:41" />
+    <LINE num="298" text="[AIA] Substitution - B. Lewis OUT, M. Sell IN" team="2" time="04:41" />
+    <LINE num="297" text="[AIA] Substitution - E. Young OUT, M. Billings IN" team="2" time="04:41" />
+    <LINE num="296" text="[LAT] K. Stolce - 2pt jump shot blocked. J. Jones - block (2 BS)" team="1" time="04:44" />
+    <LINE num="295" text="[AIA] B. Lewis - 2pt jump shot made (6 Pts). J. Jones - assist (3 AS)" team="2" time="05:01" scoreA="48" scoreB="53" />
+    <LINE num="294" text="[LAT] P. Strautmane - 2pt jump shot made (7 Pts)" team="1" time="05:20" scoreA="48" scoreB="51" />
+    <LINE num="293" text="[LAT] Substitution - A. Fridenberga OUT, M. Bergmane IN" team="1" time="05:38" />
+    <LINE num="292" text="[AIA] E. Young - turnover (3 seconds, 2 TO)" team="2" time="05:38" />
+    <LINE num="291" text="[LAT] A. Fridenberga - turnover (out of bounds, 2 TO)" team="1" time="05:46" />
+    <LINE num="290" text="[AIA] Substitution - F. Randolph OUT, L. Brown IN" team="2" time="06:04" />
+    <LINE num="289" text="[AIA] B. Lewis - personal  foul (2 PF, 1st team foul). Foul drawn: P. Strautmane" team="2" time="06:04" />
+    <LINE num="288" text="[AIA] J. Jones - 2pt tip-in made (17 Pts)" team="2" time="06:19" scoreA="46" scoreB="51" />
+    <LINE num="287" text="[AIA] B. Lewis - free throw missed. J. Jones - offensive rebound (10 REB)" team="2" time="06:20" />
+    <LINE num="286" text="[AIA] B. Lewis - free throw missed" team="2" time="06:20" />
+    <LINE num="285" text="[LAT] Substitution - S. Dzarcane OUT, K. Stolce IN" team="1" time="06:20" />
+    <LINE num="284" text="[LAT] P. Luke - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: B. Lewis" team="1" time="06:20" />
+    <LINE num="283" text="[AIA] F. Randolph - 2pt jump shot missed. B. Lewis - offensive rebound (3 REB)" team="2" time="06:26" />
+    <LINE num="282" text="[LAT] P. Luke - 3pt jump shot made (3 Pts). P. Strautmane - assist (2 AS)" team="1" time="06:44" scoreA="46" scoreB="49" />
+    <LINE num="281" text="[AIA] B. Lewis - 2pt jump shot missed" team="2" time="07:11" />
+    <LINE num="280" text="[LAT] P. Strautmane - turnover (bad pass, 1 TO). M. Buck - steal (3 ST)" team="1" time="07:21" />
+    <LINE num="279" text="[LAT] Substitution - E. Berżina OUT, S. Kudule IN" team="1" time="07:21" />
+    <LINE num="278" text="[LAT] Substitution - I. Spigule OUT, P. Strautmane IN" team="1" time="07:21" />
+    <LINE num="277" text="[LAT] Substitution - D. Strautmane OUT, P. Luke IN" team="1" time="07:21" />
+    <LINE num="276" text="[AIA] J. Jones - turnover (out of bounds, 6 TO)" team="2" time="07:21" />
+    <LINE num="275" text="[LAT] D. Strautmane - personal  foul (4 PF, 2nd team foul). Foul drawn: B. Lewis" team="1" time="07:36" />
+    <LINE num="274" text="[LAT] I. Spigule - turnover (out of bounds, 2 TO)" team="1" time="07:48" />
+    <LINE num="273" text="[AIA] J. Jones - turnover (ball handling, 5 TO). D. Strautmane - steal (2 ST)" team="2" time="07:55" />
+    <LINE num="272" text="[LAT] I. Spigule - 3pt jump shot missed" team="1" time="08:21" />
+    <LINE num="271" text="[AIA] Substitution - C. Johnson OUT, M. Buck IN" team="2" time="08:37" />
+    <LINE num="270" text="[AIA] Substitution - M. Billings OUT, B. Lewis IN" team="2" time="08:37" />
+    <LINE num="269" text="[AIA] Substitution - L. Brown OUT, E. Young IN" team="2" time="08:37" />
+    <LINE num="268" text="[AIA] M. Billings - free throw made (8 Pts)" team="2" time="08:37" scoreA="43" scoreB="49" />
+    <LINE num="267" text="[AIA] M. Billings - free throw missed" team="2" time="08:37" />
+    <LINE num="266" text="[LAT] D. Strautmane - personal shooting foul (3 PF, 1st team foul). 2 free throws awarded. Foul drawn: M. Billings" team="1" time="08:37" />
+    <LINE num="265" text="[LAT] D. Strautmane - 2pt jump shot missed. J. Jones - defensive rebound (9 REB)" team="1" time="08:56" />
+    <LINE num="264" text="[AIA] C. Johnson - 2pt jump shot missed. D. Strautmane - defensive rebound (8 REB)" team="2" time="09:12" />
+    <LINE num="263" text="[LAT] A. Fridenberga - 2pt jump shot missed. J. Jones - defensive rebound (8 REB)" team="1" time="09:24" />
+    <LINE num="262" text="[AIA] L. Brown - 2pt jump shot missed. D. Strautmane - defensive rebound (7 REB)" team="2" time="09:49" />
+    <LINE num="261" text="[LAT] Substitution - S. Kudule OUT, A. Fridenberga IN" team="1" time="10:00" />
+    <LINE num="260" text="[LAT] Substitution - K. Stolce OUT, S. Dzarcane IN" team="1" time="10:00" />
+    <LINE num="259" text="[LAT] Substitution - M. Bergmane OUT, E. Berżina IN" team="1" time="10:00" />
+    <LINE num="258" text="[LAT] Substitution - V. Birina OUT, I. Spigule IN" team="1" time="10:00" />
+    <LINE num="257" text="[LAT] Substitution - A. Busa OUT, D. Strautmane IN" team="1" time="10:00" deleted="1" />
+    <LINE num="256" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="255" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="254" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="253" text="[LAT] A. Busa - 2pt jump shot missed. C. Johnson - defensive rebound (3 REB)" team="1" time="00:08" />
+    <LINE num="252" text="[AIA] J. Jones - turnover (bad pass, 4 TO). K. Stolce - steal (1 ST)" team="2" time="00:17" />
+    <LINE num="251" text="[LAT] K. Stolce - turnover (out of bounds, 2 TO)" team="1" time="00:39" />
+    <LINE num="250" text="[AIA] Substitution - M. Buck OUT, F. Randolph IN" team="2" time="01:05" />
+    <LINE num="249" text="[AIA] M. Billings - 2pt jump shot missed" team="2" time="01:08" />
+    <LINE num="248" text="[LAT] V. Birina - 2pt jump shot made (fast break, 8 Pts). M. Bergmane - assist (2 AS)" team="1" time="01:24" scoreA="43" scoreB="48" />
+    <LINE num="247" text="[AIA] J. Jones - 2pt jump shot missed" team="2" time="01:30" />
+    <LINE num="246" text="[AIA] M. Billings - 2pt jump shot missed. Team offensive rebound" team="2" time="01:33" />
+    <LINE num="245" text="[AIA] L. Brown - 2pt jump shot missed. M. Billings - offensive rebound (6 REB)" team="2" time="01:35" />
+    <LINE num="244" text="[LAT] Substitution - E. Berżina OUT" team="1" time="01:41" deleted="1" />
+    <LINE num="243" text="[LAT] Substitution - I. Spigule OUT, M. Bergmane IN" team="1" time="01:41" />
+    <LINE num="242" text="[LAT] K. Stolce - personal  foul (4 PF, 3rd team foul). Foul drawn: M. Billings" team="1" time="01:41" />
+    <LINE num="241" text="[AIA] L. Brown - 3pt jump shot made (fast break, 13 Pts). M. Buck - assist (2 AS)" team="2" time="01:51" scoreA="41" scoreB="48" />
+    <LINE num="240" text="[LAT] I. Spigule - turnover (bad pass, 1 TO). M. Buck - steal (2 ST)" team="1" time="01:51" />
+    <LINE num="239" text="[AIA] J. Jones - 2pt jump shot missed. I. Spigule - defensive rebound (3 REB)" team="2" time="01:51" />
+    <LINE num="238" text="[AIA] Substitution - E. Young OUT, C. Johnson IN" team="2" time="01:51" />
+    <LINE num="237" text="[LAT] K. Stolce -  offensive foul (3 PF, 2nd team foul). Foul drawn: M. Buck. K. Stolce - turnover (offensive foul, 1 TO)" team="1" time="01:51" />
+    <LINE num="236" text="[LAT] V. Birina - 3pt jump shot missed" team="1" time="01:57" />
+    <LINE num="235" text="[AIA] J. Jones - 2pt tip-in made (15 Pts)" team="2" time="02:16" scoreA="41" scoreB="45" />
+    <LINE num="234" text="[AIA] E. Young - 2pt jump shot missed. J. Jones - offensive rebound (7 REB)" team="2" time="02:18" />
+    <LINE num="233" text="[AIA] M. Billings - 2pt jump shot missed. E. Young - offensive rebound (5 REB)" team="2" time="02:22" />
+    <LINE num="232" text="[LAT] S. Kudule - turnover (bad pass, 2 TO). M. Buck - steal (1 ST)" team="1" time="02:30" />
+    <LINE num="231" text="[AIA] M. Buck - personal  foul (2 PF, 3rd team foul). Foul drawn: K. Stolce" team="2" time="02:39" />
+    <LINE num="230" text="[AIA] J. Jones - 3pt jump shot missed" team="2" time="02:52" />
+    <LINE num="229" text="[LAT] S. Kudule - 3pt jump shot made (4 Pts)" team="1" time="03:13" scoreA="41" scoreB="43" />
+    <LINE num="228" text="[LAT] Substitution - M. Bergmane OUT, S. Kudule IN" team="1" time="03:27" />
+    <LINE num="227" text="[LAT] Substitution - D. Strautmane OUT, K. Stolce IN" team="1" time="03:27" />
+    <LINE num="226" text="[AIA] M. Buck - personal  foul (1 PF, 2nd team foul). Foul drawn: M. Bergmane" team="2" time="03:27" />
+    <LINE num="225" text="[LAT] V. Birina - 2pt jump shot missed. D. Strautmane - offensive rebound (6 REB)" team="1" time="03:35" />
+    <LINE num="224" text="[AIA] J. Jones - 2pt jump shot made (13 Pts)" team="2" time="03:58" scoreA="38" scoreB="43" />
+    <LINE num="223" text="[LAT] M. Bergmane - turnover (out of bounds, 3 TO)" team="1" time="04:16" />
+    <LINE num="222" text="[AIA] M. Billings - 2pt jump shot missed. M. Bergmane - defensive rebound (5 REB)" team="2" time="04:22" />
+    <LINE num="221" text="[LAT] I. Spigule - 3pt jump shot made (3 Pts). M. Bergmane - assist (1 AS)" team="1" time="04:42" scoreA="38" scoreB="41" />
+    <LINE num="220" text="[AIA] M. Billings - free throw missed. Team defensive rebound" team="2" time="04:57" />
+    <LINE num="219" text="[AIA] Substitution - F. Randolph OUT, L. Brown IN" team="2" time="04:57" />
+    <LINE num="218" text="[LAT] Substitution - S. Kudule OUT, M. Bergmane IN" team="1" time="04:57" />
+    <LINE num="217" text="[LAT] D. Strautmane - personal shooting foul (2 PF, 1st team foul). One free throw awarded. Foul drawn: M. Billings" team="1" time="04:57" />
+    <LINE num="216" text="[AIA] M. Billings - 2pt jump shot made (7 Pts)" team="2" time="05:00" scoreA="35" scoreB="41" />
+    <LINE num="215" text="[LAT] Substitution - S. Dzarcane OUT, I. Spigule IN" team="1" time="05:15" />
+    <LINE num="214" text="[LAT] Substitution - P. Strautmane OUT, V. Birina IN" team="1" time="05:15" />
+    <LINE num="213" text="[LAT] D. Strautmane - 2pt jump shot missed" team="1" time="05:19" />
+    <LINE num="212" text="[AIA] E. Young - 2pt jump shot blocked. D. Strautmane - block (1 BS). D. Strautmane - defensive rebound (5 REB)" team="2" time="05:38" />
+    <LINE num="211" text="[LAT] P. Strautmane - 3pt jump shot missed. E. Young - defensive rebound (4 REB)" team="1" time="05:59" />
+    <LINE num="210" text="[AIA] M. Buck - 3pt jump shot missed. P. Strautmane - defensive rebound (3 REB)" team="2" time="06:11" />
+    <LINE num="209" text="[LAT] S. Dzarcane - 2pt jump shot blocked. M. Billings - block (2 BS). F. Randolph - defensive rebound (1 REB)" team="1" time="06:18" />
+    <LINE num="208" text="[AIA] M. Billings - turnover (out of bounds, 1 TO)" team="2" time="06:40" />
+    <LINE num="207" text="[AIA] Substitution - B. Lewis OUT, M. Billings IN" team="2" time="06:47" />
+    <LINE num="206" text="[AIA] Substitution - M. Sell OUT, E. Young IN" team="2" time="06:47" />
+    <LINE num="205" text="[AIA] Substitution - L. Brown OUT, J. Jones IN" team="2" time="06:47" />
+    <LINE num="204" text="[LAT] Substitution - A. Fridenberga OUT, E. Berżina IN" team="1" time="06:47" />
+    <LINE num="203" text="[LAT] Substitution - P. Luke OUT, D. Strautmane IN" team="1" time="06:47" />
+    <LINE num="202" text="[LAT] S. Dzarcane - free throw made (5 Pts)" team="1" time="06:47" scoreA="35" scoreB="39" />
+    <LINE num="201" text="[LAT] S. Dzarcane - free throw made (4 Pts)" team="1" time="06:47" scoreA="34" scoreB="39" />
+    <LINE num="200" text="[AIA] Substitution - A. Seay OUT, M. Buck IN" team="2" time="06:47" />
+    <LINE num="199" text="[AIA] L. Brown - personal shooting foul (3 PF, 1st team foul). 2 free throws awarded. Foul drawn: S. Dzarcane" team="2" time="06:47" />
+    <LINE num="198" text="[AIA] L. Brown - 2pt jump shot missed. A. Fridenberga - defensive rebound (3 REB)" team="2" time="07:03" />
+    <LINE num="197" text="[LAT] P. Strautmane - 3pt jump shot missed" team="1" time="07:25" />
+    <LINE num="196" text="[AIA] F. Randolph - 2pt jump shot missed. A. Fridenberga - defensive rebound (2 REB)" team="2" time="07:38" />
+    <LINE num="195" text="[LAT] S. Kudule - 3pt jump shot missed. B. Lewis - defensive rebound (2 REB)" team="1" time="07:50" />
+    <LINE num="194" text="[AIA] L. Brown - 3pt jump shot missed. S. Dzarcane - defensive rebound (1 REB)" team="2" time="08:09" />
+    <LINE num="193" text="[LAT] S. Dzarcane - turnover (ball handling, 1 TO). A. Seay - steal (1 ST)" team="1" time="08:19" />
+    <LINE num="192" text="[AIA] L. Brown - 2pt jump shot made (10 Pts)" team="2" time="08:40" scoreA="33" scoreB="39" />
+    <LINE num="191" text="[LAT] P. Strautmane - 2pt jump shot made (5 Pts)" team="1" time="08:54" scoreA="33" scoreB="37" />
+    <LINE num="190" text="[AIA] L. Brown - turnover (bad pass, 2 TO). A. Fridenberga - steal (1 ST)" team="2" time="09:13" />
+    <LINE num="189" text="[LAT] P. Strautmane - 2pt jump shot missed. M. Sell - defensive rebound (4 REB)" team="1" time="09:18" />
+    <LINE num="188" text="[AIA] F. Randolph - 2pt jump shot missed. Team defensive rebound" team="2" time="09:41" />
+    <LINE num="187" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="186" text="[AIA] Substitution - M. Buck OUT, A. Seay IN" team="2" time="00:00" />
+    <LINE num="185" text="[AIA] Substitution - C. Johnson OUT, M. Sell IN" team="2" time="00:00" />
+    <LINE num="184" text="[AIA] Substitution - J. Jones OUT, F. Randolph IN" team="2" time="00:00" />
+    <LINE num="183" text="[LAT] Substitution - K. Stolce OUT, A. Fridenberga IN" team="1" time="00:00" />
+    <LINE num="182" text="[LAT] Substitution - E. Berżina OUT, S. Dzarcane IN" team="1" time="00:00" />
+    <LINE num="181" text="[LAT] Substitution - D. Strautmane OUT, P. Strautmane IN" team="1" time="00:00" />
+    <LINE num="180" text="[LAT] Substitution - A. Busa OUT, P. Luke IN" team="1" time="00:00" deleted="1" />
+    <LINE num="179" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="178" text="[AIA] M. Buck - 2pt jump shot missed. Team defensive rebound" team="2" time="00:06" />
+    <LINE num="177" text="[LAT] K. Stolce - 3pt jump shot made (3 Pts). D. Strautmane - assist (3 AS)" team="1" time="00:16" scoreA="31" scoreB="37" />
+    <LINE num="176" text="[AIA] J. Jones - 2pt lay-up made (11 Pts)" team="2" time="00:35" scoreA="28" scoreB="37" />
+    <LINE num="175" text="[LAT] D. Strautmane - 2pt jump shot missed. J. Jones - defensive rebound (6 REB)" team="1" time="00:45" />
+    <LINE num="174" text="[AIA] M. Buck - free throw made (4 Pts)" team="2" time="01:09" scoreA="28" scoreB="35" />
+    <LINE num="173" text="[AIA] M. Buck - free throw made (3 Pts)" team="2" time="01:09" scoreA="28" scoreB="34" />
+    <LINE num="172" text="[AIA] Substitution - A. Seay OUT, L. Brown IN" team="2" time="01:09" />
+    <LINE num="171" text="[LAT] S. Kudule - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Buck" team="1" time="01:09" />
+    <LINE num="170" text="[LAT] K. Stolce - personal  foul (2 PF, 4th team foul). Foul drawn: J. Jones" team="1" time="01:17" />
+    <LINE num="169" text="[LAT] S. Kudule - turnover (bad pass, 1 TO). J. Jones - steal (1 ST)" team="1" time="01:17" />
+    <LINE num="168" text="[AIA] Substitution - M. Billings OUT, B. Lewis IN" team="2" time="01:18" />
+    <LINE num="167" text="[LAT] D. Strautmane - 2pt jump shot missed. Team offensive rebound" team="1" time="01:22" />
+    <LINE num="166" text="[AIA] M. Buck - 3pt jump shot missed. D. Strautmane - defensive rebound (4 REB)" team="2" time="01:50" />
+    <LINE num="165" text="[AIA] Timeout" team="2" time="01:55" />
+    <LINE num="164" text="[LAT] A. Busa - personal  foul (2 PF, 3rd team foul). Foul drawn: M. Billings" team="1" time="01:55" />
+    <LINE num="163" text="[AIA] J. Jones - 2pt jump shot missed. M. Buck - offensive rebound (2 REB)" team="2" time="02:01" />
+    <LINE num="162" text="[LAT] S. Kudule - free throw missed. C. Johnson - defensive rebound (2 REB)" team="1" time="02:11" />
+    <LINE num="161" text="[LAT] S. Kudule - free throw made (1 Pts)" team="1" time="02:11" scoreA="28" scoreB="33" />
+    <LINE num="160" text="[AIA] J. Jones - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: S. Kudule" team="2" time="02:11" />
+    <LINE num="159" text="[AIA] J. Jones - turnover (ball handling, 3 TO). S. Kudule - steal (1 ST)" team="2" time="02:20" />
+    <LINE num="158" text="[LAT] E. Berżina - free throw missed. M. Billings - defensive rebound (5 REB)" team="1" time="02:26" />
+    <LINE num="157" text="[LAT] E. Berżina - free throw made (7 Pts)" team="1" time="02:26" scoreA="27" scoreB="33" />
+    <LINE num="156" text="[AIA] M. Billings - personal shooting foul (2 PF, 4th team foul). 2 free throws awarded. Foul drawn: E. Berżina" team="2" time="02:26" />
+    <LINE num="155" text="[LAT] Substitution - P. Strautmane OUT" team="1" time="02:31" deleted="1" />
+    <LINE num="154" text="[AIA] J. Jones - 3pt jump shot made (9 Pts). M. Buck - assist (1 AS)" team="2" time="02:53" scoreA="26" scoreB="33" />
+    <LINE num="153" text="[LAT] Substitution - V. Birina OUT, K. Stolce IN" team="1" time="03:21" />
+    <LINE num="152" text="[LAT] Team turnover (24 seconds)" team="1" time="03:21" />
+    <LINE num="151" text="[LAT] S. Kudule - 3pt jump shot missed. S. Kudule - offensive rebound (2 REB)" team="1" time="03:21" />
+    <LINE num="150" text="[AIA] Substitution - L. Brown OUT, C. Johnson IN" team="2" time="03:21" />
+    <LINE num="149" text="[AIA] Substitution - E. Young OUT, M. Billings IN" team="2" time="03:21" />
+    <LINE num="148" text="[AIA] E. Young - 2pt jump shot missed. Team defensive rebound" team="2" time="03:24" />
+    <LINE num="147" text="[LAT] P. Strautmane - 3pt jump shot made (3 Pts). S. Kudule - assist (2 AS)" team="1" time="03:45" scoreA="26" scoreB="30" />
+    <LINE num="146" text="[AIA] L. Brown - 3pt jump shot made (8 Pts). J. Jones - assist (2 AS)" team="2" time="04:01" scoreA="23" scoreB="30" />
+    <LINE num="145" text="[LAT] V. Birina - 2pt jump shot made (6 Pts). S. Kudule - assist (1 AS)" team="1" time="04:15" scoreA="23" scoreB="27" />
+    <LINE num="144" text="[AIA] Substitution - F. Randolph OUT, A. Seay IN" team="2" time="04:20" />
+    <LINE num="143" text="[LAT] Substitution - A. Fridenberga OUT, P. Strautmane IN" team="1" time="04:20" />
+    <LINE num="142" text="[AIA] E. Young - personal  foul (2 PF, 3rd team foul). Foul drawn: D. Strautmane" team="2" time="04:20" />
+    <LINE num="141" text="[AIA] J. Jones - 2pt jump shot made (fast break, 6 Pts)" team="2" time="04:39" scoreA="21" scoreB="27" />
+    <LINE num="140" text="[LAT] D. Strautmane - 3pt jump shot missed. E. Young - defensive rebound (3 REB)" team="1" time="04:46" />
+    <LINE num="139" text="[AIA] F. Randolph - 3pt jump shot missed. D. Strautmane - defensive rebound (3 REB)" team="2" time="04:57" />
+    <LINE num="138" text="[LAT] A. Fridenberga - 2pt jump shot made (4 Pts)" team="1" time="05:08" scoreA="21" scoreB="25" />
+    <LINE num="137" text="[AIA] E. Young - free throw missed. D. Strautmane - defensive rebound (2 REB)" team="2" time="05:22" />
+    <LINE num="136" text="[AIA] E. Young - free throw made (1 Pts)" team="2" time="05:22" scoreA="19" scoreB="25" />
+    <LINE num="135" text="[LAT] Substitution - S. Dzarcane OUT, S. Kudule IN" team="1" time="05:22" />
+    <LINE num="134" text="[LAT] Substitution - M. Bergmane OUT, V. Birina IN" team="1" time="05:22" />
+    <LINE num="133" text="[LAT] A. Fridenberga - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: E. Young" team="1" time="05:22" />
+    <LINE num="132" text="[AIA] F. Randolph - 2pt jump shot missed. E. Young - offensive rebound (2 REB)" team="2" time="05:25" />
+    <LINE num="131" text="[LAT] D. Strautmane - 2pt jump shot blocked. M. Buck - block (2 BS). J. Jones - defensive rebound (5 REB)" team="1" time="05:33" />
+    <LINE num="130" text="[AIA] L. Brown - 3pt jump shot made (fast break, 5 Pts). F. Randolph - assist (1 AS)" team="2" time="05:54" scoreA="19" scoreB="24" />
+    <LINE num="129" text="[LAT] M. Bergmane - 3pt jump shot blocked. J. Jones - block (1 BS). J. Jones - defensive rebound (4 REB)" team="1" time="06:02" />
+    <LINE num="128" text="[AIA] F. Randolph - turnover (bad pass, 1 TO). E. Berżina - steal (1 ST)" team="2" time="06:23" />
+    <LINE num="127" text="[LAT] E. Berżina - free throw made (6 Pts)" team="1" time="06:29" scoreA="19" scoreB="21" />
+    <LINE num="126" text="[AIA] Substitution - B. Lewis OUT, E. Young IN" team="2" time="06:29" />
+    <LINE num="125" text="[LAT] Substitution - P. Luke OUT, D. Strautmane IN" team="1" time="06:29" />
+    <LINE num="124" text="[AIA] L. Brown - personal shooting foul (2 PF, 2nd team foul). One free throw awarded. Foul drawn: E. Berżina" team="2" time="06:29" />
+    <LINE num="123" text="[LAT] E. Berżina - 2pt jump shot made (5 Pts)" team="1" time="06:33" scoreA="18" scoreB="21" />
+    <LINE num="122" text="[AIA] J. Jones - 2pt jump shot missed. M. Bergmane - defensive rebound (4 REB)" team="2" time="06:54" />
+    <LINE num="121" text="[LAT] S. Dzarcane - 2pt jump shot missed. J. Jones - defensive rebound (3 REB)" team="1" time="07:03" />
+    <LINE num="120" text="[AIA] B. Lewis - personal  foul (1 PF, 1st team foul). Foul drawn: P. Luke" team="2" time="07:07" />
+    <LINE num="119" text="[AIA] J. Jones - 2pt lay-up made (fast break, 4 Pts)" team="2" time="07:25" scoreA="16" scoreB="21" />
+    <LINE num="118" text="[LAT] A. Fridenberga - turnover (bad pass, 1 TO). B. Lewis - steal (2 ST)" team="1" time="07:31" />
+    <LINE num="117" text="[LAT] Substitution - S. Kudule OUT, A. Fridenberga IN" team="1" time="07:38" />
+    <LINE num="116" text="[LAT] Substitution - I. Spigule OUT, E. Berżina IN" team="1" time="07:38" />
+    <LINE num="115" text="[LAT] Timeout" team="1" time="07:38" />
+    <LINE num="114" text="[AIA] L. Brown - 2pt jump shot made (fast break, 2 Pts). J. Jones - assist (1 AS)" team="2" time="07:45" scoreA="16" scoreB="19" />
+    <LINE num="113" text="[LAT] S. Kudule - 2pt jump shot blocked. M. Buck - block (1 BS). M. Buck - defensive rebound (1 REB)" team="1" time="07:50" />
+    <LINE num="112" text="[LAT] I. Spigule - 2pt jump shot missed. M. Bergmane - offensive rebound (3 REB)" team="1" time="07:57" />
+    <LINE num="111" text="[AIA] Substitution - M. Sell OUT, M. Buck IN" team="2" time="08:14" />
+    <LINE num="110" text="[AIA] Substitution - M. Billings OUT, J. Jones IN" team="2" time="08:14" />
+    <LINE num="109" text="[AIA] M. Billings - free throw made (5 Pts)" team="2" time="08:14" scoreA="16" scoreB="17" />
+    <LINE num="108" text="[LAT] S. Dzarcane - personal shooting foul (1 PF, 1st team foul). One free throw awarded. Foul drawn: M. Billings" team="1" time="08:14" />
+    <LINE num="107" text="[AIA] M. Billings - 2pt jump shot made (4 Pts)" team="2" time="08:22" scoreA="16" scoreB="16" />
+    <LINE num="106" text="[LAT] M. Bergmane - turnover (bad pass, 2 TO). B. Lewis - steal (1 ST)" team="1" time="08:33" />
+    <LINE num="105" text="[LAT] I. Spigule - 3pt jump shot missed. M. Bergmane - offensive rebound (2 REB)" team="1" time="08:36" />
+    <LINE num="104" text="[AIA] L. Brown - turnover (ball handling, 1 TO). S. Dzarcane - steal (1 ST)" team="2" time="08:57" />
+    <LINE num="103" text="[LAT] Team turnover (24 seconds)" team="1" time="09:15" />
+    <LINE num="102" text="[LAT] S. Kudule - 2pt jump shot missed. S. Kudule - offensive rebound (1 REB)" team="1" time="09:15" />
+    <LINE num="101" text="[LAT] Substitution - V. Birina OUT, P. Luke IN" team="1" time="09:28" />
+    <LINE num="100" text="[AIA] L. Brown - 2pt jump shot missed. I. Spigule - defensive rebound (2 REB)" team="2" time="09:44" />
+    <LINE num="99" text="[LAT] Substitution - A. Fridenberga OUT, S. Kudule IN" team="1" time="10:00" />
+    <LINE num="98" text="[LAT] Substitution - P. Strautmane OUT, S. Dzarcane IN" team="1" time="10:00" />
+    <LINE num="97" text="[LAT] Substitution - E. Berżina OUT, I. Spigule IN" team="1" time="10:00" />
+    <LINE num="96" text="[LAT] Substitution - D. Strautmane OUT, M. Bergmane IN" team="1" time="10:00" />
+    <LINE num="95" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="94" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="93" text="[AIA] M. Sell - 2pt tip-in made (2 Pts)" team="2" time="00:02" scoreA="16" scoreB="14" />
+    <LINE num="92" text="[AIA] L. Brown - 3pt jump shot missed. M. Sell - offensive rebound (3 REB)" team="2" time="00:02" />
+    <LINE num="91" text="[LAT] V. Birina - 2pt jump shot made (4 Pts). A. Fridenberga - assist (1 AS)" team="1" time="00:14" scoreA="16" scoreB="12" />
+    <LINE num="90" text="[AIA] Substitution - J. Jones OUT, F. Randolph IN" team="2" time="00:21" />
+    <LINE num="89" text="[AIA] L. Brown - personal  foul (1 PF, 3rd team foul). Foul drawn: D. Strautmane" team="2" time="00:21" />
+    <LINE num="88" text="[AIA] J. Jones - turnover (out of bounds, 2 TO)" team="2" time="00:38" />
+    <LINE num="87" text="[LAT] D. Strautmane - free throw made (4 Pts)" team="1" time="00:46" scoreA="14" scoreB="12" />
+    <LINE num="86" text="[LAT] D. Strautmane - free throw made (3 Pts)" team="1" time="00:46" scoreA="13" scoreB="12" />
+    <LINE num="85" text="[AIA] Substitution - M. Buck OUT, M. Sell IN" team="2" time="00:46" />
+    <LINE num="84" text="[AIA] M. Billings - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: D. Strautmane" team="2" time="00:46" />
+    <LINE num="83" text="[AIA] B. Lewis - 2pt jump shot made (4 Pts)" team="2" time="00:55" scoreA="12" scoreB="12" />
+    <LINE num="82" text="[LAT] D. Strautmane - turnover (out of bounds, 2 TO)" team="1" time="01:11" />
+    <LINE num="81" text="[AIA] J. Jones - turnover (out of bounds, 1 TO)" team="2" time="01:21" />
+    <LINE num="80" text="[AIA] Substitution - C. Johnson OUT, B. Lewis IN" team="2" time="01:35" />
+    <LINE num="79" text="[AIA] Substitution - E. Young OUT, L. Brown IN" team="2" time="01:35" />
+    <LINE num="78" text="[LAT] Substitution - K. Stolce OUT, D. Strautmane IN" team="1" time="01:35" />
+    <LINE num="77" text="[LAT] Substitution - P. Luke OUT, V. Birina IN" team="1" time="01:35" />
+    <LINE num="76" text="[LAT] E. Berżina - turnover (out of bounds, 1 TO)" team="1" time="01:35" />
+    <LINE num="75" text="[AIA] M. Billings - 2pt jump shot missed. P. Strautmane - defensive rebound (2 REB)" team="2" time="01:40" />
+    <LINE num="74" text="[AIA] M. Buck - 2pt jump shot missed. M. Billings - offensive rebound (4 REB)" team="2" time="01:42" />
+    <LINE num="73" text="[LAT] P. Luke - turnover (bad pass, 1 TO). E. Young - steal (1 ST)" team="1" time="01:52" />
+    <LINE num="72" text="[AIA] M. Billings - free throw missed. P. Strautmane - defensive rebound (1 REB)" team="2" time="02:06" />
+    <LINE num="71" text="[AIA] M. Billings - free throw made (2 Pts)" team="2" time="02:06" scoreA="12" scoreB="10" />
+    <LINE num="70" text="[LAT] Substitution - A. Busa OUT, A. Fridenberga IN" team="1" time="02:06" deleted="1" />
+    <LINE num="69" text="[LAT] A. Busa - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: M. Billings" team="1" time="02:06" />
+    <LINE num="68" text="[LAT] P. Luke - 3pt jump shot missed. M. Billings - defensive rebound (3 REB)" team="1" time="02:15" />
+    <LINE num="67" text="[AIA] M. Buck - free throw made (2 Pts)" team="2" time="02:29" scoreA="12" scoreB="9" />
+    <LINE num="66" text="[AIA] M. Buck - free throw made (1 Pts)" team="2" time="02:29" scoreA="12" scoreB="8" />
+    <LINE num="65" text="[LAT] Substitution - S. Kudule OUT, P. Strautmane IN" team="1" time="02:29" />
+    <LINE num="64" text="[LAT] Substitution - M. Bergmane OUT, E. Berżina IN" team="1" time="02:29" />
+    <LINE num="63" text="[LAT] M. Bergmane - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Buck" team="1" time="02:29" />
+    <LINE num="62" text="[LAT] A. Busa - 2pt jump shot blocked. M. Billings - block (1 BS). J. Jones - defensive rebound (2 REB)" team="1" time="02:34" />
+    <LINE num="61" text="[AIA] E. Young - 2pt jump shot missed. K. Stolce - defensive rebound (1 REB)" team="2" time="02:45" />
+    <LINE num="60" text="[LAT] M. Bergmane - 2pt jump shot missed. M. Billings - defensive rebound (2 REB)" team="1" time="02:53" />
+    <LINE num="59" text="[AIA] M. Billings - free throw made (1 Pts)" team="2" time="03:13" scoreA="12" scoreB="7" />
+    <LINE num="58" text="[AIA] M. Billings - free throw missed" team="2" time="03:13" />
+    <LINE num="57" text="[LAT] K. Stolce - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: M. Billings" team="1" time="03:13" />
+    <LINE num="56" text="[AIA] M. Billings - 2pt jump shot missed. C. Johnson - offensive rebound (1 REB)" team="2" time="03:17" />
+    <LINE num="55" text="[AIA] M. Buck - 3pt jump shot missed. M. Billings - offensive rebound (1 REB)" team="2" time="03:28" />
+    <LINE num="54" text="[LAT] Substitution - I. Spigule OUT, K. Stolce IN" team="1" time="03:49" />
+    <LINE num="53" text="[LAT] Substitution - V. Birina OUT" team="1" time="03:49" deleted="1" />
+    <LINE num="52" text="[LAT] S. Kudule - personal  foul (1 PF, 3rd team foul). Foul drawn: J. Jones" team="1" time="03:49" />
+    <LINE num="51" text="[LAT] S. Kudule - 2pt jump shot missed. J. Jones - defensive rebound (1 REB)" team="1" time="03:53" />
+    <LINE num="50" text="[AIA] E. Young - turnover (out of bounds, 1 TO)" team="2" time="04:14" />
+    <LINE num="49" text="[LAT] I. Spigule - personal  foul (1 PF, 2nd team foul). Foul drawn: J. Jones" team="1" time="04:33" />
+    <LINE num="48" text="[LAT] M. Bergmane - turnover (out of bounds, 1 TO)" team="1" time="04:56" />
+    <LINE num="47" text="[AIA] M. Billings - 2pt jump shot missed. M. Bergmane - defensive rebound (1 REB)" team="2" time="05:01" />
+    <LINE num="46" text="[LAT] V. Birina - 3pt jump shot missed" team="1" time="05:10" />
+    <LINE num="45" text="[AIA] Substitution - B. Lewis OUT, C. Johnson IN" team="2" time="05:10" />
+    <LINE num="44" text="[AIA] Substitution - F. Randolph OUT, M. Billings IN" team="2" time="05:10" />
+    <LINE num="43" text="[LAT] Substitution - P. Strautmane OUT, P. Luke IN" team="1" time="05:10" />
+    <LINE num="42" text="[LAT] Substitution - D. Strautmane OUT, M. Bergmane IN" team="1" time="05:10" />
+    <LINE num="41" text="[AIA] E. Young - personal  foul (1 PF, 1st team foul). Foul drawn: S. Kudule" team="2" time="05:10" />
+    <LINE num="40" text="[AIA] J. Jones - 2pt lay-up made (fast break, 2 Pts)" team="2" time="05:27" scoreA="12" scoreB="6" />
+    <LINE num="39" text="[LAT] P. Strautmane - 2pt jump shot missed. E. Young - defensive rebound (1 REB)" team="1" time="05:34" />
+    <LINE num="38" text="[AIA] F. Randolph - 2pt jump shot missed. V. Birina - defensive rebound (1 REB)" team="2" time="05:54" />
+    <LINE num="37" text="[LAT] V. Birina - 2pt jump shot made (2 Pts). P. Strautmane - assist (1 AS)" team="1" time="06:14" scoreA="12" scoreB="4" />
+    <LINE num="36" text="[AIA] J. Jones - 2pt jump shot missed. I. Spigule - defensive rebound (1 REB)" team="2" time="06:30" />
+    <LINE num="35" text="[AIA] Substitution - A. Seay OUT, M. Buck IN" team="2" time="06:41" />
+    <LINE num="34" text="[AIA] Substitution - M. Sell OUT, E. Young IN" team="2" time="06:41" />
+    <LINE num="33" text="[AIA] Substitution - L. Brown OUT, J. Jones IN" team="2" time="06:41" />
+    <LINE num="32" text="[LAT] Substitution - A. Fridenberga OUT, S. Kudule IN" team="1" time="06:41" />
+    <LINE num="31" text="[LAT] Substitution - S. Dzarcane OUT, I. Spigule IN" team="1" time="06:41" />
+    <LINE num="30" text="[LAT] Substitution - E. Berżina OUT, V. Birina IN" team="1" time="06:41" />
+    <LINE num="29" text="[LAT] A. Fridenberga - 2pt jump shot made (fast break, 2 Pts). D. Strautmane - assist (2 AS)" team="1" time="06:57" scoreA="10" scoreB="4" />
+    <LINE num="28" text="[AIA] M. Sell - 2pt jump shot missed. D. Strautmane - defensive rebound (1 REB)" team="2" time="06:57" />
+    <LINE num="27" text="[AIA] L. Brown - 3pt jump shot missed. M. Sell - offensive rebound (2 REB)" team="2" time="06:57" />
+    <LINE num="26" text="[LAT] E. Berżina - 3pt jump shot missed" team="1" time="07:01" />
+    <LINE num="25" text="[AIA] A. Seay - turnover (bad pass, 1 TO). D. Strautmane - steal (1 ST)" team="2" time="07:17" />
+    <LINE num="24" text="[LAT] E. Berżina - 3pt jump shot made (3 Pts). D. Strautmane - assist (1 AS)" team="1" time="07:40" scoreA="8" scoreB="4" />
+    <LINE num="23" text="[AIA] F. Randolph - 2pt lay-up made (fast break, 2 Pts)" team="2" time="07:58" scoreA="5" scoreB="4" />
+    <LINE num="22" text="[LAT] P. Strautmane - 2pt jump shot missed. M. Sell - defensive rebound (1 REB)" team="1" time="08:05" />
+    <LINE num="21" text="[AIA] B. Lewis - 2pt jump shot missed. E. Berżina - defensive rebound (1 REB)" team="2" time="08:11" />
+    <LINE num="20" text="[LAT] D. Strautmane - 2pt jump shot made (2 Pts)" team="1" time="08:23" scoreA="5" scoreB="2" />
+    <LINE num="19" text="[AIA] F. Randolph - 2pt jump shot missed. A. Fridenberga - defensive rebound (1 REB)" team="2" time="08:37" />
+    <LINE num="18" text="[LAT] D. Strautmane - turnover (out of bounds, 1 TO)" team="1" time="09:01" />
+    <LINE num="17" text="[AIA] B. Lewis - free throw made (2 Pts)" team="2" time="09:21" scoreA="3" scoreB="2" />
+    <LINE num="16" text="[AIA] B. Lewis - free throw made (1 Pts)" team="2" time="09:21" scoreA="3" scoreB="1" />
+    <LINE num="15" text="[LAT] D. Strautmane - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: B. Lewis" team="1" time="09:21" />
+    <LINE num="14" text="[AIA] A. Seay - 2pt jump shot missed. B. Lewis - offensive rebound (1 REB)" team="2" time="09:26" />
+    <LINE num="13" text="[AIA] B. Lewis - 2pt jump shot missed. A. Seay - offensive rebound (1 REB)" team="2" time="09:29" />
+    <LINE num="12" text="[LAT] S. Dzarcane - 3pt jump shot made (3 Pts). E. Berżina - assist (1 AS)" team="1" time="09:48" scoreA="3" scoreB="0" />
+    <LINE num="11" text="[AIA] Substitution - A. Seay IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[AIA] Substitution - B. Lewis IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[AIA] Substitution - M. Sell IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[AIA] Substitution - L. Brown IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[AIA] Substitution - F. Randolph IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[LAT] Substitution - A. Fridenberga IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[LAT] Substitution - S. Dzarcane IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[LAT] Substitution - P. Strautmane IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[LAT] Substitution - E. Berżina IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[LAT] Substitution - D. Strautmane IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

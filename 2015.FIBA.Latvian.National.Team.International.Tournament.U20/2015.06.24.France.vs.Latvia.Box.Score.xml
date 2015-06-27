@@ -1,0 +1,60 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="Międzynarodowy Turniej Kobiet U20" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1957">
+    <TEAM name="Francja" logo="http://live.fibaeurope.com/www/gallery/9CFA807E-B803-491A-B43A-097D0737F9A5.jpg" pts="61" fouls="7" />
+    <TEAM name="Łotwa" logo="http://live.fibaeurope.com/www/gallery/E1098AD8-89B9-4822-8DF3-6E9D1A18BE21.jpg" pts="53" fouls="6" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="16" scoreB="15" />
+      <QUARTER n="2" scoreA="10" scoreB="12" />
+      <QUARTER n="3" scoreA="15" scoreB="12" />
+      <QUARTER n="4" scoreA="20" scoreB="14" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="15.6001">
+    <TEAM name="Francja">
+      <TEAMACTIONS ro="5" rd="3" rt="8" pf="0" rf="0" to="1" st="0" in="0" ind="0" />
+      <TOTAL p1m="11" p1a="19" p1p="57.9" p2m="22" p2a="45" p2p="48.9" p3m="2" p3a="11" p3p="18.2" fgm="24" fga="56" fgp="42.9" as="6" bs="6" br="1" pts="61" ro="12" rd="28" rt="40" pf="29" rf="22" to="19" st="4" in="0" ind="0" />
+      <PLAYER no="4" name="C. Morateur" min="12:35" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="1" p3a="2" p3p="50.0" fgm="1" fga="3" fgp="33.3" as="0" bs="0" br="0" pts="3" ro="0" rd="0" rt="0" pf="3" rf="0" to="0" st="2" in="0" ind="7" />
+      <PLAYER no="5" name="M. Johannes" min="19:29" sta="True" p1m="1" p1a="3" p1p="33.3" p2m="6" p2a="9" p2p="66.7" p3m="0" p3a="3" p3p="0.0" fgm="6" fga="12" fgp="50.0" as="1" bs="2" br="0" pts="13" ro="1" rd="1" rt="2" pf="2" rf="4" to="1" st="0" in="1" ind="6" />
+      <PLAYER no="6" name="M. Vidal-Geneve" min="15:03" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="0" pts="4" ro="0" rd="3" rt="3" pf="4" rf="1" to="0" st="1" in="1" ind="2" />
+      <PLAYER no="7" name="M. Mane" min="20:42" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="2" rd="2" rt="4" pf="3" rf="0" to="2" st="0" in="1" ind="6" />
+      <PLAYER no="8" name="L. Guapo" min="19:18" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="2" p2p="100.0" p3m="0" p3a="2" p3p="0.0" fgm="2" fga="4" fgp="50.0" as="1" bs="0" br="0" pts="4" ro="1" rd="1" rt="2" pf="3" rf="2" to="1" st="0" in="0" ind="2" />
+      <PLAYER no="9" name="C. Djaldi Tabdi" min="18:50" sta="False" p1m="3" p1a="6" p1p="50.0" p2m="4" p2a="8" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="4" fga="8" fgp="50.0" as="1" bs="1" br="1" pts="11" ro="1" rd="5" rt="6" pf="1" rf="4" to="4" st="1" in="1" ind="13" />
+      <PLAYER no="10" name="F. Devillers" min="11:14" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="3" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="1" bs="0" br="0" pts="1" ro="0" rd="0" rt="0" pf="1" rf="1" to="3" st="0" in="0" ind="2" />
+      <PLAYER no="11" name="M. Hero" min="21:39" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="4" p2p="50.0" p3m="0" p3a="1" p3p="0.0" fgm="2" fga="5" fgp="40.0" as="1" bs="0" br="0" pts="4" ro="0" rd="3" rt="3" pf="2" rf="0" to="2" st="0" in="0" ind="-1" />
+      <PLAYER no="12" name="L. Millavet" min="17:01" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="5" p2p="20.0" p3m="1" p3a="1" p3p="100.0" fgm="2" fga="6" fgp="33.3" as="1" bs="0" br="0" pts="5" ro="1" rd="2" rt="3" pf="3" rf="1" to="3" st="0" in="1" ind="5" />
+      <PLAYER no="13" name="E. Fagnez" min="06:12" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="2" ro="0" rd="1" rt="1" pf="0" rf="0" to="0" st="0" in="0" ind="4" />
+      <PLAYER no="14" name="A. Gaye" min="22:47" sta="True" p1m="4" p1a="6" p1p="66.7" p2m="3" p2a="6" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="6" fgp="50.0" as="0" bs="1" br="0" pts="10" ro="1" rd="7" rt="8" pf="3" rf="7" to="1" st="0" in="0" ind="2" />
+      <PLAYER no="15" name="E. Naigre" min="15:10" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="4" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="4" fgp="50.0" as="0" bs="2" br="0" pts="4" ro="0" rd="0" rt="0" pf="4" rf="2" to="1" st="0" in="0" ind="-8" />
+    </TEAM>
+    <TEAM name="Łotwa">
+      <TEAMACTIONS ro="2" rd="3" rt="5" pf="0" rf="0" to="1" st="0" in="0" ind="0" />
+      <TOTAL p1m="17" p1a="30" p1p="56.7" p2m="15" p2a="48" p2p="31.3" p3m="2" p3a="8" p3p="25.0" fgm="17" fga="56" fgp="30.4" as="9" bs="1" br="6" pts="53" ro="15" rd="21" rt="36" pf="22" rf="29" to="16" st="10" in="0" ind="0" />
+      <PLAYER no="5" name="V. Birina" min="24:37" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="2" p2a="6" p2p="33.3" p3m="0" p3a="3" p3p="0.0" fgm="2" fga="9" fgp="22.2" as="1" bs="0" br="0" pts="5" ro="2" rd="1" rt="3" pf="2" rf="3" to="1" st="0" in="0" ind="-14" />
+      <PLAYER no="6" name="D. Strautmane" min="17:22" sta="True" p1m="0" p1a="2" p1p="0.0" p2m="6" p2a="9" p2p="66.7" p3m="0" p3a="0" p3p="0.0" fgm="6" fga="9" fgp="66.7" as="1" bs="0" br="0" pts="12" ro="1" rd="0" rt="1" pf="5" rf="1" to="2" st="0" in="0" ind="5" />
+      <PLAYER no="7" name="M. Bergmane" min="13:06" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="1" p3a="1" p3p="100.0" fgm="2" fga="2" fgp="100.0" as="0" bs="0" br="0" pts="5" ro="0" rd="1" rt="1" pf="3" rf="0" to="1" st="2" in="0" ind="-1" />
+      <PLAYER no="8" name="I. Spigule" min="19:12" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="3" p2p="0.0" p3m="1" p3a="3" p3p="33.3" fgm="1" fga="6" fgp="16.7" as="1" bs="0" br="0" pts="3" ro="2" rd="0" rt="2" pf="3" rf="1" to="1" st="0" in="1" ind="-12" />
+      <PLAYER no="9" name="E. Berżina" min="13:47" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="5" p2p="20.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="5" fgp="20.0" as="1" bs="0" br="1" pts="2" ro="3" rd="2" rt="5" pf="0" rf="2" to="1" st="2" in="0" ind="2" />
+      <PLAYER no="10" name="P. Luke" min="12:43" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="4" p2a="6" p2p="66.7" p3m="0" p3a="0" p3p="0.0" fgm="4" fga="6" fgp="66.7" as="0" bs="0" br="1" pts="8" ro="0" rd="1" rt="1" pf="2" rf="2" to="0" st="0" in="0" ind="6" />
+      <PLAYER no="11" name="L. Grabe" min="11:49" sta="False" p1m="2" p1a="6" p1p="33.3" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="1" bs="0" br="0" pts="2" ro="0" rd="1" rt="1" pf="2" rf="3" to="0" st="1" in="1" ind="-2" />
+      <PLAYER no="12" name="P. Strautmane" min="22:44" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="0" p2a="4" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="4" fgp="0.0" as="1" bs="0" br="1" pts="2" ro="1" rd="3" rt="4" pf="0" rf="3" to="1" st="0" in="0" ind="3" />
+      <PLAYER no="13" name="K. Stolce" min="12:48" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="2" bs="1" br="1" pts="2" ro="0" rd="2" rt="2" pf="3" rf="1" to="0" st="1" in="0" ind="2" />
+      <PLAYER no="14" name="S. Dzarcane" min="15:08" sta="False" p1m="4" p1a="4" p1p="100.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="0" br="0" pts="4" ro="2" rd="3" rt="5" pf="0" rf="2" to="2" st="1" in="1" ind="-11" />
+      <PLAYER no="15" name="A. Fridenberga" min="10:54" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="6" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="6" fgp="0.0" as="0" bs="0" br="1" pts="0" ro="2" rd="1" rt="3" pf="1" rf="1" to="1" st="2" in="1" ind="-12" />
+      <PLAYER no="24" name="S. Kudule" min="25:50" sta="True" p1m="8" p1a="14" p1p="57.1" p2m="0" p2a="4" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="5" fgp="0.0" as="1" bs="0" br="1" pts="8" ro="0" rd="3" rt="3" pf="1" rf="10" to="5" st="1" in="1" ind="-6" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="15.5977" />
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>
