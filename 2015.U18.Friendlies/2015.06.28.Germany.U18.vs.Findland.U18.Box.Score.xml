@@ -1,0 +1,54 @@
+<FE>
+  <HEADER competition="U18 Men friendlies 2015" quarter="4" time="00:00" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="31.1788">
+    <TEAM name="Germany U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="92" fouls="4" />
+    <TEAM name="Finland U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/65AA7B32-EE79-42F9-9618-40DB94FA2A43.jpg" pts="69" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="26" scoreB="13" />
+      <QUARTER n="2" scoreA="18" scoreB="15" />
+      <QUARTER n="3" scoreA="19" scoreB="20" />
+      <QUARTER n="4" scoreA="29" scoreB="21" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="15.5991">
+    <TEAM name="Germany U18 Men 2015">
+      <TEAMACTIONS ro="1" rd="3" rt="4" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="14" p1a="20" p1p="70.0" p2m="27" p2a="38" p2p="71.1" p3m="8" p3a="15" p3p="53.3" fgm="35" fga="53" fgp="66.0" as="21" bs="1" br="1" pts="92" ro="6" rd="25" rt="31" pf="23" rf="17" to="16" st="11" in="0" ind="0" />
+      <PLAYER no="4" name="K. Jallow" min="18:17" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="3" p2a="4" p2p="75.0" p3m="0" p3a="1" p3p="0.0" fgm="3" fga="5" fgp="60.0" as="2" bs="0" br="0" pts="6" ro="0" rd="1" rt="1" pf="2" rf="0" to="2" st="1" in="0" ind="10" />
+      <PLAYER no="5" name="T. Taras" min="17:23" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="2" p3p="50.0" fgm="1" fga="2" fgp="50.0" as="2" bs="0" br="0" pts="3" ro="0" rd="0" rt="0" pf="2" rf="0" to="1" st="0" in="0" ind="7" />
+      <PLAYER no="6" name="L. Figge" min="10:11" sta="True" p1m="2" p1a="4" p1p="50.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="1" p3p="100.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="5" ro="0" rd="1" rt="1" pf="0" rf="2" to="1" st="0" in="1" ind="3" />
+      <PLAYER no="7" name="D. Krämer" min="09:54" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="2" rt="2" pf="2" rf="0" to="2" st="2" in="0" ind="2" />
+      <PLAYER no="8" name="L. Wank" min="14:03" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="3" p2p="66.7" p3m="1" p3a="2" p3p="50.0" fgm="3" fga="5" fgp="60.0" as="1" bs="0" br="0" pts="7" ro="0" rd="4" rt="4" pf="0" rf="0" to="1" st="1" in="0" ind="9" />
+      <PLAYER no="9" name="G. Zeeb" min="11:11" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="2" bs="0" br="0" pts="2" ro="0" rd="1" rt="1" pf="0" rf="0" to="1" st="1" in="0" ind="9" />
+      <PLAYER no="10" name="H. Hujic" min="13:35" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="2" p2p="100.0" p3m="2" p3a="2" p3p="100.0" fgm="4" fga="4" fgp="100.0" as="0" bs="0" br="0" pts="10" ro="0" rd="3" rt="3" pf="4" rf="2" to="0" st="1" in="0" ind="9" />
+      <PLAYER no="11" name="K. Mushidi" min="11:53" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="1" rf="0" to="0" st="1" in="1" ind="3" />
+      <PLAYER no="13" name="B. Turudic" min="12:28" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="5" p2p="40.0" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="5" fgp="40.0" as="2" bs="1" br="0" pts="4" ro="0" rd="3" rt="3" pf="4" rf="2" to="1" st="0" in="1" ind="11" />
+      <PLAYER no="14" name="N. Kiel" min="20:11" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="4" p2a="4" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="4" fga="4" fgp="100.0" as="7" bs="0" br="0" pts="10" ro="2" rd="4" rt="6" pf="3" rf="1" to="2" st="1" in="0" ind="18" />
+      <PLAYER no="15" name="M. Keßen" min="19:09" sta="False" p1m="2" p1a="4" p1p="50.0" p2m="7" p2a="8" p2p="87.5" p3m="0" p3a="0" p3p="0.0" fgm="7" fga="8" fgp="87.5" as="0" bs="0" br="1" pts="16" ro="1" rd="1" rt="2" pf="2" rf="3" to="1" st="1" in="0" ind="9" />
+      <PLAYER no="21" name="I. Hartenstein" min="18:47" sta="True" p1m="4" p1a="6" p1p="66.7" p2m="5" p2a="7" p2p="71.4" p3m="1" p3a="2" p3p="50.0" fgm="6" fga="9" fgp="66.7" as="3" bs="0" br="0" pts="17" ro="2" rd="1" rt="3" pf="1" rf="5" to="2" st="0" in="0" ind="10" />
+      <PLAYER no="22" name="S. Much" min="10:38" sta="False" p1m="2" p1a="2" p1p="100.0" p2m="0" p2a="1" p2p="0.0" p3m="2" p3a="2" p3p="100.0" fgm="2" fga="3" fgp="66.7" as="1" bs="0" br="0" pts="8" ro="0" rd="0" rt="0" pf="0" rf="1" to="1" st="2" in="1" ind="9" />
+      <PLAYER no="23" name="M. Pölking" min="12:20" sta="False" p1m="2" p1a="2" p1p="100.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="0" pts="4" ro="0" rd="0" rt="0" pf="2" rf="1" to="1" st="0" in="1" ind="6" />
+    </TEAM>
+    <TEAM name="Finland U18 Men 2015">
+      <TEAMACTIONS ro="0" rd="2" rt="2" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="8" p1a="18" p1p="44.4" p2m="11" p2a="25" p2p="44.0" p3m="13" p3a="31" p3p="41.9" fgm="24" fga="56" fgp="42.9" as="11" bs="0" br="1" pts="69" ro="13" rd="12" rt="25" pf="17" rf="23" to="19" st="3" in="0" ind="0" />
+      <PLAYER no="4" name="L. Nikkarinen" min="20:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="3" p2p="66.7" p3m="1" p3a="5" p3p="20.0" fgm="3" fga="8" fgp="37.5" as="2" bs="0" br="0" pts="7" ro="1" rd="0" rt="1" pf="2" rf="1" to="2" st="0" in="0" ind="-12" />
+      <PLAYER no="5" name="J. Haapanen" min="07:58" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="1" p3p="100.0" fgm="1" fga="1" fgp="100.0" as="1" bs="0" br="0" pts="4" ro="0" rd="0" rt="0" pf="0" rf="3" to="1" st="0" in="1" ind="-5" />
+      <PLAYER no="6" name="E. Maxhuni" min="28:07" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="5" p2a="7" p2p="71.4" p3m="4" p3a="10" p3p="40.0" fgm="9" fga="17" fgp="52.9" as="3" bs="0" br="0" pts="22" ro="1" rd="1" rt="2" pf="2" rf="5" to="4" st="1" in="1" ind="-9" />
+      <PLAYER no="7" name="H. Koskinen" min="03:48" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="2" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="1" rf="0" to="1" st="0" in="0" ind="-5" />
+      <PLAYER no="8" name="T. Knihtinen" min="21:49" sta="False" p1m="3" p1a="6" p1p="50.0" p2m="0" p2a="1" p2p="0.0" p3m="1" p3a="3" p3p="33.3" fgm="1" fga="4" fgp="25.0" as="2" bs="0" br="1" pts="6" ro="1" rd="3" rt="4" pf="1" rf="6" to="4" st="0" in="1" ind="-17" />
+      <PLAYER no="9" name="M. Suvanto" min="13:41" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="0" p2a="3" p2p="0.0" p3m="3" p3a="4" p3p="75.0" fgm="3" fga="7" fgp="42.9" as="1" bs="0" br="0" pts="10" ro="0" rd="1" rt="1" pf="2" rf="1" to="2" st="1" in="0" ind="-8" />
+      <PLAYER no="10" name="J. Gummerus" min="09:46" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="3" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="3" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="3" rd="0" rt="3" pf="0" rf="1" to="0" st="0" in="1" ind="-4" />
+      <PLAYER no="11" name="V. Nyman" min="24:37" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="1" p3a="1" p3p="100.0" fgm="2" fga="3" fgp="66.7" as="1" bs="0" br="0" pts="5" ro="1" rd="1" rt="2" pf="0" rf="1" to="3" st="0" in="0" ind="-13" />
+      <PLAYER no="12" name="L. Gummerus" min="14:05" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="1" p3a="2" p3p="50.0" fgm="1" fga="3" fgp="33.3" as="0" bs="0" br="0" pts="3" ro="1" rd="0" rt="1" pf="1" rf="0" to="0" st="0" in="1" ind="-10" />
+      <PLAYER no="13" name="R. Raitanen" min="26:08" sta="True" p1m="2" p1a="4" p1p="50.0" p2m="0" p2a="2" p2p="0.0" p3m="1" p3a="3" p3p="33.3" fgm="1" fga="5" fgp="20.0" as="0" bs="0" br="0" pts="5" ro="3" rd="1" rt="4" pf="3" rf="2" to="0" st="0" in="0" ind="-11" />
+      <PLAYER no="14" name="R. Bärlund" min="22:39" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="3" p2a="3" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="3" fgp="100.0" as="1" bs="0" br="0" pts="6" ro="1" rd="2" rt="3" pf="5" rf="1" to="2" st="1" in="0" ind="-13" />
+      <PLAYER no="15" name="A. Vialen" min="07:22" sta="False" p1m="1" p1a="4" p1p="25.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="1" ro="1" rd="0" rt="1" pf="0" rf="2" to="0" st="0" in="0" ind="-8" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="31.1961">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68734" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="92" TeamB="Finland U18 Men 2015" ScoreB="69" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/58215B85-1BA0-4C3A-B51C-2202C204C0FB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="0" />
+</FE>

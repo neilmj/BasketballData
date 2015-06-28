@@ -1,0 +1,345 @@
+<FE>
+  <HEADER competition="U18 Men friendlies 2015" quarter="4" time="00:00" logo="http://live.fibaeurope.com/www/gallery/16B89DBC-0E4B-471D-8CCC-C61D57D28BA2.jpg" duration="31.2015">
+    <TEAM name="Germany U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/FC5371F0-3201-4830-9143-A681A8929BAB.jpg" pts="92" fouls="4" />
+    <TEAM name="Finland U18 Men 2015" logo="http://live.fibaeurope.com/www/gallery/65AA7B32-EE79-42F9-9618-40DB94FA2A43.jpg" pts="69" fouls="4" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="26" scoreB="13" />
+      <QUARTER n="2" scoreA="18" scoreB="15" />
+      <QUARTER n="3" scoreA="19" scoreB="20" />
+      <QUARTER n="4" scoreA="29" scoreB="21" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="I. Hartenstein [GER] - 66.7% FG (6/9)" duration="31.1973">
+    <ITEM text="Finland U18 Men 2015 - 44.4% FT (8/18)" />
+  </TICKER>
+  <OVERVIEW duration="46.7901">
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34886" GameCode="" TeamA="U20 Try out Team1" ScoreA="0" TeamB="U20 Try out Team2" ScoreB="2" StartTime="10:30:00" Quarter="1" Time="10:00" Status="1" />
+    <GAME CompID="1713" CompCode="" Competition="Men´s A2 friendly games 2013" Round="" ID="34887" GameCode="" TeamA="U20 Try out Team1" ScoreA="3" TeamB="U20 Try out Team2" ScoreB="0" StartTime="10:00:00" Quarter="2" Time="10:00" Status="1" />
+    <GAME CompID="9279" CompCode="" Competition="U18 Men friendlies 2015" Round="" ID="68734" GameCode="" TeamA="Germany U18 Men 2015" ScoreA="92" TeamB="Finland U18 Men 2015" ScoreB="69" StartTime="18:00:00" LogoA="http://live.fibaeurope.com/www/gallery/68F1BB20-99AD-49E7-B99A-466C09179CE4.gif" LogoB="http://live.fibaeurope.com/www/gallery/58215B85-1BA0-4C3A-B51C-2202C204C0FB.jpg" Quarter="4" Time="00:00" Status="1" />
+  </OVERVIEW>
+  <PLAYBYPLAY duration="140.4218">
+    <LINE num="322" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="321" text="[GER] S. Much - 3pt jump shot made (fast break, 8 Pts). K. Mushidi - assist (1 AS)" team="1" time="00:02" scoreA="92" scoreB="69" />
+    <LINE num="320" text="[FIN] E. Maxhuni - 3pt jump shot missed. K. Mushidi - defensive rebound (1 REB)" team="2" time="00:09" />
+    <LINE num="319" text="[GER] K. Mushidi - 3pt jump shot missed. E. Maxhuni - defensive rebound (2 REB)" team="1" time="00:18" />
+    <LINE num="318" text="[FIN] L. Gummerus - 3pt jump shot made (3 Pts). T. Knihtinen - assist (2 AS)" team="2" time="00:35" scoreA="89" scoreB="69" />
+    <LINE num="317" text="[GER] L. Figge - 3pt jump shot made (5 Pts). B. Turudic - assist (2 AS)" team="1" time="00:58" scoreA="89" scoreB="66" />
+    <LINE num="316" text="[FIN] E. Maxhuni - 2pt lay-up made (22 Pts)" team="2" time="01:15" scoreA="86" scoreB="66" />
+    <LINE num="315" text="[GER] S. Much - turnover (out of bounds, 1 TO)" team="1" time="01:31" />
+    <LINE num="314" text="[GER] Substitution - I. Hartenstein OUT, K. Mushidi IN" team="1" time="01:49" />
+    <LINE num="313" text="[FIN] J. Haapanen - 3pt jump shot made (4 Pts)" team="2" time="01:49" scoreA="86" scoreB="64" />
+    <LINE num="312" text="[GER] I. Hartenstein - free throw missed. T. Knihtinen - defensive rebound (4 REB)" team="1" time="01:58" />
+    <LINE num="311" text="[GER] I. Hartenstein - free throw made (17 Pts)" team="1" time="01:58" scoreA="86" scoreB="61" />
+    <LINE num="310" text="[FIN] L. Gummerus - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: I. Hartenstein" team="2" time="01:58" />
+    <LINE num="309" text="[GER] S. Much - 2pt lay-up missed. I. Hartenstein - offensive rebound (3 REB)" team="1" time="01:59" />
+    <LINE num="308" text="[FIN] T. Knihtinen - turnover (ball handling, 4 TO). S. Much - steal (2 ST)" team="2" time="02:03" />
+    <LINE num="307" text="[GER] Substitution - G. Zeeb OUT, L. Figge IN" team="1" time="02:17" />
+    <LINE num="306" text="[GER] M. Pölking - personal  foul (2 PF, 4th team foul). Foul drawn: E. Maxhuni" team="1" time="02:17" />
+    <LINE num="305" text="[GER] I. Hartenstein - 3pt jump shot made (16 Pts). S. Much - assist (1 AS)" team="1" time="02:39" scoreA="85" scoreB="61" />
+    <LINE num="304" text="[FIN] Substitution - L. Nikkarinen OUT, E. Maxhuni IN" team="2" time="03:00" />
+    <LINE num="303" text="[GER] Timeout" team="1" time="03:00" />
+    <LINE num="302" text="[FIN] T. Knihtinen - 3pt jump shot made (6 Pts). J. Haapanen - assist (1 AS)" team="2" time="03:00" scoreA="82" scoreB="61" />
+    <LINE num="301" text="[GER] M. Pölking - free throw made (4 Pts)" team="1" time="03:26" scoreA="82" scoreB="58" />
+    <LINE num="300" text="[GER] M. Pölking - free throw made (3 Pts)" team="1" time="03:26" scoreA="81" scoreB="58" />
+    <LINE num="299" text="[FIN] L. Nikkarinen - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: M. Pölking" team="2" time="03:26" />
+    <LINE num="298" text="[FIN] Substitution - R. Bärlund OUT, J. Gummerus IN" team="2" time="03:38" />
+    <LINE num="297" text="[FIN] R. Bärlund - personal  foul (5 PF, 2nd team foul). Foul drawn: B. Turudic" team="2" time="03:38" />
+    <LINE num="296" text="[FIN] L. Nikkarinen - 2pt lay-up missed. B. Turudic - defensive rebound (3 REB)" team="2" time="03:39" />
+    <LINE num="295" text="[GER] Substitution - N. Kiel OUT, B. Turudic IN" team="1" time="03:58" />
+    <LINE num="294" text="[GER] S. Much - free throw made (5 Pts)" team="1" time="03:58" scoreA="80" scoreB="58" />
+    <LINE num="293" text="[GER] S. Much - free throw made (4 Pts)" team="1" time="03:58" scoreA="79" scoreB="58" />
+    <LINE num="292" text="[FIN] Substitution - R. Raitanen OUT, L. Gummerus IN" team="2" time="03:58" />
+    <LINE num="291" text="[FIN] R. Raitanen - personal shooting foul (3 PF, 1st team foul). 2 free throws awarded. Foul drawn: S. Much" team="2" time="03:58" />
+    <LINE num="290" text="[FIN] J. Haapanen - turnover (bad pass, 1 TO). S. Much - steal (1 ST)" team="2" time="04:00" />
+    <LINE num="289" text="[GER] M. Pölking - 2pt lay-up made (2 Pts). I. Hartenstein - assist (3 AS)" team="1" time="04:22" scoreA="78" scoreB="58" />
+    <LINE num="288" text="[FIN] R. Raitanen - free throw made (5 Pts)" team="2" time="04:33" scoreA="76" scoreB="58" />
+    <LINE num="287" text="[FIN] R. Raitanen - free throw made (4 Pts)" team="2" time="04:33" scoreA="76" scoreB="57" />
+    <LINE num="286" text="[FIN] Substitution - V. Nyman OUT, J. Haapanen IN" team="2" time="04:33" />
+    <LINE num="285" text="[GER] N. Kiel - personal  foul (3 PF, 3rd team foul). Foul drawn: R. Raitanen" team="1" time="04:33" />
+    <LINE num="284" text="[GER] S. Much - 3pt jump shot made (3 Pts). I. Hartenstein - assist (2 AS)" team="1" time="04:53" scoreA="76" scoreB="56" />
+    <LINE num="283" text="[FIN] T. Knihtinen - 3pt jump shot missed. N. Kiel - defensive rebound (6 REB)" team="2" time="05:03" />
+    <LINE num="282" text="[GER] Substitution - K. Jallow OUT, S. Much IN" team="1" time="05:27" />
+    <LINE num="281" text="[GER] K. Jallow - 3pt jump shot missed. Team defensive rebound" team="1" time="05:27" />
+    <LINE num="280" text="[FIN] T. Knihtinen - 3pt jump shot missed. G. Zeeb - defensive rebound (1 REB)" team="2" time="05:33" />
+    <LINE num="279" text="[FIN] Substitution - E. Maxhuni OUT, L. Nikkarinen IN" team="2" time="05:50" />
+    <LINE num="278" text="[GER] N. Kiel - personal  foul (2 PF, 2nd team foul). Foul drawn: E. Maxhuni" team="1" time="06:43" />
+    <LINE num="277" text="[GER] M. Pölking - turnover (ball handling, 1 TO). E. Maxhuni - steal (1 ST)" team="1" time="06:56" />
+    <LINE num="276" text="[FIN] E. Maxhuni - 3pt jump shot made (fast break, 20 Pts)" team="2" time="06:56" scoreA="73" scoreB="56" />
+    <LINE num="275" text="[GER] K. Jallow - 2pt lay-up made (6 Pts)" team="1" time="06:56" scoreA="73" scoreB="53" />
+    <LINE num="274" text="[GER] Substitution - I. Hartenstein IN" team="1" time="06:56" deleted="1" />
+    <LINE num="273" text="[GER] Substitution - M. Keßen OUT" team="1" time="06:56" deleted="1" />
+    <LINE num="272" text="[GER] Substitution - L. Wank OUT, M. Pölking IN" team="1" time="06:56" />
+    <LINE num="271" text="[GER] Substitution - T. Taras OUT, G. Zeeb IN" team="1" time="06:56" />
+    <LINE num="270" text="[FIN] Substitution - A. Vialen OUT, R. Bärlund IN" team="2" time="06:56" />
+    <LINE num="269" text="[FIN] Substitution - L. Nikkarinen OUT, T. Knihtinen IN" team="2" time="06:56" />
+    <LINE num="268" text="[GER] Timeout" team="1" time="06:56" />
+    <LINE num="267" text="[FIN] E. Maxhuni - 2pt lay-up made (17 Pts)" team="2" time="07:05" scoreA="71" scoreB="53" />
+    <LINE num="266" text="[GER] T. Taras - personal  foul (2 PF, 1st team foul). Foul drawn: V. Nyman" team="1" time="07:05" />
+    <LINE num="265" text="[GER] M. Keßen - 2pt jump shot made (16 Pts). T. Taras - assist (2 AS)" team="1" time="07:21" scoreA="71" scoreB="51" />
+    <LINE num="264" text="[FIN] L. Nikkarinen - 3pt jump shot missed. K. Jallow - defensive rebound (1 REB)" team="2" time="07:31" />
+    <LINE num="263" text="[GER] M. Keßen - 2pt lay-up made (14 Pts). K. Jallow - assist (2 AS)" team="1" time="07:58" scoreA="69" scoreB="51" />
+    <LINE num="262" text="[FIN] E. Maxhuni - 2pt jump shot missed. N. Kiel - defensive rebound (5 REB)" team="2" time="08:14" />
+    <LINE num="261" text="[GER] K. Jallow - 2pt dunk made (fast break, 4 Pts). N. Kiel - assist (7 AS)" team="1" time="09:21" scoreA="67" scoreB="51" />
+    <LINE num="260" text="[FIN] V. Nyman - 3pt jump shot made (5 Pts). E. Maxhuni - assist (3 AS)" team="2" time="09:19" scoreA="65" scoreB="51" />
+    <LINE num="259" text="[GER] M. Keßen - 2pt lay-up made (fast break, 12 Pts). L. Wank - assist (1 AS)" team="1" time="09:35" scoreA="65" scoreB="48" />
+    <LINE num="258" text="[FIN] L. Nikkarinen - 3pt jump shot missed. L. Wank - defensive rebound (4 REB)" team="2" time="09:43" />
+    <LINE num="257" text="[GER] K. Jallow - 2pt lay-up missed. V. Nyman - defensive rebound (2 REB)" team="1" time="09:55" />
+    <LINE num="256" text="[GER] Substitution - D. Krämer OUT, N. Kiel IN" team="1" time="10:00" />
+    <LINE num="255" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="254" text="[FIN] R. Raitanen - 2pt lay-up missed" team="2" time="00:00" deleted="1" />
+    <LINE num="253" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="252" text="[FIN] R. Raitanen - 2pt lay-up missed" team="2" time="00:01" />
+    <LINE num="251" text="[FIN] A. Vialen - offensive rebound (1 REB)" team="2" time="00:01" />
+    <LINE num="250" text="[FIN] E. Maxhuni - 3pt jump shot missed. R. Raitanen - offensive rebound (4 REB)" team="2" time="00:02" />
+    <LINE num="249" text="[GER] L. Wank - 2pt dunk made (7 Pts)" team="1" time="00:21" scoreA="63" scoreB="48" />
+    <LINE num="248" text="[FIN] A. Vialen - free throw missed. D. Krämer - defensive rebound (2 REB)" team="2" time="00:36" />
+    <LINE num="247" text="[FIN] A. Vialen - free throw missed" team="2" time="00:36" />
+    <LINE num="246" text="[GER] K. Jallow - personal shooting foul (2 PF, 8th team foul). 2 free throws awarded. Foul drawn: A. Vialen" team="1" time="00:36" />
+    <LINE num="245" text="[GER] D. Krämer - turnover (out of bounds, 2 TO)" team="1" time="00:58" />
+    <LINE num="244" text="[FIN] L. Nikkarinen - 3pt jump shot made (7 Pts)" team="2" time="01:11" scoreA="61" scoreB="48" />
+    <LINE num="243" text="[FIN] Substitution - L. Gummerus OUT, R. Raitanen IN" team="2" time="01:19" />
+    <LINE num="242" text="[GER] K. Jallow - turnover (out of bounds, 2 TO)" team="1" time="01:34" />
+    <LINE num="241" text="[FIN] E. Maxhuni - 3pt jump shot made (15 Pts). V. Nyman - assist (1 AS)" team="2" time="01:33" scoreA="61" scoreB="45" />
+    <LINE num="240" text="[GER] M. Keßen - free throw made (10 Pts)" team="1" time="01:59" scoreA="61" scoreB="42" />
+    <LINE num="239" text="[GER] M. Keßen - free throw made (9 Pts)" team="1" time="01:59" scoreA="60" scoreB="42" />
+    <LINE num="238" text="[FIN] Substitution - R. Bärlund OUT, A. Vialen IN" team="2" time="01:59" />
+    <LINE num="237" text="[GER] Substitution - B. Turudic OUT, K. Jallow IN" team="1" time="01:59" />
+    <LINE num="236" text="[FIN] R. Bärlund - personal shooting foul (4 PF, 3rd team foul). 2 free throws awarded. Foul drawn: M. Keßen" team="2" time="01:59" />
+    <LINE num="235" text="[GER] B. Turudic - 2pt lay-up missed. M. Keßen - offensive rebound (2 REB)" team="1" time="02:03" />
+    <LINE num="234" text="[FIN] R. Bärlund - 2pt lay-up made (6 Pts). E. Maxhuni - offensive rebound (1 REB)" team="2" time="02:22" scoreA="59" scoreB="42" />
+    <LINE num="233" text="[FIN] Substitution - M. Suvanto OUT, E. Maxhuni IN" team="2" time="02:37" />
+    <LINE num="232" text="[FIN] Substitution - J. Haapanen OUT, V. Nyman IN" team="2" time="02:37" />
+    <LINE num="231" text="[GER] Substitution - K. Mushidi OUT, D. Krämer IN" team="1" time="02:37" />
+    <LINE num="230" text="[GER] T. Taras - 3pt jump shot missed. R. Bärlund - defensive rebound (3 REB)" team="1" time="02:38" />
+    <LINE num="229" text="[FIN] M. Suvanto - turnover (out of bounds, 2 TO)" team="2" time="02:59" />
+    <LINE num="228" text="[FIN] Substitution - T. Knihtinen OUT, M. Suvanto IN" team="2" time="03:11" />
+    <LINE num="227" text="[FIN] Timeout" team="2" time="03:11" />
+    <LINE num="226" text="[GER] L. Wank - 2pt dunk made (5 Pts)" team="1" time="03:27" scoreA="59" scoreB="40" />
+    <LINE num="225" text="[GER] M. Keßen - 2pt lay-up blocked" team="1" time="03:32" />
+    <LINE num="224" text="[FIN] L. Gummerus - 3pt jump shot missed. L. Nikkarinen - offensive rebound (1 REB)" team="2" time="03:45" />
+    <LINE num="223" text="[FIN] Substitution - E. Maxhuni OUT, L. Nikkarinen IN" team="2" time="04:03" />
+    <LINE num="222" text="[GER] B. Turudic -  offensive foul (4 PF, 7th team foul). Foul drawn: J. Haapanen. B. Turudic - turnover (offensive foul, 1 TO)" team="1" time="04:03" />
+    <LINE num="221" text="[FIN] R. Bärlund - turnover (ball handling, 2 TO). L. Wank - steal (1 ST)" team="2" time="04:16" />
+    <LINE num="220" text="[GER] M. Keßen - 2pt lay-up made (fast break, 8 Pts). B. Turudic - assist (1 AS)" team="1" time="04:30" scoreA="57" scoreB="40" />
+    <LINE num="219" text="[FIN] E. Maxhuni - turnover (bad pass, 4 TO). M. Keßen - steal (1 ST)" team="2" time="04:37" />
+    <LINE num="218" text="[GER] Substitution - I. Hartenstein OUT, B. Turudic IN" team="1" time="04:50" />
+    <LINE num="217" text="[FIN] J. Haapanen - free throw made (1 Pts)" team="2" time="05:06" scoreA="55" scoreB="40" />
+    <LINE num="216" text="[FIN] J. Haapanen - free throw missed" team="2" time="05:06" />
+    <LINE num="215" text="[GER] Substitution - H. Hujic OUT, T. Taras IN" team="1" time="05:06" />
+    <LINE num="214" text="[GER] H. Hujic - personal  foul (4 PF, 6th team foul). Foul drawn: J. Haapanen" team="1" time="05:06" />
+    <LINE num="213" text="[GER] L. Wank - 3pt jump shot missed. T. Knihtinen - defensive rebound (3 REB)" team="1" time="05:08" />
+    <LINE num="212" text="[GER] Substitution - L. Figge OUT, L. Wank IN" team="1" time="05:25" />
+    <LINE num="211" text="[FIN] T. Knihtinen - free throw missed. L. Figge - defensive rebound (1 REB)" team="2" time="05:27" />
+    <LINE num="210" text="[FIN] T. Knihtinen - free throw made (3 Pts)" team="2" time="05:27" scoreA="55" scoreB="39" />
+    <LINE num="209" text="[GER] Substitution - N. Kiel OUT, M. Keßen IN" team="1" time="05:27" />
+    <LINE num="208" text="[GER] K. Mushidi - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: T. Knihtinen" team="1" time="05:27" />
+    <LINE num="207" text="[FIN] E. Maxhuni - turnover (bad pass, 3 TO). K. Mushidi - steal (1 ST)" team="2" time="05:31" />
+    <LINE num="206" text="[GER] I. Hartenstein - personal  foul (1 PF, 4th team foul). Foul drawn: J. Haapanen" team="1" time="05:43" />
+    <LINE num="205" text="[GER] K. Mushidi - 3pt jump shot missed" team="1" time="05:54" />
+    <LINE num="204" text="[FIN] T. Knihtinen - turnover (out of bounds, 3 TO)" team="2" time="05:57" />
+    <LINE num="203" text="[FIN] Substitution - V. Nyman OUT, J. Haapanen IN" team="2" time="06:02" />
+    <LINE num="202" text="[GER] I. Hartenstein - 2pt dunk made (13 Pts). N. Kiel - assist (6 AS)" team="1" time="06:02" scoreA="55" scoreB="38" />
+    <LINE num="201" text="[FIN] R. Bärlund - turnover (3 seconds, 1 TO)" team="2" time="06:32" />
+    <LINE num="200" text="[GER] Substitution - K. Jallow OUT, K. Mushidi IN" team="1" time="06:54" />
+    <LINE num="199" text="[GER] N. Kiel - personal  foul (1 PF, 3rd team foul). Foul drawn: E. Maxhuni" team="1" time="06:54" />
+    <LINE num="198" text="[GER] N. Kiel - turnover (ball handling, 2 TO)" team="1" time="06:54" />
+    <LINE num="197" text="[FIN] V. Nyman - turnover (ball handling, 3 TO). N. Kiel - steal (1 ST)" team="2" time="06:54" />
+    <LINE num="196" text="[FIN] L. Gummerus - 2pt lay-up missed. L. Gummerus - offensive rebound (1 REB)" team="2" time="07:07" />
+    <LINE num="195" text="[FIN] V. Nyman - 2pt lay-up made (2 Pts)" team="2" time="07:24" scoreA="53" scoreB="38" />
+    <LINE num="194" text="[FIN] E. Maxhuni - 3pt jump shot missed. V. Nyman - offensive rebound (1 REB)" team="2" time="07:28" />
+    <LINE num="193" text="[GER] I. Hartenstein - free throw made (11 Pts)" team="1" time="07:45" scoreA="53" scoreB="36" />
+    <LINE num="192" text="[GER] I. Hartenstein - free throw made (10 Pts)" team="1" time="07:45" scoreA="52" scoreB="36" />
+    <LINE num="191" text="[FIN] Substitution - R. Raitanen OUT, L. Gummerus IN" team="2" time="07:45" />
+    <LINE num="190" text="[FIN] E. Maxhuni - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: I. Hartenstein" team="2" time="07:45" />
+    <LINE num="189" text="[FIN] E. Maxhuni - 3pt jump shot made (12 Pts). T. Knihtinen - assist (1 AS)" team="2" time="08:01" scoreA="51" scoreB="36" />
+    <LINE num="188" text="[GER] K. Jallow - personal  foul (1 PF, 2nd team foul). Foul drawn: E. Maxhuni" team="1" time="08:12" />
+    <LINE num="187" text="[GER] N. Kiel - 2pt lay-up made (10 Pts)" team="1" time="08:16" scoreA="51" scoreB="33" />
+    <LINE num="186" text="[GER] L. Figge - free throw missed. N. Kiel - offensive rebound (4 REB)" team="1" time="08:24" />
+    <LINE num="185" text="[GER] L. Figge - free throw made (2 Pts)" team="1" time="08:24" scoreA="49" scoreB="33" />
+    <LINE num="184" text="[FIN] R. Bärlund - personal shooting foul (3 PF, 1st team foul). 2 free throws awarded. Foul drawn: L. Figge" team="2" time="08:24" />
+    <LINE num="183" text="[FIN] R. Bärlund - 2pt jump shot made (4 Pts). E. Maxhuni - assist (2 AS)" team="2" time="08:34" scoreA="48" scoreB="33" />
+    <LINE num="182" text="[GER] H. Hujic - personal  foul (3 PF, 1st team foul). Foul drawn: T. Knihtinen" team="1" time="08:38" />
+    <LINE num="181" text="[GER] I. Hartenstein - 2pt dunk made (9 Pts). N. Kiel - assist (5 AS)" team="1" time="08:58" scoreA="48" scoreB="31" />
+    <LINE num="180" text="[FIN] Substitution - M. Suvanto OUT, T. Knihtinen IN" team="2" time="09:12" />
+    <LINE num="179" text="[FIN] E. Maxhuni - 3pt jump shot made (9 Pts). R. Bärlund - assist (1 AS)" team="2" time="09:20" scoreA="46" scoreB="31" />
+    <LINE num="178" text="[GER] L. Figge - turnover (bad pass, 1 TO)" team="1" time="09:29" />
+    <LINE num="177" text="[FIN] E. Maxhuni - 3pt jump shot missed. H. Hujic - defensive rebound (3 REB)" team="2" time="09:36" />
+    <LINE num="176" text="[GER] I. Hartenstein - 2pt dunk made (7 Pts). N. Kiel - assist (4 AS)" team="1" time="09:48" scoreA="46" scoreB="28" />
+    <LINE num="175" text="[FIN] Substitution - J. Gummerus OUT, R. Bärlund IN" team="2" time="10:00" />
+    <LINE num="174" text="[FIN] Substitution - L. Nikkarinen OUT, V. Nyman IN" team="2" time="10:00" />
+    <LINE num="173" text="[GER] Substitution - M. Keßen OUT, I. Hartenstein IN" team="1" time="10:00" />
+    <LINE num="172" text="[GER] Substitution - K. Mushidi OUT, H. Hujic IN" team="1" time="10:00" />
+    <LINE num="171" text="[GER] Substitution - G. Zeeb OUT, L. Figge IN" team="1" time="10:00" />
+    <LINE num="170" text="[GER] Substitution - T. Taras OUT, K. Jallow IN" team="1" time="10:00" />
+    <LINE num="169" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="168" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="167" text="[FIN] M. Suvanto - 3pt jump shot made (10 Pts). E. Maxhuni - assist (1 AS)" team="2" time="00:00" scoreA="44" scoreB="28" />
+    <LINE num="166" text="[GER] M. Keßen - 2pt lay-up made (fast break, 6 Pts). G. Zeeb - assist (2 AS)" team="1" time="00:21" scoreA="44" scoreB="25" />
+    <LINE num="165" text="[FIN] R. Raitanen - 3pt jump shot missed. N. Kiel - defensive rebound (3 REB)" team="2" time="00:28" />
+    <LINE num="164" text="[GER] N. Kiel - free throw made (8 Pts)" team="1" time="00:50" scoreA="42" scoreB="25" />
+    <LINE num="163" text="[GER] N. Kiel - free throw made (7 Pts)" team="1" time="00:51" scoreA="41" scoreB="25" />
+    <LINE num="162" text="[FIN] R. Raitanen - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: N. Kiel" team="2" time="00:50" />
+    <LINE num="161" text="[FIN] L. Nikkarinen - turnover (out of bounds, 2 TO)" team="2" time="01:14" />
+    <LINE num="160" text="[GER] G. Zeeb - turnover (ball handling, 1 TO). M. Suvanto - steal (1 ST)" team="1" time="01:19" />
+    <LINE num="159" text="[FIN] M. Suvanto - 3pt jump shot made (7 Pts). L. Nikkarinen - assist (2 AS)" team="2" time="01:24" scoreA="40" scoreB="25" />
+    <LINE num="158" text="[GER] Substitution - H. Hujic OUT, K. Mushidi IN" team="1" time="01:29" />
+    <LINE num="157" text="[GER] Substitution - D. Krämer OUT, G. Zeeb IN" team="1" time="01:29" />
+    <LINE num="156" text="[GER] H. Hujic - 3pt jump shot made (10 Pts). N. Kiel - assist (3 AS)" team="1" time="01:40" scoreA="40" scoreB="22" />
+    <LINE num="155" text="[FIN] E. Maxhuni - 3pt jump shot missed. D. Krämer - defensive rebound (1 REB)" team="2" time="01:52" />
+    <LINE num="154" text="[FIN] Substitution - T. Knihtinen OUT, E. Maxhuni IN" team="2" time="02:13" />
+    <LINE num="153" text="[GER] M. Keßen -  offensive foul (2 PF, 4th team foul). Foul drawn: J. Gummerus. M. Keßen - turnover (offensive foul, 1 TO)" team="1" time="02:13" />
+    <LINE num="152" text="[FIN] M. Suvanto - 3pt jump shot made (4 Pts). L. Nikkarinen - assist (1 AS)" team="2" time="02:26" scoreA="37" scoreB="22" />
+    <LINE num="151" text="[GER] Substitution - G. Zeeb OUT, N. Kiel IN" team="1" time="02:32" />
+    <LINE num="150" text="[GER] Substitution - K. Jallow OUT, T. Taras IN" team="1" time="02:32" />
+    <LINE num="149" text="[GER] D. Krämer - personal  foul (2 PF, 3rd team foul). Foul drawn: T. Knihtinen" team="1" time="02:32" />
+    <LINE num="148" text="[FIN] J. Gummerus - 2pt jump shot missed. R. Raitanen - offensive rebound (3 REB)" team="2" time="02:22" />
+    <LINE num="147" text="[FIN] L. Nikkarinen - 3pt jump shot missed. J. Gummerus - offensive rebound (3 REB)" team="2" time="02:25" />
+    <LINE num="146" text="[FIN] J. Gummerus - 2pt lay-up missed. J. Gummerus - offensive rebound (2 REB)" team="2" time="02:32" />
+    <LINE num="145" text="[FIN] T. Knihtinen - turnover (ball handling, 2 TO). D. Krämer - steal (2 ST)" team="2" time="02:39" />
+    <LINE num="144" text="[GER] M. Keßen - 2pt lay-up made (4 Pts). G. Zeeb - assist (1 AS)" team="1" time="02:54" scoreA="37" scoreB="19" />
+    <LINE num="143" text="[FIN] L. Nikkarinen - 2pt jump shot made (4 Pts)" team="2" time="03:20" scoreA="35" scoreB="19" />
+    <LINE num="142" text="[GER] D. Krämer - personal  foul (1 PF, 2nd team foul). Foul drawn: T. Knihtinen" team="1" time="03:29" />
+    <LINE num="141" text="[FIN] Substitution - H. Koskinen OUT, M. Suvanto IN" team="2" time="03:47" />
+    <LINE num="140" text="[FIN] Timeout" team="2" time="03:47" />
+    <LINE num="139" text="[GER] K. Jallow - 2pt lay-up made (fast break, 2 Pts)" team="1" time="03:47" scoreA="35" scoreB="17" />
+    <LINE num="138" text="[FIN] H. Koskinen - turnover (ball handling, 1 TO). D. Krämer - steal (1 ST)" team="2" time="03:48" />
+    <LINE num="137" text="[GER] M. Keßen - free throw missed. H. Koskinen - defensive rebound (1 REB)" team="1" time="04:13" />
+    <LINE num="136" text="[GER] M. Keßen - free throw missed" team="1" time="04:13" />
+    <LINE num="135" text="[FIN] H. Koskinen - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Keßen" team="2" time="04:13" />
+    <LINE num="134" text="[FIN] L. Nikkarinen - turnover (bad pass, 1 TO)" team="2" time="04:36" />
+    <LINE num="133" text="[FIN] Substitution - V. Nyman OUT, T. Knihtinen IN" team="2" time="04:41" />
+    <LINE num="132" text="[FIN] Substitution - E. Maxhuni OUT, L. Nikkarinen IN" team="2" time="04:41" />
+    <LINE num="131" text="[GER] Substitution - M. Pölking OUT, M. Keßen IN" team="1" time="04:49" />
+    <LINE num="130" text="[GER] Substitution - S. Much OUT, D. Krämer IN" team="1" time="04:49" />
+    <LINE num="129" text="[FIN] E. Maxhuni - 2pt jump shot missed. H. Hujic - defensive rebound (2 REB)" team="2" time="04:53" />
+    <LINE num="128" text="[GER] G. Zeeb - 2pt lay-up made (fast break, 2 Pts)" team="1" time="05:04" scoreA="33" scoreB="17" />
+    <LINE num="127" text="[FIN] V. Nyman - turnover (out of bounds, 2 TO). G. Zeeb - steal (1 ST)" team="2" time="05:06" />
+    <LINE num="126" text="[GER] K. Jallow - turnover (travelling, 1 TO)" team="1" time="05:28" />
+    <LINE num="125" text="[FIN] R. Raitanen - free throw missed. H. Hujic - defensive rebound (1 REB)" team="2" time="05:40" />
+    <LINE num="124" text="[FIN] R. Raitanen - free throw missed" team="2" time="05:40" />
+    <LINE num="123" text="[GER] Timeout" team="1" time="05:40" />
+    <LINE num="122" text="[GER] M. Pölking - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: R. Raitanen" team="1" time="05:40" />
+    <LINE num="121" text="[FIN] J. Gummerus - 2pt jump shot missed. R. Raitanen - offensive rebound (2 REB)" team="2" time="05:39" />
+    <LINE num="120" text="[FIN] H. Koskinen - 3pt jump shot missed. J. Gummerus - offensive rebound (1 REB)" team="2" time="05:42" />
+    <LINE num="119" text="[GER] Substitution - I. Hartenstein OUT, K. Jallow IN" team="1" time="06:08" />
+    <LINE num="118" text="[GER] I. Hartenstein - free throw made (5 Pts)" team="1" time="06:07" scoreA="31" scoreB="17" />
+    <LINE num="117" text="[GER] I. Hartenstein - free throw missed" team="1" time="06:08" />
+    <LINE num="116" text="[FIN] Substitution - R. Bärlund OUT, J. Gummerus IN" team="2" time="06:08" />
+    <LINE num="115" text="[FIN] R. Bärlund - personal shooting foul (2 PF, 4th team foul). 2 free throws awarded. Foul drawn: I. Hartenstein" team="2" time="06:08" />
+    <LINE num="114" text="[GER] I. Hartenstein - 2pt lay-up missed. Team offensive rebound" team="1" time="06:11" />
+    <LINE num="113" text="[FIN] R. Bärlund - personal  foul (1 PF, 3rd team foul). Foul drawn: H. Hujic" team="2" time="06:18" />
+    <LINE num="112" text="[FIN] E. Maxhuni - 2pt lay-up made (fast break, 6 Pts)" team="2" time="06:38" scoreA="30" scoreB="17" />
+    <LINE num="111" text="[GER] H. Hujic - 2pt lay-up made (7 Pts)" team="1" time="06:43" scoreA="30" scoreB="15" />
+    <LINE num="110" text="[GER] Substitution - K. Jallow OUT, H. Hujic IN" team="1" time="06:51" />
+    <LINE num="109" text="[GER] Substitution - L. Wank OUT, K. Jallow IN" team="1" time="07:10" />
+    <LINE num="108" text="[GER] L. Wank - 2pt jump shot missed" team="1" time="07:21" />
+    <LINE num="107" text="[FIN] H. Koskinen - 3pt jump shot missed. L. Wank - defensive rebound (3 REB)" team="2" time="07:27" />
+    <LINE num="106" text="[GER] L. Wank - turnover (back court violation, 1 TO)" team="1" time="07:29" />
+    <LINE num="105" text="[FIN] Substitution - M. Suvanto OUT, H. Koskinen IN" team="2" time="07:35" />
+    <LINE num="104" text="[GER] Substitution - K. Mushidi OUT, G. Zeeb IN" team="1" time="07:35" />
+    <LINE num="103" text="[FIN] M. Suvanto - personal  foul (2 PF, 2nd team foul). Foul drawn: I. Hartenstein" team="2" time="07:35" />
+    <LINE num="102" text="[FIN] R. Bärlund - 2pt lay-up made (2 Pts)" team="2" time="07:39" scoreA="28" scoreB="15" />
+    <LINE num="101" text="[FIN] M. Suvanto - 2pt lay-up missed. R. Bärlund - offensive rebound (2 REB)" team="2" time="07:43" />
+    <LINE num="100" text="[GER] I. Hartenstein - turnover (3 seconds, 2 TO)" team="1" time="08:07" />
+    <LINE num="99" text="[FIN] R. Raitanen - personal  foul (1 PF, 1st team foul). Foul drawn: I. Hartenstein" team="2" time="08:25" />
+    <LINE num="98" text="[GER] I. Hartenstein - 2pt lay-up made (4 Pts)" team="1" time="08:28" scoreA="28" scoreB="13" />
+    <LINE num="97" text="[GER] M. Pölking - 2pt jump shot missed. I. Hartenstein - offensive rebound (2 REB)" team="1" time="08:33" />
+    <LINE num="96" text="[FIN] M. Suvanto - 2pt lay-up missed. L. Wank - defensive rebound (2 REB)" team="2" time="08:50" />
+    <LINE num="95" text="[GER] I. Hartenstein - 3pt jump shot missed. R. Raitanen - defensive rebound (1 REB)" team="1" time="08:59" />
+    <LINE num="94" text="[FIN] E. Maxhuni - turnover (out of bounds, 2 TO)" team="2" time="09:19" />
+    <LINE num="93" text="[GER] I. Hartenstein - turnover (travelling, 1 TO)" team="1" time="09:37" />
+    <LINE num="92" text="[FIN] M. Suvanto - 2pt lay-up missed. L. Wank - defensive rebound (1 REB)" team="2" time="09:40" />
+    <LINE num="91" text="[FIN] Substitution - L. Gummerus OUT, R. Bärlund IN" team="2" time="10:00" />
+    <LINE num="90" text="[FIN] Substitution - L. Nikkarinen OUT, V. Nyman IN" team="2" time="10:00" />
+    <LINE num="89" text="[GER] Substitution - N. Kiel OUT, S. Much IN" team="1" time="10:00" />
+    <LINE num="88" text="[GER] Substitution - T. Taras OUT, I. Hartenstein IN" team="1" time="10:00" />
+    <LINE num="87" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="86" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="85" text="[FIN] E. Maxhuni - 2pt lay-up made (4 Pts)" team="2" time="00:03" scoreA="26" scoreB="13" />
+    <LINE num="84" text="[GER] Substitution - B. Turudic OUT, M. Pölking IN" team="1" time="00:13" />
+    <LINE num="83" text="[FIN] Substitution - A. Vialen OUT, R. Raitanen IN" team="2" time="00:13" />
+    <LINE num="82" text="[FIN] Substitution - T. Knihtinen OUT, E. Maxhuni IN" team="2" time="00:13" />
+    <LINE num="81" text="[GER] B. Turudic - 2pt lay-up made (4 Pts). T. Taras - assist (1 AS)" team="1" time="00:16" scoreA="26" scoreB="11" />
+    <LINE num="80" text="[FIN] M. Suvanto - 3pt jump shot missed. Team defensive rebound" team="2" time="00:34" />
+    <LINE num="79" text="[GER] B. Turudic - 2pt lay-up made (2 Pts). N. Kiel - assist (2 AS)" team="1" time="00:56" scoreA="24" scoreB="11" />
+    <LINE num="78" text="[FIN] A. Vialen - free throw missed. Team defensive rebound" team="2" time="01:19" />
+    <LINE num="77" text="[FIN] A. Vialen - free throw made (1 Pts)" team="2" time="01:19" scoreA="22" scoreB="11" />
+    <LINE num="76" text="[GER] Timeout" team="1" time="01:19" />
+    <LINE num="75" text="[GER] B. Turudic - personal shooting foul (3 PF, 7th team foul). 2 free throws awarded. Foul drawn: A. Vialen" team="1" time="01:19" />
+    <LINE num="74" text="[GER] K. Mushidi - 2pt jump shot missed. M. Suvanto - defensive rebound (1 REB)" team="1" time="01:26" />
+    <LINE num="73" text="[FIN] T. Knihtinen - free throw made (2 Pts)" team="2" time="01:43" scoreA="22" scoreB="10" />
+    <LINE num="72" text="[FIN] T. Knihtinen - free throw missed" team="2" time="01:43" />
+    <LINE num="71" text="[GER] B. Turudic - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: T. Knihtinen" team="1" time="01:43" />
+    <LINE num="70" text="[GER] Substitution - K. Jallow OUT, K. Mushidi IN" team="1" time="01:53" />
+    <LINE num="69" text="[FIN] Timeout" team="2" time="01:53" />
+    <LINE num="68" text="[GER] L. Wank - 3pt jump shot made (3 Pts)" team="1" time="01:59" scoreA="22" scoreB="9" />
+    <LINE num="67" text="[GER] N. Kiel - 2pt lay-up made (6 Pts)" team="1" time="02:24" scoreA="19" scoreB="9" />
+    <LINE num="66" text="[GER] B. Turudic - 2pt jump shot missed. N. Kiel - offensive rebound (2 REB)" team="1" time="02:28" />
+    <LINE num="65" text="[FIN] Substitution - R. Bärlund OUT, A. Vialen IN" team="2" time="02:32" />
+    <LINE num="64" text="[FIN] L. Nikkarinen - personal  foul (1 PF, 4th team foul). Foul drawn: B. Turudic" team="2" time="02:32" />
+    <LINE num="63" text="[FIN] Substitution - V. Nyman OUT, M. Suvanto IN" team="2" time="02:44" />
+    <LINE num="62" text="[GER] Substitution - D. Krämer OUT, L. Wank IN" team="1" time="02:44" />
+    <LINE num="61" text="[FIN] T. Knihtinen - turnover (ball handling, 1 TO)" team="2" time="02:44" />
+    <LINE num="60" text="[GER] D. Krämer - turnover (ball handling, 1 TO). R. Bärlund - steal (1 ST)" team="1" time="02:53" />
+    <LINE num="59" text="[FIN] T. Knihtinen - 2pt jump shot blocked. B. Turudic - block (1 BS). B. Turudic - defensive rebound (2 REB)" team="2" time="03:07" />
+    <LINE num="58" text="[GER] N. Kiel - 2pt lay-up made (fast break, 4 Pts)" team="1" time="03:17" scoreA="17" scoreB="9" />
+    <LINE num="57" text="[FIN] V. Nyman - turnover (ball handling, 1 TO). K. Jallow - steal (1 ST)" team="2" time="03:25" />
+    <LINE num="56" text="[GER] T. Taras -  offensive foul (1 PF, 5th team foul). Foul drawn: L. Nikkarinen. T. Taras - turnover (offensive foul, 1 TO)" team="1" time="03:37" />
+    <LINE num="55" text="[FIN] T. Knihtinen - free throw made (1 Pts)" team="2" time="03:41" scoreA="15" scoreB="9" />
+    <LINE num="54" text="[FIN] T. Knihtinen - free throw missed" team="2" time="03:41" />
+    <LINE num="53" text="[FIN] Substitution - R. Raitanen OUT, L. Gummerus IN" team="2" time="03:41" />
+    <LINE num="52" text="[GER] Substitution - M. Keßen OUT, N. Kiel IN" team="1" time="03:41" />
+    <LINE num="51" text="[GER] B. Turudic - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: T. Knihtinen" team="1" time="03:41" />
+    <LINE num="50" text="[FIN] L. Nikkarinen - 3pt jump shot missed. T. Knihtinen - offensive rebound (2 REB)" team="2" time="03:44" />
+    <LINE num="49" text="[GER] D. Krämer - 3pt jump shot missed. T. Knihtinen - defensive rebound (1 REB)" team="1" time="03:54" />
+    <LINE num="48" text="[FIN] L. Nikkarinen - 2pt lay-up made (fast break, 2 Pts)" team="2" time="04:10" scoreA="15" scoreB="8" />
+    <LINE num="47" text="[GER] T. Taras - 3pt jump shot made (3 Pts). K. Jallow - assist (1 AS)" team="1" time="04:16" scoreA="15" scoreB="6" />
+    <LINE num="46" text="[FIN] T. Knihtinen - personal  foul (1 PF, 3rd team foul). Foul drawn: M. Keßen" team="2" time="04:35" />
+    <LINE num="45" text="[FIN] R. Raitanen - 3pt jump shot missed" team="2" time="04:36" />
+    <LINE num="44" text="[GER] B. Turudic - 2pt jump shot missed. Team defensive rebound" team="1" time="05:06" />
+    <LINE num="43" text="[GER] Substitution - I. Hartenstein OUT, B. Turudic IN" team="1" time="05:22" />
+    <LINE num="42" text="[FIN] Substitution - E. Maxhuni OUT, L. Nikkarinen IN" team="2" time="05:22" />
+    <LINE num="41" text="[FIN] E. Maxhuni - turnover (out of bounds, 1 TO)" team="2" time="05:22" />
+    <LINE num="40" text="[GER] I. Hartenstein - 2pt lay-up missed. R. Bärlund - defensive rebound (1 REB)" team="1" time="05:37" />
+    <LINE num="39" text="[FIN] R. Raitanen - 2pt lay-up missed. I. Hartenstein - defensive rebound (1 REB)" team="2" time="05:49" />
+    <LINE num="38" text="[GER] Substitution - N. Kiel OUT, K. Jallow IN" team="1" time="06:37" />
+    <LINE num="37" text="[FIN] Substitution - M. Suvanto OUT, T. Knihtinen IN" team="2" time="06:37" />
+    <LINE num="36" text="[GER] Substitution - L. Wank OUT, T. Taras IN" team="1" time="06:41" />
+    <LINE num="35" text="[GER] N. Kiel - 2pt lay-up made (2 Pts)" team="1" time="06:41" scoreA="12" scoreB="6" />
+    <LINE num="34" text="[GER] Substitution - H. Hujic OUT, L. Wank IN" team="1" time="06:41" />
+    <LINE num="33" text="[GER] Substitution - L. Figge OUT, D. Krämer IN" team="1" time="06:41" />
+    <LINE num="32" text="[FIN] E. Maxhuni - 2pt lay-up made (2 Pts). M. Suvanto - assist (1 AS)" team="2" time="06:55" scoreA="10" scoreB="6" />
+    <LINE num="31" text="[GER] M. Keßen - personal  foul (1 PF, 3rd team foul). Foul drawn: R. Bärlund" team="1" time="07:02" />
+    <LINE num="30" text="[GER] H. Hujic - 3pt jump shot made (5 Pts)" team="1" time="07:06" scoreA="10" scoreB="4" />
+    <LINE num="29" text="[FIN] M. Suvanto - personal  foul (1 PF, 2nd team foul). Foul drawn: H. Hujic" team="2" time="07:25" />
+    <LINE num="28" text="[FIN] E. Maxhuni - 3pt jump shot missed. Team defensive rebound" team="2" time="07:28" />
+    <LINE num="27" text="[GER] H. Hujic - personal  foul (2 PF, 2nd team foul). Foul drawn: E. Maxhuni" team="1" time="07:39" />
+    <LINE num="26" text="[GER] M. Keßen - 2pt lay-up made (2 Pts). I. Hartenstein - assist (1 AS)" team="1" time="07:42" scoreA="7" scoreB="4" />
+    <LINE num="25" text="[FIN] V. Nyman - 2pt jump shot missed. N. Kiel - defensive rebound (1 REB)" team="2" time="08:04" />
+    <LINE num="24" text="[GER] L. Figge - free throw made (1 Pts)" team="1" time="08:23" scoreA="5" scoreB="4" />
+    <LINE num="23" text="[GER] L. Figge - free throw missed" team="1" time="08:23" />
+    <LINE num="22" text="[FIN] E. Maxhuni - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: L. Figge" team="2" time="08:23" />
+    <LINE num="21" text="[GER] I. Hartenstein - 2pt lay-up made (fast break, 2 Pts). N. Kiel - assist (1 AS)" team="1" time="08:52" scoreA="4" scoreB="4" />
+    <LINE num="20" text="[FIN] R. Raitanen - 3pt jump shot made (3 Pts)" team="2" time="08:56" scoreA="2" scoreB="4" />
+    <LINE num="19" text="[GER] H. Hujic - 2pt lay-up made (fast break, 2 Pts)" team="1" time="09:08" scoreA="2" scoreB="1" />
+    <LINE num="18" text="[FIN] M. Suvanto - turnover (bad pass, 1 TO). H. Hujic - steal (1 ST)" team="2" time="09:13" />
+    <LINE num="17" text="[GER] M. Keßen - defensive rebound (1 REB)" team="1" time="09:30" />
+    <LINE num="16" text="[GER] Substitution - B. Turudic OUT, M. Keßen IN" team="1" time="09:30" />
+    <LINE num="15" text="[FIN] M. Suvanto - free throw missed. B. Turudic - defensive rebound (1 REB)" team="2" time="09:43" />
+    <LINE num="14" text="[FIN] M. Suvanto - free throw made (1 Pts)" team="2" time="09:44" scoreA="0" scoreB="1" />
+    <LINE num="13" text="[GER] H. Hujic - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: M. Suvanto" team="1" time="09:44" />
+    <LINE num="12" text="[GER] N. Kiel - turnover (ball handling, 1 TO)" team="1" time="09:46" />
+    <LINE num="11" text="[GER] Substitution - I. Hartenstein IN" team="1" time="10:00" deleted="1" />
+    <LINE num="10" text="[FIN] Substitution - R. Bärlund IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[FIN] Substitution - R. Raitanen IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[FIN] Substitution - V. Nyman IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[FIN] Substitution - M. Suvanto IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[FIN] Substitution - E. Maxhuni IN" team="2" time="10:00" deleted="1" />
+    <LINE num="5" text="[GER] Substitution - N. Kiel IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[GER] Substitution - B. Turudic IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[GER] Substitution - H. Hujic IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[GER] Substitution - L. Figge IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER file="http://live.fibaeurope.com/www/gallery/54B86B48-2B01-49F6-B59F-C8F1C23F9848.jpg" duration="15.6196" />
+</FE>
