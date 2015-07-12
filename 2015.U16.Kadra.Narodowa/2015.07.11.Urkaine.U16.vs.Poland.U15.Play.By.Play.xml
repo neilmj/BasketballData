@@ -1,0 +1,336 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="IV Memoriał Małgorzaty Dydek" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1844">
+    <TEAM name="Ukraina U16" logo="" pts="62" fouls="1" />
+    <TEAM name="Polska U15" logo="" pts="48" fouls="2" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="17" scoreB="14" />
+      <QUARTER n="2" scoreA="11" scoreB="15" />
+      <QUARTER n="3" scoreA="18" scoreB="11" />
+      <QUARTER n="4" scoreA="16" scoreB="8" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="V. Liubinets [UKR] - 17 rebounds" duration="15.6351">
+    <ITEM text="Attempted three pointers: Ukraina U16 - 21, Polska U15 - 5" />
+  </TICKER>
+  <OVERVIEW duration="31.1801" />
+  <PLAYBYPLAY duration="109.1883">
+    <LINE num="305" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="304" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="303" text="[UKR] K. Kononenko - 2pt jump shot missed. A. Iwaniuk - defensive rebound (4 REB)" team="1" time="00:03" />
+    <LINE num="302" text="[P15] K. Olęcka - 2pt jump shot missed. V. Liubinets - defensive rebound (17 REB)" team="2" time="00:15" />
+    <LINE num="301" text="[UKR] V. Kovalevska - turnover (bad pass, 6 TO). W. Kośla - steal (2 ST)" team="1" time="00:20" />
+    <LINE num="300" text="[P15] B. Puter - 3pt jump shot made (fast break, 3 Pts)" team="2" time="00:29" scoreA="62" scoreB="48" />
+    <LINE num="299" text="[UKR] A. Hvichiani - turnover (bad pass, 2 TO). A. Iwaniuk - steal (1 ST)" team="1" time="00:33" />
+    <LINE num="298" text="[P15] A. Iwaniuk - 3pt jump shot missed. A. Hvichiani - defensive rebound (1 REB)" team="2" time="00:38" />
+    <LINE num="297" text="[UKR] V. Liubinets - 3pt jump shot missed. B. Puter - defensive rebound (2 REB)" team="1" time="00:47" />
+    <LINE num="296" text="[P15] W. Kośla - 2pt jump shot missed. Y. Rabchuk - defensive rebound (15 REB)" team="2" time="01:14" />
+    <LINE num="295" text="[P15] W. Kośla - 2pt lay-up missed. W. Kośla - offensive rebound (4 REB)" team="2" time="01:18" />
+    <LINE num="294" text="[UKR] Y. Rabchuk - 2pt jump shot missed. A. Iwaniuk - defensive rebound (3 REB)" team="1" time="01:25" />
+    <LINE num="293" text="[P15] B. Puter - 3pt jump shot missed. V. Kovalevska - defensive rebound (6 REB)" team="2" time="01:33" />
+    <LINE num="292" text="[UKR] A. Hvichiani - 2pt jump shot made (2 Pts). V. Kovalevska - assist (4 AS)" team="1" time="01:47" scoreA="62" scoreB="45" />
+    <LINE num="291" text="[P15] A. Iwaniuk - free throw missed. V. Liubinets - defensive rebound (16 REB)" team="2" time="02:05" />
+    <LINE num="290" text="[P15] A. Iwaniuk - free throw made (9 Pts)" team="2" time="02:05" scoreA="60" scoreB="45" />
+    <LINE num="289" text="[P15] Substitution - A. Piasecka OUT, K. Olęcka IN" team="2" time="02:05" />
+    <LINE num="288" text="[UKR] S. Boiarchuk - personal shooting foul (5 PF, 1st team foul). 2 free throws awarded. Foul drawn: A. Iwaniuk. [UKR] Substitution - S. Boiarchuk OUT, A. Hvichiani IN" team="1" time="02:05" />
+    <LINE num="287" text="[UKR] K. Kononenko - 2pt lay-up missed. A. Piasecka - defensive rebound (4 REB)" team="1" time="02:17" />
+    <LINE num="286" text="[P15] A. Piasecka - turnover (out of bounds, 3 TO)" team="2" time="02:32" />
+    <LINE num="285" text="[UKR] K. Kononenko - 2pt lay-up made (fast break, 25 Pts). V. Liubinets - assist (1 AS)" team="1" time="02:56" scoreA="60" scoreB="44" />
+    <LINE num="284" text="[P15] A. Piasecka - turnover (bad pass, 2 TO). V. Liubinets - steal (3 ST)" team="2" time="02:59" />
+    <LINE num="283" text="[P15] Substitution - L. Banaszak OUT, B. Puter IN" team="2" time="03:02" />
+    <LINE num="282" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="2" time="03:02" />
+    <LINE num="281" text="[P15] Timeout" team="2" time="03:02" />
+    <LINE num="280" text="[UKR] S. Boiarchuk - free throw made (6 Pts)" team="1" time="03:02" scoreA="58" scoreB="44" />
+    <LINE num="279" text="[UKR] S. Boiarchuk - free throw missed" team="1" time="03:02" />
+    <LINE num="278" text="[P15] A. Iwaniuk - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: S. Boiarchuk" team="2" time="03:02" />
+    <LINE num="277" text="[P15] A. Wojtala - personal  foul (2 PF, 1st team foul). Foul drawn: V. Kovalevska" team="2" time="03:23" />
+    <LINE num="276" text="[P15] A. Piasecka - 3pt jump shot missed. V. Kovalevska - defensive rebound (5 REB)" team="2" time="03:28" />
+    <LINE num="275" text="[P15] A. Wojtala - 2pt lay-up missed. O. Trzeciak - offensive rebound (3 REB)" team="2" time="03:32" />
+    <LINE num="274" text="[UKR] V. Kovalevska - 3pt jump shot made (12 Pts). Y. Rabchuk - assist (1 AS)" team="1" time="03:49" scoreA="57" scoreB="44" />
+    <LINE num="273" text="[P15] O. Trzeciak - 3pt jump shot missed. V. Liubinets - defensive rebound (15 REB)" team="2" time="04:02" />
+    <LINE num="272" text="[UKR] Team turnover (24 seconds)" team="1" time="04:16" />
+    <LINE num="271" text="[P15] Substitution - M. Leszczyńska OUT, O. Trzeciak IN" team="2" time="04:17" />
+    <LINE num="270" text="[UKR] Timeout" team="1" time="04:17" />
+    <LINE num="269" text="[P15] Substitution - K. Gzinka OUT, A. Iwaniuk IN" team="2" time="04:17" />
+    <LINE num="268" text="[UKR] K. Kononenko - 3pt jump shot missed. Team offensive rebound" team="1" time="04:21" />
+    <LINE num="267" text="[P15] K. Gzinka - 2pt lay-up missed. Team defensive rebound" team="2" time="04:44" />
+    <LINE num="266" text="[UKR] V. Liubinets - 2pt jump shot missed. M. Leszczyńska - defensive rebound (5 REB)" team="1" time="04:53" />
+    <LINE num="265" text="[P15] M. Leszczyńska - 2pt jump shot blocked. V. Liubinets - block (8 BS). V. Liubinets - defensive rebound (14 REB)" team="2" time="05:04" />
+    <LINE num="264" text="[P15] Timeout" team="2" time="05:10" />
+    <LINE num="263" text="[UKR] S. Boiarchuk - 2pt jump shot made (5 Pts)" team="1" time="05:29" scoreA="54" scoreB="44" />
+    <LINE num="262" text="[P15] Substitution - D. Kowalczyk OUT, A. Piasecka IN" team="2" time="05:45" />
+    <LINE num="261" text="[P15] Substitution - N. Popiół OUT, K. Gzinka IN" team="2" time="05:45" />
+    <LINE num="260" text="[P15] N. Popiół - 2pt lay-up missed. Team defensive rebound" team="2" time="05:48" />
+    <LINE num="259" text="[UKR] K. Kononenko - 3pt jump shot made (23 Pts). S. Boiarchuk - assist (2 AS)" team="1" time="06:05" scoreA="52" scoreB="44" />
+    <LINE num="258" text="[P15] L. Banaszak - 2pt tip-in missed. V. Kovalevska - defensive rebound (4 REB)" team="2" time="06:28" />
+    <LINE num="257" text="[P15] A. Wojtala - 2pt jump shot missed. L. Banaszak - offensive rebound (7 REB)" team="2" time="06:33" />
+    <LINE num="256" text="[UKR] S. Boiarchuk - 3pt jump shot missed. Team defensive rebound" team="1" time="06:51" />
+    <LINE num="255" text="[P15] D. Kowalczyk - 2pt jump shot missed. Y. Rabchuk - defensive rebound (14 REB)" team="2" time="07:01" />
+    <LINE num="254" text="[UKR] V. Kovalevska - 2pt jump shot missed. M. Leszczyńska - defensive rebound (4 REB)" team="1" time="07:08" />
+    <LINE num="253" text="[UKR] Substitution - A. Hvichiani OUT, K. Kononenko IN" team="1" time="07:12" />
+    <LINE num="252" text="[UKR] A. Hvichiani - 2pt jump shot missed. Team offensive rebound" team="1" time="07:16" />
+    <LINE num="251" text="[P15] A. Wojtala - 2pt jump shot missed. S. Boiarchuk - defensive rebound (1 REB)" team="2" time="07:39" />
+    <LINE num="250" text="[UKR] Team turnover (24 seconds)" team="1" time="07:52" />
+    <LINE num="249" text="[P15] L. Banaszak - 2pt jump shot made (10 Pts). N. Popiół - assist (1 AS)" team="2" time="08:26" scoreA="49" scoreB="44" />
+    <LINE num="248" text="[UKR] S. Boiarchuk - 3pt jump shot made (3 Pts). V. Kovalevska - assist (3 AS)" team="1" time="08:46" scoreA="49" scoreB="42" />
+    <LINE num="247" text="[P15] N. Popiół - 2pt lay-up missed. Y. Rabchuk - defensive rebound (13 REB)" team="2" time="09:02" />
+    <LINE num="246" text="[P15] D. Kowalczyk - 2pt jump shot missed. Team offensive rebound" team="2" time="09:13" />
+    <LINE num="245" text="[UKR] Team turnover (24 seconds)" team="1" time="09:20" />
+    <LINE num="244" text="[P15] L. Banaszak - 2pt jump shot made (8 Pts). A. Wojtala - assist (1 AS)" team="2" time="09:48" scoreA="46" scoreB="42" />
+    <LINE num="243" text="[P15] Substitution - A. Iwaniuk OUT, D. Kowalczyk IN" team="2" time="10:00" />
+    <LINE num="242" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="241" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="240" text="[UKR] A. Hvichiani - 2pt jump shot missed" team="1" time="00:01" />
+    <LINE num="239" text="[P15] N. Popiół - turnover (bad pass, 2 TO). A. Hvichiani - steal (2 ST)" team="2" time="00:06" />
+    <LINE num="238" text="[UKR] Y. Rabchuk - 2pt jump shot made (4 Pts)" team="1" time="00:20" scoreA="46" scoreB="40" />
+    <LINE num="237" text="[P15] L. Banaszak - 2pt jump shot made (6 Pts)" team="2" time="00:37" scoreA="44" scoreB="40" />
+    <LINE num="236" text="[P15] A. Iwaniuk - 2pt lay-up missed. L. Banaszak - offensive rebound (6 REB)" team="2" time="00:42" />
+    <LINE num="235" text="[P15] N. Popiół - 2pt lay-up missed. Team offensive rebound" team="2" time="00:54" />
+    <LINE num="234" text="[UKR] Substitution - E. Buhaievska OUT, A. Hvichiani IN" team="1" time="01:15" />
+    <LINE num="233" text="[UKR] Team turnover (24 seconds)" team="1" time="01:15" />
+    <LINE num="232" text="[P15] M. Leszczyńska - turnover (bad pass, 2 TO). V. Kovalevska - steal (1 ST)" team="2" time="01:42" />
+    <LINE num="231" text="[UKR] E. Buhaievska - personal  foul (3 PF, 4th team foul). Foul drawn: A. Iwaniuk" team="1" time="01:47" />
+    <LINE num="230" text="[P15] N. Popiół - free throw made (1 Pts)" team="2" time="02:00" scoreA="44" scoreB="38" />
+    <LINE num="229" text="[P15] N. Popiół - free throw missed" team="2" time="02:00" />
+    <LINE num="228" text="[UKR] Substitution - K. Kononenko OUT, S. Boiarchuk IN" team="1" time="02:00" />
+    <LINE num="227" text="[UKR] V. Kovalevska - unsportsmanlike  foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: N. Popiół" team="1" time="02:00" />
+    <LINE num="226" text="[UKR] K. Kononenko - turnover (ball handling, 5 TO). N. Popiół - steal (1 ST)" team="1" time="02:00" />
+    <LINE num="225" text="[P15] A. Iwaniuk - free throw missed. K. Kononenko - defensive rebound (3 REB)" team="2" time="02:15" />
+    <LINE num="224" text="[UKR] K. Kononenko - personal shooting foul (2 PF, 2nd team foul). One free throw awarded. Foul drawn: A. Iwaniuk" team="1" time="02:15" />
+    <LINE num="223" text="[P15] A. Iwaniuk - 2pt lay-up made (fast break, 8 Pts)" team="2" time="02:15" scoreA="44" scoreB="37" />
+    <LINE num="222" text="[UKR] Y. Rabchuk - 2pt jump shot missed. M. Leszczyńska - defensive rebound (3 REB)" team="1" time="02:20" />
+    <LINE num="221" text="[P15] A. Wojtala - 2pt lay-up missed. V. Liubinets - defensive rebound (13 REB)" team="2" time="02:35" />
+    <LINE num="220" text="[UKR] V. Liubinets - 2pt jump shot made (11 Pts)" team="1" time="02:52" scoreA="44" scoreB="35" />
+    <LINE num="219" text="[UKR] V. Kovalevska - 2pt lay-up missed. V. Liubinets - offensive rebound (12 REB)" team="1" time="02:57" />
+    <LINE num="218" text="[P15] A. Iwaniuk - 2pt jump shot blocked. V. Liubinets - block (7 BS). V. Kovalevska - defensive rebound (3 REB)" team="2" time="03:20" />
+    <LINE num="217" text="[UKR] Team turnover (24 seconds)" team="1" time="03:44" />
+    <LINE num="216" text="[P15] Substitution - B. Puter OUT, N. Popiół IN" team="2" time="04:09" />
+    <LINE num="215" text="[UKR] Timeout" team="1" time="04:09" />
+    <LINE num="214" text="[P15] A. Wojtala - 2pt lay-up made (fast break, 5 Pts). B. Puter - assist (1 AS)" team="2" time="04:13" scoreA="42" scoreB="35" />
+    <LINE num="213" text="[UKR] E. Buhaievska - 3pt jump shot missed. B. Puter - defensive rebound (1 REB)" team="1" time="04:19" />
+    <LINE num="212" text="[P15] A. Wojtala - 2pt jump shot missed. Y. Rabchuk - defensive rebound (12 REB)" team="2" time="04:41" />
+    <LINE num="211" text="[UKR] Y. Rabchuk - 2pt tip-in made (2 Pts)" team="1" time="04:52" scoreA="42" scoreB="33" />
+    <LINE num="210" text="[UKR] V. Kovalevska - 2pt lay-up missed. Y. Rabchuk - offensive rebound (11 REB)" team="1" time="04:57" />
+    <LINE num="209" text="[P15] L. Banaszak - 2pt jump shot missed. V. Kovalevska - defensive rebound (2 REB)" team="2" time="05:19" />
+    <LINE num="208" text="[P15] L. Banaszak - 2pt jump shot missed. A. Wojtala - offensive rebound (2 REB)" team="2" time="05:32" />
+    <LINE num="207" text="[P15] A. Wojtala - 2pt jump shot missed. L. Banaszak - offensive rebound (5 REB)" team="2" time="05:35" />
+    <LINE num="206" text="[UKR] K. Kononenko - free throw made (20 Pts)" team="1" time="05:50" scoreA="40" scoreB="33" />
+    <LINE num="205" text="[P15] L. Banaszak - personal shooting foul (3 PF, 3rd team foul). One free throw awarded. Foul drawn: K. Kononenko" team="2" time="05:50" />
+    <LINE num="204" text="[UKR] K. Kononenko - 3pt jump shot made (19 Pts)" team="1" time="05:50" scoreA="39" scoreB="33" />
+    <LINE num="203" text="[P15] A. Iwaniuk - 2pt lay-up made (6 Pts)" team="2" time="06:10" scoreA="36" scoreB="33" />
+    <LINE num="202" text="[UKR] Substitution - A. Hvichiani OUT, E. Buhaievska IN" team="1" time="06:25" />
+    <LINE num="201" text="[UKR] A. Hvichiani - personal  foul (2 PF, 1st team foul). Foul drawn: B. Puter" team="1" time="06:25" />
+    <LINE num="200" text="[UKR] A. Hvichiani - turnover (bad pass, 1 TO). B. Puter - steal (1 ST)" team="1" time="06:27" />
+    <LINE num="199" text="[P15] A. Wojtala - 2pt lay-up blocked. V. Liubinets - block (6 BS). V. Liubinets - defensive rebound (11 REB)" team="2" time="06:46" />
+    <LINE num="198" text="[P15] Substitution - O. Lemańska OUT, M. Leszczyńska IN" team="2" time="07:11" />
+    <LINE num="197" text="[P15] Substitution - O. Trzeciak OUT, L. Banaszak IN" team="2" time="07:11" />
+    <LINE num="196" text="[UKR] K. Kononenko - free throw made (16 Pts)" team="1" time="07:11" scoreA="36" scoreB="31" />
+    <LINE num="195" text="[UKR] K. Kononenko - free throw made (15 Pts)" team="1" time="07:11" scoreA="35" scoreB="31" />
+    <LINE num="194" text="[P15] O. Lemańska - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: K. Kononenko" team="2" time="07:11" />
+    <LINE num="193" text="[UKR] A. Hvichiani - 3pt jump shot missed. Y. Rabchuk - offensive rebound (10 REB)" team="1" time="07:15" />
+    <LINE num="192" text="[P15] Substitution - W. Kośla OUT, A. Wojtala IN" team="2" time="07:25" />
+    <LINE num="191" text="[P15] W. Kośla - turnover (ball handling, 1 TO)" team="2" time="07:25" />
+    <LINE num="190" text="[UKR] V. Liubinets - 2pt jump shot made (9 Pts)" team="1" time="07:33" scoreA="34" scoreB="31" />
+    <LINE num="189" text="[P15] A. Iwaniuk - 2pt jump shot made (4 Pts)" team="2" time="07:53" scoreA="32" scoreB="31" />
+    <LINE num="188" text="[UKR] V. Kovalevska - free throw made (9 Pts)" team="1" time="08:06" scoreA="32" scoreB="29" />
+    <LINE num="187" text="[UKR] V. Kovalevska - free throw made (8 Pts)" team="1" time="08:06" scoreA="31" scoreB="29" />
+    <LINE num="186" text="[P15] W. Kośla - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: V. Kovalevska" team="2" time="08:06" />
+    <LINE num="185" text="[P15] O. Trzeciak - turnover (bad pass, 1 TO). K. Kononenko - steal (4 ST)" team="2" time="08:19" />
+    <LINE num="184" text="[P15] O. Lemańska - 2pt jump shot missed. O. Lemańska - offensive rebound (3 REB)" team="2" time="08:35" />
+    <LINE num="183" text="[UKR] Y. Rabchuk - 2pt jump shot missed. W. Kośla - defensive rebound (3 REB)" team="1" time="08:48" />
+    <LINE num="182" text="[UKR] K. Kononenko - 3pt jump shot missed. V. Liubinets - offensive rebound (10 REB)" team="1" time="09:02" />
+    <LINE num="181" text="[P15] B. Puter - turnover (bad pass, 1 TO). K. Kononenko - steal (3 ST)" team="2" time="09:19" />
+    <LINE num="180" text="[UKR] K. Kononenko - 2pt jump shot made (fast break, 14 Pts)" team="1" time="09:42" scoreA="30" scoreB="29" />
+    <LINE num="179" text="[P15] A. Iwaniuk - turnover (bad pass, 2 TO). Y. Rabchuk - steal (1 ST)" team="2" time="09:50" />
+    <LINE num="178" text="[P15] Substitution - M. Leszczyńska OUT, O. Lemańska IN" team="2" time="10:00" />
+    <LINE num="177" text="[P15] Substitution - L. Banaszak OUT, B. Puter IN" team="2" time="10:00" />
+    <LINE num="176" text="[P15] Substitution - K. Olęcka OUT, O. Trzeciak IN" team="2" time="10:00" />
+    <LINE num="175" text="[UKR] Substitution - A. Kaliuzhna OUT, A. Hvichiani IN" team="1" time="10:00" />
+    <LINE num="174" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="173" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="172" text="[P15] M. Leszczyńska - 2pt jump shot missed" team="2" time="00:02" />
+    <LINE num="171" text="[UKR] K. Kononenko - free throw made (12 Pts)" team="1" time="00:16" scoreA="28" scoreB="29" />
+    <LINE num="170" text="[UKR] K. Kononenko - free throw made (11 Pts)" team="1" time="00:16" scoreA="27" scoreB="29" />
+    <LINE num="169" text="[P15] K. Olęcka - personal shooting foul (1 PF, 7th team foul). 2 free throws awarded. Foul drawn: K. Kononenko" team="2" time="00:16" />
+    <LINE num="168" text="[P15] K. Olęcka - 2pt jump shot missed. Y. Rabchuk - defensive rebound (9 REB)" team="2" time="00:30" />
+    <LINE num="167" text="[P15] Timeout" team="2" time="00:45" />
+    <LINE num="166" text="[UKR] V. Kovalevska - turnover (travelling, 5 TO)" team="1" time="00:45" />
+    <LINE num="165" text="[UKR] K. Kononenko - 3pt jump shot missed. Y. Rabchuk - offensive rebound (8 REB)" team="1" time="00:56" />
+    <LINE num="164" text="[P15] W. Kośla - 2pt lay-up made (9 Pts)" team="2" time="01:11" scoreA="26" scoreB="29" />
+    <LINE num="163" text="[P15] A. Iwaniuk - 2pt lay-up blocked. V. Liubinets - block (5 BS). A. Iwaniuk - offensive rebound (2 REB)" team="2" time="01:18" />
+    <LINE num="162" text="[UKR] V. Kovalevska - 2pt lay-up made (7 Pts)" team="1" time="01:37" scoreA="26" scoreB="27" />
+    <LINE num="161" text="[P15] K. Olęcka - 2pt jump shot missed. V. Liubinets - defensive rebound (9 REB)" team="2" time="01:46" />
+    <LINE num="160" text="[UKR] V. Kovalevska - free throw missed. A. Iwaniuk - defensive rebound (1 REB)" team="1" time="02:08" />
+    <LINE num="159" text="[UKR] V. Kovalevska - free throw made (5 Pts)" team="1" time="02:08" scoreA="24" scoreB="27" />
+    <LINE num="158" text="[P15] L. Banaszak - personal shooting foul (2 PF, 6th team foul). 2 free throws awarded. Foul drawn: V. Kovalevska" team="2" time="02:08" />
+    <LINE num="157" text="[UKR] V. Kovalevska - 3pt jump shot missed. Y. Rabchuk - offensive rebound (7 REB)" team="1" time="02:13" />
+    <LINE num="156" text="[P15] L. Banaszak - 2pt jump shot made (4 Pts)" team="2" time="02:34" scoreA="23" scoreB="27" />
+    <LINE num="155" text="[P15] K. Olęcka - 2pt jump shot missed. L. Banaszak - offensive rebound (4 REB)" team="2" time="02:38" />
+    <LINE num="154" text="[UKR] V. Kovalevska - 2pt lay-up missed. M. Leszczyńska - defensive rebound (2 REB)" team="1" time="02:53" />
+    <LINE num="153" text="[P15] K. Olęcka - free throw missed. Y. Rabchuk - defensive rebound (6 REB)" team="2" time="03:11" />
+    <LINE num="152" text="[P15] K. Olęcka - free throw missed" team="2" time="03:11" />
+    <LINE num="151" text="[UKR] Substitution - S. Boiarchuk OUT, K. Kononenko IN" team="1" time="03:11" />
+    <LINE num="150" text="[UKR] S. Boiarchuk - personal shooting foul (4 PF, 6th team foul). 2 free throws awarded. Foul drawn: K. Olęcka" team="1" time="03:11" />
+    <LINE num="149" text="[P15] K. Olęcka - 2pt jump shot missed. K. Olęcka - offensive rebound (1 REB)" team="2" time="03:14" />
+    <LINE num="148" text="[UKR] Team turnover (24 seconds)" team="1" time="03:25" />
+    <LINE num="147" text="[P15] Substitution - A. Piasecka OUT, A. Iwaniuk IN" team="2" time="03:33" />
+    <LINE num="146" text="[P15] Substitution - K. Gzinka OUT, K. Olęcka IN" team="2" time="03:33" />
+    <LINE num="145" text="[UKR] S. Boiarchuk - 3pt jump shot missed. Team offensive rebound" team="1" time="03:37" />
+    <LINE num="144" text="[P15] Substitution - O. Lemańska OUT, M. Leszczyńska IN" team="2" time="03:53" />
+    <LINE num="143" text="[P15] O. Lemańska - turnover (back court violation, 1 TO)" team="2" time="03:53" />
+    <LINE num="142" text="[UKR] A. Kaliuzhna - 3pt jump shot missed. Team defensive rebound" team="1" time="04:07" />
+    <LINE num="141" text="[P15] L. Banaszak - 2pt jump shot missed. V. Liubinets - defensive rebound (8 REB)" team="2" time="04:27" />
+    <LINE num="140" text="[P15] O. Lemańska - 2pt jump shot missed. L. Banaszak - offensive rebound (3 REB)" team="2" time="04:30" />
+    <LINE num="139" text="[UKR] Substitution - K. Kononenko OUT, A. Kaliuzhna IN" team="1" time="04:44" />
+    <LINE num="138" text="[UKR] K. Kononenko - 2pt lay-up missed. Team defensive rebound" team="1" time="04:49" />
+    <LINE num="137" text="[P15] K. Gzinka - 2pt jump shot made (fast break, 2 Pts)" team="2" time="05:03" scoreA="23" scoreB="25" />
+    <LINE num="136" text="[UKR] K. Kononenko - turnover (ball handling, 4 TO). O. Lemańska - steal (1 ST)" team="1" time="05:10" />
+    <LINE num="135" text="[P15] W. Kośla - free throw made (7 Pts)" team="2" time="05:25" scoreA="23" scoreB="23" />
+    <LINE num="134" text="[P15] W. Kośla - free throw made (6 Pts)" team="2" time="05:25" scoreA="23" scoreB="22" />
+    <LINE num="133" text="[UKR] Substitution - O. Fastova OUT, S. Boiarchuk IN" team="1" time="05:25" />
+    <LINE num="132" text="[UKR] Substitution - E. Buhaievska OUT, V. Kovalevska IN" team="1" time="05:25" />
+    <LINE num="131" text="[UKR] Y. Rabchuk - personal  foul (2 PF, 5th team foul). Foul drawn: W. Kośla" team="1" time="05:25" />
+    <LINE num="130" text="[UKR] O. Fastova - 2pt lay-up missed. A. Piasecka - defensive rebound (3 REB)" team="1" time="05:29" />
+    <LINE num="129" text="[P15] K. Gzinka - 2pt jump shot missed. V. Liubinets - defensive rebound (7 REB)" team="2" time="05:42" />
+    <LINE num="128" text="[UKR] E. Buhaievska - personal  foul (2 PF, 4th team foul). Foul drawn: K. Gzinka" team="1" time="05:50" />
+    <LINE num="127" text="[UKR] O. Fastova - 3pt jump shot missed. W. Kośla - defensive rebound (2 REB)" team="1" time="05:55" />
+    <LINE num="126" text="[UKR] K. Kononenko - 2pt jump shot missed. Y. Rabchuk - offensive rebound (5 REB)" team="1" time="06:00" />
+    <LINE num="125" text="[P15] O. Lemańska - 2pt jump shot missed. V. Liubinets - defensive rebound (6 REB)" team="2" time="06:08" />
+    <LINE num="124" text="[P15] O. Lemańska - 2pt jump shot missed. O. Lemańska - offensive rebound (2 REB)" team="2" time="06:14" />
+    <LINE num="123" text="[UKR] K. Kononenko - turnover (out of bounds, 3 TO)" team="1" time="06:24" />
+    <LINE num="122" text="[P15] K. Gzinka - turnover (bad pass, 1 TO). O. Fastova - steal (1 ST)" team="2" time="06:32" />
+    <LINE num="121" text="[UKR] E. Buhaievska - personal  foul (1 PF, 3rd team foul). Foul drawn: W. Kośla" team="1" time="06:40" />
+    <LINE num="120" text="[UKR] O. Fastova - personal  foul (1 PF, 2nd team foul). Foul drawn: A. Piasecka" team="1" time="06:41" />
+    <LINE num="119" text="[P15] Substitution - O. Trzeciak OUT, L. Banaszak IN" team="2" time="06:46" />
+    <LINE num="118" text="[UKR] V. Liubinets - free throw made (7 Pts)" team="1" time="06:46" scoreA="23" scoreB="21" />
+    <LINE num="117" text="[UKR] V. Liubinets - free throw missed" team="1" time="06:46" />
+    <LINE num="116" text="[P15] O. Lemańska - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: V. Liubinets" team="2" time="06:46" />
+    <LINE num="115" text="[P15] O. Lemańska - 2pt jump shot made (fast break, 4 Pts). K. Gzinka - assist (1 AS)" team="2" time="06:56" scoreA="22" scoreB="21" />
+    <LINE num="114" text="[UKR] K. Kononenko - 2pt lay-up missed. A. Piasecka - defensive rebound (2 REB)" team="1" time="07:04" />
+    <LINE num="113" text="[P15] K. Gzinka - 2pt lay-up missed. V. Liubinets - defensive rebound (5 REB)" team="2" time="07:18" />
+    <LINE num="112" text="[UKR] K. Kononenko - 3pt jump shot made (10 Pts)" team="1" time="07:28" scoreA="22" scoreB="19" />
+    <LINE num="111" text="[P15] Substitution - N. Popiół OUT, K. Gzinka IN" team="2" time="07:55" />
+    <LINE num="110" text="[P15] N. Popiół - personal  foul (3 PF, 4th team foul). Foul drawn: K. Kononenko" team="2" time="07:55" />
+    <LINE num="109" text="[P15] A. Piasecka - turnover (bad pass, 1 TO). K. Kononenko - steal (2 ST)" team="2" time="07:55" />
+    <LINE num="108" text="[UKR] Substitution - M. Semenichenko OUT, V. Liubinets IN" team="1" time="08:02" />
+    <LINE num="107" text="[UKR] O. Fastova - 2pt jump shot missed. W. Kośla - defensive rebound (1 REB)" team="1" time="08:02" />
+    <LINE num="106" text="[UKR] Substitution - V. Kovalevska OUT, O. Fastova IN" team="1" time="08:02" />
+    <LINE num="105" text="[P15] W. Kośla - 2pt lay-up made (5 Pts)" team="2" time="08:10" scoreA="19" scoreB="19" />
+    <LINE num="104" text="[P15] A. Piasecka - offensive rebound (1 REB)" team="2" time="08:15" />
+    <LINE num="103" text="[P15] O. Trzeciak - 2pt jump shot missed" team="2" time="08:31" />
+    <LINE num="102" text="[UKR] K. Kononenko - free throw made (7 Pts)" team="1" time="08:44" scoreA="19" scoreB="17" />
+    <LINE num="101" text="[UKR] K. Kononenko - free throw missed" team="1" time="08:44" />
+    <LINE num="100" text="[P15] N. Popiół - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: K. Kononenko" team="2" time="08:44" />
+    <LINE num="99" text="[P15] W. Kośla - free throw made (3 Pts)" team="2" time="08:56" scoreA="18" scoreB="17" />
+    <LINE num="98" text="[UKR] K. Kononenko - personal shooting foul (1 PF, 1st team foul). One free throw awarded. Foul drawn: W. Kośla" team="1" time="08:56" />
+    <LINE num="97" text="[P15] W. Kośla - 2pt lay-up made (fast break, 2 Pts)" team="2" time="09:00" scoreA="18" scoreB="16" />
+    <LINE num="96" text="[UKR] V. Kovalevska - turnover (bad pass, 4 TO). W. Kośla - steal (1 ST)" team="1" time="09:03" />
+    <LINE num="95" text="[UKR] Substitution - A. Hvichiani OUT, E. Buhaievska IN" team="1" time="09:17" />
+    <LINE num="94" text="[P15] A. Piasecka - personal  foul (1 PF, 2nd team foul). Foul drawn: K. Kononenko" team="2" time="09:17" />
+    <LINE num="93" text="[UKR] V. Kovalevska - free throw missed. Y. Rabchuk - offensive rebound (4 REB)" team="1" time="09:26" />
+    <LINE num="92" text="[UKR] V. Kovalevska - free throw made (4 Pts)" team="1" time="09:26" scoreA="18" scoreB="14" />
+    <LINE num="91" text="[P15] N. Popiół - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: V. Kovalevska" team="2" time="09:26" />
+    <LINE num="90" text="[P15] O. Trzeciak - 2pt lay-up missed. Y. Rabchuk - defensive rebound (3 REB)" team="2" time="09:46" />
+    <LINE num="89" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="88" text="[P15] Substitution - D. Kowalczyk OUT, A. Piasecka IN" team="2" time="00:00" />
+    <LINE num="87" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="2" time="00:00" />
+    <LINE num="86" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="85" text="[P15] O. Lemańska - free throw made (2 Pts)" team="2" time="00:01" scoreA="17" scoreB="14" />
+    <LINE num="84" text="[P15] O. Lemańska - free throw made (1 Pts)" team="2" time="00:01" scoreA="17" scoreB="13" />
+    <LINE num="83" text="[UKR] Y. Rabchuk - personal  foul (1 PF, 7th team foul). Foul drawn: O. Lemańska" team="1" time="00:01" />
+    <LINE num="82" text="[UKR] A. Hvichiani - 2pt jump shot missed. O. Lemańska - defensive rebound (1 REB)" team="1" time="00:04" />
+    <LINE num="81" text="[P15] A. Wojtala - 2pt jump shot missed. K. Kononenko - defensive rebound (2 REB)" team="2" time="00:27" />
+    <LINE num="80" text="[UKR] M. Semenichenko -  offensive foul (1 PF, 6th team foul). Foul drawn: D. Kowalczyk. M. Semenichenko - turnover (offensive foul, 1 TO)" team="1" time="00:44" />
+    <LINE num="79" text="[P15] N. Popiół - turnover (bad pass, 1 TO). K. Kononenko - steal (1 ST)" team="2" time="00:56" />
+    <LINE num="78" text="[P15] Substitution - B. Puter OUT, O. Lemańska IN" team="2" time="01:05" />
+    <LINE num="77" text="[P15] Substitution - M. Leszczyńska OUT, N. Popiół IN" team="2" time="01:05" />
+    <LINE num="76" text="[UKR] Substitution - V. Babych OUT, Y. Rabchuk IN" team="1" time="01:05" />
+    <LINE num="75" text="[UKR] Substitution - V. Liubinets OUT, M. Semenichenko IN" team="1" time="01:05" />
+    <LINE num="74" text="[UKR] K. Kononenko - 2pt jump shot missed. Team defensive rebound" team="1" time="01:11" />
+    <LINE num="73" text="[P15] M. Leszczyńska - 2pt jump shot missed. V. Kovalevska - defensive rebound (1 REB)" team="2" time="01:17" />
+    <LINE num="72" text="[P15] B. Puter - 2pt lay-up blocked. V. Liubinets - block (4 BS). D. Kowalczyk - offensive rebound (2 REB)" team="2" time="01:28" />
+    <LINE num="71" text="[UKR] V. Liubinets - 2pt jump shot made (6 Pts). V. Babych - assist (1 AS)" team="1" time="01:42" scoreA="17" scoreB="12" />
+    <LINE num="70" text="[P15] M. Leszczyńska - 2pt jump shot missed. V. Liubinets - defensive rebound (4 REB)" team="2" time="01:56" />
+    <LINE num="69" text="[UKR] V. Kovalevska - 3pt jump shot made (3 Pts)" team="1" time="02:07" scoreA="15" scoreB="12" />
+    <LINE num="68" text="[P15] M. Leszczyńska - 2pt driving lay-up made (4 Pts)" team="2" time="02:29" scoreA="12" scoreB="12" />
+    <LINE num="67" text="[UKR] K. Kononenko - 3pt jump shot made (6 Pts). V. Kovalevska - assist (2 AS)" team="1" time="02:50" scoreA="12" scoreB="10" />
+    <LINE num="66" text="[P15] M. Leszczyńska - 2pt hook shot missed. V. Liubinets - defensive rebound (3 REB)" team="2" time="03:05" />
+    <LINE num="65" text="[UKR] K. Kononenko - 2pt jump shot missed. D. Kowalczyk - defensive rebound (1 REB)" team="1" time="03:15" />
+    <LINE num="64" text="[P15] M. Leszczyńska - 2pt jump shot made (2 Pts). O. Trzeciak - assist (1 AS)" team="2" time="03:23" scoreA="9" scoreB="10" />
+    <LINE num="63" text="[UKR] K. Kononenko - 3pt jump shot made (3 Pts). V. Kovalevska - assist (1 AS)" team="1" time="03:39" scoreA="9" scoreB="8" />
+    <LINE num="62" text="[P15] M. Leszczyńska - turnover (bad pass, 1 TO). A. Hvichiani - steal (1 ST)" team="2" time="03:52" />
+    <LINE num="61" text="[P15] D. Kowalczyk - 2pt jump shot missed. M. Leszczyńska - offensive rebound (1 REB)" team="2" time="03:55" />
+    <LINE num="60" text="[P15] D. Kowalczyk - free throw missed. O. Trzeciak - offensive rebound (2 REB)" team="2" time="04:02" />
+    <LINE num="59" text="[P15] D. Kowalczyk - free throw made (1 Pts)" team="2" time="04:02" scoreA="6" scoreB="8" />
+    <LINE num="58" text="[UKR] A. Hvichiani - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: D. Kowalczyk" team="1" time="04:02" />
+    <LINE num="57" text="[UKR] Substitution - O. Fastova OUT, V. Kovalevska IN" team="1" time="04:16" />
+    <LINE num="56" text="[UKR] K. Kononenko - turnover (travelling, 2 TO)" team="1" time="04:16" />
+    <LINE num="55" text="[P15] D. Kowalczyk - 2pt jump shot missed. K. Kononenko - defensive rebound (1 REB)" team="2" time="04:27" />
+    <LINE num="54" text="[P15] M. Leszczyńska - 2pt jump shot blocked. V. Liubinets - block (3 BS). Team offensive rebound" team="2" time="04:35" />
+    <LINE num="53" text="[UKR] V. Babych - 2pt jump shot missed. O. Trzeciak - defensive rebound (1 REB)" team="1" time="04:43" />
+    <LINE num="52" text="[P15] M. Leszczyńska - 2pt jump shot missed. V. Babych - defensive rebound (1 REB)" team="2" time="04:59" />
+    <LINE num="51" text="[UKR] Timeout" team="1" time="05:00" />
+    <LINE num="50" text="[P15] A. Wojtala - 2pt lay-up blocked. V. Liubinets - block (2 BS). Team offensive rebound" team="2" time="05:04" />
+    <LINE num="49" text="[UKR] K. Kononenko - turnover (bad pass, 1 TO). A. Wojtala - steal (2 ST)" team="1" time="05:08" />
+    <LINE num="48" text="[P15] Substitution - L. Banaszak OUT, O. Trzeciak IN" team="2" time="05:11" />
+    <LINE num="47" text="[UKR] A. Hvichiani - turnover (out of bounds, 0 TO)" team="1" time="05:11" deleted="1" />
+    <LINE num="46" text="[P15] L. Banaszak - 2pt jump shot made (2 Pts)" team="2" time="05:32" scoreA="6" scoreB="7" />
+    <LINE num="45" text="[P15] A. Wojtala - free throw missed. L. Banaszak - offensive rebound (2 REB)" team="2" time="05:34" />
+    <LINE num="44" text="[P15] A. Wojtala - free throw made (3 Pts)" team="2" time="05:34" scoreA="6" scoreB="5" />
+    <LINE num="43" text="[P15] Substitution - A. Iwaniuk OUT, D. Kowalczyk IN" team="2" time="05:34" />
+    <LINE num="42" text="[UKR] Substitution - S. Boiarchuk OUT, V. Babych IN" team="1" time="05:34" />
+    <LINE num="41" text="[UKR] S. Boiarchuk - personal shooting foul (3 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Wojtala" team="1" time="05:34" />
+    <LINE num="40" text="[UKR] S. Boiarchuk - 3pt jump shot missed. A. Wojtala - defensive rebound (1 REB)" team="1" time="05:38" />
+    <LINE num="39" text="[UKR] Substitution - V. Kovalevska OUT, A. Hvichiani IN" team="1" time="05:47" />
+    <LINE num="38" text="[P15] B. Puter - personal  foul (1 PF, 3rd team foul). Foul drawn: K. Kononenko" team="2" time="05:47" />
+    <LINE num="37" text="[P15] A. Wojtala - 2pt jump shot missed. V. Liubinets - defensive rebound (2 REB)" team="2" time="05:53" />
+    <LINE num="36" text="[UKR] S. Boiarchuk - personal  foul (2 PF, 3rd team foul). Foul drawn: B. Puter" team="1" time="05:54" />
+    <LINE num="35" text="[UKR] V. Kovalevska - 3pt jump shot missed. Team defensive rebound" team="1" time="06:02" />
+    <LINE num="34" text="[P15] L. Banaszak - 2pt jump shot missed. V. Liubinets - defensive rebound (1 REB)" team="2" time="06:14" />
+    <LINE num="33" text="[UKR] Substitution - Y. Rabchuk OUT, K. Kononenko IN" team="1" time="06:23" />
+    <LINE num="32" text="[P15] A. Wojtala - 2pt lay-up blocked. Y. Rabchuk - block (1 BS). Team defensive rebound" team="2" time="06:27" />
+    <LINE num="31" text="[UKR] O. Fastova - 2pt lay-up made (2 Pts)" team="1" time="06:35" scoreA="6" scoreB="4" />
+    <LINE num="30" text="[P15] M. Leszczyńska - 2pt lay-up missed. Y. Rabchuk - defensive rebound (2 REB)" team="2" time="06:56" />
+    <LINE num="29" text="[UKR] S. Boiarchuk - personal  foul (1 PF, 2nd team foul). Foul drawn: B. Puter" team="1" time="07:04" />
+    <LINE num="28" text="[UKR] S. Boiarchuk - 2pt jump shot missed. Team defensive rebound" team="1" time="07:16" />
+    <LINE num="27" text="[P15] A. Wojtala - turnover (travelling, 1 TO)" team="2" time="07:21" />
+    <LINE num="26" text="[UKR] O. Fastova - 2pt jump shot missed. L. Banaszak - defensive rebound (1 REB)" team="1" time="07:28" />
+    <LINE num="25" text="[P15] A. Iwaniuk - 2pt jump shot made (2 Pts)" team="2" time="07:37" scoreA="4" scoreB="4" />
+    <LINE num="24" text="[UKR] V. Liubinets - 2pt jump shot made (4 Pts). S. Boiarchuk - assist (1 AS)" team="1" time="07:55" scoreA="4" scoreB="2" />
+    <LINE num="23" text="[P15] A. Wojtala - personal  foul (1 PF, 2nd team foul). Foul drawn: V. Kovalevska" team="2" time="07:57" />
+    <LINE num="22" text="[P15] L. Banaszak - turnover (bad pass, 1 TO). V. Liubinets - steal (2 ST)" team="2" time="08:03" />
+    <LINE num="21" text="[UKR] V. Liubinets - 2pt lay-up made (2 Pts)" team="1" time="08:14" scoreA="2" scoreB="2" />
+    <LINE num="20" text="[P15] L. Banaszak - 2pt lay-up blocked. V. Liubinets - block (1 BS). Y. Rabchuk - defensive rebound (1 REB)" team="2" time="08:29" />
+    <LINE num="19" text="[UKR] V. Kovalevska - personal  foul (1 PF, 1st team foul). Foul drawn: L. Banaszak" team="1" time="08:38" />
+    <LINE num="18" text="[UKR] V. Kovalevska - turnover (bad pass, 3 TO). L. Banaszak - steal (1 ST)" team="1" time="08:43" />
+    <LINE num="17" text="[P15] A. Iwaniuk - turnover (bad pass, 1 TO). V. Liubinets - steal (1 ST)" team="2" time="08:58" />
+    <LINE num="16" text="[UKR] V. Kovalevska - turnover (bad pass, 2 TO). M. Leszczyńska - steal (1 ST)" team="1" time="09:04" />
+    <LINE num="15" text="[P15] A. Wojtala - 2pt lay-up made (fast break, 2 Pts)" team="2" time="09:28" scoreA="0" scoreB="2" />
+    <LINE num="14" text="[UKR] V. Kovalevska - turnover (bad pass, 1 TO). A. Wojtala - steal (1 ST)" team="1" time="09:31" />
+    <LINE num="13" text="[P15] Substitution - O. Trzeciak OUT, M. Leszczyńska IN" team="2" time="09:36" />
+    <LINE num="12" text="[P15] L. Banaszak - personal  foul (1 PF, 1st team foul). Foul drawn: Y. Rabchuk" team="2" time="09:36" />
+    <LINE num="11" text="[P15] Substitution - B. Puter IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[P15] Substitution - O. Trzeciak IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[P15] Substitution - A. Iwaniuk IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[P15] Substitution - L. Banaszak IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[P15] Substitution - A. Wojtala IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[UKR] Substitution - V. Liubinets IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[UKR] Substitution - Y. Rabchuk IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[UKR] Substitution - S. Boiarchuk IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[UKR] Substitution - O. Fastova IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[UKR] Substitution - V. Kovalevska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

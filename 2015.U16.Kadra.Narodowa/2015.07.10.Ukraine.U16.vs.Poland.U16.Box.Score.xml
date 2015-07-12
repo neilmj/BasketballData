@@ -1,0 +1,61 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="IV Memoriał Małgorzaty Dydek" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1895">
+    <TEAM name="Ukraina U16" logo="" pts="60" fouls="3" />
+    <TEAM name="Polska U16" logo="" pts="68" fouls="8" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="17" scoreB="20" />
+      <QUARTER n="2" scoreA="11" scoreB="20" />
+      <QUARTER n="3" scoreA="20" scoreB="12" />
+      <QUARTER n="4" scoreA="12" scoreB="16" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="15.6018">
+    <TEAM name="Ukraina U16">
+      <TEAMACTIONS ro="2" rd="5" rt="7" pf="0" rf="0" to="1" st="0" in="0" ind="0" />
+      <TOTAL p1m="10" p1a="18" p1p="55.6" p2m="16" p2a="42" p2p="38.1" p3m="6" p3a="16" p3p="37.5" fgm="22" fga="58" fgp="37.9" as="15" bs="5" br="4" pts="60" ro="13" rd="29" rt="42" pf="15" rf="22" to="26" st="15" in="0" ind="0" />
+      <PLAYER no="4" name="E. Buhaievska" min="14:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="1" rd="1" rt="2" pf="0" rf="1" to="1" st="1" in="0" ind="6" />
+      <PLAYER no="6" name="V. Kovalevska" min="23:38" sta="True" p1m="2" p1a="4" p1p="50.0" p2m="0" p2a="4" p2p="0.0" p3m="1" p3a="2" p3p="50.0" fgm="1" fga="6" fgp="16.7" as="4" bs="0" br="2" pts="5" ro="1" rd="2" rt="3" pf="5" rf="6" to="4" st="4" in="0" ind="-4" />
+      <PLAYER no="7" name="O. Basiuk" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="8" name="A. Hvichiani" min="15:02" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="3" p2a="4" p2p="75.0" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="4" fgp="75.0" as="3" bs="0" br="0" pts="6" ro="1" rd="1" rt="2" pf="1" rf="0" to="1" st="0" in="1" ind="-17" />
+      <PLAYER no="9" name="O. Fastova" min="27:20" sta="True" p1m="5" p1a="8" p1p="62.5" p2m="3" p2a="11" p2p="27.3" p3m="1" p3a="2" p3p="50.0" fgm="4" fga="13" fgp="30.8" as="2" bs="0" br="1" pts="14" ro="2" rd="6" rt="8" pf="3" rf="9" to="5" st="1" in="1" ind="-1" />
+      <PLAYER no="10" name="M. Semenichenko" min="11:32" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="2" p2a="2" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="2" fgp="100.0" as="1" bs="0" br="0" pts="5" ro="0" rd="1" rt="1" pf="3" rf="1" to="1" st="1" in="1" ind="8" />
+      <PLAYER no="11" name="S. Boiarchuk" min="24:30" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="3" p3a="6" p3p="50.0" fgm="3" fga="7" fgp="42.9" as="1" bs="1" br="0" pts="9" ro="1" rd="3" rt="4" pf="1" rf="1" to="6" st="0" in="0" ind="10" />
+      <PLAYER no="12" name="K. Kononenko" min="23:10" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="3" p2a="8" p2p="37.5" p3m="1" p3a="5" p3p="20.0" fgm="4" fga="13" fgp="30.8" as="0" bs="1" br="1" pts="10" ro="0" rd="3" rt="3" pf="0" rf="1" to="1" st="1" in="1" ind="-7" />
+      <PLAYER no="15" name="A. Kaliuzhna" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="16" name="Y. Rabchuk" min="11:54" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="2" rf="0" to="1" st="1" in="0" ind="-9" />
+      <PLAYER no="17" name="V. Bedina" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="18" name="V. Liubinets" min="32:53" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="2" p2a="7" p2p="28.6" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="7" fgp="28.6" as="2" bs="3" br="0" pts="4" ro="3" rd="4" rt="7" pf="0" rf="1" to="4" st="6" in="1" ind="-19" />
+      <PLAYER no="22" name="V. Babych" min="16:01" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="3" p2a="4" p2p="75.0" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="4" fgp="75.0" as="1" bs="0" br="0" pts="7" ro="2" rd="2" rt="4" pf="0" rf="2" to="1" st="0" in="0" ind="-7" />
+    </TEAM>
+    <TEAM name="Polska U16">
+      <TEAMACTIONS ro="1" rd="2" rt="3" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="9" p1a="13" p1p="69.2" p2m="22" p2a="51" p2p="43.1" p3m="5" p3a="17" p3p="29.4" fgm="27" fga="68" fgp="39.7" as="18" bs="4" br="5" pts="68" ro="12" rd="26" rt="38" pf="22" rf="15" to="17" st="15" in="0" ind="0" />
+      <PLAYER no="4" name="M. Szkop" min="22:05" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="7" p2a="9" p2p="77.8" p3m="0" p3a="1" p3p="0.0" fgm="7" fga="10" fgp="70.0" as="3" bs="0" br="0" pts="14" ro="0" rd="1" rt="1" pf="4" rf="3" to="1" st="2" in="1" ind="12" />
+      <PLAYER no="5" name="K. Stefańczyk" min="03:10" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="2" rf="0" to="2" st="1" in="0" ind="-8" />
+      <PLAYER no="6" name="K. Matkowska" min="17:34" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="1" p2a="3" p2p="33.3" p3m="1" p3a="2" p3p="50.0" fgm="2" fga="5" fgp="40.0" as="3" bs="0" br="1" pts="6" ro="2" rd="0" rt="2" pf="4" rf="2" to="0" st="2" in="0" ind="8" />
+      <PLAYER no="7" name="B. Zieniewska" min="20:21" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="3" fgp="33.3" as="1" bs="0" br="1" pts="2" ro="0" rd="2" rt="2" pf="3" rf="0" to="1" st="1" in="1" ind="6" />
+      <PLAYER no="8" name="A. Markowska" min="08:54" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="1" bs="0" br="0" pts="2" ro="0" rd="2" rt="2" pf="0" rf="1" to="2" st="0" in="0" ind="-4" />
+      <PLAYER no="9" name="N. Ryng" min="25:47" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="3" p2a="5" p2p="60.0" p3m="0" p3a="1" p3p="0.0" fgm="3" fga="6" fgp="50.0" as="2" bs="0" br="1" pts="8" ro="2" rd="5" rt="7" pf="2" rf="2" to="0" st="1" in="1" ind="-3" />
+      <PLAYER no="10" name="A. Makurat" min="27:54" sta="True" p1m="4" p1a="5" p1p="80.0" p2m="2" p2a="5" p2p="40.0" p3m="1" p3a="7" p3p="14.3" fgm="3" fga="12" fgp="25.0" as="2" bs="2" br="1" pts="11" ro="0" rd="3" rt="3" pf="1" rf="4" to="3" st="3" in="0" ind="10" />
+      <PLAYER no="11" name="D. Skrocka" min="20:02" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="7" p2p="0.0" p3m="3" p3a="5" p3p="60.0" fgm="3" fga="12" fgp="25.0" as="4" bs="0" br="1" pts="9" ro="0" rd="5" rt="5" pf="2" rf="0" to="1" st="2" in="1" ind="0" />
+      <PLAYER no="12" name="A. Zięmborska" min="14:23" sta="False" p1m="0" p1a="2" p1p="0.0" p2m="3" p2a="6" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="6" fgp="50.0" as="0" bs="0" br="0" pts="6" ro="2" rd="0" rt="2" pf="0" rf="1" to="0" st="1" in="1" ind="11" />
+      <PLAYER no="13" name="J. Niełacna" min="22:18" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="3" p2a="8" p2p="37.5" p3m="0" p3a="0" p3p="0.0" fgm="3" fga="8" fgp="37.5" as="1" bs="0" br="0" pts="8" ro="4" rd="1" rt="5" pf="3" rf="2" to="5" st="1" in="0" ind="9" />
+      <PLAYER no="14" name="A. Wińkowska" min="10:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="5" p2p="20.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="5" fgp="20.0" as="0" bs="1" br="0" pts="2" ro="1" rd="2" rt="3" pf="1" rf="0" to="1" st="1" in="0" ind="-8" />
+      <PLAYER no="15" name="A. Falkowska" min="07:32" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="1" br="0" pts="0" ro="0" rd="3" rt="3" pf="0" rf="0" to="1" st="0" in="0" ind="7" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="15.6028" />
+  <BANNER duration="15.6023">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

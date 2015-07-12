@@ -1,0 +1,355 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="IV Memoriał Małgorzaty Dydek" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1895">
+    <TEAM name="Ukraina U16" logo="" pts="60" fouls="3" />
+    <TEAM name="Polska U16" logo="" pts="68" fouls="8" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="17" scoreB="20" />
+      <QUARTER n="2" scoreA="11" scoreB="20" />
+      <QUARTER n="3" scoreA="20" scoreB="12" />
+      <QUARTER n="4" scoreA="12" scoreB="16" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="D. Skrocka [P16] - 60.0% 3PtFG (3/5)" duration="15.6085">
+    <ITEM text="Assist/turnover ratio: Ukraina U16 - 15/26, Polska U16 - 18/17" />
+  </TICKER>
+  <OVERVIEW duration="31.2088" />
+  <PLAYBYPLAY duration="171.6059">
+    <LINE num="324" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="323" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="322" text="[UKR] K. Kononenko - 3pt jump shot missed. M. Szkop - defensive rebound (1 REB)" team="1" time="00:02" />
+    <LINE num="321" text="[UKR] Substitution - S. Boiarchuk OUT, M. Semenichenko IN" team="1" time="00:20" />
+    <LINE num="320" text="[UKR] Timeout" team="1" time="00:20" />
+    <LINE num="319" text="[P16] A. Zięmborska - 2pt lay-up made (6 Pts)" team="2" time="00:25" scoreA="60" scoreB="68" />
+    <LINE num="318" text="[P16] Timeout" team="2" time="00:30" />
+    <LINE num="317" text="[UKR] O. Fastova - free throw made (14 Pts)" team="1" time="00:30" scoreA="60" scoreB="66" />
+    <LINE num="316" text="[UKR] O. Fastova - free throw made (13 Pts)" team="1" time="00:30" scoreA="59" scoreB="66" />
+    <LINE num="315" text="[P16] N. Ryng - personal shooting foul (2 PF, 8th team foul). 2 free throws awarded. Foul drawn: O. Fastova" team="2" time="00:30" />
+    <LINE num="314" text="[P16] D. Skrocka - 2pt lay-up blocked. S. Boiarchuk - block (1 BS). K. Kononenko - defensive rebound (3 REB)" team="2" time="00:49" />
+    <LINE num="313" text="[UKR] O. Fastova - 2pt jump shot missed. D. Skrocka - defensive rebound (5 REB)" team="1" time="01:09" />
+    <LINE num="312" text="[UKR] V. Liubinets - 2pt jump shot missed. O. Fastova - offensive rebound (8 REB)" team="1" time="01:14" />
+    <LINE num="311" text="[UKR] S. Boiarchuk - 2pt lay-up missed. V. Liubinets - offensive rebound (7 REB)" team="1" time="01:18" />
+    <LINE num="310" text="[UKR] K. Kononenko - 2pt jump shot missed. A. Hvichiani - offensive rebound (2 REB)" team="1" time="01:26" />
+    <LINE num="309" text="[P16] D. Skrocka - 2pt jump shot missed. Team defensive rebound" team="2" time="01:41" />
+    <LINE num="308" text="[UKR] O. Fastova - turnover (out of bounds, 5 TO)" team="1" time="02:05" />
+    <LINE num="307" text="[UKR] O. Fastova - free throw missed. S. Boiarchuk - offensive rebound (4 REB)" team="1" time="02:18" />
+    <LINE num="306" text="[UKR] O. Fastova - free throw missed" team="1" time="02:18" />
+    <LINE num="305" text="[P16] D. Skrocka - personal shooting foul (2 PF, 7th team foul). 2 free throws awarded. Foul drawn: O. Fastova" team="2" time="02:18" />
+    <LINE num="304" text="[P16] A. Zięmborska - 2pt jump shot made (4 Pts). N. Ryng - assist (2 AS)" team="2" time="02:29" scoreA="58" scoreB="66" />
+    <LINE num="303" text="[P16] Timeout" team="2" time="02:43" />
+    <LINE num="302" text="[UKR] O. Fastova - 2pt jump shot missed. Team defensive rebound" team="1" time="02:45" />
+    <LINE num="301" text="[P16] D. Skrocka - turnover (bad pass, 1 TO). O. Fastova - steal (1 ST)" team="2" time="02:51" />
+    <LINE num="300" text="[UKR] V. Kovalevska - personal  foul (5 PF, 3rd team foul). Foul drawn: M. Szkop. [UKR] Substitution - V. Kovalevska OUT, A. Hvichiani IN" team="1" time="03:00" />
+    <LINE num="299" text="[P16] Substitution - A. Makurat OUT, D. Skrocka IN" team="2" time="03:12" />
+    <LINE num="298" text="[UKR] S. Boiarchuk - 3pt jump shot made (9 Pts). V. Kovalevska - assist (4 AS)" team="1" time="03:22" scoreA="58" scoreB="64" />
+    <LINE num="297" text="[P16] M. Szkop - 2pt jump shot made (fast break, 14 Pts). A. Makurat - assist (2 AS)" team="2" time="03:40" scoreA="55" scoreB="64" />
+    <LINE num="296" text="[UKR] O. Fastova - 3pt jump shot missed. A. Makurat - defensive rebound (3 REB)" team="1" time="03:46" />
+    <LINE num="295" text="[P16] A. Makurat - 3pt jump shot blocked. V. Liubinets - block (3 BS). V. Liubinets - defensive rebound (6 REB)" team="2" time="04:01" />
+    <LINE num="294" text="[UKR] Substitution - V. Babych OUT, S. Boiarchuk IN" team="1" time="04:16" />
+    <LINE num="293" text="[UKR] V. Kovalevska - free throw made (5 Pts)" team="1" time="04:16" scoreA="55" scoreB="62" />
+    <LINE num="292" text="[UKR] V. Kovalevska - free throw missed" team="1" time="04:16" />
+    <LINE num="291" text="[P16] M. Szkop - personal  foul (4 PF, 6th team foul). Foul drawn: V. Kovalevska" team="2" time="04:16" />
+    <LINE num="290" text="[P16] A. Zięmborska - 2pt jump shot missed. V. Liubinets - defensive rebound (5 REB)" team="2" time="04:29" />
+    <LINE num="289" text="[UKR] K. Kononenko - free throw made (10 Pts)" team="1" time="04:41" scoreA="54" scoreB="62" />
+    <LINE num="288" text="[UKR] K. Kononenko - free throw missed" team="1" time="04:41" />
+    <LINE num="287" text="[P16] Substitution - J. Niełacna OUT, A. Zięmborska IN" team="2" time="04:41" />
+    <LINE num="286" text="[P16] B. Zieniewska - personal  foul (3 PF, 5th team foul). Foul drawn: O. Fastova" team="2" time="04:41" />
+    <LINE num="285" text="[P16] J. Niełacna - turnover (ball handling, 5 TO). K. Kononenko - steal (1 ST)" team="2" time="04:44" />
+    <LINE num="284" text="[UKR] O. Fastova - 2pt jump shot missed. B. Zieniewska - defensive rebound (2 REB)" team="1" time="04:59" />
+    <LINE num="283" text="[P16] B. Zieniewska - personal  foul (2 PF, 4th team foul). Foul drawn: O. Fastova" team="2" time="05:10" />
+    <LINE num="282" text="[P16] N. Ryng - personal  foul (1 PF, 3rd team foul). Foul drawn: V. Kovalevska" team="2" time="05:14" />
+    <LINE num="281" text="[P16] J. Niełacna - turnover (bad pass, 4 TO). V. Kovalevska - steal (4 ST)" team="2" time="05:16" />
+    <LINE num="280" text="[P16] M. Szkop - 2pt jump shot missed. J. Niełacna - offensive rebound (5 REB)" team="2" time="05:24" />
+    <LINE num="279" text="[UKR] K. Kononenko - 2pt jump shot missed. N. Ryng - defensive rebound (7 REB)" team="1" time="05:31" />
+    <LINE num="278" text="[P16] J. Niełacna - turnover (out of bounds, 3 TO)" team="2" time="05:36" />
+    <LINE num="277" text="[UKR] V. Kovalevska - personal  foul (4 PF, 2nd team foul). Foul drawn: M. Szkop" team="1" time="05:54" />
+    <LINE num="276" text="[UKR] V. Kovalevska - turnover (bad pass, 4 TO). M. Szkop - steal (2 ST)" team="1" time="06:00" />
+    <LINE num="275" text="[UKR] K. Kononenko - 2pt jump shot blocked. A. Makurat - block (2 BS). V. Liubinets - offensive rebound (4 REB)" team="1" time="06:07" />
+    <LINE num="274" text="[P16] Substitution - K. Matkowska OUT, M. Szkop IN" team="2" time="06:13" />
+    <LINE num="273" text="[P16] K. Matkowska - personal  foul (4 PF, 2nd team foul). Foul drawn: O. Fastova" team="2" time="06:13" />
+    <LINE num="272" text="[UKR] O. Fastova - 2pt jump shot missed. O. Fastova - offensive rebound (7 REB)" team="1" time="06:22" />
+    <LINE num="271" text="[P16] K. Matkowska - 3pt jump shot made (6 Pts)" team="2" time="06:42" scoreA="53" scoreB="62" />
+    <LINE num="270" text="[UKR] K. Kononenko - turnover (bad pass, 1 TO). A. Makurat - steal (3 ST)" team="1" time="06:55" />
+    <LINE num="269" text="[P16] K. Matkowska - free throw made (3 Pts)" team="2" time="07:12" scoreA="53" scoreB="59" />
+    <LINE num="268" text="[P16] K. Matkowska - free throw missed" team="2" time="07:12" />
+    <LINE num="267" text="[UKR] Substitution - S. Boiarchuk OUT, V. Babych IN" team="1" time="07:12" />
+    <LINE num="266" text="[UKR] Substitution - M. Semenichenko OUT, K. Kononenko IN" team="1" time="07:12" />
+    <LINE num="265" text="[UKR] Substitution - A. Hvichiani OUT, V. Kovalevska IN" team="1" time="07:12" />
+    <LINE num="264" text="[UKR] S. Boiarchuk - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: K. Matkowska" team="1" time="07:12" />
+    <LINE num="263" text="[UKR] O. Fastova - turnover (bad pass, 4 TO). K. Matkowska - steal (2 ST)" team="1" time="07:16" />
+    <LINE num="262" text="[P16] N. Ryng - 2pt jump shot made (8 Pts). J. Niełacna - assist (1 AS)" team="2" time="07:36" scoreA="53" scoreB="58" />
+    <LINE num="261" text="[UKR] A. Hvichiani - 2pt jump shot made (6 Pts). O. Fastova - assist (2 AS)" team="1" time="07:56" scoreA="53" scoreB="56" />
+    <LINE num="260" text="[P16] B. Zieniewska - 2pt lay-up made (fast break, 2 Pts)" team="2" time="08:18" scoreA="51" scoreB="56" />
+    <LINE num="259" text="[UKR] V. Liubinets - turnover (bad pass, 4 TO). B. Zieniewska - steal (1 ST)" team="1" time="08:23" />
+    <LINE num="258" text="[P16] N. Ryng - 2pt jump shot made (6 Pts). A. Makurat - assist (1 AS)" team="2" time="08:39" scoreA="51" scoreB="54" />
+    <LINE num="257" text="[UKR] S. Boiarchuk - turnover (travelling, 6 TO)" team="1" time="09:02" />
+    <LINE num="256" text="[UKR] Substitution - E. Buhaievska OUT, A. Hvichiani IN" team="1" time="09:06" />
+    <LINE num="255" text="[UKR] Timeout" team="1" time="09:06" />
+    <LINE num="254" text="[P16] K. Matkowska - personal  foul (3 PF, 1st team foul). Foul drawn: O. Fastova" team="2" time="09:23" />
+    <LINE num="253" text="[P16] J. Niełacna - 2pt jump shot missed. O. Fastova - defensive rebound (6 REB)" team="2" time="09:27" />
+    <LINE num="252" text="[P16] A. Makurat - 2pt jump shot missed. J. Niełacna - offensive rebound (4 REB)" team="2" time="09:32" />
+    <LINE num="251" text="[UKR] S. Boiarchuk - 3pt jump shot made (6 Pts). M. Semenichenko - assist (1 AS)" team="1" time="09:43" scoreA="51" scoreB="52" />
+    <LINE num="250" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="249" text="[P16] Substitution - A. Wińkowska OUT, J. Niełacna IN" team="2" time="00:00" />
+    <LINE num="248" text="[P16] Substitution - D. Skrocka OUT, B. Zieniewska IN" team="2" time="00:00" />
+    <LINE num="247" text="[P16] Substitution - M. Szkop OUT, K. Matkowska IN" team="2" time="00:00" />
+    <LINE num="246" text="[UKR] Substitution - K. Kononenko OUT, V. Liubinets IN" team="1" time="00:00" />
+    <LINE num="245" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="244" text="[P16] A. Wińkowska - 2pt jump shot missed" team="2" time="00:03" />
+    <LINE num="243" text="[UKR] O. Fastova - 2pt lay-up made (12 Pts)" team="1" time="00:35" scoreA="48" scoreB="52" />
+    <LINE num="242" text="[P16] D. Skrocka - 2pt jump shot missed. E. Buhaievska - defensive rebound (2 REB)" team="2" time="01:05" />
+    <LINE num="241" text="[UKR] M. Semenichenko - 2pt jump shot made (fast break, 5 Pts). O. Fastova - assist (1 AS)" team="1" time="01:38" scoreA="46" scoreB="52" />
+    <LINE num="240" text="[P16] A. Makurat - 3pt jump shot missed. O. Fastova - defensive rebound (5 REB)" team="2" time="01:38" />
+    <LINE num="239" text="[UKR] O. Fastova - 2pt lay-up missed. N. Ryng - defensive rebound (6 REB)" team="1" time="01:38" />
+    <LINE num="238" text="[P16] A. Makurat - 3pt jump shot missed. Team defensive rebound" team="2" time="01:40" />
+    <LINE num="237" text="[UKR] M. Semenichenko - turnover (out of bounds, 1 TO)" team="1" time="01:45" />
+    <LINE num="236" text="[P16] M. Szkop - turnover (ball handling, 1 TO). E. Buhaievska - steal (1 ST)" team="2" time="01:50" />
+    <LINE num="235" text="[P16] Substitution - A. Markowska OUT, A. Makurat IN" team="2" time="02:04" />
+    <LINE num="234" text="[P16] Substitution - K. Stefańczyk OUT, M. Szkop IN" team="2" time="02:04" />
+    <LINE num="233" text="[P16] Timeout" team="2" time="02:04" />
+    <LINE num="232" text="[UKR] O. Fastova - 3pt jump shot made (10 Pts). S. Boiarchuk - assist (1 AS)" team="1" time="02:07" scoreA="44" scoreB="52" />
+    <LINE num="231" text="[P16] K. Stefańczyk - turnover (bad pass, 2 TO). M. Semenichenko - steal (1 ST)" team="2" time="02:17" />
+    <LINE num="230" text="[UKR] M. Semenichenko - free throw missed. N. Ryng - defensive rebound (5 REB)" team="1" time="02:37" />
+    <LINE num="229" text="[UKR] M. Semenichenko - free throw made (3 Pts)" team="1" time="02:37" scoreA="41" scoreB="52" />
+    <LINE num="228" text="[UKR] Substitution - V. Kovalevska OUT, O. Fastova IN" team="1" time="02:37" />
+    <LINE num="227" text="[P16] K. Stefańczyk - personal  foul (2 PF, 6th team foul). Foul drawn: M. Semenichenko" team="2" time="02:37" />
+    <LINE num="226" text="[P16] A. Wińkowska - 2pt jump shot missed. M. Semenichenko - defensive rebound (1 REB)" team="2" time="02:47" />
+    <LINE num="225" text="[UKR] K. Kononenko - 3pt jump shot made (9 Pts). V. Kovalevska - assist (3 AS)" team="1" time="02:56" scoreA="40" scoreB="52" />
+    <LINE num="224" text="[P16] K. Stefańczyk - turnover (bad pass, 1 TO). V. Kovalevska - steal (3 ST)" team="2" time="03:06" />
+    <LINE num="223" text="[UKR] V. Kovalevska - free throw missed. A. Wińkowska - defensive rebound (3 REB)" team="1" time="03:19" />
+    <LINE num="222" text="[UKR] V. Kovalevska - free throw made (4 Pts)" team="1" time="03:19" scoreA="37" scoreB="52" />
+    <LINE num="221" text="[P16] Substitution - J. Niełacna OUT, N. Ryng IN" team="2" time="03:19" />
+    <LINE num="220" text="[P16] K. Stefańczyk - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: V. Kovalevska" team="2" time="03:19" />
+    <LINE num="219" text="[UKR] K. Kononenko - 3pt jump shot missed. E. Buhaievska - offensive rebound (1 REB)" team="1" time="03:28" />
+    <LINE num="218" text="[P16] Substitution - K. Matkowska OUT, D. Skrocka IN" team="2" time="03:44" />
+    <LINE num="217" text="[UKR] Substitution - V. Babych OUT, S. Boiarchuk IN" team="1" time="03:44" />
+    <LINE num="216" text="[UKR] Substitution - V. Liubinets OUT, M. Semenichenko IN" team="1" time="03:44" />
+    <LINE num="215" text="[UKR] Substitution - A. Hvichiani OUT, E. Buhaievska IN" team="1" time="03:44" />
+    <LINE num="214" text="[P16] K. Matkowska - personal  foul (2 PF, 4th team foul). Foul drawn: K. Kononenko" team="2" time="03:44" />
+    <LINE num="213" text="[P16] J. Niełacna - 2pt jump shot made (8 Pts). K. Stefańczyk - assist (1 AS)" team="2" time="03:59" scoreA="36" scoreB="52" />
+    <LINE num="212" text="[UKR] V. Kovalevska - turnover (ball handling, 3 TO). K. Stefańczyk - steal (1 ST)" team="1" time="04:12" />
+    <LINE num="211" text="[P16] A. Wińkowska - turnover (bad pass, 1 TO). V. Liubinets - steal (6 ST)" team="2" time="04:23" />
+    <LINE num="210" text="[UKR] V. Kovalevska - 2pt lay-up blocked. A. Wińkowska - block (1 BS). A. Wińkowska - defensive rebound (2 REB)" team="1" time="04:40" />
+    <LINE num="209" text="[P16] Substitution - A. Makurat OUT, A. Markowska IN" team="2" time="04:52" />
+    <LINE num="208" text="[P16] J. Niełacna - personal  foul (3 PF, 3rd team foul). Foul drawn: V. Kovalevska" team="2" time="04:52" />
+    <LINE num="207" text="[P16] A. Makurat - turnover (ball handling, 3 TO). V. Kovalevska - steal (2 ST)" team="2" time="04:55" />
+    <LINE num="206" text="[UKR] K. Kononenko - 2pt jump shot made (6 Pts). V. Liubinets - assist (2 AS)" team="1" time="05:03" scoreA="36" scoreB="50" />
+    <LINE num="205" text="[P16] Substitution - B. Zieniewska OUT, K. Stefańczyk IN" team="2" time="05:14" />
+    <LINE num="204" text="[P16] A. Wińkowska - personal  foul (1 PF, 2nd team foul). Foul drawn: V. Babych" team="2" time="05:14" />
+    <LINE num="203" text="[UKR] K. Kononenko - 2pt jump shot missed. V. Babych - offensive rebound (4 REB)" team="1" time="05:18" />
+    <LINE num="202" text="[P16] A. Wińkowska - 2pt jump shot made (2 Pts)" team="2" time="05:38" scoreA="34" scoreB="50" />
+    <LINE num="201" text="[P16] A. Wińkowska - 2pt jump shot missed. A. Wińkowska - offensive rebound (1 REB)" team="2" time="05:44" />
+    <LINE num="200" text="[UKR] V. Liubinets - turnover (out of bounds, 3 TO)" team="1" time="05:55" />
+    <LINE num="199" text="[UKR] Substitution - O. Fastova OUT, V. Kovalevska IN" team="1" time="05:55" />
+    <LINE num="198" text="[UKR] O. Fastova - 2pt jump shot blocked. A. Makurat - block (1 BS). Team offensive rebound" team="1" time="06:00" />
+    <LINE num="197" text="[P16] B. Zieniewska - 2pt lay-up blocked. K. Kononenko - block (1 BS). K. Kononenko - defensive rebound (2 REB)" team="2" time="06:14" />
+    <LINE num="196" text="[UKR] O. Fastova - 2pt jump shot missed. B. Zieniewska - defensive rebound (1 REB)" team="1" time="06:20" />
+    <LINE num="195" text="[P16] B. Zieniewska - personal  foul (1 PF, 1st team foul). Foul drawn: O. Fastova" team="2" time="06:23" />
+    <LINE num="194" text="[P16] A. Makurat - 2pt jump shot made (fast break, 11 Pts)" team="2" time="06:38" scoreA="34" scoreB="48" />
+    <LINE num="193" text="[UKR] V. Babych - turnover (bad pass, 1 TO). A. Makurat - steal (2 ST)" team="1" time="06:42" />
+    <LINE num="192" text="[UKR] Substitution - S. Boiarchuk OUT, K. Kononenko IN" team="1" time="07:03" />
+    <LINE num="191" text="[P16] J. Niełacna - 2pt jump shot missed. V. Babych - defensive rebound (3 REB)" team="2" time="07:08" />
+    <LINE num="190" text="[UKR] S. Boiarchuk - turnover (travelling, 5 TO)" team="1" time="07:15" />
+    <LINE num="189" text="[P16] J. Niełacna - 2pt jump shot made (6 Pts). K. Matkowska - assist (3 AS)" team="2" time="07:20" scoreA="34" scoreB="46" />
+    <LINE num="188" text="[UKR] O. Fastova - 2pt lay-up made (7 Pts)" team="1" time="07:39" scoreA="34" scoreB="44" />
+    <LINE num="187" text="[P16] J. Niełacna - free throw made (4 Pts)" team="2" time="07:55" scoreA="32" scoreB="44" />
+    <LINE num="186" text="[P16] B. Zieniewska - assist (1 AS)" team="2" time="07:55" />
+    <LINE num="185" text="[P16] J. Niełacna - free throw made (3 Pts)" team="2" time="07:55" scoreA="32" scoreB="43" />
+    <LINE num="184" text="[UKR] Substitution - Y. Rabchuk OUT, V. Babych IN" team="1" time="07:55" />
+    <LINE num="183" text="[UKR] Substitution - V. Kovalevska OUT, A. Hvichiani IN" team="1" time="07:55" />
+    <LINE num="182" text="[UKR] V. Kovalevska - personal shooting foul (3 PF, 3rd team foul). 2 free throws awarded. Foul drawn: J. Niełacna" team="1" time="07:55" />
+    <LINE num="181" text="[UKR] Y. Rabchuk - turnover (out of bounds, 1 TO)" team="1" time="08:09" />
+    <LINE num="180" text="[P16] A. Makurat - turnover (bad pass, 2 TO). V. Liubinets - steal (5 ST)" team="2" time="08:21" />
+    <LINE num="179" text="[UKR] V. Kovalevska - personal  foul (2 PF, 2nd team foul). Foul drawn: K. Matkowska" team="1" time="08:25" />
+    <LINE num="178" text="[UKR] O. Fastova - personal  foul (3 PF, 1st team foul). Foul drawn: A. Makurat" team="1" time="08:28" />
+    <LINE num="177" text="[UKR] O. Fastova - 2pt jump shot made (5 Pts)" team="1" time="08:32" scoreA="32" scoreB="42" />
+    <LINE num="176" text="[P16] A. Wińkowska - 2pt jump shot missed. Team defensive rebound" team="2" time="08:52" />
+    <LINE num="175" text="[UKR] V. Liubinets - 2pt jump shot made (4 Pts). V. Kovalevska - assist (2 AS)" team="1" time="09:12" scoreA="30" scoreB="42" />
+    <LINE num="174" text="[P16] K. Matkowska - 2pt lay-up made (fast break, 2 Pts)" team="2" time="09:32" scoreA="28" scoreB="42" />
+    <LINE num="173" text="[UKR] V. Liubinets - turnover (ball handling, 2 TO). A. Wińkowska - steal (1 ST)" team="1" time="09:36" />
+    <LINE num="172" text="[P16] J. Niełacna - 2pt lay-up missed. O. Fastova - defensive rebound (4 REB)" team="2" time="09:45" />
+    <LINE num="171" text="[P16] Substitution - A. Falkowska OUT, A. Wińkowska IN" team="2" time="10:00" />
+    <LINE num="170" text="[P16] Substitution - D. Skrocka OUT, A. Makurat IN" team="2" time="10:00" />
+    <LINE num="169" text="[P16] Substitution - A. Markowska OUT, B. Zieniewska IN" team="2" time="10:00" />
+    <LINE num="168" text="[UKR] Substitution - V. Babych OUT, Y. Rabchuk IN" team="1" time="10:00" />
+    <LINE num="167" text="[UKR] Substitution - E. Buhaievska OUT, O. Fastova IN" team="1" time="10:00" />
+    <LINE num="166" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="165" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="164" text="[P16] J. Niełacna - 2pt jump shot missed" team="2" time="00:02" />
+    <LINE num="163" text="[P16] D. Skrocka - 3pt jump shot missed. J. Niełacna - offensive rebound (3 REB)" team="2" time="00:03" />
+    <LINE num="162" text="[UKR] V. Kovalevska - 3pt jump shot made (fast break, 3 Pts). E. Buhaievska - assist (1 AS)" team="1" time="00:15" scoreA="28" scoreB="40" />
+    <LINE num="161" text="[P16] J. Niełacna - turnover (bad pass, 2 TO). V. Liubinets - steal (4 ST)" team="2" time="00:19" />
+    <LINE num="160" text="[UKR] E. Buhaievska - 2pt lay-up missed. A. Falkowska - defensive rebound (3 REB)" team="1" time="00:26" />
+    <LINE num="159" text="[P16] J. Niełacna - turnover (bad pass, 1 TO). V. Liubinets - steal (3 ST)" team="2" time="00:31" />
+    <LINE num="158" text="[P16] Substitution - M. Szkop OUT, K. Matkowska IN" team="2" time="00:37" />
+    <LINE num="157" text="[UKR] V. Babych - 2pt jump shot missed. A. Markowska - defensive rebound (2 REB)" team="1" time="01:00" />
+    <LINE num="156" text="[P16] M. Szkop - personal  foul (3 PF, 2nd team foul). Foul drawn: V. Kovalevska" team="2" time="01:09" />
+    <LINE num="155" text="[P16] A. Falkowska - turnover (bad pass, 1 TO). V. Liubinets - steal (2 ST)" team="2" time="01:14" />
+    <LINE num="154" text="[UKR] V. Babych - 2pt jump shot made (7 Pts). V. Liubinets - assist (1 AS)" team="1" time="01:26" scoreA="25" scoreB="40" />
+    <LINE num="153" text="[UKR] V. Liubinets - 2pt jump shot missed. V. Liubinets - offensive rebound (3 REB)" team="1" time="01:31" />
+    <LINE num="152" text="[P16] D. Skrocka - 3pt jump shot made (9 Pts). M. Szkop - assist (3 AS)" team="2" time="01:48" scoreA="23" scoreB="40" />
+    <LINE num="151" text="[P16] J. Niełacna - 2pt jump shot missed. J. Niełacna - offensive rebound (2 REB)" team="2" time="02:01" />
+    <LINE num="150" text="[UKR] V. Kovalevska - 2pt lay-up missed. A. Markowska - defensive rebound (1 REB)" team="1" time="02:17" />
+    <LINE num="149" text="[P16] D. Skrocka - 2pt jump shot missed. V. Kovalevska - defensive rebound (3 REB)" team="2" time="02:28" />
+    <LINE num="148" text="[P16] Substitution - A. Zięmborska OUT, J. Niełacna IN" team="2" time="02:30" />
+    <LINE num="147" text="[P16] Substitution - A. Makurat OUT, A. Markowska IN" team="2" time="02:30" />
+    <LINE num="146" text="[UKR] Substitution - K. Kononenko OUT, S. Boiarchuk IN" team="1" time="02:30" />
+    <LINE num="145" text="[UKR] Substitution - O. Fastova OUT, V. Kovalevska IN" team="1" time="02:30" />
+    <LINE num="144" text="[UKR] Substitution - A. Hvichiani OUT, E. Buhaievska IN" team="1" time="02:30" />
+    <LINE num="143" text="[UKR] Timeout" team="1" time="02:30" />
+    <LINE num="142" text="[UKR] A. Hvichiani - 2pt jump shot missed. A. Falkowska - defensive rebound (2 REB)" team="1" time="02:42" />
+    <LINE num="141" text="[P16] A. Makurat - 3pt jump shot missed. K. Kononenko - defensive rebound (1 REB)" team="2" time="02:51" />
+    <LINE num="140" text="[UKR] A. Hvichiani - 2pt lay-up made (fast break, 4 Pts). V. Babych - assist (1 AS)" team="1" time="03:12" scoreA="23" scoreB="37" />
+    <LINE num="139" text="[P16] M. Szkop - 3pt jump shot missed. A. Hvichiani - defensive rebound (1 REB)" team="2" time="03:20" />
+    <LINE num="138" text="[UKR] V. Liubinets - 2pt jump shot missed. D. Skrocka - defensive rebound (4 REB)" team="1" time="03:38" />
+    <LINE num="137" text="[P16] M. Szkop - 2pt lay-up made (12 Pts). D. Skrocka - assist (4 AS)" team="2" time="03:53" scoreA="21" scoreB="37" />
+    <LINE num="136" text="[UKR] K. Kononenko - 2pt jump shot missed. A. Falkowska - defensive rebound (1 REB)" team="1" time="04:11" />
+    <LINE num="135" text="[P16] D. Skrocka - 2pt lay-up missed. O. Fastova - defensive rebound (3 REB)" team="2" time="04:19" />
+    <LINE num="134" text="[UKR] O. Fastova - turnover (bad pass, 3 TO). D. Skrocka - steal (2 ST)" team="1" time="04:22" />
+    <LINE num="133" text="[P16] A. Zięmborska - free throw missed. O. Fastova - defensive rebound (2 REB)" team="2" time="04:37" />
+    <LINE num="132" text="[P16] A. Zięmborska - free throw missed" team="2" time="04:37" />
+    <LINE num="131" text="[UKR] Substitution - Y. Rabchuk OUT, V. Babych IN" team="1" time="04:37" />
+    <LINE num="130" text="[UKR] Y. Rabchuk - personal shooting foul (2 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Zięmborska" team="1" time="04:37" />
+    <LINE num="129" text="[P16] D. Skrocka - 2pt jump shot missed. A. Zięmborska - offensive rebound (2 REB)" team="2" time="04:41" />
+    <LINE num="128" text="[UKR] V. Liubinets - turnover (bad pass, 1 TO). A. Zięmborska - steal (1 ST)" team="1" time="04:45" />
+    <LINE num="127" text="[P16] M. Szkop - 2pt lay-up made (fast break, 10 Pts). D. Skrocka - assist (3 AS)" team="2" time="05:07" scoreA="21" scoreB="35" />
+    <LINE num="126" text="[UKR] K. Kononenko - 3pt jump shot missed. D. Skrocka - defensive rebound (3 REB)" team="1" time="05:12" />
+    <LINE num="125" text="[P16] A. Makurat - free throw made (9 Pts)" team="2" time="05:21" scoreA="21" scoreB="33" />
+    <LINE num="124" text="[P16] A. Makurat - free throw made (8 Pts)" team="2" time="05:21" scoreA="21" scoreB="32" />
+    <LINE num="123" text="[UKR] Substitution - V. Kovalevska OUT, A. Hvichiani IN" team="1" time="05:21" />
+    <LINE num="122" text="[UKR] V. Kovalevska - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: A. Makurat" team="1" time="05:21" />
+    <LINE num="121" text="[P16] A. Zięmborska - 2pt jump shot missed. A. Zięmborska - offensive rebound (1 REB)" team="2" time="05:33" />
+    <LINE num="120" text="[UKR] V. Liubinets - 2pt jump shot missed. D. Skrocka - defensive rebound (2 REB)" team="1" time="05:43" />
+    <LINE num="119" text="[UKR] Substitution - E. Buhaievska OUT, O. Fastova IN" team="1" time="05:46" />
+    <LINE num="118" text="[UKR] V. Kovalevska - 2pt lay-up blocked. A. Falkowska - block (1 BS). Team offensive rebound" team="1" time="05:53" />
+    <LINE num="117" text="[P16] D. Skrocka - 3pt jump shot made (6 Pts)" team="2" time="06:12" scoreA="21" scoreB="31" />
+    <LINE num="116" text="[UKR] V. Liubinets - 2pt jump shot made (2 Pts)" team="1" time="06:30" scoreA="21" scoreB="28" />
+    <LINE num="115" text="[P16] A. Makurat - 3pt jump shot made (7 Pts)" team="2" time="06:51" scoreA="19" scoreB="28" />
+    <LINE num="114" text="[UKR] K. Kononenko - 2pt jump shot made (4 Pts)" team="1" time="07:03" scoreA="19" scoreB="25" />
+    <LINE num="113" text="[P16] M. Szkop - 2pt jump shot made (fast break, 8 Pts). D. Skrocka - assist (2 AS)" team="2" time="07:14" scoreA="17" scoreB="25" />
+    <LINE num="112" text="[UKR] E. Buhaievska - 3pt jump shot missed. A. Makurat - defensive rebound (2 REB)" team="1" time="07:22" />
+    <LINE num="111" text="[P16] A. Makurat - free throw made (4 Pts)" team="2" time="07:32" scoreA="17" scoreB="23" />
+    <LINE num="110" text="[UKR] Substitution - S. Boiarchuk OUT, Y. Rabchuk IN" team="1" time="07:32" />
+    <LINE num="109" text="[UKR] Substitution - M. Semenichenko OUT, K. Kononenko IN" team="1" time="07:32" />
+    <LINE num="108" text="[UKR] Timeout" team="1" time="07:32" />
+    <LINE num="107" text="[P16] Substitution - N. Ryng OUT, A. Falkowska IN" team="2" time="07:32" />
+    <LINE num="106" text="[UKR] M. Semenichenko - personal shooting foul (3 PF, 2nd team foul). One free throw awarded. Foul drawn: A. Makurat" team="1" time="07:32" />
+    <LINE num="105" text="[P16] A. Makurat - 2pt lay-up made (3 Pts)" team="2" time="07:35" scoreA="17" scoreB="22" />
+    <LINE num="104" text="[UKR] S. Boiarchuk - 3pt jump shot missed. N. Ryng - defensive rebound (4 REB)" team="1" time="07:49" />
+    <LINE num="103" text="[P16] M. Szkop - personal  foul (2 PF, 1st team foul). Foul drawn: E. Buhaievska" team="2" time="08:05" />
+    <LINE num="102" text="[P16] A. Zięmborska - 2pt lay-up missed. V. Liubinets - defensive rebound (2 REB)" team="2" time="08:09" />
+    <LINE num="101" text="[UKR] V. Kovalevska - 2pt lay-up missed. D. Skrocka - defensive rebound (1 REB)" team="1" time="08:16" />
+    <LINE num="100" text="[P16] A. Makurat - 3pt jump shot missed. Team defensive rebound" team="2" time="08:36" />
+    <LINE num="99" text="[UKR] M. Semenichenko - personal  foul (2 PF, 1st team foul). Foul drawn: N. Ryng" team="1" time="08:39" />
+    <LINE num="98" text="[UKR] Team turnover (8 seconds)" team="1" time="08:44" />
+    <LINE num="97" text="[UKR] Substitution - V. Babych OUT, V. Liubinets IN" team="1" time="08:49" />
+    <LINE num="96" text="[P16] D. Skrocka - 2pt lay-up missed. Team defensive rebound" team="2" time="08:54" />
+    <LINE num="95" text="[UKR] V. Kovalevska - turnover (ball handling, 2 TO). N. Ryng - steal (1 ST)" team="1" time="09:11" />
+    <LINE num="94" text="[P16] D. Skrocka - 3pt jump shot missed. S. Boiarchuk - defensive rebound (3 REB)" team="2" time="09:35" />
+    <LINE num="93" text="[UKR] S. Boiarchuk - 3pt jump shot missed. A. Makurat - defensive rebound (1 REB)" team="1" time="09:48" />
+    <LINE num="92" text="[UKR] Substitution - O. Fastova OUT, V. Kovalevska IN" team="1" time="10:00" />
+    <LINE num="91" text="[UKR] Substitution - A. Hvichiani OUT, E. Buhaievska IN" team="1" time="10:00" />
+    <LINE num="90" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="89" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="88" text="[UKR] M. Semenichenko - 2pt jump shot made (2 Pts). A. Hvichiani - assist (3 AS)" team="1" time="00:01" scoreA="17" scoreB="20" />
+    <LINE num="87" text="[P16] A. Zięmborska - 2pt lay-up made (2 Pts)" team="2" time="00:15" scoreA="15" scoreB="20" />
+    <LINE num="86" text="[UKR] A. Hvichiani -  offensive foul (1 PF, 5th team foul). Foul drawn: M. Szkop. A. Hvichiani - turnover (offensive foul, 1 TO)" team="1" time="00:31" />
+    <LINE num="85" text="[P16] N. Ryng - free throw made (4 Pts)" team="2" time="00:41" scoreA="15" scoreB="18" />
+    <LINE num="84" text="[P16] M. Szkop - assist (2 AS)" team="2" time="00:41" />
+    <LINE num="83" text="[P16] N. Ryng - free throw made (3 Pts)" team="2" time="00:41" scoreA="15" scoreB="17" />
+    <LINE num="82" text="[UKR] M. Semenichenko - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: N. Ryng" team="1" time="00:41" />
+    <LINE num="81" text="[UKR] V. Babych - 2pt jump shot made (5 Pts)" team="1" time="00:57" scoreA="15" scoreB="16" />
+    <LINE num="80" text="[UKR] O. Fastova - 2pt lay-up missed. V. Babych - offensive rebound (2 REB)" team="1" time="01:01" />
+    <LINE num="79" text="[P16] M. Szkop - 2pt jump shot missed. V. Babych - defensive rebound (1 REB)" team="2" time="01:11" />
+    <LINE num="78" text="[UKR] O. Fastova - free throw made (3 Pts)" team="1" time="01:19" scoreA="13" scoreB="16" />
+    <LINE num="77" text="[UKR] O. Fastova - free throw missed" team="1" time="01:19" />
+    <LINE num="76" text="[P16] D. Skrocka - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: O. Fastova" team="2" time="01:19" />
+    <LINE num="75" text="[P16] A. Makurat - 2pt lay-up missed. S. Boiarchuk - defensive rebound (2 REB)" team="2" time="01:26" />
+    <LINE num="74" text="[UKR] S. Boiarchuk - turnover (ball handling, 4 TO). D. Skrocka - steal (1 ST)" team="1" time="01:29" />
+    <LINE num="73" text="[P16] D. Skrocka - 3pt jump shot made (3 Pts). M. Szkop - assist (1 AS)" team="2" time="01:46" scoreA="12" scoreB="16" />
+    <LINE num="72" text="[UKR] Substitution - K. Kononenko OUT, S. Boiarchuk IN" team="1" time="01:55" />
+    <LINE num="71" text="[P16] A. Makurat - 2pt lay-up missed. Team offensive rebound" team="2" time="02:01" />
+    <LINE num="70" text="[UKR] A. Hvichiani - assist (2 AS)" team="1" time="02:12" />
+    <LINE num="69" text="[UKR] V. Babych - free throw made (3 Pts)" team="1" time="02:12" scoreA="12" scoreB="13" />
+    <LINE num="68" text="[UKR] V. Babych - free throw missed" team="1" time="02:12" />
+    <LINE num="67" text="[P16] Substitution - J. Niełacna OUT, A. Zięmborska IN" team="2" time="02:12" />
+    <LINE num="66" text="[P16] Substitution - A. Markowska OUT, A. Makurat IN" team="2" time="02:12" />
+    <LINE num="65" text="[UKR] Substitution - V. Liubinets OUT, M. Semenichenko IN" team="1" time="02:12" />
+    <LINE num="64" text="[P16] M. Szkop - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: V. Babych" team="2" time="02:12" />
+    <LINE num="63" text="[P16] J. Niełacna - 2pt jump shot made (2 Pts). A. Markowska - assist (1 AS)" team="2" time="02:24" scoreA="11" scoreB="13" />
+    <LINE num="62" text="[UKR] V. Babych - 2pt jump shot made (2 Pts). A. Hvichiani - assist (1 AS)" team="1" time="02:40" scoreA="11" scoreB="11" />
+    <LINE num="61" text="[P16] M. Szkop - 2pt jump shot made (fast break, 6 Pts). D. Skrocka - assist (1 AS)" team="2" time="02:53" scoreA="9" scoreB="11" />
+    <LINE num="60" text="[UKR] A. Hvichiani - 2pt jump shot made (2 Pts)" team="1" time="02:57" scoreA="9" scoreB="9" />
+    <LINE num="59" text="[P16] Substitution - K. Matkowska OUT, D. Skrocka IN" team="2" time="03:06" />
+    <LINE num="58" text="[UKR] Substitution - Y. Rabchuk OUT, V. Babych IN" team="1" time="03:06" />
+    <LINE num="57" text="[UKR] Substitution - V. Kovalevska OUT, O. Fastova IN" team="1" time="03:06" />
+    <LINE num="56" text="[UKR] Substitution - E. Buhaievska OUT, A. Hvichiani IN" team="1" time="03:06" />
+    <LINE num="55" text="[UKR] V. Kovalevska - 3pt jump shot missed. V. Kovalevska - offensive rebound (2 REB)" team="1" time="03:11" />
+    <LINE num="54" text="[P16] M. Szkop - 2pt jump shot made (4 Pts). K. Matkowska - assist (2 AS)" team="2" time="03:31" scoreA="7" scoreB="9" />
+    <LINE num="53" text="[UKR] K. Kononenko - 3pt jump shot missed. N. Ryng - defensive rebound (3 REB)" team="1" time="03:49" />
+    <LINE num="52" text="[P16] M. Szkop - 2pt lay-up made (fast break, 2 Pts)" team="2" time="04:06" scoreA="7" scoreB="7" />
+    <LINE num="51" text="[UKR] V. Kovalevska - turnover (bad pass, 1 TO). M. Szkop - steal (1 ST)" team="1" time="04:10" />
+    <LINE num="50" text="[P16] A. Markowska - turnover (out of bounds, 2 TO)" team="2" time="04:24" />
+    <LINE num="49" text="[P16] Substitution - B. Zieniewska OUT, M. Szkop IN" team="2" time="04:25" />
+    <LINE num="48" text="[UKR] Y. Rabchuk - personal  foul (1 PF, 3rd team foul). Foul drawn: J. Niełacna" team="1" time="04:25" />
+    <LINE num="47" text="[UKR] K. Kononenko - 2pt jump shot made (2 Pts)" team="1" time="04:37" scoreA="7" scoreB="5" />
+    <LINE num="46" text="[P16] A. Markowska - 2pt jump shot made (2 Pts). N. Ryng - assist (1 AS)" team="2" time="04:55" scoreA="5" scoreB="5" />
+    <LINE num="45" text="[P16] K. Matkowska - 3pt jump shot blocked. V. Liubinets - block (2 BS). N. Ryng - offensive rebound (2 REB)" team="2" time="05:02" />
+    <LINE num="44" text="[UKR] E. Buhaievska - turnover (bad pass, 1 TO)" team="1" time="05:20" />
+    <LINE num="43" text="[P16] A. Markowska - turnover (bad pass, 1 TO). V. Liubinets - steal (1 ST)" team="2" time="05:29" />
+    <LINE num="42" text="[P16] N. Ryng - 3pt jump shot missed. K. Matkowska - offensive rebound (2 REB)" team="2" time="05:39" />
+    <LINE num="41" text="[UKR] Substitution - O. Fastova OUT, E. Buhaievska IN" team="1" time="05:44" />
+    <LINE num="40" text="[UKR] O. Fastova - personal  foul (2 PF, 2nd team foul). Foul drawn: A. Markowska" team="1" time="05:44" />
+    <LINE num="39" text="[P16] Substitution - A. Makurat OUT, A. Markowska IN" team="2" time="05:48" />
+    <LINE num="38" text="[UKR] Substitution - S. Boiarchuk OUT, K. Kononenko IN" team="1" time="05:48" />
+    <LINE num="37" text="[UKR] O. Fastova - turnover (travelling, 2 TO)" team="1" time="05:48" />
+    <LINE num="36" text="[P16] N. Ryng - 2pt jump shot missed. S. Boiarchuk - defensive rebound (1 REB)" team="2" time="05:54" />
+    <LINE num="35" text="[P16] K. Matkowska - 2pt lay-up missed. N. Ryng - offensive rebound (1 REB)" team="2" time="05:58" />
+    <LINE num="34" text="[UKR] S. Boiarchuk - turnover (ball handling, 3 TO). A. Makurat - steal (1 ST)" team="1" time="06:04" />
+    <LINE num="33" text="[P16] A. Makurat - turnover (bad pass, 1 TO). Y. Rabchuk - steal (1 ST)" team="2" time="06:20" />
+    <LINE num="32" text="[UKR] S. Boiarchuk - turnover (bad pass, 2 TO). K. Matkowska - steal (1 ST)" team="1" time="06:29" />
+    <LINE num="31" text="[P16] N. Ryng - 2pt jump shot made (2 Pts). K. Matkowska - assist (1 AS)" team="2" time="06:52" scoreA="5" scoreB="3" />
+    <LINE num="30" text="[UKR] S. Boiarchuk - turnover (out of bounds, 1 TO)" team="1" time="07:09" />
+    <LINE num="29" text="[P16] A. Makurat - personal  foul (1 PF, 4th team foul). Foul drawn: S. Boiarchuk" team="2" time="07:21" />
+    <LINE num="28" text="[UKR] V. Liubinets - 2pt jump shot missed. Team defensive rebound" team="1" time="07:23" />
+    <LINE num="27" text="[P16] J. Niełacna - personal  foul (2 PF, 3rd team foul). Foul drawn: V. Liubinets" team="2" time="07:35" />
+    <LINE num="26" text="[P16] B. Zieniewska - 3pt jump shot missed. V. Kovalevska - defensive rebound (1 REB)" team="2" time="07:46" />
+    <LINE num="25" text="[UKR] S. Boiarchuk - 3pt jump shot missed. J. Niełacna - defensive rebound (1 REB)" team="1" time="07:56" />
+    <LINE num="24" text="[P16] K. Matkowska - personal  foul (1 PF, 2nd team foul). Foul drawn: V. Kovalevska" team="2" time="08:03" />
+    <LINE num="23" text="[P16] A. Makurat - free throw missed. Y. Rabchuk - defensive rebound (1 REB)" team="2" time="08:36" />
+    <LINE num="22" text="[P16] A. Makurat - free throw made (1 Pts)" team="2" time="08:36" scoreA="5" scoreB="1" />
+    <LINE num="21" text="[UKR] O. Fastova - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: A. Makurat" team="1" time="08:36" />
+    <LINE num="20" text="[UKR] S. Boiarchuk - 3pt jump shot made (3 Pts). V. Kovalevska - assist (1 AS)" team="1" time="08:58" scoreA="5" scoreB="0" />
+    <LINE num="19" text="[P16] B. Zieniewska - turnover (bad pass, 1 TO). V. Kovalevska - steal (1 ST)" team="2" time="09:13" />
+    <LINE num="18" text="[P16] N. Ryng - 2pt lay-up blocked. V. Liubinets - block (1 BS). K. Matkowska - offensive rebound (1 REB)" team="2" time="09:21" />
+    <LINE num="17" text="[UKR] O. Fastova - free throw made (2 Pts)" team="1" time="09:35" scoreA="2" scoreB="0" />
+    <LINE num="16" text="[UKR] O. Fastova - free throw made (1 Pts)" team="1" time="09:35" scoreA="1" scoreB="0" />
+    <LINE num="15" text="[P16] J. Niełacna - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: O. Fastova" team="2" time="09:35" />
+    <LINE num="14" text="[P16] K. Matkowska - 2pt lay-up missed. V. Liubinets - defensive rebound (1 REB)" team="2" time="09:43" />
+    <LINE num="13" text="[UKR] O. Fastova - turnover (ball handling, 1 TO). J. Niełacna - steal (1 ST)" team="1" time="09:48" />
+    <LINE num="12" text="[P16] A. Makurat - 3pt jump shot missed. O. Fastova - defensive rebound (1 REB)" team="2" time="09:52" />
+    <LINE num="11" text="[P16] Substitution - J. Niełacna IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[P16] Substitution - A. Makurat IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[P16] Substitution - N. Ryng IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[P16] Substitution - B. Zieniewska IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[P16] Substitution - K. Matkowska IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[UKR] Substitution - V. Liubinets IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[UKR] Substitution - Y. Rabchuk IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[UKR] Substitution - S. Boiarchuk IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[UKR] Substitution - O. Fastova IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[UKR] Substitution - V. Kovalevska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="15.6023">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

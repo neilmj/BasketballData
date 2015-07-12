@@ -1,0 +1,366 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="IV Memoriał Małgorzaty Dydek" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1958">
+    <TEAM name="Polska U16" logo="" pts="60" fouls="2" />
+    <TEAM name="Polska U15" logo="" pts="31" fouls="6" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="10" scoreB="3" />
+      <QUARTER n="2" scoreA="17" scoreB="8" />
+      <QUARTER n="3" scoreA="12" scoreB="14" />
+      <QUARTER n="4" scoreA="21" scoreB="6" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Free throw percentage: Polska U16 - 56.5%, Polska U15 - 25.0%" duration="46.7878">
+    <ITEM text="Free throw percentage: Polska U16 - 56.5%, Polska U15 - 25.0%" />
+  </TICKER>
+  <OVERVIEW duration="31.2187" />
+  <PLAYBYPLAY duration="140.3782">
+    <LINE num="335" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="334" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="333" text="[P16] Team turnover (24 seconds)" team="1" time="00:06" />
+    <LINE num="332" text="[P16] K. Stefańczyk - 2pt jump shot missed. A. Zięmborska - offensive rebound (5 REB)" team="1" time="00:15" />
+    <LINE num="331" text="[P15] B. Puter - 3pt jump shot missed. K. Stefańczyk - defensive rebound (5 REB)" team="2" time="00:36" />
+    <LINE num="330" text="[P16] A. Zięmborska - 3pt jump shot missed. M. Leszczyńska - defensive rebound (6 REB)" team="1" time="00:51" />
+    <LINE num="329" text="[P15] M. Leszczyńska - 2pt jump shot missed. K. Stefańczyk - defensive rebound (4 REB)" team="2" time="01:13" />
+    <LINE num="328" text="[P15] W. Kośla - 2pt jump shot missed. L. Banaszak - offensive rebound (3 REB)" team="2" time="01:24" />
+    <LINE num="327" text="[P16] K. Stefańczyk - 2pt lay-up missed. L. Banaszak - defensive rebound (2 REB)" team="1" time="01:34" />
+    <LINE num="326" text="[P15] M. Leszczyńska -  offensive foul (2 PF, 6th team foul). Foul drawn: A. Zięmborska. M. Leszczyńska - turnover (offensive foul, 4 TO)" team="2" time="01:42" />
+    <LINE num="325" text="[P16] B. Zieniewska - free throw missed. B. Puter - defensive rebound (10 REB)" team="1" time="01:56" />
+    <LINE num="324" text="[P16] B. Zieniewska - free throw missed" team="1" time="01:56" />
+    <LINE num="323" text="[P15] D. Kowalczyk - personal shooting foul (5 PF, 5th team foul). 2 free throws awarded. Foul drawn: B. Zieniewska. [P15] Substitution - D. Kowalczyk OUT, B. Puter IN" team="2" time="01:56" />
+    <LINE num="322" text="[P15] W. Kośla - turnover (bad pass, 3 TO). B. Zieniewska - steal (5 ST)" team="2" time="02:02" />
+    <LINE num="321" text="[P16] A. Wińkowska - 2pt lay-up made (2 Pts)" team="1" time="02:10" scoreA="60" scoreB="31" />
+    <LINE num="320" text="[P15] L. Banaszak - turnover (bad pass, 6 TO). B. Zieniewska - steal (4 ST)" team="2" time="02:31" />
+    <LINE num="319" text="[P16] B. Zieniewska - 3pt jump shot missed. Team defensive rebound" team="1" time="02:43" />
+    <LINE num="318" text="[P15] Timeout" team="2" time="02:47" />
+    <LINE num="317" text="[P15] D. Kowalczyk - personal  foul (4 PF, 4th team foul). Foul drawn: A. Zięmborska" team="2" time="02:47" />
+    <LINE num="316" text="[P15] Substitution - O. Trzeciak OUT, D. Kowalczyk IN" team="2" time="02:47" />
+    <LINE num="315" text="[P16] Substitution - K. Matkowska OUT, A. Markowska IN" team="1" time="02:47" />
+    <LINE num="314" text="[P16] Substitution - E. Glinka OUT, B. Zieniewska IN" team="1" time="02:47" />
+    <LINE num="313" text="[P15] M. Leszczyńska - 2pt driving lay-up missed. A. Zięmborska - defensive rebound (4 REB)" team="2" time="02:56" />
+    <LINE num="312" text="[P15] Substitution - D. Kowalczyk OUT, L. Banaszak IN" team="2" time="03:12" />
+    <LINE num="311" text="[P15] Substitution - B. Puter OUT, K. Olęcka IN" team="2" time="03:12" />
+    <LINE num="310" text="[P16] A. Wińkowska - 2pt jump shot missed. Team defensive rebound" team="1" time="03:17" />
+    <LINE num="309" text="[P15] M. Leszczyńska - 2pt jump shot made (11 Pts). W. Kośla - assist (2 AS)" team="2" time="03:30" scoreA="58" scoreB="31" />
+    <LINE num="308" text="[P16] K. Matkowska - turnover (bad pass, 3 TO). B. Puter - steal (1 ST)" team="1" time="03:42" />
+    <LINE num="307" text="[P15] B. Puter - free throw made (5 Pts)" team="2" time="03:50" scoreA="58" scoreB="29" />
+    <LINE num="306" text="[P15] B. Puter - free throw missed" team="2" time="03:50" />
+    <LINE num="305" text="[P15] Substitution - O. Lemańska OUT, M. Leszczyńska IN" team="2" time="03:50" />
+    <LINE num="304" text="[P16] K. Stefańczyk - personal shooting foul (1 PF, 2nd team foul). 2 free throws awarded. Foul drawn: B. Puter" team="1" time="03:50" />
+    <LINE num="303" text="[P16] K. Stefańczyk - 2pt jump shot missed. D. Kowalczyk - defensive rebound (4 REB)" team="1" time="04:02" />
+    <LINE num="302" text="[P15] O. Trzeciak - turnover (bad pass, 2 TO). A. Wińkowska - steal (1 ST)" team="2" time="04:13" />
+    <LINE num="301" text="[P16] A. Wińkowska - personal  foul (1 PF, 1st team foul). Foul drawn: W. Kośla" team="1" time="04:15" />
+    <LINE num="300" text="[P16] E. Glinka - 3pt jump shot made (3 Pts). K. Matkowska - assist (3 AS)" team="1" time="04:23" scoreA="58" scoreB="28" />
+    <LINE num="299" text="[P15] O. Lemańska - turnover (out of bounds, 3 TO)" team="2" time="04:41" />
+    <LINE num="298" text="[P16] Substitution - K. Szydłowska OUT, A. Zięmborska IN" team="1" time="04:58" />
+    <LINE num="297" text="[P16] A. Wińkowska - 2pt jump shot missed. D. Kowalczyk - defensive rebound (3 REB)" team="1" time="05:02" />
+    <LINE num="296" text="[P15] W. Kośla - 3pt jump shot made (3 Pts)" team="2" time="05:23" scoreA="55" scoreB="28" />
+    <LINE num="295" text="[P16] K. Matkowska - free throw made (5 Pts)" team="1" time="05:39" scoreA="55" scoreB="25" />
+    <LINE num="294" text="[P16] K. Matkowska - free throw missed" team="1" time="05:39" />
+    <LINE num="293" text="[P15] O. Lemańska - personal shooting foul (3 PF, 3rd team foul). 2 free throws awarded. Foul drawn: K. Matkowska" team="2" time="05:39" />
+    <LINE num="292" text="[P15] B. Puter - turnover (ball handling, 8 TO). K. Stefańczyk - steal (1 ST)" team="2" time="05:52" />
+    <LINE num="291" text="[P16] K. Matkowska - 2pt lay-up made (fast break, 4 Pts)" team="1" time="06:03" scoreA="54" scoreB="25" />
+    <LINE num="290" text="[P15] O. Lemańska - turnover (bad pass, 2 TO). K. Matkowska - steal (7 ST)" team="2" time="06:07" />
+    <LINE num="289" text="[P16] Substitution - J. Niełacna OUT, A. Wińkowska IN" team="1" time="06:10" />
+    <LINE num="288" text="[P16] Substitution - A. Makurat OUT, E. Glinka IN" team="1" time="06:10" />
+    <LINE num="287" text="[P16] K. Stefańczyk - 2pt jump shot missed. B. Puter - defensive rebound (9 REB)" team="1" time="06:15" />
+    <LINE num="286" text="[P15] B. Puter - turnover (bad pass, 7 TO). K. Szydłowska - steal (3 ST)" team="2" time="06:25" />
+    <LINE num="285" text="[P15] B. Puter - 3pt jump shot missed. O. Trzeciak - offensive rebound (6 REB)" team="2" time="06:36" />
+    <LINE num="284" text="[P16] K. Stefańczyk - 2pt jump shot missed. D. Kowalczyk - defensive rebound (2 REB)" team="1" time="06:52" />
+    <LINE num="283" text="[P16] K. Matkowska - 3pt jump shot missed. K. Stefańczyk - offensive rebound (3 REB)" team="1" time="06:56" />
+    <LINE num="282" text="[P15] W. Kośla - 2pt lay-up missed. J. Niełacna - defensive rebound (7 REB)" team="2" time="07:13" />
+    <LINE num="281" text="[P16] A. Makurat - free throw missed. D. Kowalczyk - defensive rebound (1 REB)" team="1" time="07:23" />
+    <LINE num="280" text="[P15] D. Kowalczyk - personal shooting foul (3 PF, 2nd team foul). One free throw awarded. Foul drawn: A. Makurat" team="2" time="07:23" />
+    <LINE num="279" text="[P16] A. Makurat - 2pt lay-up made (fast break, 8 Pts)" team="1" time="07:28" scoreA="52" scoreB="25" />
+    <LINE num="278" text="[P15] B. Puter - turnover (bad pass, 6 TO). K. Matkowska - steal (6 ST)" team="2" time="07:33" />
+    <LINE num="277" text="[P16] Substitution - N. Ryng OUT, K. Szydłowska IN" team="1" time="07:38" />
+    <LINE num="276" text="[P16] Substitution - M. Szkop OUT, K. Matkowska IN" team="1" time="07:38" />
+    <LINE num="275" text="[P15] Substitution - L. Banaszak OUT, O. Trzeciak IN" team="2" time="07:38" />
+    <LINE num="274" text="[P16] A. Makurat - 2pt lay-up made (fast break, 6 Pts)" team="1" time="07:49" scoreA="50" scoreB="25" />
+    <LINE num="273" text="[P15] W. Kośla - turnover (bad pass, 2 TO). A. Makurat - steal (4 ST)" team="2" time="07:54" />
+    <LINE num="272" text="[P16] M. Szkop - 2pt lay-up made (fast break, 10 Pts)" team="1" time="08:07" scoreA="48" scoreB="25" />
+    <LINE num="271" text="[P15] D. Kowalczyk - turnover (bad pass, 2 TO). N. Ryng - steal (5 ST)" team="2" time="08:11" />
+    <LINE num="270" text="[P16] J. Niełacna - free throw made (6 Pts)" team="1" time="08:19" scoreA="46" scoreB="25" />
+    <LINE num="269" text="[P16] J. Niełacna - free throw made (5 Pts)" team="1" time="08:19" scoreA="45" scoreB="25" />
+    <LINE num="268" text="[P15] Substitution - K. Olęcka OUT, B. Puter IN" team="2" time="08:19" />
+    <LINE num="267" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="2" time="08:19" />
+    <LINE num="266" text="[P16] Substitution - B. Zieniewska OUT, K. Stefańczyk IN" team="1" time="08:19" />
+    <LINE num="265" text="[P15] D. Kowalczyk - personal  foul (2 PF, 1st team foul). Foul drawn: J. Niełacna" team="2" time="08:19" />
+    <LINE num="264" text="[P16] N. Ryng - 2pt jump shot missed. J. Niełacna - offensive rebound (6 REB)" team="1" time="08:28" />
+    <LINE num="263" text="[P15] L. Banaszak - turnover (bad pass, 5 TO). M. Szkop - steal (3 ST)" team="2" time="08:31" />
+    <LINE num="262" text="[P16] J. Niełacna - 2pt jump shot made (4 Pts). B. Zieniewska - assist (1 AS)" team="1" time="08:37" scoreA="44" scoreB="25" />
+    <LINE num="261" text="[P15] Team turnover (24 seconds)" team="2" time="08:46" />
+    <LINE num="260" text="[P15] Substitution - A. Iwaniuk OUT, D. Kowalczyk IN" team="2" time="09:09" />
+    <LINE num="259" text="[P16] M. Szkop - 3pt jump shot made (8 Pts). A. Makurat - assist (6 AS)" team="1" time="09:14" scoreA="42" scoreB="25" />
+    <LINE num="258" text="[P15] A. Iwaniuk - turnover (ball handling, 5 TO). N. Ryng - steal (4 ST)" team="2" time="09:37" />
+    <LINE num="257" text="[P16] A. Makurat - 3pt jump shot missed. A. Wojtala - defensive rebound (4 REB)" team="1" time="10:00" />
+    <LINE num="256" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="255" text="[P15] Substitution - M. Leszczyńska OUT, O. Lemańska IN" team="2" time="00:00" />
+    <LINE num="254" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="253" text="[P16] M. Szkop - 2pt lay-up made (fast break, 5 Pts). A. Makurat - assist (5 AS)" team="1" time="00:05" scoreA="39" scoreB="25" />
+    <LINE num="252" text="[P15] M. Leszczyńska - 2pt jump shot missed. N. Ryng - defensive rebound (4 REB)" team="2" time="00:12" />
+    <LINE num="251" text="[P15] A. Iwaniuk - free throw missed. M. Leszczyńska - offensive rebound (5 REB)" team="2" time="00:15" />
+    <LINE num="250" text="[P15] A. Iwaniuk - free throw missed" team="2" time="00:15" />
+    <LINE num="249" text="[P16] J. Niełacna - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Iwaniuk" team="1" time="00:15" />
+    <LINE num="248" text="[P15] A. Iwaniuk - 2pt jump shot missed. A. Wojtala - offensive rebound (3 REB)" team="2" time="00:24" />
+    <LINE num="247" text="[P16] N. Ryng - free throw made (9 Pts)" team="1" time="00:49" scoreA="37" scoreB="25" />
+    <LINE num="246" text="[P16] N. Ryng - free throw made (8 Pts)" team="1" time="00:49" scoreA="36" scoreB="25" />
+    <LINE num="245" text="[P15] Timeout" team="2" time="00:49" />
+    <LINE num="244" text="[P15] L. Banaszak - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: N. Ryng" team="2" time="00:49" />
+    <LINE num="243" text="[P15] A. Wojtala - turnover (bad pass, 3 TO). M. Szkop - steal (2 ST)" team="2" time="00:52" />
+    <LINE num="242" text="[P16] N. Ryng - 2pt jump shot made (7 Pts). A. Makurat - assist (4 AS)" team="1" time="00:59" scoreA="35" scoreB="25" />
+    <LINE num="241" text="[P16] A. Makurat - 2pt lay-up missed. Team offensive rebound" team="1" time="01:07" />
+    <LINE num="240" text="[P15] K. Olęcka - turnover (bad pass, 2 TO). J. Niełacna - steal (1 ST)" team="2" time="01:14" />
+    <LINE num="239" text="[P16] A. Makurat - 3pt jump shot missed. A. Wojtala - defensive rebound (2 REB)" team="1" time="01:25" />
+    <LINE num="238" text="[P15] L. Banaszak - 2pt jump shot missed. A. Makurat - defensive rebound (3 REB)" team="2" time="01:41" />
+    <LINE num="237" text="[P16] A. Makurat - free throw made (4 Pts)" team="1" time="01:54" scoreA="33" scoreB="25" />
+    <LINE num="236" text="[P16] A. Makurat - free throw missed" team="1" time="01:54" />
+    <LINE num="235" text="[P15] Substitution - O. Trzeciak OUT, L. Banaszak IN" team="2" time="01:54" />
+    <LINE num="234" text="[P15] N. Popiół - personal shooting foul (5 PF, 2nd team foul). 2 free throws awarded. Foul drawn: A. Makurat. [P15] Substitution - N. Popiół OUT, A. Iwaniuk IN" team="2" time="01:54" />
+    <LINE num="233" text="[P15] M. Leszczyńska - 2pt lay-up missed. N. Ryng - defensive rebound (3 REB)" team="2" time="02:11" />
+    <LINE num="232" text="[P16] B. Zieniewska - 3pt jump shot made (6 Pts). A. Makurat - assist (3 AS)" team="1" time="02:28" scoreA="32" scoreB="25" />
+    <LINE num="231" text="[P16] Substitution - A. Zięmborska OUT, J. Niełacna IN" team="1" time="02:34" />
+    <LINE num="230" text="[P15] N. Popiół - personal  foul (4 PF, 1st team foul). Foul drawn: A. Zięmborska" team="2" time="02:34" />
+    <LINE num="229" text="[P15] M. Leszczyńska - 2pt jump shot missed. A. Makurat - defensive rebound (2 REB)" team="2" time="02:45" />
+    <LINE num="228" text="[P16] Substitution - A. Markowska OUT, A. Makurat IN" team="1" time="02:54" />
+    <LINE num="227" text="[P16] Substitution - K. Szydłowska OUT, M. Szkop IN" team="1" time="02:54" />
+    <LINE num="226" text="[P16] A. Zięmborska - 2pt jump shot missed. O. Trzeciak - defensive rebound (5 REB)" team="1" time="02:58" />
+    <LINE num="225" text="[P15] M. Leszczyńska - 2pt jump shot missed. A. Zięmborska - defensive rebound (3 REB)" team="2" time="03:16" />
+    <LINE num="224" text="[P15] A. Wojtala - 3pt jump shot missed. M. Leszczyńska - offensive rebound (4 REB)" team="2" time="03:20" />
+    <LINE num="223" text="[P16] K. Szydłowska - turnover (ball handling, 5 TO). O. Trzeciak - steal (2 ST)" team="1" time="03:23" />
+    <LINE num="222" text="[P15] Substitution - A. Iwaniuk OUT, K. Olęcka IN" team="2" time="03:23" />
+    <LINE num="221" text="[P15] N. Popiół - 2pt jump shot blocked. K. Szydłowska - block (4 BS). K. Szydłowska - defensive rebound (5 REB)" team="2" time="03:35" />
+    <LINE num="220" text="[P16] A. Markowska - turnover (ball handling, 2 TO). A. Iwaniuk - steal (2 ST)" team="1" time="03:40" />
+    <LINE num="219" text="[P15] A. Iwaniuk - 2pt lay-up made (7 Pts)" team="2" time="03:51" scoreA="29" scoreB="25" />
+    <LINE num="218" text="[P16] Substitution - K. Matkowska OUT, B. Zieniewska IN" team="1" time="03:56" />
+    <LINE num="217" text="[P16] K. Matkowska - turnover (bad pass, 2 TO)" team="1" time="03:56" />
+    <LINE num="216" text="[P15] M. Leszczyńska - 2pt jump shot made (9 Pts). O. Trzeciak - assist (2 AS)" team="2" time="04:11" scoreA="29" scoreB="23" />
+    <LINE num="215" text="[P16] K. Szydłowska - 2pt lay-up made (fast break, 2 Pts). A. Markowska - assist (1 AS)" team="1" time="04:23" scoreA="29" scoreB="21" />
+    <LINE num="214" text="[P15] A. Iwaniuk - turnover (bad pass, 4 TO). A. Markowska - steal (3 ST)" team="2" time="04:27" />
+    <LINE num="213" text="[P16] K. Szydłowska - turnover (ball handling, 4 TO). M. Leszczyńska - steal (1 ST)" team="1" time="04:31" />
+    <LINE num="212" text="[P16] Timeout" team="1" time="04:41" />
+    <LINE num="211" text="[P15] M. Leszczyńska - 2pt lay-up made (7 Pts)" team="2" time="04:46" scoreA="27" scoreB="21" />
+    <LINE num="210" text="[P16] N. Ryng - 3pt jump shot missed. A. Iwaniuk - defensive rebound (3 REB)" team="1" time="05:03" />
+    <LINE num="209" text="[P15] N. Popiół - turnover (ball handling, 2 TO). N. Ryng - steal (3 ST)" team="2" time="05:09" />
+    <LINE num="208" text="[P16] Team turnover (24 seconds)" team="1" time="05:23" />
+    <LINE num="207" text="[P15] M. Leszczyńska - free throw made (5 Pts)" team="2" time="05:48" scoreA="27" scoreB="19" />
+    <LINE num="206" text="[P15] Substitution - B. Puter OUT, N. Popiół IN" team="2" time="05:48" />
+    <LINE num="205" text="[P16] Substitution - J. Niełacna OUT, A. Markowska IN" team="1" time="05:48" />
+    <LINE num="204" text="[P16] Substitution - E. Glinka OUT, N. Ryng IN" team="1" time="05:48" />
+    <LINE num="203" text="[P16] E. Glinka - personal shooting foul (3 PF, 3rd team foul). One free throw awarded. Foul drawn: M. Leszczyńska" team="1" time="05:48" />
+    <LINE num="202" text="[P15] M. Leszczyńska - 2pt lay-up made (4 Pts)" team="2" time="05:53" scoreA="27" scoreB="18" />
+    <LINE num="201" text="[P16] K. Szydłowska - turnover (out of bounds, 3 TO)" team="1" time="06:14" />
+    <LINE num="200" text="[P15] B. Puter - 2pt jump shot made (4 Pts). A. Iwaniuk - assist (2 AS)" team="2" time="06:35" scoreA="27" scoreB="16" />
+    <LINE num="199" text="[P15] Substitution - L. Banaszak OUT, M. Leszczyńska IN" team="2" time="06:46" />
+    <LINE num="198" text="[P16] A. Zięmborska - turnover (bad pass, 1 TO). A. Iwaniuk - steal (1 ST)" team="1" time="06:49" />
+    <LINE num="197" text="[P15] L. Banaszak - 2pt jump shot missed. K. Szydłowska - defensive rebound (4 REB)" team="2" time="06:58" />
+    <LINE num="196" text="[P16] K. Szydłowska - personal  foul (2 PF, 2nd team foul). Foul drawn: B. Puter" team="1" time="07:00" />
+    <LINE num="195" text="[P16] J. Niełacna - 2pt lay-up missed. B. Puter - defensive rebound (8 REB)" team="1" time="07:11" />
+    <LINE num="194" text="[P16] Substitution - A. Wińkowska OUT, A. Zięmborska IN" team="1" time="07:29" />
+    <LINE num="193" text="[P15] A. Iwaniuk - turnover (out of bounds, 3 TO)" team="2" time="07:29" />
+    <LINE num="192" text="[P16] A. Wińkowska - turnover (out of bounds, 3 TO)" team="1" time="07:46" />
+    <LINE num="191" text="[P16] K. Szydłowska - 2pt lay-up missed. Team offensive rebound" team="1" time="08:02" />
+    <LINE num="190" text="[P15] L. Banaszak - turnover (bad pass, 4 TO). K. Matkowska - steal (5 ST)" team="2" time="08:07" />
+    <LINE num="189" text="[P16] J. Niełacna - 3pt jump shot missed. Team defensive rebound" team="1" time="08:15" />
+    <LINE num="188" text="[P15] A. Iwaniuk - 2pt jump shot missed. K. Matkowska - defensive rebound (3 REB)" team="2" time="08:29" />
+    <LINE num="187" text="[P16] K. Matkowska - turnover (out of bounds, 1 TO)" team="1" time="08:44" />
+    <LINE num="186" text="[P15] A. Wojtala - free throw made (5 Pts)" team="2" time="09:07" scoreA="27" scoreB="14" />
+    <LINE num="185" text="[P16] E. Glinka - personal shooting foul (2 PF, 1st team foul). One free throw awarded. Foul drawn: A. Wojtala" team="1" time="09:07" />
+    <LINE num="184" text="[P15] A. Wojtala - 2pt lay-up made (4 Pts)" team="2" time="09:12" scoreA="27" scoreB="13" />
+    <LINE num="183" text="[P15] L. Banaszak - 2pt jump shot missed. B. Puter - offensive rebound (7 REB)" team="2" time="09:26" />
+    <LINE num="182" text="[P16] A. Wińkowska - turnover (out of bounds, 2 TO)" team="1" time="09:47" />
+    <LINE num="181" text="[P15] Substitution - M. Leszczyńska OUT, L. Banaszak IN" team="2" time="10:00" />
+    <LINE num="180" text="[P15] Substitution - W. Kośla OUT, A. Wojtala IN" team="2" time="10:00" />
+    <LINE num="179" text="[P16] Substitution - A. Zięmborska OUT, A. Wińkowska IN" team="1" time="10:00" />
+    <LINE num="178" text="[P16] Substitution - M. Szkop OUT, J. Niełacna IN" team="1" time="10:00" />
+    <LINE num="177" text="[P16] Substitution - B. Zieniewska OUT, K. Matkowska IN" team="1" time="10:00" />
+    <LINE num="176" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="175" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="174" text="[P15] A. Iwaniuk - 2pt jump shot made (5 Pts). W. Kośla - assist (1 AS)" team="2" time="00:06" scoreA="27" scoreB="11" />
+    <LINE num="173" text="[P16] E. Glinka - 2pt lay-up missed. B. Puter - defensive rebound (6 REB)" team="1" time="00:17" />
+    <LINE num="172" text="[P15] M. Leszczyńska - turnover (bad pass, 3 TO). B. Zieniewska - steal (3 ST)" team="2" time="00:30" />
+    <LINE num="171" text="[P16] M. Szkop - 3pt jump shot missed. M. Leszczyńska - defensive rebound (3 REB)" team="1" time="00:36" />
+    <LINE num="170" text="[P15] Team turnover (24 seconds)" team="2" time="00:48" />
+    <LINE num="169" text="[P15] W. Kośla - 2pt jump shot missed. O. Trzeciak - offensive rebound (4 REB)" team="2" time="01:00" />
+    <LINE num="168" text="[P16] K. Szydłowska - turnover (out of bounds, 2 TO)" team="1" time="01:11" />
+    <LINE num="167" text="[P15] B. Puter - free throw missed. K. Szydłowska - defensive rebound (3 REB)" team="2" time="01:14" />
+    <LINE num="166" text="[P15] B. Puter - free throw missed" team="2" time="01:14" />
+    <LINE num="165" text="[P16] A. Zięmborska - personal  foul (2 PF, 5th team foul). Foul drawn: B. Puter" team="1" time="01:14" />
+    <LINE num="164" text="[P16] M. Szkop - 2pt lay-up missed. B. Puter - defensive rebound (5 REB)" team="1" time="01:21" />
+    <LINE num="163" text="[P15] M. Leszczyńska - 2pt jump shot blocked. K. Szydłowska - block (3 BS). B. Zieniewska - defensive rebound (2 REB)" team="2" time="01:27" />
+    <LINE num="162" text="[P16] A. Zięmborska - personal  foul (1 PF, 4th team foul). Foul drawn: M. Leszczyńska" team="1" time="01:29" />
+    <LINE num="161" text="[P16] A. Zięmborska - 2pt jump shot missed. B. Puter - defensive rebound (4 REB)" team="1" time="01:39" />
+    <LINE num="160" text="[P15] B. Puter - turnover (bad pass, 5 TO). K. Szydłowska - steal (2 ST)" team="2" time="01:41" />
+    <LINE num="159" text="[P16] E. Glinka - 3pt jump shot missed. B. Puter - defensive rebound (3 REB)" team="1" time="01:55" />
+    <LINE num="158" text="[P16] A. Zięmborska - free throw missed. Team offensive rebound" team="1" time="01:58" />
+    <LINE num="157" text="[P16] A. Zięmborska - free throw missed" team="1" time="01:58" />
+    <LINE num="156" text="[P15] Substitution - D. Kowalczyk OUT, B. Puter IN" team="2" time="01:58" />
+    <LINE num="155" text="[P16] Substitution - A. Makurat OUT, K. Szydłowska IN" team="1" time="01:58" />
+    <LINE num="154" text="[P16] Substitution - N. Ryng OUT, M. Szkop IN" team="1" time="01:58" />
+    <LINE num="153" text="[P15] D. Kowalczyk - personal  foul (1 PF, 7th team foul). Foul drawn: A. Zięmborska" team="2" time="01:58" />
+    <LINE num="152" text="[P16] B. Zieniewska - 2pt jump shot missed. A. Zięmborska - offensive rebound (2 REB)" team="1" time="02:03" />
+    <LINE num="151" text="[P15] M. Leszczyńska - turnover (bad pass, 2 TO). B. Zieniewska - steal (2 ST)" team="2" time="02:05" />
+    <LINE num="150" text="[P16] A. Makurat - 2pt jump shot missed. M. Leszczyńska - defensive rebound (2 REB)" team="1" time="02:11" />
+    <LINE num="149" text="[P15] M. Leszczyńska - 2pt jump shot made (2 Pts). A. Iwaniuk - assist (1 AS)" team="2" time="02:38" scoreA="27" scoreB="9" />
+    <LINE num="148" text="[P16] A. Makurat - 2pt jump shot missed. M. Leszczyńska - defensive rebound (1 REB)" team="1" time="02:55" />
+    <LINE num="147" text="[P15] Substitution - L. Banaszak OUT, M. Leszczyńska IN" team="2" time="03:04" />
+    <LINE num="146" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="2" time="03:04" />
+    <LINE num="145" text="[P15] A. Wojtala - turnover (out of bounds, 2 TO)" team="2" time="03:04" />
+    <LINE num="144" text="[P16] N. Ryng - 2pt jump shot made (fast break, 5 Pts). A. Makurat - assist (2 AS)" team="1" time="03:12" scoreA="27" scoreB="7" />
+    <LINE num="143" text="[P15] O. Trzeciak - turnover (bad pass, 1 TO). A. Makurat - steal (3 ST)" team="2" time="03:16" />
+    <LINE num="142" text="[P16] A. Makurat - 3pt jump shot missed. O. Trzeciak - defensive rebound (3 REB)" team="1" time="03:21" />
+    <LINE num="141" text="[P15] A. Wojtala - 2pt lay-up made (2 Pts)" team="2" time="03:44" scoreA="25" scoreB="7" />
+    <LINE num="140" text="[P16] E. Glinka - personal  foul (1 PF, 3rd team foul). Foul drawn: A. Wojtala" team="1" time="03:49" />
+    <LINE num="139" text="[P15] Timeout" team="2" time="03:51" />
+    <LINE num="138" text="[P16] B. Zieniewska - 3pt jump shot made (3 Pts). E. Glinka - assist (1 AS)" team="1" time="03:59" scoreA="25" scoreB="5" />
+    <LINE num="137" text="[P15] O. Trzeciak - 2pt jump shot missed. E. Glinka - defensive rebound (1 REB)" team="2" time="04:09" />
+    <LINE num="136" text="[P16] A. Makurat - turnover (out of bounds, 3 TO)" team="1" time="04:33" />
+    <LINE num="135" text="[P15] D. Kowalczyk - turnover (out of bounds, 1 TO)" team="2" time="04:44" />
+    <LINE num="134" text="[P16] A. Makurat - 3pt jump shot missed. L. Banaszak - defensive rebound (1 REB)" team="1" time="04:52" />
+    <LINE num="133" text="[P16] A. Zięmborska - free throw missed. B. Zieniewska - offensive rebound (1 REB)" team="1" time="04:57" />
+    <LINE num="132" text="[P16] A. Zięmborska - free throw made (3 Pts)" team="1" time="04:57" scoreA="22" scoreB="5" />
+    <LINE num="131" text="[P16] Substitution - K. Matkowska OUT, E. Glinka IN" team="1" time="04:57" />
+    <LINE num="130" text="[P15] L. Banaszak - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: A. Zięmborska" team="2" time="04:57" />
+    <LINE num="129" text="[P15] L. Banaszak - turnover (ball handling, 3 TO). N. Ryng - steal (2 ST)" team="2" time="05:06" />
+    <LINE num="128" text="[P15] Substitution - B. Puter OUT, D. Kowalczyk IN" team="2" time="05:15" />
+    <LINE num="127" text="[P16] A. Zięmborska - free throw made (2 Pts)" team="1" time="05:15" scoreA="21" scoreB="5" />
+    <LINE num="126" text="[P16] A. Zięmborska - free throw made (1 Pts)" team="1" time="05:15" scoreA="20" scoreB="5" />
+    <LINE num="125" text="[P15] Substitution - O. Lemańska OUT, O. Trzeciak IN" team="2" time="05:15" />
+    <LINE num="124" text="[P16] Substitution - K. Stefańczyk OUT, B. Zieniewska IN" team="1" time="05:15" />
+    <LINE num="123" text="[P15] O. Lemańska - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: A. Zięmborska" team="2" time="05:15" />
+    <LINE num="122" text="[P15] L. Banaszak - turnover (bad pass, 2 TO). K. Matkowska - steal (4 ST)" team="2" time="05:22" />
+    <LINE num="121" text="[P16] A. Makurat - 2pt lay-up missed. O. Lemańska - defensive rebound (1 REB)" team="1" time="05:30" />
+    <LINE num="120" text="[P16] A. Makurat - 3pt jump shot missed. A. Zięmborska - offensive rebound (1 REB)" team="1" time="05:44" />
+    <LINE num="119" text="[P15] B. Puter - turnover (ball handling, 4 TO). N. Ryng - steal (1 ST)" team="2" time="06:01" />
+    <LINE num="118" text="[P16] A. Makurat - personal  foul (2 PF, 2nd team foul). Foul drawn: A. Wojtala" team="1" time="06:05" />
+    <LINE num="117" text="[P15] Substitution - N. Popiół OUT, A. Iwaniuk IN" team="2" time="06:13" />
+    <LINE num="116" text="[P16] K. Stefańczyk - 3pt jump shot missed. Team defensive rebound" team="1" time="06:15" />
+    <LINE num="115" text="[P15] Substitution - W. Kośla OUT, A. Wojtala IN" team="2" time="06:23" />
+    <LINE num="114" text="[P16] Substitution - A. Markowska OUT, A. Makurat IN" team="1" time="06:23" />
+    <LINE num="113" text="[P15] O. Lemańska - turnover (bad pass, 1 TO). K. Matkowska - steal (3 ST)" team="2" time="06:38" />
+    <LINE num="112" text="[P16] N. Ryng - 3pt jump shot made (3 Pts). K. Matkowska - assist (2 AS)" team="1" time="06:45" scoreA="19" scoreB="5" />
+    <LINE num="111" text="[P15] N. Popiół - 2pt jump shot missed. K. Matkowska - defensive rebound (2 REB)" team="2" time="07:03" />
+    <LINE num="110" text="[P16] K. Stefańczyk - 2pt lay-up made (fast break, 2 Pts). K. Matkowska - assist (1 AS)" team="1" time="07:23" scoreA="16" scoreB="5" />
+    <LINE num="109" text="[P15] N. Popiół - turnover (bad pass, 1 TO). K. Matkowska - steal (2 ST)" team="2" time="07:28" />
+    <LINE num="108" text="[P16] A. Markowska - free throw made (4 Pts)" team="1" time="07:44" scoreA="14" scoreB="5" />
+    <LINE num="107" text="[P16] A. Markowska - free throw made (3 Pts)" team="1" time="07:44" scoreA="13" scoreB="5" />
+    <LINE num="106" text="[P15] N. Popiół - personal shooting foul (3 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Markowska" team="2" time="07:44" />
+    <LINE num="105" text="[P15] W. Kośla - turnover (ball handling, 1 TO). K. Matkowska - steal (1 ST)" team="2" time="07:49" />
+    <LINE num="104" text="[P15] O. Lemańska - 2pt jump shot missed. W. Kośla - offensive rebound (1 REB)" team="2" time="08:02" />
+    <LINE num="103" text="[P16] Substitution - A. Wińkowska OUT, A. Zięmborska IN" team="1" time="08:14" />
+    <LINE num="102" text="[P16] K. Stefańczyk - 2pt jump shot missed. Team defensive rebound" team="1" time="08:16" />
+    <LINE num="101" text="[P15] L. Banaszak - turnover (other, 1 TO)" team="2" time="08:37" />
+    <LINE num="100" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="2" time="08:39" />
+    <LINE num="99" text="[P16] Substitution - M. Szkop OUT, K. Matkowska IN" team="1" time="08:39" />
+    <LINE num="98" text="[P16] N. Ryng - personal  foul (1 PF, 1st team foul). Foul drawn: B. Puter" team="1" time="08:39" />
+    <LINE num="97" text="[P16] M. Szkop - 2pt lay-up missed. B. Puter - defensive rebound (2 REB)" team="1" time="08:43" />
+    <LINE num="96" text="[P15] B. Puter - turnover (bad pass, 3 TO). A. Markowska - steal (2 ST)" team="2" time="09:04" />
+    <LINE num="95" text="[P16] A. Markowska - 2pt lay-up made (2 Pts)" team="1" time="09:14" scoreA="12" scoreB="5" />
+    <LINE num="94" text="[P15] O. Lemańska - personal  foul (1 PF, 3rd team foul). Foul drawn: A. Wińkowska" team="2" time="09:18" />
+    <LINE num="93" text="[P15] N. Popiół - personal  foul (2 PF, 2nd team foul). Foul drawn: M. Szkop" team="2" time="09:18" />
+    <LINE num="92" text="[P15] Substitution - K. Mężyńska OUT, O. Lemańska IN" team="2" time="09:23" />
+    <LINE num="91" text="[P16] A. Wińkowska - turnover (ball handling, 1 TO). K. Mężyńska - steal (1 ST)" team="1" time="09:27" />
+    <LINE num="90" text="[P15] N. Popiół - personal  foul (1 PF, 1st team foul). Foul drawn: M. Szkop" team="2" time="09:33" />
+    <LINE num="89" text="[P15] B. Puter - 2pt jump shot made (2 Pts)" team="2" time="09:47" scoreA="10" scoreB="5" />
+    <LINE num="88" text="[P15] Substitution - K. Olęcka OUT, N. Popiół IN" team="2" time="10:00" />
+    <LINE num="87" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="86" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="85" text="[P15] K. Mężyńska - 2pt jump shot blocked. A. Wińkowska - block (1 BS). K. Stefańczyk - defensive rebound (2 REB)" team="2" time="00:03" />
+    <LINE num="84" text="[P16] A. Markowska - 2pt jump shot missed. K. Olęcka - defensive rebound (2 REB)" team="1" time="00:14" />
+    <LINE num="83" text="[P16] M. Szkop - free throw missed. N. Ryng - offensive rebound (2 REB)" team="1" time="00:21" />
+    <LINE num="82" text="[P16] M. Szkop - free throw missed" team="1" time="00:21" />
+    <LINE num="81" text="[P15] K. Mężyńska - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: M. Szkop" team="2" time="00:21" />
+    <LINE num="80" text="[P15] K. Mężyńska - turnover (bad pass, 1 TO). A. Markowska - steal (1 ST)" team="2" time="00:24" />
+    <LINE num="79" text="[P16] A. Wińkowska - 2pt driving lay-up missed. K. Mężyńska - defensive rebound (1 REB)" team="1" time="00:35" />
+    <LINE num="78" text="[P15] Substitution - M. Leszczyńska OUT, L. Banaszak IN" team="2" time="00:46" />
+    <LINE num="77" text="[P15] M. Leszczyńska - personal  foul (1 PF, 4th team foul). Foul drawn: M. Szkop" team="2" time="00:46" />
+    <LINE num="76" text="[P15] K. Mężyńska - personal  foul (1 PF, 3rd team foul). Foul drawn: M. Szkop" team="2" time="00:54" />
+    <LINE num="75" text="[P15] K. Olęcka - turnover (5 seconds, 1 TO)" team="2" time="00:59" />
+    <LINE num="74" text="[P16] M. Szkop - 3pt jump shot made (3 Pts). K. Stefańczyk - assist (1 AS)" team="1" time="01:09" scoreA="10" scoreB="3" />
+    <LINE num="73" text="[P15] Substitution - O. Trzeciak OUT, K. Mężyńska IN" team="2" time="01:14" />
+    <LINE num="72" text="[P16] A. Markowska - 3pt jump shot missed. A. Wińkowska - offensive rebound (4 REB)" team="1" time="01:18" />
+    <LINE num="71" text="[P16] N. Ryng - 2pt jump shot missed. A. Markowska - offensive rebound (2 REB)" team="1" time="01:31" />
+    <LINE num="70" text="[P15] O. Trzeciak - 2pt jump shot missed. N. Ryng - defensive rebound (1 REB)" team="2" time="01:48" />
+    <LINE num="69" text="[P16] M. Szkop - 2pt jump shot missed. K. Olęcka - defensive rebound (1 REB)" team="1" time="01:59" />
+    <LINE num="68" text="[P16] M. Szkop - 2pt lay-up missed. A. Markowska - offensive rebound (1 REB)" team="1" time="02:05" />
+    <LINE num="67" text="[P15] M. Leszczyńska - turnover (travelling, 1 TO)" team="2" time="02:24" />
+    <LINE num="66" text="[P16] A. Markowska - turnover (out of bounds, 1 TO)" team="1" time="02:40" />
+    <LINE num="65" text="[P16] K. Stefańczyk - 2pt jump shot missed. Team offensive rebound" team="1" time="02:48" />
+    <LINE num="64" text="[P16] N. Ryng - 2pt jump shot missed. A. Wińkowska - offensive rebound (3 REB)" team="1" time="03:00" />
+    <LINE num="63" text="[P16] Substitution - A. Makurat OUT, A. Markowska IN" team="1" time="03:04" />
+    <LINE num="62" text="[P15] B. Puter - turnover (ball handling, 2 TO). A. Makurat - steal (2 ST)" team="2" time="03:15" />
+    <LINE num="61" text="[P16] M. Szkop - turnover (other, 1 TO)" team="1" time="03:30" />
+    <LINE num="60" text="[P15] Substitution - L. Banaszak OUT, M. Leszczyńska IN" team="2" time="03:30" />
+    <LINE num="59" text="[P15] Substitution - A. Iwaniuk OUT, K. Olęcka IN" team="2" time="03:30" />
+    <LINE num="58" text="[P16] Substitution - K. Szydłowska OUT, N. Ryng IN" team="1" time="03:30" />
+    <LINE num="57" text="[P15] Timeout" team="2" time="03:30" />
+    <LINE num="56" text="[P15] B. Puter - personal  foul (1 PF, 2nd team foul). Foul drawn: M. Szkop" team="2" time="03:30" />
+    <LINE num="55" text="[P15] A. Iwaniuk - 3pt jump shot made (fast break, 3 Pts). O. Trzeciak - assist (1 AS)" team="2" time="03:49" scoreA="7" scoreB="3" />
+    <LINE num="54" text="[P16] A. Makurat - turnover (bad pass, 2 TO). O. Trzeciak - steal (1 ST)" team="1" time="03:56" />
+    <LINE num="53" text="[P15] L. Banaszak - 2pt lay-up missed. A. Wińkowska - defensive rebound (2 REB)" team="2" time="04:08" />
+    <LINE num="52" text="[P16] K. Szydłowska - turnover (bad pass, 1 TO). L. Banaszak - steal (1 ST)" team="1" time="04:13" />
+    <LINE num="51" text="[P15] B. Puter - turnover (bad pass, 1 TO). M. Szkop - steal (1 ST)" team="2" time="04:21" />
+    <LINE num="50" text="[P16] M. Szkop - 2pt jump shot missed. B. Puter - defensive rebound (1 REB)" team="1" time="04:30" />
+    <LINE num="49" text="[P15] A. Iwaniuk - turnover (bad pass, 2 TO). K. Szydłowska - steal (1 ST)" team="2" time="04:40" />
+    <LINE num="48" text="[P16] K. Szydłowska - 3pt jump shot missed. A. Wojtala - defensive rebound (1 REB)" team="1" time="04:48" />
+    <LINE num="47" text="[P15] O. Trzeciak - 2pt jump shot missed. K. Stefańczyk - defensive rebound (1 REB)" team="2" time="05:03" />
+    <LINE num="46" text="[P15] B. Puter - 3pt jump shot missed. A. Iwaniuk - offensive rebound (2 REB)" team="2" time="05:06" />
+    <LINE num="45" text="[P16] K. Stefańczyk - turnover (bad pass, 1 TO). A. Wojtala - steal (2 ST)" team="1" time="05:16" />
+    <LINE num="44" text="[P15] A. Iwaniuk - free throw missed. A. Wińkowska - defensive rebound (1 REB)" team="2" time="05:24" />
+    <LINE num="43" text="[P15] A. Iwaniuk - free throw missed" team="2" time="05:24" />
+    <LINE num="42" text="[P15] Substitution - N. Popiół OUT, B. Puter IN" team="2" time="05:24" />
+    <LINE num="41" text="[P16] Substitution - J. Niełacna OUT, A. Wińkowska IN" team="1" time="05:24" />
+    <LINE num="40" text="[P16] A. Makurat - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: A. Iwaniuk" team="1" time="05:24" />
+    <LINE num="39" text="[P15] L. Banaszak - 2pt jump shot missed. K. Szydłowska - defensive rebound (2 REB)" team="2" time="05:46" />
+    <LINE num="38" text="[P16] A. Makurat - 3pt jump shot made (3 Pts)" team="1" time="06:07" scoreA="7" scoreB="0" />
+    <LINE num="37" text="[P15] N. Popiół - free throw missed. J. Niełacna - defensive rebound (5 REB)" team="2" time="06:25" />
+    <LINE num="36" text="[P15] N. Popiół - free throw missed" team="2" time="06:25" />
+    <LINE num="35" text="[P16] Substitution - B. Zieniewska OUT, K. Stefańczyk IN" team="1" time="06:25" />
+    <LINE num="34" text="[P16] B. Zieniewska - personal shooting foul (1 PF, 3rd team foul). 2 free throws awarded. Foul drawn: N. Popiół" team="1" time="06:25" />
+    <LINE num="33" text="[P16] Substitution - K. Matkowska OUT, M. Szkop IN" team="1" time="06:38" />
+    <LINE num="32" text="[P16] K. Matkowska - personal  foul (1 PF, 2nd team foul). Foul drawn: A. Wojtala" team="1" time="06:38" />
+    <LINE num="31" text="[P16] B. Zieniewska - 3pt jump shot missed. O. Trzeciak - defensive rebound (2 REB)" team="1" time="06:42" />
+    <LINE num="30" text="[P15] L. Banaszak - 2pt jump shot missed. J. Niełacna - defensive rebound (4 REB)" team="2" time="06:59" />
+    <LINE num="29" text="[P16] J. Niełacna - 2pt jump shot missed. O. Trzeciak - defensive rebound (1 REB)" team="1" time="07:13" />
+    <LINE num="28" text="[P16] K. Matkowska - 2pt jump shot missed. J. Niełacna - offensive rebound (3 REB)" team="1" time="07:18" />
+    <LINE num="27" text="[P15] A. Iwaniuk - turnover (bad pass, 1 TO). B. Zieniewska - steal (1 ST)" team="2" time="07:25" />
+    <LINE num="26" text="[P16] A. Makurat - turnover (out of bounds, 1 TO)" team="1" time="07:34" />
+    <LINE num="25" text="[P15] L. Banaszak - 2pt jump shot blocked. K. Szydłowska - block (2 BS). A. Makurat - defensive rebound (1 REB)" team="2" time="07:42" />
+    <LINE num="24" text="[P16] K. Szydłowska - personal  foul (1 PF, 1st team foul). Foul drawn: L. Banaszak" team="1" time="07:53" />
+    <LINE num="23" text="[P16] B. Zieniewska - turnover (out of bounds, 2 TO)" team="1" time="08:02" />
+    <LINE num="22" text="[P15] A. Iwaniuk - 2pt jump shot missed. K. Matkowska - defensive rebound (1 REB)" team="2" time="08:11" />
+    <LINE num="21" text="[P16] B. Zieniewska - turnover (bad pass, 1 TO). A. Wojtala - steal (1 ST)" team="1" time="08:27" />
+    <LINE num="20" text="[P15] A. Wojtala - turnover (bad pass, 1 TO). A. Makurat - steal (1 ST)" team="2" time="08:35" />
+    <LINE num="19" text="[P16] A. Makurat - 3pt jump shot missed. A. Iwaniuk - defensive rebound (1 REB)" team="1" time="08:44" />
+    <LINE num="18" text="[P15] N. Popiół - 2pt jump shot missed. K. Szydłowska - defensive rebound (1 REB)" team="2" time="09:04" />
+    <LINE num="17" text="[P16] K. Matkowska - free throw made (2 Pts)" team="1" time="09:07" scoreA="4" scoreB="0" />
+    <LINE num="16" text="[P16] K. Matkowska - free throw made (1 Pts)" team="1" time="09:07" scoreA="3" scoreB="0" />
+    <LINE num="15" text="[P15] A. Wojtala - personal shooting foul (1 PF, 1st team foul). 2 free throws awarded. Foul drawn: K. Matkowska" team="2" time="09:07" />
+    <LINE num="14" text="[P15] A. Iwaniuk - 2pt lay-up blocked. K. Szydłowska - block (1 BS). J. Niełacna - defensive rebound (2 REB)" team="2" time="09:13" />
+    <LINE num="13" text="[P16] J. Niełacna - 2pt jump shot made (2 Pts). A. Makurat - assist (1 AS)" team="1" time="09:27" scoreA="2" scoreB="0" />
+    <LINE num="12" text="[P16] K. Szydłowska - 2pt jump shot missed. J. Niełacna - offensive rebound (1 REB)" team="1" time="09:35" />
+    <LINE num="11" text="[P15] Substitution - O. Trzeciak IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[P15] Substitution - L. Banaszak IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[P15] Substitution - A. Iwaniuk IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[P15] Substitution - N. Popiół IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[P15] Substitution - A. Wojtala IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[P16] Substitution - J. Niełacna IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[P16] Substitution - K. Szydłowska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[P16] Substitution - A. Makurat IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[P16] Substitution - B. Zieniewska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[P16] Substitution - K. Matkowska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

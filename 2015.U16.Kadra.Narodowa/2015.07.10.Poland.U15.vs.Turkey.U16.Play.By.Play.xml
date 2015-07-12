@@ -1,0 +1,371 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="IV Memoriał Małgorzaty Dydek" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="93.5867">
+    <TEAM name="Polska U15" logo="" pts="62" fouls="2" />
+    <TEAM name="Turcja U16" logo="" pts="73" fouls="3" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="13" scoreB="24" />
+      <QUARTER n="2" scoreA="17" scoreB="14" />
+      <QUARTER n="3" scoreA="20" scoreB="13" />
+      <QUARTER n="4" scoreA="12" scoreB="22" />
+    </QUARTERS>
+  </HEADER>
+  <TICKER text="Y. Taşar [TUR] - 5 turnovers" duration="31.1883">
+    <ITEM text="Polska U15 - 45.0% FT (9/20)" />
+  </TICKER>
+  <OVERVIEW duration="31.2194" />
+  <PLAYBYPLAY duration="171.5715">
+    <LINE num="340" text="END OF GAME" team="0" time="00:00" />
+    <LINE num="339" text="End of quarter 4" team="0" time="00:00" />
+    <LINE num="338" text="[TUR] S. Ülbe - 3pt jump shot missed. N. Popiół - defensive rebound (4 REB)" team="2" time="00:05" />
+    <LINE num="337" text="[P15] W. Kośla - personal  foul (1 PF, 2nd team foul). Foul drawn: Ö. Kalbisağde" team="1" time="00:11" />
+    <LINE num="336" text="[P15] O. Lemańska - 2pt tip-in made (4 Pts)" team="1" time="00:20" scoreA="62" scoreB="73" />
+    <LINE num="335" text="[P15] N. Popiół - 2pt jump shot missed. O. Lemańska - offensive rebound (5 REB)" team="1" time="00:25" />
+    <LINE num="334" text="[TUR] G. Uğur - turnover (bad pass, 2 TO). W. Kośla - steal (2 ST)" team="2" time="00:36" />
+    <LINE num="333" text="[P15] W. Kośla - turnover (ball handling, 3 TO). Ö. Kalbisağde - steal (2 ST)" team="1" time="00:42" />
+    <LINE num="332" text="[TUR] Ö. Kalbisağde - turnover (ball handling, 2 TO). N. Popiół - steal (1 ST)" team="2" time="00:51" />
+    <LINE num="331" text="[P15] A. Piasecka - 2pt tip-in made (4 Pts)" team="1" time="01:04" scoreA="60" scoreB="73" />
+    <LINE num="330" text="[P15] O. Lemańska - 2pt jump shot missed. A. Piasecka - offensive rebound (4 REB)" team="1" time="01:07" />
+    <LINE num="329" text="[TUR] G. Uğur - turnover (out of bounds, 1 TO)" team="2" time="01:26" />
+    <LINE num="328" text="[P15] O. Trzeciak - 2pt lay-up made (fast break, 8 Pts)" team="1" time="01:44" scoreA="58" scoreB="73" />
+    <LINE num="327" text="[TUR] G. Uğur - 3pt jump shot missed. O. Lemańska - defensive rebound (4 REB)" team="2" time="01:50" />
+    <LINE num="326" text="[P15] N. Popiół - free throw missed. Team defensive rebound" team="1" time="02:07" />
+    <LINE num="325" text="[P15] N. Popiół - free throw missed" team="1" time="02:07" />
+    <LINE num="324" text="[TUR] B. Soysal - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: N. Popiół" team="2" time="02:07" />
+    <LINE num="323" text="[TUR] G. Uğur - 3pt jump shot made (6 Pts). Ö. Kalbisağde - assist (1 AS)" team="2" time="02:16" scoreA="56" scoreB="73" />
+    <LINE num="322" text="[P15] A. Piasecka - turnover (ball handling, 3 TO). G. Uğur - steal (2 ST)" team="1" time="02:26" />
+    <LINE num="321" text="[P15] O. Lemańska - 2pt jump shot missed. A. Piasecka - offensive rebound (3 REB)" team="1" time="02:30" />
+    <LINE num="320" text="[TUR] S. Ülbe - 3pt jump shot missed. N. Popiół - defensive rebound (3 REB)" team="2" time="02:41" />
+    <LINE num="319" text="[TUR] Substitution - Ş. Gül OUT, S. Ülbe IN" team="2" time="02:56" />
+    <LINE num="318" text="[TUR] Substitution - Z. Maden OUT, G. Uğur IN" team="2" time="02:56" />
+    <LINE num="317" text="[P15] Substitution - A. Iwaniuk OUT, A. Piasecka IN" team="1" time="02:56" />
+    <LINE num="316" text="[P15] A. Iwaniuk - free throw made (17 Pts)" team="1" time="02:56" scoreA="56" scoreB="70" />
+    <LINE num="315" text="[P15] A. Iwaniuk - free throw missed" team="1" time="02:56" />
+    <LINE num="314" text="[TUR] Z. Maden - personal shooting foul (2 PF, 2nd team foul). 2 free throws awarded. Foul drawn: A. Iwaniuk" team="2" time="02:56" />
+    <LINE num="313" text="[TUR] B. Soysal - turnover (bad pass, 1 TO). A. Iwaniuk - steal (2 ST)" team="2" time="02:59" />
+    <LINE num="312" text="[TUR] Ö. Kalbisağde - 2pt lay-up missed. B. Soysal - offensive rebound (1 REB)" team="2" time="03:05" />
+    <LINE num="311" text="[TUR] Z. Maden - 2pt jump shot missed. Ö. Kalbisağde - offensive rebound (1 REB)" team="2" time="03:13" />
+    <LINE num="310" text="[TUR] Z. Maden - 2pt lay-up missed. Z. Maden - offensive rebound (4 REB)" team="2" time="03:18" />
+    <LINE num="309" text="[TUR] Substitution - İ. Güner OUT, Ö. Kalbisağde IN" team="2" time="03:30" />
+    <LINE num="308" text="[TUR] Substitution - B. Turan OUT, B. Soysal IN" team="2" time="03:30" />
+    <LINE num="307" text="[TUR] Substitution - E. Şahin OUT, G. Sakallı IN" team="2" time="03:30" />
+    <LINE num="306" text="[P15] W. Kośla - 2pt jump shot missed. Team defensive rebound" team="1" time="03:32" />
+    <LINE num="305" text="[TUR] İ. Güner - 2pt jump shot made (23 Pts). B. Turan - assist (1 AS)" team="2" time="03:50" scoreA="55" scoreB="70" />
+    <LINE num="304" text="[P15] O. Lemańska - 2pt jump shot missed. İ. Güner - defensive rebound (16 REB)" team="1" time="04:07" />
+    <LINE num="303" text="[P15] N. Popiół - 2pt jump shot missed. Team offensive rebound" team="1" time="04:11" />
+    <LINE num="302" text="[P15] A. Iwaniuk - 3pt jump shot missed. N. Popiół - offensive rebound (2 REB)" team="1" time="04:15" />
+    <LINE num="301" text="[TUR] B. Turan - 2pt jump shot missed. O. Lemańska - defensive rebound (3 REB)" team="2" time="04:28" />
+    <LINE num="300" text="[P15] A. Iwaniuk - turnover (bad pass, 4 TO). Z. Maden - steal (3 ST)" team="1" time="04:33" />
+    <LINE num="299" text="[P15] N. Popiół - free throw missed. Team offensive rebound" team="1" time="04:45" />
+    <LINE num="298" text="[P15] N. Popiół - free throw made (1 Pts)" team="1" time="04:45" scoreA="55" scoreB="68" />
+    <LINE num="297" text="[TUR] İ. Güner - personal shooting foul (2 PF, 1st team foul). 2 free throws awarded. Foul drawn: N. Popiół" team="2" time="04:45" />
+    <LINE num="296" text="[TUR] Z. Maden - 2pt jump shot missed. Team defensive rebound" team="2" time="04:56" />
+    <LINE num="295" text="[TUR] Substitution - Y. Taşar OUT, Z. Maden IN" team="2" time="05:01" />
+    <LINE num="294" text="[P15] Substitution - B. Puter OUT, A. Iwaniuk IN" team="1" time="05:01" />
+    <LINE num="293" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="1" time="05:01" />
+    <LINE num="292" text="[TUR] Ş. Gül - 2pt jump shot missed. Team offensive rebound" team="2" time="05:03" />
+    <LINE num="291" text="[P15] O. Trzeciak - 2pt jump shot missed. Ş. Gül - defensive rebound (3 REB)" team="1" time="05:21" />
+    <LINE num="290" text="[TUR] B. Turan - 3pt jump shot made (8 Pts). Y. Taşar - assist (2 AS)" team="2" time="05:36" scoreA="54" scoreB="68" />
+    <LINE num="289" text="[P15] O. Lemańska - 2pt jump shot made (2 Pts)" team="1" time="05:59" scoreA="54" scoreB="65" />
+    <LINE num="288" text="[TUR] İ. Güner - 2pt jump shot made (21 Pts). Ş. Gül - assist (3 AS)" team="2" time="06:12" scoreA="52" scoreB="65" />
+    <LINE num="287" text="[P15] A. Wojtala - 2pt lay-up missed. E. Şahin - defensive rebound (3 REB)" team="1" time="06:27" />
+    <LINE num="286" text="[TUR] E. Şahin - 2pt jump shot missed. O. Trzeciak - defensive rebound (6 REB)" team="2" time="06:35" />
+    <LINE num="285" text="[P15] Substitution - L. Banaszak OUT, O. Lemańska IN" team="1" time="06:44" />
+    <LINE num="284" text="[P15] Substitution - K. Gzinka OUT, N. Popiół IN" team="1" time="06:44" />
+    <LINE num="283" text="[P15] L. Banaszak - 3pt jump shot missed. Team defensive rebound" team="1" time="06:47" />
+    <LINE num="282" text="[TUR] İ. Güner - 2pt lay-up made (fast break, 19 Pts). E. Şahin - assist (3 AS)" team="2" time="07:03" scoreA="52" scoreB="63" />
+    <LINE num="281" text="[P15] O. Trzeciak - 3pt jump shot missed. E. Şahin - defensive rebound (2 REB)" team="1" time="07:08" />
+    <LINE num="280" text="[TUR] B. Turan - 3pt jump shot made (5 Pts). İ. Güner - assist (2 AS)" team="2" time="07:23" scoreA="52" scoreB="61" />
+    <LINE num="279" text="[P15] B. Puter - 2pt driving lay-up missed. B. Turan - defensive rebound (2 REB)" team="1" time="07:37" />
+    <LINE num="278" text="[P15] Timeout" team="1" time="07:50" />
+    <LINE num="277" text="[TUR] Y. Taşar - 3pt jump shot made (12 Pts)" team="2" time="07:53" scoreA="52" scoreB="58" />
+    <LINE num="276" text="[P15] A. Wojtala - 3pt jump shot missed. İ. Güner - defensive rebound (15 REB)" team="1" time="08:03" />
+    <LINE num="275" text="[TUR] İ. Güner - 2pt lay-up made (17 Pts)" team="2" time="08:17" scoreA="52" scoreB="55" />
+    <LINE num="274" text="[P15] K. Gzinka - 2pt jump shot missed. İ. Güner - defensive rebound (14 REB)" team="1" time="08:33" />
+    <LINE num="273" text="[TUR] İ. Güner - free throw made (15 Pts)" team="2" time="08:56" scoreA="52" scoreB="53" />
+    <LINE num="272" text="[TUR] İ. Güner - free throw made (14 Pts)" team="2" time="08:56" scoreA="52" scoreB="52" />
+    <LINE num="271" text="[P15] K. Gzinka - personal shooting foul (2 PF, 1st team foul). 2 free throws awarded. Foul drawn: İ. Güner" team="1" time="08:56" />
+    <LINE num="270" text="[P15] L. Banaszak - 2pt tip-in made (11 Pts)" team="1" time="09:12" scoreA="52" scoreB="51" />
+    <LINE num="269" text="[P15] K. Gzinka - 2pt lay-up missed. L. Banaszak - offensive rebound (6 REB)" team="1" time="09:17" />
+    <LINE num="268" text="[TUR] İ. Güner - 2pt jump shot missed. Team defensive rebound" team="2" time="09:34" />
+    <LINE num="267" text="[P15] L. Banaszak - 2pt driving lay-up missed. Y. Taşar - defensive rebound (4 REB)" team="1" time="09:51" />
+    <LINE num="266" text="[TUR] Substitution - Ö. Kalbisağde OUT, Ş. Gül IN" team="2" time="10:00" />
+    <LINE num="265" text="[TUR] Substitution - D. Taşman OUT, İ. Güner IN" team="2" time="10:00" />
+    <LINE num="264" text="[TUR] Substitution - G. Uğur OUT, E. Şahin IN" team="2" time="10:00" />
+    <LINE num="263" text="Start of quarter 4" team="0" time="10:00" />
+    <LINE num="262" text="End of quarter 3" team="0" time="00:00" />
+    <LINE num="261" text="[TUR] Y. Taşar - 3pt jump shot made (fast break, 9 Pts)" team="2" time="00:03" scoreA="50" scoreB="51" />
+    <LINE num="260" text="[P15] L. Banaszak - turnover (travelling, 3 TO)" team="1" time="00:03" />
+    <LINE num="259" text="[P15] Timeout" team="1" time="00:04" />
+    <LINE num="258" text="[TUR] G. Uğur - 3pt jump shot missed. Team defensive rebound" team="2" time="00:06" />
+    <LINE num="257" text="[P15] K. Gzinka - personal  foul (1 PF, 2nd team foul). Foul drawn: Y. Taşar" team="1" time="00:14" />
+    <LINE num="256" text="[P15] L. Banaszak - free throw made (9 Pts)" team="1" time="00:20" scoreA="50" scoreB="48" />
+    <LINE num="255" text="[TUR] B. Turan - personal shooting foul (2 PF, 6th team foul). One free throw awarded. Foul drawn: L. Banaszak" team="2" time="00:20" />
+    <LINE num="254" text="[P15] L. Banaszak - 2pt driving lay-up made (8 Pts)" team="1" time="00:20" scoreA="49" scoreB="48" />
+    <LINE num="253" text="[TUR] Y. Taşar - 2pt jump shot made (6 Pts)" team="2" time="00:34" scoreA="47" scoreB="48" />
+    <LINE num="252" text="[P15] A. Wojtala - free throw made (4 Pts)" team="1" time="00:54" scoreA="47" scoreB="46" />
+    <LINE num="251" text="[P15] A. Wojtala - free throw missed" team="1" time="00:54" />
+    <LINE num="250" text="[P15] Substitution - A. Iwaniuk OUT, K. Gzinka IN" team="1" time="00:54" />
+    <LINE num="249" text="[TUR] D. Taşman - personal shooting foul (1 PF, 5th team foul). 2 free throws awarded. Foul drawn: A. Wojtala" team="2" time="00:54" />
+    <LINE num="248" text="[TUR] Y. Taşar - turnover (ball handling, 5 TO). B. Puter - steal (1 ST)" team="2" time="01:01" />
+    <LINE num="247" text="[P15] L. Banaszak - turnover (bad pass, 2 TO). Ö. Kalbisağde - steal (1 ST)" team="1" time="01:08" />
+    <LINE num="246" text="[P15] A. Iwaniuk - 2pt jump shot missed. L. Banaszak - offensive rebound (5 REB)" team="1" time="01:13" />
+    <LINE num="245" text="[TUR] Substitution - Z. Maden OUT, Ö. Kalbisağde IN" team="2" time="01:23" />
+    <LINE num="244" text="[TUR] B. Turan - turnover (travelling, 1 TO)" team="2" time="01:23" />
+    <LINE num="243" text="[TUR] G. Uğur - 2pt jump shot missed. B. Turan - offensive rebound (1 REB)" team="2" time="01:28" />
+    <LINE num="242" text="[TUR] D. Taşman - 2pt jump shot missed. G. Uğur - offensive rebound (3 REB)" team="2" time="01:32" />
+    <LINE num="241" text="[TUR] Z. Maden - 2pt jump shot missed. Team offensive rebound" team="2" time="01:41" />
+    <LINE num="240" text="[P15] L. Banaszak - 2pt jump shot made (6 Pts)" team="1" time="02:03" scoreA="46" scoreB="46" />
+    <LINE num="239" text="[TUR] Substitution - K. Turan OUT, B. Turan IN" team="2" time="02:26" />
+    <LINE num="238" text="[P15] Substitution - M. Leszczyńska OUT, L. Banaszak IN" team="1" time="02:26" />
+    <LINE num="237" text="[TUR] K. Turan - personal  foul (3 PF, 4th team foul). Foul drawn: M. Leszczyńska" team="2" time="02:26" />
+    <LINE num="236" text="[TUR] K. Turan - turnover (ball handling, 2 TO). M. Leszczyńska - steal (1 ST)" team="2" time="02:28" />
+    <LINE num="235" text="[P15] M. Leszczyńska - 2pt jump shot missed. Team defensive rebound" team="1" time="02:50" />
+    <LINE num="234" text="[TUR] K. Turan - 3pt jump shot missed. Team defensive rebound" team="2" time="03:08" />
+    <LINE num="233" text="[TUR] Substitution - Ö. Taşkın OUT, D. Taşman IN" team="2" time="03:17" />
+    <LINE num="232" text="[TUR] Substitution - G. Sakallı OUT, K. Turan IN" team="2" time="03:17" />
+    <LINE num="231" text="[TUR] Substitution - İ. Güner OUT, Y. Taşar IN" team="2" time="03:17" />
+    <LINE num="230" text="[TUR] Timeout" team="2" time="03:17" />
+    <LINE num="229" text="[P15] M. Leszczyńska - 2pt jump shot made (8 Pts). A. Wojtala - assist (1 AS)" team="1" time="03:21" scoreA="44" scoreB="46" />
+    <LINE num="228" text="[TUR] G. Sakallı - 3pt jump shot missed. A. Wojtala - defensive rebound (1 REB)" team="2" time="03:30" />
+    <LINE num="227" text="[P15] O. Trzeciak - 2pt jump shot missed. Ö. Taşkın - defensive rebound (2 REB)" team="1" time="03:46" />
+    <LINE num="226" text="[TUR] G. Uğur - 2pt lay-up missed. O. Trzeciak - defensive rebound (5 REB)" team="2" time="04:17" />
+    <LINE num="225" text="[P15] A. Wojtala - 3pt jump shot made (3 Pts)" team="1" time="04:36" scoreA="42" scoreB="46" />
+    <LINE num="224" text="[TUR] Z. Maden - free throw made (9 Pts)" team="2" time="04:55" scoreA="39" scoreB="46" />
+    <LINE num="223" text="[P15] Substitution - A. Piasecka OUT, B. Puter IN" team="1" time="04:55" />
+    <LINE num="222" text="[P15] A. Piasecka - personal shooting foul (1 PF, 1st team foul). One free throw awarded. Foul drawn: Z. Maden" team="1" time="04:55" />
+    <LINE num="221" text="[TUR] Z. Maden - 2pt lay-up made (8 Pts)" team="2" time="04:55" scoreA="39" scoreB="45" />
+    <LINE num="220" text="[P15] A. Wojtala - turnover (travelling, 2 TO)" team="1" time="05:05" />
+    <LINE num="219" text="[TUR] Ö. Taşkın - 2pt jump shot missed. O. Trzeciak - defensive rebound (4 REB)" team="2" time="05:16" />
+    <LINE num="218" text="[P15] Substitution - W. Kośla OUT, A. Wojtala IN" team="1" time="05:26" />
+    <LINE num="217" text="[P15] W. Kośla - turnover (travelling, 2 TO)" team="1" time="05:26" />
+    <LINE num="216" text="[P15] A. Iwaniuk - 3pt jump shot missed. Team offensive rebound" team="1" time="05:40" />
+    <LINE num="215" text="[P15] M. Leszczyńska - 2pt jump shot blocked. İ. Güner - block (2 BS). M. Leszczyńska - offensive rebound (3 REB)" team="1" time="05:46" />
+    <LINE num="214" text="[TUR] G. Uğur - 3pt jump shot made (3 Pts). Z. Maden - assist (2 AS)" team="2" time="05:58" scoreA="39" scoreB="43" />
+    <LINE num="213" text="[TUR] Substitution - Ş. Gül OUT, Ö. Taşkın IN" team="2" time="06:09" />
+    <LINE num="212" text="[TUR] Substitution - Y. Taşar OUT, G. Sakallı IN" team="2" time="06:09" />
+    <LINE num="211" text="[TUR] Substitution - E. Şahin OUT, G. Uğur IN" team="2" time="06:09" />
+    <LINE num="210" text="[TUR] Timeout" team="2" time="06:09" />
+    <LINE num="209" text="[P15] M. Leszczyńska - 2pt jump shot made (6 Pts). A. Piasecka - assist (3 AS)" team="1" time="06:13" scoreA="39" scoreB="40" />
+    <LINE num="208" text="[TUR] Z. Maden - 2pt lay-up missed. M. Leszczyńska - defensive rebound (2 REB)" team="2" time="06:26" />
+    <LINE num="207" text="[P15] A. Iwaniuk - turnover (bad pass, 3 TO). Z. Maden - steal (2 ST)" team="1" time="06:29" />
+    <LINE num="206" text="[TUR] Z. Maden - 3pt jump shot missed. A. Iwaniuk - defensive rebound (2 REB)" team="2" time="06:34" />
+    <LINE num="205" text="[TUR] İ. Güner - 2pt lay-up missed. Ş. Gül - offensive rebound (2 REB)" team="2" time="06:47" />
+    <LINE num="204" text="[P15] A. Iwaniuk - 2pt lay-up made (fast break, 16 Pts)" team="1" time="07:01" scoreA="37" scoreB="40" />
+    <LINE num="203" text="[TUR] E. Şahin - turnover (bad pass, 2 TO). A. Iwaniuk - steal (1 ST)" team="2" time="07:04" />
+    <LINE num="202" text="[TUR] Z. Maden - 2pt lay-up missed. Z. Maden - offensive rebound (3 REB)" team="2" time="07:14" />
+    <LINE num="201" text="[P15] W. Kośla - turnover (travelling, 1 TO)" team="1" time="07:19" />
+    <LINE num="200" text="[P15] O. Trzeciak - 2pt jump shot missed. W. Kośla - offensive rebound (2 REB)" team="1" time="07:27" />
+    <LINE num="199" text="[P15] A. Iwaniuk - 2pt jump shot missed. O. Trzeciak - offensive rebound (3 REB)" team="1" time="07:30" />
+    <LINE num="198" text="[TUR] E. Şahin - 2pt lay-up blocked. O. Trzeciak - block (1 BS). O. Trzeciak - defensive rebound (2 REB)" team="2" time="07:43" />
+    <LINE num="197" text="[P15] A. Iwaniuk - 3pt jump shot made (14 Pts). W. Kośla - assist (3 AS)" team="1" time="07:54" scoreA="35" scoreB="40" />
+    <LINE num="196" text="[TUR] Y. Taşar - personal  foul (2 PF, 3rd team foul). Foul drawn: A. Iwaniuk" team="2" time="08:10" />
+    <LINE num="195" text="[TUR] Z. Maden - personal  foul (1 PF, 2nd team foul). Foul drawn: O. Trzeciak" team="2" time="08:14" />
+    <LINE num="194" text="[TUR] Z. Maden - turnover (bad pass, 2 TO). W. Kośla - steal (1 ST)" team="2" time="08:18" />
+    <LINE num="193" text="[P15] M. Leszczyńska - 2pt lay-up made (4 Pts). W. Kośla - assist (2 AS)" team="1" time="08:33" scoreA="32" scoreB="40" />
+    <LINE num="192" text="[TUR] İ. Güner - 2pt jump shot made (13 Pts). Ş. Gül - assist (2 AS)" team="2" time="08:49" scoreA="30" scoreB="40" />
+    <LINE num="191" text="[P15] A. Piasecka - turnover (travelling, 2 TO)" team="1" time="09:00" />
+    <LINE num="190" text="[TUR] Ş. Gül - personal  foul (3 PF, 1st team foul). Foul drawn: O. Trzeciak" team="2" time="09:16" />
+    <LINE num="189" text="[TUR] Y. Taşar - turnover (bad pass, 4 TO). O. Trzeciak - steal (2 ST)" team="2" time="09:18" />
+    <LINE num="188" text="[TUR] Y. Taşar - 3pt jump shot missed. İ. Güner - offensive rebound (13 REB)" team="2" time="09:25" />
+    <LINE num="187" text="[P15] A. Iwaniuk - turnover (bad pass, 2 TO). Y. Taşar - steal (1 ST)" team="1" time="09:38" />
+    <LINE num="186" text="[P15] A. Piasecka - 2pt jump shot missed. Team offensive rebound" team="1" time="09:47" />
+    <LINE num="185" text="[TUR] Substitution - D. Taşman OUT, Ş. Gül IN" team="2" time="10:00" />
+    <LINE num="184" text="[TUR] Substitution - B. Turan OUT, İ. Güner IN" team="2" time="10:00" />
+    <LINE num="183" text="[TUR] Substitution - S. Ülbe OUT, Z. Maden IN" team="2" time="10:00" />
+    <LINE num="182" text="[TUR] Substitution - G. Uğur OUT, E. Şahin IN" team="2" time="10:00" />
+    <LINE num="181" text="[P15] Substitution - L. Banaszak OUT, M. Leszczyńska IN" team="1" time="10:00" />
+    <LINE num="180" text="[P15] Substitution - B. Puter OUT, O. Trzeciak IN" team="1" time="10:00" />
+    <LINE num="179" text="Start of quarter 3" team="0" time="10:00" />
+    <LINE num="178" text="End of quarter 2" team="0" time="00:00" />
+    <LINE num="177" text="[TUR] Y. Taşar - 3pt jump shot missed" team="2" time="00:01" />
+    <LINE num="176" text="[P15] Substitution - O. Lemańska OUT, B. Puter IN" team="1" time="00:02" />
+    <LINE num="175" text="[P15] L. Banaszak - 2pt tip-in made (4 Pts)" team="1" time="00:02" scoreA="30" scoreB="38" />
+    <LINE num="174" text="[P15] O. Lemańska - free throw missed. L. Banaszak - offensive rebound (4 REB)" team="1" time="00:05" />
+    <LINE num="173" text="[P15] O. Lemańska - free throw missed" team="1" time="00:05" />
+    <LINE num="172" text="[TUR] Y. Taşar - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: O. Lemańska" team="2" time="00:05" />
+    <LINE num="171" text="[TUR] G. Uğur - 3pt jump shot missed. L. Banaszak - defensive rebound (3 REB)" team="2" time="00:28" />
+    <LINE num="170" text="[P15] W. Kośla - 2pt lay-up missed. G. Uğur - defensive rebound (2 REB)" team="1" time="00:37" />
+    <LINE num="169" text="[TUR] Y. Taşar - 2pt jump shot made (4 Pts)" team="2" time="00:57" scoreA="28" scoreB="38" />
+    <LINE num="168" text="[P15] A. Iwaniuk - 2pt jump shot made (11 Pts). W. Kośla - assist (1 AS)" team="1" time="01:12" scoreA="28" scoreB="36" />
+    <LINE num="167" text="[P15] L. Banaszak - 2pt jump shot missed. Team offensive rebound" team="1" time="01:14" />
+    <LINE num="166" text="[TUR] S. Ülbe - 2pt jump shot missed. Team defensive rebound" team="2" time="01:31" />
+    <LINE num="165" text="[TUR] Substitution - Ö. Taşkın OUT, Y. Taşar IN" team="2" time="01:34" />
+    <LINE num="164" text="[P15] Timeout" team="1" time="01:34" />
+    <LINE num="163" text="[TUR] Substitution - K. Turan OUT, B. Turan IN" team="2" time="01:34" />
+    <LINE num="162" text="[P15] O. Lemańska - personal  foul (1 PF, 3rd team foul). Foul drawn: S. Ülbe" team="1" time="01:34" />
+    <LINE num="161" text="[P15] A. Iwaniuk - turnover (bad pass, 1 TO). K. Turan - steal (1 ST)" team="1" time="01:46" />
+    <LINE num="160" text="[TUR] Substitution - E. Şahin OUT, G. Uğur IN" team="2" time="01:59" />
+    <LINE num="159" text="[P15] Substitution - A. Wojtala OUT, W. Kośla IN" team="1" time="01:59" />
+    <LINE num="158" text="[TUR] K. Turan -  offensive foul (2 PF, 5th team foul). Foul drawn: A. Iwaniuk. K. Turan - turnover (offensive foul, 1 TO)" team="2" time="01:59" />
+    <LINE num="157" text="[P15] A. Wojtala - 2pt lay-up missed. Team defensive rebound" team="1" time="02:11" />
+    <LINE num="156" text="[TUR] Substitution - Ş. Gül OUT, D. Taşman IN" team="2" time="02:23" />
+    <LINE num="155" text="[TUR] Substitution - İ. Güner OUT, S. Ülbe IN" team="2" time="02:23" />
+    <LINE num="154" text="[TUR] K. Turan - personal  foul (1 PF, 4th team foul). Foul drawn: A. Piasecka" team="2" time="02:23" />
+    <LINE num="153" text="[TUR] Ş. Gül - 3pt jump shot missed. A. Piasecka - defensive rebound (2 REB)" team="2" time="02:26" />
+    <LINE num="152" text="[P15] A. Iwaniuk - 2pt jump shot made (9 Pts)" team="1" time="02:45" scoreA="26" scoreB="36" />
+    <LINE num="151" text="[TUR] Ş. Gül - 2pt jump shot made (7 Pts). İ. Güner - assist (1 AS)" team="2" time="03:01" scoreA="24" scoreB="36" />
+    <LINE num="150" text="[P15] A. Wojtala - free throw missed. İ. Güner - defensive rebound (12 REB)" team="1" time="03:16" />
+    <LINE num="149" text="[P15] A. Wojtala - free throw missed" team="1" time="03:16" />
+    <LINE num="148" text="[TUR] E. Şahin - personal shooting foul (2 PF, 3rd team foul). 2 free throws awarded. Foul drawn: A. Wojtala" team="2" time="03:16" />
+    <LINE num="147" text="[TUR] E. Şahin - 2pt lay-up missed. O. Lemańska - defensive rebound (2 REB)" team="2" time="03:38" />
+    <LINE num="146" text="[P15] L. Banaszak - 2pt jump shot made (2 Pts)" team="1" time="03:46" scoreA="24" scoreB="34" />
+    <LINE num="145" text="[TUR] Ş. Gül - 3pt jump shot made (5 Pts). E. Şahin - assist (2 AS)" team="2" time="04:08" scoreA="22" scoreB="34" />
+    <LINE num="144" text="[P15] Team turnover (24 seconds)" team="1" time="04:22" />
+    <LINE num="143" text="[P15] O. Lemańska - 2pt jump shot missed. O. Lemańska - offensive rebound (1 REB)" team="1" time="04:27" />
+    <LINE num="142" text="[TUR] Substitution - Ö. Kalbisağde OUT, Ö. Taşkın IN" team="2" time="04:39" />
+    <LINE num="141" text="[TUR] Substitution - Z. Maden OUT, K. Turan IN" team="2" time="04:39" />
+    <LINE num="140" text="[TUR] Substitution - Y. Taşar OUT, E. Şahin IN" team="2" time="04:39" />
+    <LINE num="139" text="[TUR] Y. Taşar - turnover (out of bounds, 3 TO)" team="2" time="04:39" />
+    <LINE num="138" text="[P15] A. Piasecka - 2pt jump shot made (fast break, 2 Pts). A. Iwaniuk - assist (1 AS)" team="1" time="04:57" scoreA="22" scoreB="31" />
+    <LINE num="137" text="[TUR] Ö. Kalbisağde - turnover (ball handling, 1 TO). O. Lemańska - steal (1 ST)" team="2" time="05:04" />
+    <LINE num="136" text="[P15] A. Iwaniuk - 3pt jump shot missed. İ. Güner - defensive rebound (11 REB)" team="1" time="05:15" />
+    <LINE num="135" text="[TUR] Z. Maden - 2pt lay-up missed. L. Banaszak - defensive rebound (2 REB)" team="2" time="05:28" />
+    <LINE num="134" text="[P15] Substitution - O. Trzeciak OUT, L. Banaszak IN" team="1" time="05:41" />
+    <LINE num="133" text="[P15] A. Iwaniuk - 2pt lay-up missed. Z. Maden - defensive rebound (2 REB)" team="1" time="05:47" />
+    <LINE num="132" text="[TUR] Ö. Kalbisağde - 2pt jump shot made (2 Pts). Y. Taşar - assist (1 AS)" team="2" time="06:06" scoreA="20" scoreB="31" />
+    <LINE num="131" text="[TUR] İ. Güner - 2pt jump shot missed. Ş. Gül - offensive rebound (1 REB)" team="2" time="06:13" />
+    <LINE num="130" text="[P15] A. Wojtala - 2pt jump shot missed. İ. Güner - defensive rebound (10 REB)" team="1" time="06:26" />
+    <LINE num="129" text="[P15] Substitution - K. Gzinka OUT, A. Iwaniuk IN" team="1" time="06:32" />
+    <LINE num="128" text="[P15] Timeout" team="1" time="06:32" />
+    <LINE num="127" text="[TUR] Z. Maden - 2pt lay-up made (fast break, 6 Pts)" team="2" time="06:36" scoreA="20" scoreB="29" />
+    <LINE num="126" text="[P15] O. Lemańska - turnover (ball handling, 1 TO). Z. Maden - steal (1 ST)" team="1" time="06:39" />
+    <LINE num="125" text="[TUR] İ. Güner - free throw made (11 Pts)" team="2" time="06:46" scoreA="20" scoreB="27" />
+    <LINE num="124" text="[P15] Substitution - M. Leszczyńska OUT, O. Lemańska IN" team="1" time="06:46" />
+    <LINE num="123" text="[P15] M. Leszczyńska - personal shooting foul (3 PF, 2nd team foul). One free throw awarded. Foul drawn: İ. Güner" team="1" time="06:46" />
+    <LINE num="122" text="[TUR] İ. Güner - 2pt jump shot made (10 Pts)" team="2" time="06:51" scoreA="20" scoreB="26" />
+    <LINE num="121" text="[TUR] İ. Güner - 2pt driving lay-up missed. İ. Güner - offensive rebound (9 REB)" team="2" time="06:57" />
+    <LINE num="120" text="[P15] A. Wojtala - 2pt jump shot missed. İ. Güner - defensive rebound (8 REB)" team="1" time="07:12" />
+    <LINE num="119" text="[TUR] Z. Maden - turnover (travelling, 1 TO)" team="2" time="07:25" />
+    <LINE num="118" text="[P15] M. Leszczyńska - 2pt tip-in made (2 Pts)" team="1" time="07:45" scoreA="20" scoreB="24" />
+    <LINE num="117" text="[P15] M. Leszczyńska - 2pt jump shot missed. M. Leszczyńska - offensive rebound (1 REB)" team="1" time="07:49" />
+    <LINE num="116" text="[TUR] Y. Taşar - turnover (bad pass, 2 TO). A. Piasecka - steal (1 ST)" team="2" time="08:00" />
+    <LINE num="115" text="[TUR] Substitution - B. Soysal OUT, Ö. Kalbisağde IN" team="2" time="08:04" />
+    <LINE num="114" text="[TUR] Substitution - B. Turan OUT, Ş. Gül IN" team="2" time="08:04" />
+    <LINE num="113" text="[TUR] Substitution - S. Ülbe OUT, İ. Güner IN" team="2" time="08:04" />
+    <LINE num="112" text="[TUR] Substitution - G. Uğur OUT, Y. Taşar IN" team="2" time="08:04" />
+    <LINE num="111" text="[TUR] Timeout" team="2" time="08:04" />
+    <LINE num="110" text="[P15] K. Gzinka - 2pt lay-up made (fast break, 2 Pts). A. Piasecka - assist (2 AS)" team="1" time="08:09" scoreA="18" scoreB="24" />
+    <LINE num="109" text="[TUR] S. Ülbe - 2pt jump shot missed. A. Piasecka - defensive rebound (1 REB)" team="2" time="08:15" />
+    <LINE num="108" text="[P15] M. Leszczyńska - personal  foul (2 PF, 1st team foul). Foul drawn: B. Soysal" team="1" time="08:18" />
+    <LINE num="107" text="[TUR] B. Turan - 3pt jump shot missed. Team offensive rebound" team="2" time="08:23" />
+    <LINE num="106" text="[P15] O. Trzeciak - 3pt jump shot made (6 Pts). A. Piasecka - assist (1 AS)" team="1" time="08:55" scoreA="16" scoreB="24" />
+    <LINE num="105" text="[TUR] B. Soysal - personal  foul (1 PF, 2nd team foul). Foul drawn: M. Leszczyńska" team="2" time="09:12" />
+    <LINE num="104" text="[TUR] B. Turan - personal  foul (1 PF, 1st team foul). Foul drawn: A. Wojtala" team="2" time="09:19" />
+    <LINE num="103" text="[TUR] Z. Maden - 3pt jump shot missed. O. Trzeciak - defensive rebound (1 REB)" team="2" time="09:38" />
+    <LINE num="102" text="[TUR] Substitution - Y. Taşar OUT, Z. Maden IN" team="2" time="10:00" />
+    <LINE num="101" text="Start of quarter 2" team="0" time="10:00" />
+    <LINE num="100" text="End of quarter 1" team="0" time="00:00" />
+    <LINE num="99" text="[TUR] S. Ülbe - 2pt jump shot missed" team="2" time="00:03" />
+    <LINE num="98" text="[P15] A. Wojtala - 2pt jump shot missed. Y. Taşar - defensive rebound (3 REB)" team="1" time="00:14" />
+    <LINE num="97" text="[TUR] Y. Taşar - 2pt jump shot missed. K. Gzinka - defensive rebound (1 REB)" team="2" time="00:33" />
+    <LINE num="96" text="[P15] A. Piasecka - turnover (ball handling, 1 TO). G. Uğur - steal (1 ST)" team="1" time="00:37" />
+    <LINE num="95" text="[TUR] B. Turan - 2pt lay-up made (2 Pts). G. Uğur - assist (1 AS)" team="2" time="00:57" scoreA="13" scoreB="24" />
+    <LINE num="94" text="[P15] Substitution - B. Puter OUT, A. Piasecka IN" team="1" time="00:59" />
+    <LINE num="93" text="[TUR] Y. Taşar - 2pt jump shot missed. Team offensive rebound" team="2" time="01:01" />
+    <LINE num="92" text="[TUR] Y. Taşar - 2pt lay-up missed. G. Uğur - offensive rebound (1 REB)" team="2" time="01:06" />
+    <LINE num="91" text="[P15] M. Leszczyńska - 2pt jump shot missed. S. Ülbe - defensive rebound (2 REB)" team="1" time="01:27" />
+    <LINE num="90" text="[TUR] Substitution - İ. Güner OUT, B. Soysal IN" team="2" time="01:45" />
+    <LINE num="89" text="[TUR] Y. Taşar - 2pt driving lay-up made (2 Pts)" team="2" time="02:01" scoreA="13" scoreB="22" />
+    <LINE num="88" text="[P15] M. Leszczyńska - 2pt lay-up missed. İ. Güner - defensive rebound (7 REB)" team="1" time="02:21" />
+    <LINE num="87" text="[TUR] Substitution - K. Turan OUT, B. Turan IN" team="2" time="02:31" />
+    <LINE num="86" text="[TUR] Substitution - E. Şahin OUT, G. Uğur IN" team="2" time="02:31" />
+    <LINE num="85" text="[TUR] K. Turan - 3pt jump shot missed. Team defensive rebound" team="2" time="02:34" />
+    <LINE num="84" text="[TUR] K. Turan - 2pt lay-up missed. Y. Taşar - offensive rebound (2 REB)" team="2" time="02:40" />
+    <LINE num="83" text="[P15] M. Leszczyńska - 2pt lay-up blocked. S. Ülbe - block (1 BS). İ. Güner - defensive rebound (6 REB)" team="1" time="02:47" />
+    <LINE num="82" text="[TUR] İ. Güner - 2pt lay-up made (8 Pts)" team="2" time="02:56" scoreA="13" scoreB="20" />
+    <LINE num="81" text="[TUR] İ. Güner - 2pt jump shot missed. İ. Güner - offensive rebound (5 REB)" team="2" time="03:00" />
+    <LINE num="80" text="[TUR] S. Ülbe - 2pt jump shot missed. İ. Güner - offensive rebound (4 REB)" team="2" time="03:05" />
+    <LINE num="79" text="[TUR] Y. Taşar - 2pt lay-up missed. S. Ülbe - offensive rebound (1 REB)" team="2" time="03:09" />
+    <LINE num="78" text="[P15] Substitution - L. Banaszak OUT, M. Leszczyńska IN" team="1" time="03:16" />
+    <LINE num="77" text="[P15] B. Puter - turnover (out of bounds, 1 TO)" team="1" time="03:16" />
+    <LINE num="76" text="[TUR] Y. Taşar - turnover (bad pass, 1 TO). L. Banaszak - steal (1 ST)" team="2" time="03:25" />
+    <LINE num="75" text="[TUR] İ. Güner - 2pt lay-up missed. Y. Taşar - offensive rebound (1 REB)" team="2" time="03:31" />
+    <LINE num="74" text="[TUR] Substitution - Ş. Gül OUT, S. Ülbe IN" team="2" time="03:45" />
+    <LINE num="73" text="[TUR] Substitution - Z. Maden OUT, Y. Taşar IN" team="2" time="03:45" />
+    <LINE num="72" text="[P15] A. Wojtala - turnover (out of bounds, 1 TO)" team="1" time="03:45" />
+    <LINE num="71" text="[TUR] İ. Güner - 2pt jump shot made (fast break, 6 Pts). Ş. Gül - assist (1 AS)" team="2" time="03:52" scoreA="13" scoreB="18" />
+    <LINE num="70" text="[P15] L. Banaszak - turnover (bad pass, 1 TO). İ. Güner - steal (1 ST)" team="1" time="03:58" />
+    <LINE num="69" text="[TUR] Z. Maden - 2pt jump shot missed. Team defensive rebound" team="2" time="04:12" />
+    <LINE num="68" text="[TUR] İ. Güner - 2pt jump shot missed. Z. Maden - offensive rebound (1 REB)" team="2" time="04:17" />
+    <LINE num="67" text="[P15] B. Puter - 2pt lay-up made (3 Pts)" team="1" time="04:33" scoreA="13" scoreB="16" />
+    <LINE num="66" text="[TUR] Z. Maden - free throw made (4 Pts)" team="2" time="04:55" scoreA="11" scoreB="16" />
+    <LINE num="65" text="[TUR] Z. Maden - free throw missed" team="2" time="04:55" />
+    <LINE num="64" text="[P15] Substitution - A. Iwaniuk OUT, K. Gzinka IN" team="1" time="04:55" />
+    <LINE num="63" text="[P15] Substitution - W. Kośla OUT, A. Wojtala IN" team="1" time="04:55" />
+    <LINE num="62" text="[P15] B. Puter - personal shooting foul (1 PF, 6th team foul). 2 free throws awarded. Foul drawn: Z. Maden" team="1" time="04:55" />
+    <LINE num="61" text="[P15] A. Iwaniuk - free throw made (7 Pts)" team="1" time="05:13" scoreA="11" scoreB="15" />
+    <LINE num="60" text="[TUR] İ. Güner - personal shooting foul (1 PF, 7th team foul). One free throw awarded. Foul drawn: A. Iwaniuk" team="2" time="05:13" />
+    <LINE num="59" text="[P15] A. Iwaniuk - 2pt lay-up made (6 Pts)" team="1" time="05:13" scoreA="10" scoreB="15" />
+    <LINE num="58" text="[TUR] İ. Güner - 2pt tip-in made (4 Pts)" team="2" time="05:29" scoreA="8" scoreB="15" />
+    <LINE num="57" text="[TUR] K. Turan - 2pt jump shot missed. İ. Güner - offensive rebound (3 REB)" team="2" time="05:34" />
+    <LINE num="56" text="[P15] A. Iwaniuk - free throw made (4 Pts)" team="1" time="05:49" scoreA="8" scoreB="13" />
+    <LINE num="55" text="[P15] A. Iwaniuk - free throw made (3 Pts)" team="1" time="05:49" scoreA="7" scoreB="13" />
+    <LINE num="54" text="[TUR] Substitution - Ö. Taşkın OUT, K. Turan IN" team="2" time="05:49" />
+    <LINE num="53" text="[TUR] Ö. Taşkın - personal shooting foul (3 PF, 6th team foul). 2 free throws awarded. Foul drawn: A. Iwaniuk" team="2" time="05:49" />
+    <LINE num="52" text="[TUR] Z. Maden - 3pt jump shot missed. W. Kośla - defensive rebound (1 REB)" team="2" time="05:53" />
+    <LINE num="51" text="[P15] B. Puter - 3pt jump shot missed. İ. Güner - defensive rebound (2 REB)" team="1" time="06:01" />
+    <LINE num="50" text="[TUR] Ö. Taşkın - 2pt lay-up made (4 Pts)" team="2" time="06:23" scoreA="6" scoreB="13" />
+    <LINE num="49" text="[P15] B. Puter - free throw made (1 Pts)" team="1" time="06:35" scoreA="6" scoreB="11" />
+    <LINE num="48" text="[P15] B. Puter - free throw missed" team="1" time="06:35" />
+    <LINE num="47" text="[TUR] Ş. Gül - personal shooting foul (2 PF, 5th team foul). 2 free throws awarded. Foul drawn: B. Puter" team="2" time="06:35" />
+    <LINE num="46" text="[P15] O. Trzeciak - free throw missed. B. Puter - offensive rebound (1 REB)" team="1" time="06:38" />
+    <LINE num="45" text="[P15] O. Trzeciak - free throw made (3 Pts)" team="1" time="06:38" scoreA="5" scoreB="11" />
+    <LINE num="44" text="[TUR] E. Şahin - personal shooting foul (1 PF, 4th team foul). 2 free throws awarded. Foul drawn: O. Trzeciak" team="2" time="06:38" />
+    <LINE num="43" text="[TUR] Ö. Taşkın - personal  foul (2 PF, 3rd team foul). Foul drawn: A. Iwaniuk" team="2" time="06:43" />
+    <LINE num="42" text="[P15] Substitution - M. Leszczyńska OUT, L. Banaszak IN" team="1" time="06:47" />
+    <LINE num="41" text="[TUR] Ş. Gül - personal  foul (1 PF, 2nd team foul). Foul drawn: O. Trzeciak" team="2" time="06:47" />
+    <LINE num="40" text="[TUR] E. Şahin - turnover (bad pass, 1 TO). O. Trzeciak - steal (1 ST)" team="2" time="06:51" />
+    <LINE num="39" text="[P15] A. Iwaniuk - 2pt lay-up missed. İ. Güner - defensive rebound (1 REB)" team="1" time="06:59" />
+    <LINE num="38" text="[TUR] E. Şahin - 2pt lay-up made (fast break, 2 Pts)" team="2" time="07:17" scoreA="4" scoreB="11" />
+    <LINE num="37" text="[P15] M. Leszczyńska - turnover (bad pass, 1 TO). E. Şahin - steal (1 ST)" team="1" time="07:20" />
+    <LINE num="36" text="[TUR] Ö. Taşkın - personal  foul (1 PF, 1st team foul). Foul drawn: A. Iwaniuk" team="2" time="07:23" />
+    <LINE num="35" text="[P15] Substitution - N. Popiół OUT, B. Puter IN" team="1" time="07:29" />
+    <LINE num="34" text="[TUR] Ö. Taşkın - free throw made (2 Pts)" team="2" time="07:29" scoreA="4" scoreB="9" />
+    <LINE num="33" text="[TUR] Ö. Taşkın - free throw made (1 Pts)" team="2" time="07:29" scoreA="4" scoreB="8" />
+    <LINE num="32" text="[P15] N. Popiół - personal shooting foul (3 PF, 5th team foul). 2 free throws awarded. Foul drawn: Ö. Taşkın" team="1" time="07:29" />
+    <LINE num="31" text="[P15] M. Leszczyńska - 2pt jump shot missed. Ö. Taşkın - defensive rebound (1 REB)" team="1" time="07:35" />
+    <LINE num="30" text="[TUR] Ö. Taşkın - 3pt jump shot missed. N. Popiół - defensive rebound (1 REB)" team="2" time="07:40" />
+    <LINE num="29" text="[P15] M. Leszczyńska - personal  foul (1 PF, 4th team foul). Foul drawn: İ. Güner" team="1" time="07:48" />
+    <LINE num="28" text="[P15] O. Trzeciak - 2pt lay-up made (2 Pts)" team="1" time="07:54" scoreA="4" scoreB="7" />
+    <LINE num="27" text="[TUR] İ. Güner - 2pt jump shot made (2 Pts). Z. Maden - assist (1 AS)" team="2" time="08:05" scoreA="2" scoreB="7" />
+    <LINE num="26" text="[P15] M. Leszczyńska - 2pt hook shot missed. Team defensive rebound" team="1" time="08:22" />
+    <LINE num="25" text="[P15] M. Leszczyńska - 2pt lay-up blocked. Ş. Gül - block (1 BS). Team offensive rebound" team="1" time="08:35" />
+    <LINE num="24" text="[TUR] Ş. Gül - 2pt jump shot missed. A. Iwaniuk - defensive rebound (1 REB)" team="2" time="08:42" />
+    <LINE num="23" text="[TUR] Ş. Gül - free throw missed. Team offensive rebound" team="2" time="08:53" />
+    <LINE num="22" text="[P15] N. Popiół - personal shooting foul (2 PF, 3rd team foul). One free throw awarded. Foul drawn: Ş. Gül" team="1" time="08:53" />
+    <LINE num="21" text="[TUR] Ş. Gül - 2pt jump shot made (2 Pts). E. Şahin - assist (1 AS)" team="2" time="08:57" scoreA="2" scoreB="5" />
+    <LINE num="20" text="[P15] Substitution - L. Banaszak OUT, O. Trzeciak IN" team="1" time="09:00" />
+    <LINE num="19" text="[P15] L. Banaszak - personal  foul (1 PF, 2nd team foul). Foul drawn: Z. Maden" team="1" time="09:00" />
+    <LINE num="18" text="[P15] A. Iwaniuk - 2pt jump shot missed. E. Şahin - defensive rebound (1 REB)" team="1" time="09:16" />
+    <LINE num="17" text="[P15] L. Banaszak - 2pt jump shot blocked. İ. Güner - block (1 BS). L. Banaszak - offensive rebound (1 REB)" team="1" time="09:35" />
+    <LINE num="16" text="[TUR] Z. Maden - free throw made (3 Pts)" team="2" time="09:43" scoreA="2" scoreB="3" />
+    <LINE num="15" text="[P15] N. Popiół - personal shooting foul (1 PF, 1st team foul). One free throw awarded. Foul drawn: Z. Maden" team="1" time="09:43" />
+    <LINE num="14" text="[TUR] Z. Maden - 2pt lay-up made (2 Pts). Ö. Taşkın - assist (1 AS)" team="2" time="09:43" scoreA="2" scoreB="2" />
+    <LINE num="13" text="[P15] A. Iwaniuk - 2pt jump shot made (2 Pts)" team="1" time="09:56" scoreA="2" scoreB="0" />
+    <LINE num="12" text="[TUR] Substitution - Ö. Kalbisağde OUT, Ö. Taşkın IN" team="2" time="10:00" />
+    <LINE num="11" text="[TUR] Substitution - Ö. Kalbisağde IN" team="2" time="10:00" deleted="1" />
+    <LINE num="10" text="[TUR] Substitution - Ş. Gül IN" team="2" time="10:00" deleted="1" />
+    <LINE num="9" text="[TUR] Substitution - İ. Güner IN" team="2" time="10:00" deleted="1" />
+    <LINE num="8" text="[TUR] Substitution - Z. Maden IN" team="2" time="10:00" deleted="1" />
+    <LINE num="7" text="[TUR] Substitution - E. Şahin IN" team="2" time="10:00" deleted="1" />
+    <LINE num="6" text="[P15] Substitution - M. Leszczyńska IN" team="1" time="10:00" deleted="1" />
+    <LINE num="5" text="[P15] Substitution - L. Banaszak IN" team="1" time="10:00" deleted="1" />
+    <LINE num="4" text="[P15] Substitution - A. Iwaniuk IN" team="1" time="10:00" deleted="1" />
+    <LINE num="3" text="[P15] Substitution - N. Popiół IN" team="1" time="10:00" deleted="1" />
+    <LINE num="2" text="[P15] Substitution - W. Kośla IN" team="1" time="10:00" deleted="1" />
+    <LINE num="1" text="START OF GAME" team="0" time="10:00" />
+  </PLAYBYPLAY>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>

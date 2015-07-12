@@ -1,0 +1,62 @@
+<FE>
+  <HEADER competition="Kadra Narodowa" round="IV Memoriał Małgorzaty Dydek" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/53497E95-4B07-4D0E-A3A2-B79A7870FBC4.jpg" duration="31.1858">
+    <TEAM name="Polska U16" logo="" pts="52" fouls="5" />
+    <TEAM name="Turcja U16" logo="" pts="46" fouls="3" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="11" scoreB="13" />
+      <QUARTER n="2" scoreA="13" scoreB="7" />
+      <QUARTER n="3" scoreA="6" scoreB="15" />
+      <QUARTER n="4" scoreA="22" scoreB="11" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="62.3932">
+    <TEAM name="Polska U16">
+      <TEAMACTIONS ro="2" rd="3" rt="5" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <TOTAL p1m="7" p1a="16" p1p="43.8" p2m="15" p2a="48" p2p="31.3" p3m="5" p3a="30" p3p="16.7" fgm="20" fga="78" fgp="25.6" as="8" bs="4" br="1" pts="52" ro="18" rd="30" rt="48" pf="16" rf="19" to="10" st="18" in="0" ind="0" />
+      <PLAYER no="4" name="M. Szkop" min="20:04" sta="False" p1m="2" p1a="2" p1p="100.0" p2m="3" p2a="7" p2p="42.9" p3m="0" p3a="1" p3p="0.0" fgm="3" fga="8" fgp="37.5" as="2" bs="0" br="0" pts="8" ro="0" rd="2" rt="2" pf="4" rf="4" to="1" st="5" in="1" ind="-2" />
+      <PLAYER no="5" name="K. Szydłowska" min="26:30" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="5" p2p="20.0" p3m="1" p3a="3" p3p="33.3" fgm="2" fga="8" fgp="25.0" as="2" bs="1" br="0" pts="5" ro="5" rd="2" rt="7" pf="2" rf="0" to="2" st="1" in="1" ind="14" />
+      <PLAYER no="6" name="K. Matkowska" min="32:39" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="2" p2a="3" p2p="66.7" p3m="1" p3a="5" p3p="20.0" fgm="3" fga="8" fgp="37.5" as="2" bs="0" br="0" pts="8" ro="3" rd="2" rt="5" pf="3" rf="3" to="2" st="6" in="1" ind="3" />
+      <PLAYER no="7" name="B. Zieniewska" min="20:16" sta="True" p1m="3" p1a="6" p1p="50.0" p2m="2" p2a="6" p2p="33.3" p3m="0" p3a="4" p3p="0.0" fgm="2" fga="10" fgp="20.0" as="0" bs="1" br="0" pts="7" ro="1" rd="1" rt="2" pf="2" rf="4" to="2" st="2" in="0" ind="-7" />
+      <PLAYER no="8" name="A. Markowska" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="9" name="N. Ryng" min="17:25" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="3" p2p="33.3" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="4" fgp="25.0" as="0" bs="0" br="0" pts="2" ro="0" rd="5" rt="5" pf="0" rf="2" to="1" st="0" in="0" ind="-15" />
+      <PLAYER no="10" name="A. Makurat" min="26:28" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="1" p2a="7" p2p="14.3" p3m="3" p3a="9" p3p="33.3" fgm="4" fga="16" fgp="25.0" as="1" bs="0" br="0" pts="12" ro="0" rd="7" rt="7" pf="0" rf="2" to="1" st="0" in="1" ind="7" />
+      <PLAYER no="11" name="D. Skrocka" min="11:47" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="3" p2a="4" p2p="75.0" p3m="0" p3a="6" p3p="0.0" fgm="3" fga="10" fgp="30.0" as="1" bs="0" br="0" pts="6" ro="0" rd="1" rt="1" pf="1" rf="0" to="0" st="1" in="0" ind="15" />
+      <PLAYER no="12" name="A. Zięmborska" min="02:21" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="1" rd="0" rt="1" pf="0" rf="0" to="0" st="0" in="0" ind="-9" />
+      <PLAYER no="13" name="J. Niełacna" min="18:52" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="6" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="7" fgp="0.0" as="0" bs="0" br="1" pts="0" ro="2" rd="2" rt="4" pf="2" rf="0" to="1" st="3" in="0" ind="15" />
+      <PLAYER no="14" name="A. Wińkowska" min="07:25" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="1" rd="1" rt="2" pf="0" rf="0" to="0" st="0" in="0" ind="-6" />
+      <PLAYER no="15" name="A. Falkowska" min="16:13" sta="False" p1m="0" p1a="4" p1p="0.0" p2m="2" p2a="7" p2p="28.6" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="7" fgp="28.6" as="0" bs="2" br="0" pts="4" ro="3" rd="4" rt="7" pf="2" rf="4" to="0" st="0" in="1" ind="15" />
+    </TEAM>
+    <TEAM name="Turcja U16">
+      <TEAMACTIONS ro="1" rd="2" rt="3" pf="0" rf="0" to="1" st="0" in="0" ind="0" />
+      <TOTAL p1m="4" p1a="10" p1p="40.0" p2m="15" p2a="40" p2p="37.5" p3m="4" p3a="14" p3p="28.6" fgm="19" fga="54" fgp="35.2" as="14" bs="1" br="4" pts="46" ro="7" rd="42" rt="49" pf="19" rf="16" to="25" st="5" in="0" ind="0" />
+      <PLAYER no="4" name="E. Şahin" min="24:34" sta="True" p1m="1" p1a="4" p1p="25.0" p2m="2" p2a="3" p2p="66.7" p3m="0" p3a="0" p3p="0.0" fgm="2" fga="3" fgp="66.7" as="2" bs="0" br="0" pts="5" ro="1" rd="8" rt="9" pf="5" rf="6" to="3" st="2" in="0" ind="6" />
+      <PLAYER no="5" name="Y. Taşar" min="10:11" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="0" rf="1" to="3" st="0" in="0" ind="-5" />
+      <PLAYER no="6" name="G. Uğur" min="06:07" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="1" rd="2" rt="3" pf="0" rf="0" to="0" st="0" in="1" ind="-9" />
+      <PLAYER no="7" name="S. Ülbe" min="08:54" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="2" rf="1" to="1" st="0" in="0" ind="-7" />
+      <PLAYER no="8" name="Z. Maden" min="28:35" sta="True" p1m="2" p1a="2" p1p="100.0" p2m="2" p2a="9" p2p="22.2" p3m="1" p3a="4" p3p="25.0" fgm="3" fga="13" fgp="23.1" as="5" bs="0" br="3" pts="9" ro="1" rd="5" rt="6" pf="0" rf="4" to="4" st="1" in="1" ind="-2" />
+      <PLAYER no="9" name="B. Turan" min="25:26" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="3" bs="0" br="0" pts="0" ro="2" rd="5" rt="7" pf="4" rf="0" to="2" st="0" in="0" ind="-3" />
+      <PLAYER no="10" name="K. Turan" min="11:47" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="3" p2p="33.3" p3m="1" p3a="2" p3p="50.0" fgm="2" fga="5" fgp="40.0" as="0" bs="0" br="0" pts="5" ro="0" rd="2" rt="2" pf="2" rf="0" to="2" st="0" in="0" ind="-4" />
+      <PLAYER no="11" name="İ. Güner" min="29:32" sta="True" p1m="1" p1a="4" p1p="25.0" p2m="8" p2a="16" p2p="50.0" p3m="0" p3a="2" p3p="0.0" fgm="8" fga="18" fgp="44.4" as="2" bs="1" br="0" pts="17" ro="1" rd="6" rt="7" pf="0" rf="4" to="2" st="1" in="1" ind="-3" />
+      <PLAYER no="12" name="Ş. Gül" min="27:09" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="5" p2p="20.0" p3m="1" p3a="3" p3p="33.3" fgm="2" fga="8" fgp="25.0" as="0" bs="0" br="0" pts="5" ro="0" rd="5" rt="5" pf="0" rf="0" to="2" st="0" in="1" ind="6" />
+      <PLAYER no="13" name="G. Sakallı" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="14" name="D. Taşman" min="02:58" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="1" rt="1" pf="1" rf="0" to="0" st="0" in="0" ind="-3" />
+      <PLAYER no="15" name="B. Soysal" min="07:30" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="1" p2p="100.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="2" ro="0" rd="0" rt="0" pf="3" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="17" name="Ö. Taşkın" min="07:58" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="0" bs="0" br="1" pts="0" ro="0" rd="2" rt="2" pf="1" rf="0" to="3" st="1" in="1" ind="-3" />
+      <PLAYER no="23" name="Ö. Kalbisağde" min="09:19" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="1" p3p="100.0" fgm="1" fga="1" fgp="100.0" as="1" bs="0" br="0" pts="3" ro="0" rd="2" rt="2" pf="1" rf="0" to="2" st="0" in="0" ind="-3" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="31.2016" />
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>
