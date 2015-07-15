@@ -1,0 +1,124 @@
+Player Rosters
+  	
+
+Team 1
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+7 	1 	  	  	Xavier 	Mills 	Pnt Grd 	  	  	 
+28 	1 	6-7 	195 	Vasilije 	Saraba 	Cmb Grd 	Fair Oaks 	CA 	Yuba College CA
+31 	1 	6 7 	235 	Chrishon 	Briggs 	Pwr Fwd 	Brentwood 	CA 	San Francisco City College CA
+32 	1 	6-3 	195 	Jordan 	Brown 	Off Grd 	Mission Hills 	CA 	Los Angeles Pierce College CA
+37 	1 	6-3 	175 	Jos'af 	Zamora 	Cmb Grd 	Oakland 	CA 	Yuba College CA
+41 	1 	6-9 	200 	Richard 	Bivens 	Pwr Fwd 	Monterey Park 	CA 	East Los Angeles CA
+47 	1 	6-6 	200 	Elliott 	Smith 	Sml Fwd 	Oakley 	CA 	Harcum College PA
+90 	1 	6-9 	240 	Jalen 	Canty 	Post 	Hayward 	CA 	San Francisco City College CA
+91 	1 	6-9 	210 	Deandre 	Dickson 	Cmb Fwd 	Fresno 	CA 	Bakersfield College
+99 	1 	6-9 	210 	Kyle 	Bingham 	Post 	Mesa 	AZ  	Mesa Community College AZ
+	 
+  	
+
+Team 2
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+2 	2 	5'10 	165 	Fa'Teem 	Glenn 	Pnt Grd 	Philadelphia 	PA 	Clarendon College
+8 	2 	  	  	Montell 	Goodwin 	Pnt Grd 	  	  	 
+14 	2 	6-5 	200 	Devocio 	Butler 	Grd Fwd 	Austell 	GA 	Hill College TX
+20 	2 	6-4 	210 	Randall 	Haynes 	Off Grd 	Dumfries 	VA 	New Mexico Junior College
+21 	2 	6-8 	200 	Alize 	Johnson 	Sml Fwd 	WILLIAMSPORT 	PA 	Frank Phillips College TX
+22 	2 	6-5 	200 	Jemerrio 	Jones 	Sml Fwd 	Memphis 	TN 	Hill College
+54 	2 	6-8 	226 	William Steve 	Tchiengang Tankouo 	Post 	CAMEROON 	  	Midland College
+88 	2 	6-10 	200 	Jalen 	McGaughy 	Pwr Fwd 	Ann Arbor 	MI 	Midland TX
+89 	2 	7-0 	185 	Donald 	Mims 	Post 	Antelope 	CA 	Midland College TX
+96 	2 	6'9 	230 	Marlon 	Jones 	Pwr Fwd 	Chicago 	IL 	South Plains College
+	 
+  	
+
+Team 3
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+6 	3 	6-1 	170 	Donovan 	Jackson 	Off Grd 	Milwaukee 	WI 	Iowa Western
+17 	3 	6-6 	205 	Justas 	Furmanavicius 	Cmb Fwd 	Kaunas, Lithuania 	  	Three Rivers College
+18 	3 	6-5 	212 	Jerrelle 	DeBerry 	Grd Fwd 	Milwaukee 	WI 	Indian Hills Community College
+25 	3 	6-5 	190 	Pablo 	Rivas 	Cmb Fwd 	Laveen 	AZ 	Sheridan College WY
+38 	3 	6-3 	195 	Dazhonetae 	Bennett 	Grd Fwd 	Dayton 	OH 	Indian Hills Community College
+46 	3 	6-1 	187 	Isiah 	Graves 	Pnt Grd 	Atlantic City 	NJ 	Southeastern IA
+51 	3 	6-8 	235 	Clint 	Robinson 	Post 	Hyattsville 	MD 	State Fair College MO
+56 	3 	6-1 	180 	Yashua 	Trent 	Pnt Grd 	Villa Park 	IL 	Mineral Area Community College
+73 	3 	6-7 	200 	Thik 	Bol 	Fwd Pst 	Omaha 	NE 	Iowa Western
+85 	3 	6-11 	215 	Selvedin 	Planincic 	Fwd Pst 	Canada 	  	State Fair College MO
+	 
+  	
+
+Team 4
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+0 	4 	6-2 	170 	Shaquile 	Carr 	Pnt Grd 	North Las Vegas 	NV 	College of Southern Idaho
+9 	4 	  	  	Ronald 	Rosseau 	Pnt Grd 	  	  	 
+13 	4 	6-7 	210 	Tamas 	Bruce 	Pwr Fwd 	Osceola 	AR 	John A Logan IL
+16 	4 	6-6 	190 	Armond 	Davis 	Grd Fwd 	Tacoma 	WA 	College of Southern Idaho
+24 	4 	6-7 	185 	Jarrid 	Rhodes 	Grd Fwd 	Bradenton 	FL 	Northern Oklahoma/Tonkawa
+42 	4 	6-9 	200 	ARLANDO 	COOK 	Pwr Fwd 	ST. LOUIS 	MO 	CONNORS STATE COLLEGE
+53 	4 	6-1 	180 	Darrion 	Strong 	Off Grd 	Hillside 	IL 	Coffeyville CC KS
+71 	4 	6-6 	207 	Bashir 	Ahmed 	Sml Fwd 	Bronx 	NY 	Hutchinson KS
+87 	4 	6'10 	245 	Valentine 	Sangoyomi 	POST 	Erie 	PA 	Northern Oklahoma/Tonkawa
+95 	4 	6-9 	228 	Moataz 	Aly 	POST 	EGYPT 	  	Hutchinson KS
+	 
+  	
+
+Team 5
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+4 	5 	6-2 	175 	Daryl 	Macon 	Off Grd 	Little Rock 	AR 	Holmes MS
+5 	5 	6-1 	165 	Daishon 	Smith 	Pnt Grd 	Jacksonville 	FL 	Tallahassee CC FL
+12 	5 	  	  	Ahmed 	Ismail 	POST 	  	  	 
+26 	5 	6'7 	190 	Jimario 	Rivers 	Sml Fwd 	Clarksville 	TN 	Southwest Tennessee Com Coll
+29 	5 	6-7 	205 	Denzel 	Smith 	Sml Fwd 	Champaign 	IL 	Walter State TN
+39 	5 	6-7 	229 	Gonda 	Ameri 	Pwr Fwd 	Smyrna 	TN 	Columbia St TN
+57 	5 	6-9 	220 	Darrlyn 	Willis 	Pwr Fwd 	Madison 	WI 	Pearl River CC MS
+68 	5 	  	  	Joshua 	Bailey 	Off Grd 	  	  	 
+72 	5 	6-4 	205 	Jaylen 	Barford 	Pnt Grd 	Jackson 	TN 	Motlow State TN
+97 	5 	6-8 	250 	Terrell 	Miller 	POST 	Jacksonville 	FL 	Southwest Mississippi CC
+	 
+  	
+
+Team 6
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+11 	6 	6-6 	235 	Davaris 	McGowens 	Pwr Fwd 	Greenville 	SC 	Gulf Coast State College FL
+19 	6 	6-7 	230 	Jarmarcus 	Hairston 	Pwr Fwd 	Danville 	VA 	Louisburg Junior College
+27 	6 	6-1 	205 	Calvin 	Davis 	Pnt Grd 	Wilmington 	NC 	Cape Fear
+30 	6 	6-3 	215 	Deandre 	Turner 	Off Grd 	5 Isles of Sicily 	FL 	Broward College FL
+33 	6 	6-5 	186 	Jayvian 	Delacruz 	Sml Fwd 	Brooklyn 	NY 	Broward College
+36 	6 	6-6 	175 	Brandon 	Tabb 	Off Grd 	Hampton 	VA 	College of Central Florida
+48 	6 	6-7 	185 	Junior 	Saintel 	Sml Fwd 	Mayslanding 	NJ 	Chipola College FL
+52 	6 	6-8 	235 	Abdulsalam 	Sarki 	Post 	West Melbourne 	FL 	Daytona State College FL
+55 	6 	6-2 	175 	Kendrick 	Thompson 	Pnt Grd 	Cleveland 	TN 	Daytona State College
+98 	6 	6-8 	220 	Jahleem 	Montague 	Post 	Atlantic City 	NJ 	Palm Beach State
+	 
+  	
+
+Team 7
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+1 	7 	6-1 	190 	Tim 	Coleman 	Pnt Grd 	Cincinnati 	OH 	Lee College TX
+3 	7 	5-11 	155 	Jordon 	Harris 	Pnt Grd 	San Antonio 	TX 	Lamar State Coll-Port Arthur TX
+34 	7 	6-4 	185 	Branden 	Jenkins 	Off Grd 	Maywood 	IL 	Lee College TX
+43 	7 	6-8 	210 	Devante 	Jackson 	Fwd Pst 	Milwaukee 	WI 	Trinity Valley Com Coll TX
+49 	7 	6-9 	210 	Andre 	Pierce 	Pwr Fwd 	Jacksonville 	FL 	Lee College TX
+59 	7 	6-3 	210 	Amaad 	Wainright 	Off Grd 	Kansas City 	MO 	Trinity Valley Com Coll TX
+62 	7 	6-8 	215 	Melvin 	Swift JR 	Sml Fwd 	HOUSTON 	TX 	Trinity Valley Com Coll TX
+63 	7 	  	  	Immanuel 	King 	WING 	  	  	 
+86 	7 	6-10 	220 	Duop 	Reath 	Post 	West Australia 	  	Lee College TX
+92 	7 	6-9 	215 	Marquis 	Godfrey 	Fwd Pst 	Hayward 	CA 	College of Southern Idaho
+	 
+  	
+
+Team 8
+Jer 	Tm 	Ht 	Wt 	First Name 	Last Name 	Pos 	Hometown 	ST 	Junior College
+10 	8 	  	  	Ngor 	Barnaba 	Post 	  	  	 
+35 	8 	6-2 	200 	Jovan 	Mooring 	Off Grd 	Country Club Hills 	IL 	South Suburban College IL
+40 	8 	6-2 	172 	JaChristian 	Biles 	Off Grd 	Southfield 	MI 	Schoolcraft College MI
+45 	8 	6-2 	180 	DeAntae 	McMurray 	Pnt Grd 	Alton 	IL 	Southwestern IL
+50 	8 	6-9 	200 	Makur 	Puou 	Post 	Indianapolis 	IN 	Vincennes University IN
+58 	8 	6-7 	215 	Pape 	Diatta 	Grd Fwd 	Gainesville 	FL 	College of Southern Idaho
+60 	8 	  	  	Terrel 	Martin-Garcia 	Pwr Fwd 	  	  	 
+61 	8 	6-5 	200 	Wil 	Tavares 	Cmb Grd 	Providence 	RI 	Monroe College
+65 	8 	  	  	Gerad 	Davis 	Cmb Grd 	  	  	 
+93 	8 	6-7 	225 	Darren 	Groves 	Pwr Fwd 	Dayton 	OH 	Vincennes IN
+66 	9 	  	  	  	  	  	  	  	 
+67 	9 	  	  	Ranell 	Crossland 	  	  	  	 
+70 	9 	6-7 	215 	Jerry 	Luckett 	Pwr Fwd 	Milwaukee 	WI 	Laramie Cty WY
+	 
