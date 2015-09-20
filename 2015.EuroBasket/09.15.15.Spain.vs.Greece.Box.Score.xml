@@ -1,0 +1,63 @@
+<FE>
+  <HEADER competition="EuroBasket" round="Quarter-Finals" quarter="4" time="FINAL" logo="http://live.fibaeurope.com/www/gallery/52167BFF-F29B-4EAE-BF84-4DF1C7921559.jpg" duration="31.2002">
+    <TEAM name="Spain" logo="http://www.fibaeurope.com/files/{309620C4-BB3C-495E-A818-F07477A225ED}logo_big.jpg" pts="73" fouls="5" />
+    <TEAM name="Greece" logo="http://www.fibaeurope.com/files/{F8D433B4-5D84-4A7C-BE6F-435438216F04}logo_big.jpg" pts="71" fouls="10" />
+    <QUARTERS>
+      <QUARTER n="1" scoreA="14" scoreB="14" time="100" />
+      <QUARTER n="2" scoreA="25" scoreB="18" time="100" />
+      <QUARTER n="3" scoreA="16" scoreB="25" time="100" />
+      <QUARTER n="4" scoreA="18" scoreB="14" time="100.00" />
+    </QUARTERS>
+  </HEADER>
+  <BOXSCORE duration="15.5845">
+    <TEAM name="Spain">
+      <TEAMACTIONS ro="1" rd="2" rt="3" pf="0" rf="0" to="0" st="0" in="1" ind="0" />
+      <TOTAL p1m="20" p1a="24" p1p="83.3" p2m="16" p2a="37" p2p="43.2" p3m="7" p3a="18" p3p="38.9" fgm="23" fga="55" fgp="41.8" as="17" bs="2" br="5" pts="73" ro="10" rd="23" rt="33" pf="17" rf="24" to="10" st="3" in="0" ind="0" />
+      <PLAYER no="4" name="P. Gasol" min="30:55" sta="True" p1m="6" p1a="8" p1p="75.0" p2m="9" p2a="16" p2p="56.3" p3m="1" p3a="2" p3p="50.0" fgm="10" fga="18" fgp="55.6" as="3" bs="2" br="3" pts="27" ro="2" rd="7" rt="9" pf="0" rf="4" to="3" st="0" in="0" ind="-2" />
+      <PLAYER no="5" name="R. Fernandez" min="19:29" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="2" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="1" rd="1" rt="2" pf="2" rf="0" to="0" st="1" in="0" ind="-3" />
+      <PLAYER no="6" name="S. Rodriguez" min="27:42" sta="False" p1m="3" p1a="4" p1p="75.0" p2m="2" p2a="5" p2p="40.0" p3m="1" p3a="3" p3p="33.3" fgm="3" fga="8" fgp="37.5" as="5" bs="0" br="1" pts="10" ro="0" rd="3" rt="3" pf="1" rf="4" to="1" st="0" in="0" ind="11" />
+      <PLAYER no="7" name="G. Hernangomez" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="8" name="P. Ribas" min="22:39" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="1" p2p="0.0" p3m="1" p3a="1" p3p="100.0" fgm="1" fga="2" fgp="50.0" as="3" bs="0" br="0" pts="3" ro="0" rd="0" rt="0" pf="2" rf="2" to="1" st="1" in="0" ind="-6" />
+      <PLAYER no="9" name="F. Reyes" min="17:44" sta="False" p1m="3" p1a="4" p1p="75.0" p2m="1" p2a="5" p2p="20.0" p3m="0" p3a="1" p3p="0.0" fgm="1" fga="6" fgp="16.7" as="1" bs="0" br="0" pts="5" ro="2" rd="3" rt="5" pf="4" rf="5" to="0" st="0" in="0" ind="4" />
+      <PLAYER no="10" name="V. Claver" min="19:12" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="2" p2p="50.0" p3m="0" p3a="0" p3p="0.0" fgm="1" fga="2" fgp="50.0" as="0" bs="0" br="1" pts="2" ro="3" rd="5" rt="8" pf="3" rf="0" to="1" st="1" in="0" ind="10" />
+      <PLAYER no="11" name="F. San Emeterio" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="12" name="S. Llull" min="31:04" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="1" p2a="3" p2p="33.3" p3m="2" p3a="6" p3p="33.3" fgm="3" fga="9" fgp="33.3" as="2" bs="0" br="0" pts="8" ro="0" rd="2" rt="2" pf="3" rf="4" to="1" st="0" in="0" ind="-6" />
+      <PLAYER no="13" name="P. Aguilar " min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="14" name="N. Mirotic" min="31:15" sta="True" p1m="8" p1a="8" p1p="100.0" p2m="2" p2a="4" p2p="50.0" p3m="2" p3a="4" p3p="50.0" fgm="4" fga="8" fgp="50.0" as="2" bs="0" br="0" pts="18" ro="1" rd="0" rt="1" pf="2" rf="5" to="3" st="0" in="0" ind="2" />
+      <PLAYER no="15" name="G. Vives" min="00:00" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+    </TEAM>
+    <TEAM name="Greece">
+      <TEAMACTIONS ro="2" rd="1" rt="3" pf="0" rf="0" to="1" st="0" in="1" ind="0" />
+      <TOTAL p1m="4" p1a="9" p1p="44.4" p2m="23" p2a="44" p2p="52.3" p3m="7" p3a="22" p3p="31.8" fgm="30" fga="66" fgp="45.5" as="21" bs="5" br="2" pts="71" ro="13" rd="25" rt="38" pf="24" rf="17" to="11" st="5" in="0" ind="0" />
+      <PLAYER no="5" name="Y. Bourousis" min="09:13" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="2" p2a="3" p2p="66.7" p3m="0" p3a="2" p3p="0.0" fgm="2" fga="5" fgp="40.0" as="0" bs="2" br="0" pts="5" ro="0" rd="2" rt="2" pf="5" rf="3" to="0" st="1" in="0" ind="-1" />
+      <PLAYER no="6" name="N. Zisis" min="18:14" sta="False" p1m="1" p1a="2" p1p="50.0" p2m="2" p2a="3" p2p="66.7" p3m="0" p3a="3" p3p="0.0" fgm="2" fga="6" fgp="33.3" as="3" bs="0" br="0" pts="5" ro="0" rd="2" rt="2" pf="3" rf="0" to="0" st="0" in="0" ind="-8" />
+      <PLAYER no="7" name="V. Spanoulis" min="31:45" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="3" p2a="9" p2p="33.3" p3m="1" p3a="5" p3p="20.0" fgm="4" fga="14" fgp="28.6" as="5" bs="0" br="1" pts="10" ro="1" rd="1" rt="2" pf="1" rf="4" to="3" st="0" in="0" ind="9" />
+      <PLAYER no="8" name="N. Calathes" min="32:32" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="4" p2a="8" p2p="50.0" p3m="2" p3a="3" p3p="66.7" fgm="6" fga="11" fgp="54.5" as="7" bs="0" br="1" pts="14" ro="1" rd="4" rt="5" pf="5" rf="1" to="2" st="2" in="0" ind="-2" />
+      <PLAYER no="9" name="S. Perperoglou" min="02:39" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="1" rf="0" to="0" st="0" in="0" ind="-5" />
+      <PLAYER no="10" name="K. Sloukas" min="04:10" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="1" p3a="1" p3p="100.0" fgm="1" fga="1" fgp="100.0" as="0" bs="0" br="0" pts="3" ro="0" rd="0" rt="0" pf="0" rf="0" to="1" st="0" in="0" ind="-7" />
+      <PLAYER no="12" name="K. Kaimakoglou" min="02:16" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="1" p3p="0.0" fgm="0" fga="1" fgp="0.0" as="1" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="2" rf="0" to="0" st="0" in="0" ind="-2" />
+      <PLAYER no="13" name="K. Koufos" min="30:41" sta="True" p1m="1" p1a="2" p1p="50.0" p2m="4" p2a="6" p2p="66.7" p3m="0" p3a="0" p3p="0.0" fgm="4" fga="6" fgp="66.7" as="0" bs="1" br="0" pts="9" ro="1" rd="5" rt="6" pf="3" rf="3" to="0" st="1" in="0" ind="-3" />
+      <PLAYER no="15" name="G. Printezis" min="34:08" sta="True" p1m="0" p1a="0" p1p="0.0" p2m="5" p2a="9" p2p="55.6" p3m="1" p3a="2" p3p="50.0" fgm="6" fga="11" fgp="54.5" as="4" bs="0" br="0" pts="13" ro="0" rd="1" rt="1" pf="2" rf="1" to="0" st="1" in="0" ind="2" />
+      <PLAYER no="16" name="K. Papanikolaou" min="00:06" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="17" name="E. Mantzaris" min="00:06" sta="False" p1m="0" p1a="0" p1p="0.0" p2m="0" p2a="0" p2p="0.0" p3m="0" p3a="0" p3p="0.0" fgm="0" fga="0" fgp="0.0" as="0" bs="0" br="0" pts="0" ro="0" rd="0" rt="0" pf="0" rf="0" to="0" st="0" in="0" ind="0" />
+      <PLAYER no="34" name="G. Antetokounmpo" min="34:10" sta="True" p1m="0" p1a="1" p1p="0.0" p2m="3" p2a="6" p2p="50.0" p3m="2" p3a="4" p3p="50.0" fgm="5" fga="10" fgp="50.0" as="1" bs="2" br="0" pts="12" ro="8" rd="9" rt="17" pf="2" rf="5" to="4" st="0" in="0" ind="7" />
+    </TEAM>
+  </BOXSCORE>
+  <OVERVIEW duration="31.2082">
+    <GAME CompID="9367" CompCode="9322" Competition="EuroBasket" Round="3rd Place Game" ID="70738" GameCode="11665-77-A" TeamA="France" TeamAShort="FRA" ScoreA="81" TeamB="Serbia" TeamBShort="SRB" ScoreB="68" StartTime="14:00" Day="20.09.2015" LogoA="http://www.fibaeurope.com/files/{78A9CD32-600A-4147-A1F0-CCC1C0518C7A}logo_big.jpg" LogoB="http://www.fibaeurope.com/files/{337A8994-FBC0-495D-8E05-6D5B89AAABE3}logo_big.jpg" Quarter="4" Time="00:00" Status="2" TimePerc="100.00" />
+    <GAME CompID="9367" CompCode="9322" Competition="EuroBasket" Round="Final" ID="70739" GameCode="11666-78-A" TeamA="Spain" TeamAShort="ESP" ScoreA="80" TeamB="Lithuania" TeamBShort="LTU" ScoreB="63" StartTime="19:00" Day="20.09.2015" LogoA="http://www.fibaeurope.com/files/{309620C4-BB3C-495E-A818-F07477A225ED}logo_big.jpg" LogoB="http://www.fibaeurope.com/files/{5DD8F93F-39C8-4F01-8843-CC13A9D4CD85}logo_big.jpg" Quarter="4" Time="00:00" Status="2" TimePerc="100.00" />
+  </OVERVIEW>
+  <BANNER duration="0">&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7064407-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</BANNER>
+</FE>
